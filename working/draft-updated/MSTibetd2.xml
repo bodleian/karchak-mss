@@ -11,7 +11,7 @@
             </principal>
             <author/>
          </titleStmt>
-         <publicationStmt>
+         <publicationStmt><!--First publisher-->
             <publisher/>
             <pubPlace/>
             <date calendar="Gregorian"/>
@@ -74,9 +74,6 @@
                         <condition>Pasted on to guards, Western binding.</condition>
                      </binding>
                   </bindingDesc>
-                  <sealDesc>
-                     <seal/>
-                  </sealDesc>
                   <accMat/>
                </physDesc>
                <history>
@@ -123,11 +120,6 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <classDecl>
-            <taxonomy/>
-         </classDecl>
-      </encodingDesc>
       <profileDesc/>
       <revisionDesc>
          <change when="2017-07-19">
@@ -139,7 +131,7 @@
    </teiHeader>
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
-         <div/>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

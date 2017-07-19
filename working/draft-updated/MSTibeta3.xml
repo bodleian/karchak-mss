@@ -10,7 +10,7 @@
                <persName>Gillian Evison</persName>
             </principal>
          </titleStmt>
-         <publicationStmt>
+         <publicationStmt><!--First publisher-->
             <publisher/>
             <pubPlace/>
             <date calendar="Gregorian"/>
@@ -67,14 +67,6 @@
                         <layout columns="1" writtenLines="7"/>
                      </layoutDesc>
                   </objectDesc>
-                  <bindingDesc>
-                     <binding>
-                        <p><!--Empty paragraph in source of conversion--></p>
-                     </binding>
-                  </bindingDesc>
-                  <sealDesc>
-                     <seal/>
-                  </sealDesc>
                   <accMat/>
                </physDesc>
                <history>
@@ -122,11 +114,6 @@ Geschichtswerk, wozu der Inhalt stimmen wird." )</p>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <classDecl>
-            <taxonomy/>
-         </classDecl>
-      </encodingDesc>
       <profileDesc/>
       <revisionDesc>
          <change when="2017-07-19">
@@ -138,7 +125,7 @@ Geschichtswerk, wozu der Inhalt stimmen wird." )</p>
    </teiHeader>
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
-         <div/>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

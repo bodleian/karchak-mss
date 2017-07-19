@@ -11,7 +11,7 @@
 				        </principal>
 				        <author>Gu ru Chos kyi dbang phyug</author>
 			      </titleStmt>
-			      <publicationStmt>
+			      <publicationStmt><!--First publisher-->
 				        <publisher/>
 				        <pubPlace/>
 				        <date calendar="Gregorian"/>
@@ -91,11 +91,7 @@
 								                <condition>Pasted on to guards, Western binding.</condition>
 							              </binding>
 						            </bindingDesc>
-						            <sealDesc>
-							              <seal>
-								
-							</seal>
-						            </sealDesc>
+						
 						            <accMat/>
 					          </physDesc>
 					          <history rend="visible">
@@ -138,17 +134,13 @@
 						               </altIdentifier>
                   </msIdentifier>
 						            <msContents rend="visible">
-							              <msItem xml:id="MSTibetb8-part1-item1"/>
-						            </msContents>
+							
+						</msContents>
 					          </msPart>
 				        </msDesc>
 			      </sourceDesc>
 		    </fileDesc>
-		    <encodingDesc>
-			      <classDecl>
-				        <taxonomy/>
-			      </classDecl>
-		    </encodingDesc>
+		
 		    <profileDesc/>
 		    <revisionDesc>
          <change when="2017-07-19">
@@ -158,12 +150,10 @@
 			      </change>
 		    </revisionDesc>
 	  </teiHeader>
-	  <facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-		    <graphic/>
-	  </facsimile>
+	
 	  <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-		    <body>
-			      <div/>
-		    </body>
-	  </text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

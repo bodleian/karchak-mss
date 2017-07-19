@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_54">
+	  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		    <fileDesc>
+			      <titleStmt>
+				        <title>phyag na rdo rje rtum po'i me 'phrengs gi las byang gu ru chos dbang gi gter ma</title>
+				        <principal>
+					          <persName>Gillian Evison</persName>
+				        </principal>
+				        <author>Gu ru Chos kyi dbang phyug</author>
+			      </titleStmt>
+			      <publicationStmt>
+				        <publisher/>
+				        <pubPlace/>
+				        <date calendar="Gregorian"/>
+				        <idno>UkOxU</idno>
+				        <availability status="restricted">
+					          <p>Special Collections Reading Room, Bodleian.</p>
+				        </availability>
+			         <idno type="msID">MSTibetb8</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="MSTibetb8" xml:lang="en" rend="all">
+					          <msIdentifier>
+						            <country>United Kingdom</country>
+						            <settlement>Oxford</settlement>
+						            <institution>Bodleian Library</institution>
+						            <repository/>
+						            <collection>Oriental Manuscripts</collection>
+						            <idno>MS.Tibet.b.8</idno>
+						            <msName/>
+					          </msIdentifier>
+					          <head>Vajrapani practice text</head>
+					          <msContents rend="visible">
+						            <msItem xml:id="MSTibetb8-item1" class="Practice text" rend="visible">
+							              <locus from="1r" to="2v"/>
+							              <title xml:lang="">phyag na rdo rje rtum po'i me 'phrengs gi las byang gu ru chos dbang gi gter ma</title>
+							              <title xml:lang="bo-Latn-x-LC" type="alt">phyag na rdo rje rtum poʾi me ʾphreṅs gi las byaṅ gu ru chos dbaṅ gi gter ma</title>
+							              <title xml:lang="bo" type="alt">ཕྱག་ན་རྡོ་རྗེ་རྟུམ་པོའི་མེ་འཕྲེངས་གི་ལས་བྱང་གུ་རུ་ཆོས་དབང་གི་གཏེར་མ</title>
+							              <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
+								                <locus/>
+							              </colophon>
+							              <note/>
+							              <listBibl>
+								                <bibl>
+									                  <ref target="Denwood_1975" type="page"/>
+								                </bibl>
+								                <bibl/>
+							              </listBibl>
+							              <textLang mainLang="bo">tibetan</textLang>
+							              <author>
+								gu ru chos kyi dbang phyug
+								gu ru chos kyi dbaṅ phyug
+								གུ་རུ་ཆོས་ཀྱི་དབང་ཕྱུག
+							</author>
+						            </msItem>
+					          </msContents>
+					          <physDesc rend="visible">
+						            <objectDesc form="bp_pothi">
+							              <supportDesc material="chart">
+								                <extent>2 ff.<dimensions unit="cm" type="leaf">
+										                    <height>36</height>
+										                    <width>8.5</width>
+									                  </dimensions>
+									                  <dimensions type="written" unit="cm">
+										                    <height>?</height>
+										                    <width>?</width>
+									                  </dimensions>
+								                </extent>
+								                <condition>
+									                  <p>2 remaining folios</p>
+								                </condition>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout columns="1">
+									
+								</layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote/>
+						            </handDesc>
+						            <additions>
+							
+						</additions>
+						            <bindingDesc>
+							              <binding>
+								                <condition>Pasted on to guards, Western binding.</condition>
+							              </binding>
+						            </bindingDesc>
+						            <sealDesc>
+							              <seal>
+								
+							</seal>
+						            </sealDesc>
+						            <accMat/>
+					          </physDesc>
+					          <history rend="visible">
+						            <summary/>
+						            <origin/>
+						            <provenance>
+							              <p>Schl. 61 "Durch Chibu Lama erworben."</p>
+							              <p>S.C. 26293</p>
+						            </provenance>
+						            <acquisition>
+							              <date>1885</date>
+							              <p>purchased from R.H. &amp; A. Schlagintweit</p>
+						            </acquisition>
+					          </history>
+					          <additional rend="visible">
+						            <adminInfo>
+							              <recordHist>
+								                <source>converted from master records created by<persName>JESD-DB</persName>
+								                </source>
+							              </recordHist>
+							              <availability status="restricted">
+								                <p>Bodleian: Special Collections Reading Room.</p>
+							              </availability>
+							              <custodialHist>
+								                <custEvent type="check"/>
+							              </custodialHist>
+							              <note/>
+						            </adminInfo>
+						            <surrogates/>
+						            <listBibl>
+							              <bibl>
+								                <ref/>
+							              </bibl>
+						            </listBibl>
+					          </additional>
+					          <msPart xml:id="MSTibetb8-part1" rend="invisible">
+						            <msIdentifier>
+                     <altIdentifier type="internal">
+							                 <idno/>
+						               </altIdentifier>
+                  </msIdentifier>
+						            <msContents rend="visible">
+							              <msItem xml:id="MSTibetb8-part1-item1"/>
+						            </msContents>
+					          </msPart>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+			      <classDecl>
+				        <taxonomy/>
+			      </classDecl>
+		    </encodingDesc>
+		    <profileDesc/>
+		    <revisionDesc>
+         <change when="2017-07-19">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+         </change>
+			      <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+			      </change>
+		    </revisionDesc>
+	  </teiHeader>
+	  <facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		    <graphic/>
+	  </facsimile>
+	  <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		    <body>
+			      <div/>
+		    </body>
+	  </text>
+</TEI>

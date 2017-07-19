@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_131">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title>Tibet alphabet &amp; characters</title>
+            <principal>
+               <persName>Gillian Evison</persName>
+            </principal>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date calendar="Gregorian"/>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MSTibete6</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MSTibete6" xml:lang="en" rend="all">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Bodleian Library</institution>
+                  <repository/>
+                  <collection>Oriental Manuscripts</collection>
+                  <idno>MS.Tibet.e.6</idno>
+                  <msName/>
+               </msIdentifier>
+               <head>Summary of section of Alphabetum Tibetanum</head>
+               <msContents>
+                  <msItem xml:id="MSTibete6-item1" class="Translation of dictionary">
+                     <locus from="1r" to="28v"/>
+                     <title xml:lang="en">Tibet alphabet &amp; characters</title>
+                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
+                        <locus/>
+                     </colophon>
+                     <note/>
+                     <listBibl>
+                        <bibl/>
+                        <bibl/>
+                     </listBibl>
+                     <textLang mainLang="bo">tibetan</textLang>
+                     <author/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <extent>28 ff.<dimensions unit="cm" type="leaf">
+                              <height>21.5</height>
+                              <width>13.5</width>
+                           </dimensions>
+                           <dimensions type="written" unit="cm">
+                              <height>?</height>
+                              <width>?</width>
+                           </dimensions>
+                        </extent>
+                        <condition/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1"/>
+                     </layoutDesc>
+                  </objectDesc>
+                  <additions/>
+                  <sealDesc>
+                     <seal/>
+                  </sealDesc>
+                  <accMat/>
+               </physDesc>
+               <history>
+                  <summary/>
+                  <origin/>
+                  <provenance>
+                     <p>Acquired by purchase from Prof. Joseph White, 17 May 1806</p>
+                     <p>Placed in the MS.Tibet collection in 1901</p>
+                     <p>S.C. 28029</p>
+                  </provenance>
+                  <acquisition>
+                     <date>1806</date>
+                     <p>purchased from Prof. Joseph White</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        </source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                     <custodialHist>
+                        <custEvent type="check"/>
+                     </custodialHist>
+                     <note/>
+                  </adminInfo>
+                  <surrogates/>
+                  <listBibl>
+                     <bibl>
+                        <ref/>
+                     </bibl>
+                  </listBibl>
+               </additional>
+               <msPart xml:id="MSTibete6-part1">
+                  <msIdentifier>
+                     <altIdentifier type="internal">
+                        <idno/>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents/>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy/>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="2017-07-19">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+         </change>
+         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <div/>
+      </body>
+   </text>
+</TEI>

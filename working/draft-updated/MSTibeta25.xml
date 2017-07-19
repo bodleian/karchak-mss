@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_5">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title>'phags pa gser 'od dam pa mdo sde'i dbang po'i rgyal po zhes bya ba</title>
+            <principal>
+               <persName>Gillian Evison</persName>
+            </principal>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date calendar="Gregorian"/>
+            <idno>UkOxU</idno>
+            <idno type="msID">MSTibeta25</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MSTibeta25" xml:lang="en" rend="all">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Bodleian Library</institution>
+                  <repository/>
+                  <collection>Oriental Manuscripts</collection>
+                  <idno>MS.Tibet.a.25</idno>
+               </msIdentifier>
+               <head>Golden Light Sūtra</head>
+               <msContents>
+                  <msItem xml:id="MSTibeta25-item1" class="Sutra">
+                     <author/>
+                     <title xml:lang="">'phags pa gser 'od dam pa mdo sde'i dbang po'i rgyal po zhes bya ba</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt">ʾphags pa gser ʾod dam pa mdo sdeʾi dbaṅ poʾi rgyal po źes bya ba</title>
+                     <title xml:lang="bo" type="alt">འཕགས་པ་གསེར་འོད་དམ་པ་མདོ་སྡེའི་དབང་པོའི་རྒྱལ་པོ་ཞེས་བྱ་བ</title>
+                     <incipit xml:lang="">
+                        <locus/>
+                     </incipit>
+                     <explicit xml:lang="">
+                        <locus/>
+                     </explicit>
+                     <colophon xml:lang="">
+                        <locus/>
+                     </colophon>
+                     <filiation/>
+                     <note/>
+                     <listBibl>
+                        <bibl>
+                           <ref/>
+                        </bibl>
+                     </listBibl>
+                     <textLang mainLang="bo"/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="ms_pothi">
+                     <supportDesc material="chart">
+                        <extent>280 ff.<dimensions unit="cm" type="leaf">
+                              <height>45</height>
+                              <width>15</width>
+                           </dimensions>
+                        </extent>
+                        <collation/>
+                        <condition/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" ruledLines="6"/>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote script="dbu_can" scope="sole"/>
+                  </handDesc>
+                  <typeDesc>
+                     <typeNote/>
+                  </typeDesc>
+                  <decoDesc/>
+                  <additions/>
+                  <bindingDesc>
+                     <binding>
+                        <p>Held between boards</p>
+                     </binding>
+                  </bindingDesc>
+                  <sealDesc>
+                     <seal/>
+                  </sealDesc>
+                  <accMat/>
+               </physDesc>
+               <history>
+                  <origin/>
+                  <provenance>
+                     <p>Donated by Rev. W. Asboe, 19 Aug. 1947</p>
+                  </provenance>
+                  <provenance/>
+                  <acquisition>
+                     <date>1947</date>
+                     <p>Donated by Rev. W. Asboe</p>
+                     <p>boxed at the expense of Friends of the Bodleian Library, Nov. 1994.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>JESD-DB <addName/>
+                           <add/>
+                           <placeName/>
+                        </source>
+                     </recordHist>
+                     <custodialHist>
+                        <custEvent type="other"/>
+                     </custodialHist>
+                     <note/>
+                  </adminInfo>
+               </additional>
+               <msPart xml:id="MSTibeta25-part1">
+                  <msIdentifier>
+                     <altIdentifier type="internal">
+                        <idno/>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents/>
+                  <physDesc>
+                     <handDesc>
+                        <handNote script="dbu_can" scope="sole"/>
+                     </handDesc>
+                  </physDesc>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy/>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="2017-07-19">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+         </change>
+         <change when="2012-08">entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <div/>
+      </body>
+   </text>
+</TEI>

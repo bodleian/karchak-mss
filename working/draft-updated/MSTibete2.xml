@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_127">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title>'phags pa che dang ye shes dpag tu med pa zhes bya ba theg pa chen po'i mdo</title>
+            <principal>
+               <persName>Gillian Evison</persName>
+            </principal>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date calendar="Gregorian"/>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MSTibete2</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MSTibete2" xml:lang="en" rend="all">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Bodleian Library</institution>
+                  <repository/>
+                  <collection>Oriental Manuscripts</collection>
+                  <idno>MS.Tibet.e.2</idno>
+                  <msName/>
+               </msIdentifier>
+               <head>Canonical text from Bka' 'gyur</head>
+               <msContents>
+                  <msItem xml:id="MSTibete2-item1" class="Canonical text">
+                     <locus from="1r" to="36v"/>
+                     <title xml:lang="">'phags pa che dang ye shes dpag tu med pa zhes bya ba theg pa chen po'i mdo</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt">ʾphags pa che daṅ ye śes dpag tu med pa źes bya ba theg pa chen poʾi mdo</title>
+                     <title xml:lang="bo" type="alt">འཕགས་པ་ཆེ་དང་ཡེ་ཤེས་དཔག་ཏུ་མེད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ</title>
+                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
+                        <locus/>
+                     </colophon>
+                     <note/>
+                     <listBibl>
+                        <bibl/>
+                        <bibl/>
+                     </listBibl>
+                     <textLang mainLang="bo">tibetan</textLang>
+                     <author/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="bp_pothi">
+                     <supportDesc material="chart">
+                        <extent>36 ff.<dimensions unit="cm" type="leaf">
+                              <height>17.25</height>
+                              <width>8</width>
+                           </dimensions>
+                           <dimensions type="written" unit="cm">
+                              <height/>
+                              <width/>
+                           </dimensions>
+                        </extent>
+                        <condition/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="5"/>
+                     </layoutDesc>
+                  </objectDesc>
+                  <additions/>
+                  <bindingDesc>
+                     <binding>
+                        <condition>Pasted on to guards, Western binding.</condition>
+                     </binding>
+                  </bindingDesc>
+                  <sealDesc>
+                     <seal/>
+                  </sealDesc>
+                  <accMat/>
+               </physDesc>
+               <history>
+                  <summary/>
+                  <origin/>
+                  <provenance>
+                     <p>Schl. 56 "In Takua, Ladak, gekauft."</p>
+                     <p>S.C. 26269</p>
+                  </provenance>
+                  <acquisition>
+                     <date>1885</date>
+                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        </source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                     <custodialHist>
+                        <custEvent type="check"/>
+                     </custodialHist>
+                     <note/>
+                  </adminInfo>
+                  <surrogates/>
+                  <listBibl>
+                     <bibl>
+                        <ref/>
+                     </bibl>
+                  </listBibl>
+               </additional>
+               <msPart xml:id="MSTibete2-part1">
+                  <msIdentifier>
+                     <altIdentifier type="internal">
+                        <idno/>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents/>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy/>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="2017-07-19">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+         </change>
+         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <div/>
+      </body>
+   </text>
+</TEI>

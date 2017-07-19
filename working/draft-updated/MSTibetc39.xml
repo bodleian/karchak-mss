@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_89">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <principal>
+               <persName>Gillian Evison</persName>
+            </principal>
+            <author>zla ba bsam 'grub</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date calendar="Gregorian"/>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MSTibetc39</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MSTibetc39" xml:lang="en" rend="all">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Bodleian Library</institution>
+                  <repository/>
+                  <collection>Oriental Manuscripts</collection>
+                  <idno>MS.Tibet.c.39</idno>
+                  <msName/>
+               </msIdentifier>
+               <head>Lama Kazi Dawa Samdup translations &amp; papers</head>
+               <msContents>
+                  <msItem xml:id="MSTibetc39-item1" class="Translation and notes">
+                     <locus from="1r" to="49v"/>
+                     <title xml:lang=""/>
+                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
+                        <locus/>
+                     </colophon>
+                     <note/>
+                     <listBibl>
+                        <bibl>
+                           <ref target="Denwood_1975" type="page"/>
+                        </bibl>
+                        <bibl/>
+                     </listBibl>
+                     <textLang mainLang="bo">tibetan</textLang>
+                     <author>zla ba bsam 'grubzla ba bsam ʾgrubཟླ་བ་བསམ་འགྲུབ</author>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="leaf">
+                     <supportDesc material="chart">
+                        <extent>449f.<dimensions unit="cm" type="leaf">
+                              <height>34</height>
+                              <width>21</width>
+                           </dimensions>
+                           <dimensions type="written" unit="cm">
+                              <height>?</height>
+                              <width>?</width>
+                           </dimensions>
+                        </extent>
+                        <condition/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1"/>
+                     </layoutDesc>
+                  </objectDesc>
+                  <additions/>
+                  <sealDesc>
+                     <seal/>
+                  </sealDesc>
+                  <accMat/>
+               </physDesc>
+               <history>
+                  <summary/>
+                  <origin/>
+                  <provenance>
+                     <p>Bequest of W.Y. Evans-Wentz</p>
+                     <p>E.W. 10</p>
+                  </provenance>
+                  <acquisition>
+                     <date>1965</date>
+                     <p>Bequest of W.Y. Evans-Wentz</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        </source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                     <custodialHist>
+                        <custEvent type="check"/>
+                     </custodialHist>
+                     <note/>
+                  </adminInfo>
+                  <surrogates/>
+                  <listBibl>
+                     <bibl>
+                        <ref/>
+                     </bibl>
+                  </listBibl>
+               </additional>
+               <msPart xml:id="MSTibetc39-part1">
+                  <msIdentifier>
+                     <altIdentifier type="internal">
+                        <idno/>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents/>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy/>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="2017-07-19">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+         </change>
+         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <div/>
+      </body>
+   </text>
+</TEI>

@@ -12,8 +12,7 @@
             <author>zla ba bsam 'grub</author>
          </titleStmt>
          <publicationStmt><!--First publisher-->
-            <publisher/>
-            <pubPlace/>
+            <publisher>Bodleian Libraries</publisher>
             <date calendar="Gregorian"/>
             <idno>UkOxU</idno>
             <availability status="restricted">
@@ -28,10 +27,8 @@
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Bodleian Library</institution>
-                  <repository/>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS.Tibet.c.40</idno>
-                  <msName/>
                </msIdentifier>
                <head>Lama Kazi Dawa Samdup translation and notes of Nagarjuna's Epistles</head>
                <msContents>
@@ -39,15 +36,7 @@
                      <locus from="1r" to="66v"/>
                      <title xml:lang="en">Epistles of NAgArjuna</title>
                      <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                        <locus/>
                      </colophon>
-                     <note/>
-                     <listBibl>
-                        <bibl>
-                           <ref target="Denwood_1975" type="page"/>
-                        </bibl>
-                        <bibl/>
-                     </listBibl>
                      <textLang mainLang="bo">tibetan</textLang>
                      <author>zla ba bsam 'grubzla ba bsam ʾgrubཟླ་བ་བསམ་འགྲུབ</author>
                   </msItem>
@@ -59,23 +48,12 @@
                               <height>33</height>
                               <width>21</width>
                            </dimensions>
-                           <dimensions type="written" unit="cm">
-                              <height>?</height>
-                              <width>?</width>
-                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
                         </extent>
-                        <condition/>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout columns="1"/>
-                     </layoutDesc>
                   </objectDesc>
-                  <additions/>
-                  <accMat/>
                </physDesc>
                <history>
-                  <summary/>
-                  <origin/>
                   <provenance>
                      <p>Bequest of W.Y. Evans-Wentz</p>
                      <p>E.W. 54</p>
@@ -97,29 +75,18 @@
                      <custodialHist>
                         <custEvent type="check"/>
                      </custodialHist>
-                     <note/>
                   </adminInfo>
-                  <surrogates/>
-                  <listBibl>
-                     <bibl>
-                        <ref/>
-                     </bibl>
-                  </listBibl>
                </additional>
                <msPart xml:id="MSTibetc40-part1">
                   <msIdentifier>
-                     <altIdentifier type="internal">
-                        <idno/>
-                     </altIdentifier>
+                     <altIdentifier type="internal"/>
                   </msIdentifier>
-                  <msContents/>
                </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <profileDesc/>
       <revisionDesc>
-         <change when="2017-07-19">
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
          <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>

@@ -9,11 +9,9 @@
             <principal>
                <persName>Gillian Evison</persName>
             </principal>
-            <author/>
          </titleStmt>
          <publicationStmt><!--First publisher-->
-            <publisher/>
-            <pubPlace/>
+            <publisher>Bodleian Libraries</publisher>
             <date calendar="Gregorian"/>
             <idno>UkOxU</idno>
             <availability status="restricted">
@@ -28,10 +26,8 @@
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Bodleian Library</institution>
-                  <repository/>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS.Tibet.e.1</idno>
-                  <msName/>
                </msIdentifier>
                <head>Rites of offering decoy effigy and of gtor ma offering</head>
                <msContents>
@@ -41,13 +37,7 @@
                      <title xml:lang="bo-Latn-x-LC" type="alt">blud bchuṅ kyis riṅs pa</title>
                      <title xml:lang="bo" type="alt">བླུད་བཆུང་ཀྱིས་རིངས་པ</title>
                      <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                        <locus/>
                      </colophon>
-                     <note/>
-                     <listBibl>
-                        <bibl/>
-                        <bibl/>
-                     </listBibl>
                      <textLang mainLang="bo">tibetan</textLang>
                      <author/>
                   </msItem>
@@ -57,30 +47,18 @@
                      <supportDesc material="chart">
                         <extent>22 ff.<dimensions unit="cm" type="leaf">
                               <height>22</height>
-                              <width>8</width>
                            </dimensions>
-                           <dimensions type="written" unit="cm">
-                              <height/>
-                              <width/>
-                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
                         </extent>
-                        <condition/>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout columns="1" writtenLines="5"/>
-                     </layoutDesc>
                   </objectDesc>
-                  <additions/>
                   <bindingDesc>
                      <binding>
                         <condition>Pasted on to guards, Western binding.</condition>
                      </binding>
                   </bindingDesc>
-                  <accMat/>
                </physDesc>
                <history>
-                  <summary/>
-                  <origin/>
                   <provenance>
                      <p>Schl. 45 "Erhalten von Chibu Lama."</p>
                      <p>S.C. 26278</p>
@@ -102,29 +80,18 @@
                      <custodialHist>
                         <custEvent type="check"/>
                      </custodialHist>
-                     <note/>
                   </adminInfo>
-                  <surrogates/>
-                  <listBibl>
-                     <bibl>
-                        <ref/>
-                     </bibl>
-                  </listBibl>
                </additional>
                <msPart xml:id="MSTibete1-part1">
                   <msIdentifier>
-                     <altIdentifier type="internal">
-                        <idno/>
-                     </altIdentifier>
+                     <altIdentifier type="internal"/>
                   </msIdentifier>
-                  <msContents/>
                </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <profileDesc/>
       <revisionDesc>
-         <change when="2017-07-19">
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
          <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>

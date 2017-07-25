@@ -12,8 +12,7 @@
             <author>Ngag gi dbang po rnam par rgyal ba</author>
          </titleStmt>
          <publicationStmt><!--First publisher-->
-            <publisher/>
-            <pubPlace/>
+            <publisher>Bodleian Libraries</publisher>
             <date calendar="Gregorian"/>
             <idno>UkOxU</idno>
             <idno type="msID">MSTibetb1</idno>
@@ -25,7 +24,6 @@
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Bodleian Library</institution>
-                  <repository/>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS.Tibet.b.1</idno>
                   <msName>Heruka Prayer</msName>
@@ -37,22 +35,9 @@
                      <title xml:lang="">he ru ka'i zhing du 'dren pa'i smon las yid kyi shing rta zhes bya ba</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">he ru kaʾi źiṅ du ʾdren paʾi smon las yid kyi śiṅ rta źes bya ba</title>
                      <title xml:lang="bo" type="alt">ཧེ་རུ་ཀའི་ཞིང་དུ་འདྲེན་པའི་སྨོན་ལས་ཡིད་ཀྱི་ཤིང་རྟ་ཞེས་བྱ་བ</title>
-                     <incipit xml:lang="">
-                        <locus/>
-                     </incipit>
-                     <explicit xml:lang="">
-                        <locus/>
-                     </explicit>
-                     <colophon xml:lang="">
-                        <locus/>
-                     </colophon>
-                     <filiation/>
-                     <note/>
-                     <listBibl>
-                        <bibl>
-                           <ref/>
-                        </bibl>
-                     </listBibl>
+                     <incipit xml:lang=""/>
+                     <explicit xml:lang=""/>
+                     <colophon xml:lang=""/>
                      <textLang mainLang="bo"/>
                   </msItem>
                </msContents>
@@ -64,29 +49,17 @@
                               <width>8.5</width>
                            </dimensions>
                         </extent>
-                        <collation/>
-                        <condition/>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout columns="1" ruledLines="6"/>
-                     </layoutDesc>
                   </objectDesc>
                   <handDesc>
                      <handNote scope="sole" script="dbu_can"/>
                   </handDesc>
-                  <typeDesc>
-                     <typeNote/>
-                  </typeDesc>
-                  <additions/>
-                  <accMat/>
                </physDesc>
                <history>
-                  <origin/>
                   <provenance>
                      <p>Schl. 35 "Gekauft in? Leh."</p>
                      <p>S.C. 26268.</p>
                   </provenance>
-                  <provenance/>
                   <acquisition>
                      <date>1885</date>
                      <p>R.H. &amp; A. Schlagintweit</p>
@@ -103,23 +76,18 @@
                      <custodialHist>
                         <custEvent type="other"/>
                      </custodialHist>
-                     <note/>
                   </adminInfo>
                </additional>
                <msPart xml:id="MSTibetb1-part1">
                   <msIdentifier>
-                     <altIdentifier type="internal">
-                        <idno/>
-                     </altIdentifier>
+                     <altIdentifier type="internal"/>
                   </msIdentifier>
-                  <msContents/>
                </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <profileDesc/>
       <revisionDesc>
-         <change when="2017-07-19">
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
          <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>

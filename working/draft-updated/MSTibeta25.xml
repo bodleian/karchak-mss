@@ -9,11 +9,9 @@
             <principal>
                <persName>Gillian Evison</persName>
             </principal>
-            <author/>
          </titleStmt>
          <publicationStmt><!--First publisher-->
-            <publisher/>
-            <pubPlace/>
+            <publisher>Bodleian Libraries</publisher>
             <date calendar="Gregorian"/>
             <idno>UkOxU</idno>
             <idno type="msID">MSTibeta25</idno>
@@ -25,7 +23,6 @@
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Bodleian Library</institution>
-                  <repository/>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS.Tibet.a.25</idno>
                </msIdentifier>
@@ -36,22 +33,9 @@
                      <title xml:lang="">'phags pa gser 'od dam pa mdo sde'i dbang po'i rgyal po zhes bya ba</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">ʾphags pa gser ʾod dam pa mdo sdeʾi dbaṅ poʾi rgyal po źes bya ba</title>
                      <title xml:lang="bo" type="alt">འཕགས་པ་གསེར་འོད་དམ་པ་མདོ་སྡེའི་དབང་པོའི་རྒྱལ་པོ་ཞེས་བྱ་བ</title>
-                     <incipit xml:lang="">
-                        <locus/>
-                     </incipit>
-                     <explicit xml:lang="">
-                        <locus/>
-                     </explicit>
-                     <colophon xml:lang="">
-                        <locus/>
-                     </colophon>
-                     <filiation/>
-                     <note/>
-                     <listBibl>
-                        <bibl>
-                           <ref/>
-                        </bibl>
-                     </listBibl>
+                     <incipit xml:lang=""/>
+                     <explicit xml:lang=""/>
+                     <colophon xml:lang=""/>
                      <textLang mainLang="bo"/>
                   </msItem>
                </msContents>
@@ -63,33 +47,21 @@
                               <width>15</width>
                            </dimensions>
                         </extent>
-                        <collation/>
-                        <condition/>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout columns="1" ruledLines="6"/>
-                     </layoutDesc>
                   </objectDesc>
                   <handDesc>
                      <handNote script="dbu_can" scope="sole"/>
                   </handDesc>
-                  <typeDesc>
-                     <typeNote/>
-                  </typeDesc>
-                  <additions/>
                   <bindingDesc>
                      <binding>
                         <p>Held between boards</p>
                      </binding>
                   </bindingDesc>
-                  <accMat/>
                </physDesc>
                <history>
-                  <origin/>
                   <provenance>
                      <p>Donated by Rev. W. Asboe, 19 Aug. 1947</p>
                   </provenance>
-                  <provenance/>
                   <acquisition>
                      <date>1947</date>
                      <p>Donated by Rev. W. Asboe</p>
@@ -99,24 +71,17 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>JESD-DB <addName/>
-                           <add/>
-                           <placeName/>
-                        </source>
+                        <source>JESD-DB</source>
                      </recordHist>
                      <custodialHist>
                         <custEvent type="other"/>
                      </custodialHist>
-                     <note/>
                   </adminInfo>
                </additional>
                <msPart xml:id="MSTibeta25-part1">
                   <msIdentifier>
-                     <altIdentifier type="internal">
-                        <idno/>
-                     </altIdentifier>
+                     <altIdentifier type="internal"/>
                   </msIdentifier>
-                  <msContents/>
                   <physDesc>
                      <handDesc>
                         <handNote script="dbu_can" scope="sole"/>
@@ -126,9 +91,8 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <profileDesc/>
       <revisionDesc>
-         <change when="2017-07-19">
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
          <change when="2012-08">entry created by<persName key="TBRC_1234">Charles Manson</persName>

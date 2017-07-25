@@ -2,158 +2,116 @@
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_48">
-	  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-		    <fileDesc>
-			      <titleStmt>
-				        <title>bla mgon dgyer med kyi rnal 'byor thun mongs ma yin pa nyamsu len tshul rin chen dbang gi rgyal po'i do shal zhes bya ba</title>
-				        <principal>
-					          <persName>Gillian Evison</persName>
-				        </principal>
-				        <author>Dge slong Legs bshad klu sgrub</author>
-			      </titleStmt>
-			      <publicationStmt><!--First publisher-->
-				        <publisher/>
-				        <pubPlace>
-					          <address>
-						            <addrLine>Department of Special Collections</addrLine>
-						            <addrLine>Bodleian Library</addrLine>
-						            <street>Broad Street</street>
-						            <settlement>Oxford</settlement>
-						            <postCode>OX1 3BG</postCode>
-						            <addrLine>
-							              <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
-						            </addrLine>
-						            <addrLine>
-							              <email>charles.manson@bodleian.ox.ac.uk</email>
-						            </addrLine>
-					          </address>
-				        </pubPlace>
-				        <date calendar="Gregorian"/>
-				        <idno>UkOxU</idno>
-				        <availability status="restricted">
-					          <p>Special Collections Reading Room, Bodleian.</p>
-				        </availability>
-			         <idno type="msID">MSTibetb41</idno>
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title>bla mgon dgyer med kyi rnal 'byor thun mongs ma yin pa nyamsu len tshul rin chen dbang gi rgyal po'i do shal zhes bya ba</title>
+            <principal>
+               <persName>Gillian Evison</persName>
+            </principal>
+            <author>Dge slong Legs bshad klu sgrub</author>
+         </titleStmt>
+         <publicationStmt><!--First publisher-->
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <date calendar="Gregorian"/>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MSTibetb41</idno>
             <idno type="catalogue">Tibetan</idno>
          </publicationStmt>
-			      <sourceDesc>
-				        <msDesc xml:id="MSTibetb41" xml:lang="en" rend="all">
-					          <msIdentifier>
-						            <country>United Kingdom</country>
-						            <settlement>Oxford</settlement>
-						            <institution>Oxford University</institution>
-						            <repository>Bodleian Library</repository>
-						            <collection>Oriental Manuscripts</collection>
-						            <idno>MS.Tibet.b.41</idno>
-						            <msName/>
-					          </msIdentifier>
-					          <head>Dge-lugs ritual</head>
-					          <msContents class="Ritual">
-						            <msItem xml:id="MSTibetb41-item1" class="Ritual" rend="visible">
-							              <locus from="1r" to="25v"/>
-							              <title xml:lang="">Byang chub lam gyi rim pa'i dmar khrid myur lam gyi sngon 'gro'i ngag 'don gyi rim pa khyer bde bklag chog bskal bzang mgrin rgyan zhes bya ba bzhugs so/</title>
-							              <title xml:lang="bo" type="alt"/>
-							              <title xml:lang="bo" type="alt"/>
-							              <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-								                <locus/>
-							              </colophon>
-							              <note/>
-							              <listBibl>
-								                <bibl>
-									                  <ref type="page"/>
-								                </bibl>
-								                <bibl/>
-							              </listBibl>
-							              <textLang mainLang="bo">tibetan</textLang>
-							              <author>
-								
-								
-								
-							</author>
-						            </msItem>
-					          </msContents>
-					          <physDesc>
-						            <objectDesc form="bp_pothi">
-							              <supportDesc material="chart">
-								                <extent>40 ff.<dimensions unit="cm" type="leaf">
-										                    <height>30</height>
-										                    <width>8</width>
-									                  </dimensions>
-									                  <dimensions type="written" unit="cm">
-										                    <height>?</height>
-										                    <width>?</width>
-									                  </dimensions>
-								                </extent>
-								                <condition>
-									                  <p>good</p>
-								                </condition>
-							              </supportDesc>
-							              <layoutDesc>
-								                <layout columns="1" writtenLines="6">
-									
-								</layout>
-							              </layoutDesc>
-						            </objectDesc>
-						            <additions>
-							
-						</additions>
-						
-						            <accMat/>
-					          </physDesc>
-					          <history>
-						            <summary/>
-						            <origin/>
-						            <provenance>
-							              <p>H.E. Richardson Estate</p>
-						            </provenance>
-						            <acquisition>
-							              <date>2001</date>
-							
-						            </acquisition>
-					          </history>
-					          <additional>
-						            <adminInfo>
-							              <recordHist>
-								                <source>converted from master records created by<persName>CEM</persName>
-								                </source>
-							              </recordHist>
-							              <availability status="restricted">
-								                <p>Bodleian: Special Collections Reading Room.</p>
-							              </availability>
-							              <custodialHist>
-								                <custEvent type="check"/>
-							              </custodialHist>
-							              <note/>
-						            </adminInfo>
-						            <surrogates/>
-						            <listBibl>
-							              <bibl>
-								                <ref/>
-							              </bibl>
-						            </listBibl>
-					          </additional>
-					          <msPart xml:id="MSTibetb41-part1" rend="invisible">
-						            <msIdentifier>
-                     <altIdentifier type="internal">
-							                 <idno/>
-						               </altIdentifier>
+         <sourceDesc>
+            <msDesc xml:id="MSTibetb41" xml:lang="en" rend="all">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oriental Manuscripts</collection>
+                  <idno>MS.Tibet.b.41</idno>
+               </msIdentifier>
+               <head>Dge-lugs ritual</head>
+               <msContents class="Ritual">
+                  <msItem xml:id="MSTibetb41-item1" class="Ritual" rend="visible">
+                     <locus from="1r" to="25v"/>
+                     <title xml:lang="">Byang chub lam gyi rim pa'i dmar khrid myur lam gyi sngon 'gro'i ngag 'don gyi rim pa khyer bde bklag chog bskal bzang mgrin rgyan zhes bya ba bzhugs so/</title>
+                     <title xml:lang="bo" type="alt"/>
+                     <title xml:lang="bo" type="alt"/>
+                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
+                     </colophon>
+                     <textLang mainLang="bo">tibetan</textLang>
+                     <author/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="bp_pothi">
+                     <supportDesc material="chart">
+                        <extent>40 ff.<dimensions unit="cm" type="leaf">
+                              <height>30</height>
+                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
+                        </extent>
+                        <condition>
+                           <p>good</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>H.E. Richardson Estate</p>
+                  </provenance>
+                  <acquisition>
+                     <date>2001</date>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>converted from master records created by<persName>CEM</persName>
+                        </source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                     <custodialHist>
+                        <custEvent type="check"/>
+                     </custodialHist>
+                  </adminInfo>
+               </additional>
+               <msPart xml:id="MSTibetb41-part1" rend="invisible">
+                  <msIdentifier>
+                     <altIdentifier type="internal"/>
                   </msIdentifier>
-						            <msContents/>
-					          </msPart>
-				        </msDesc>
-			      </sourceDesc>
-		    </fileDesc>
-		
-		    <profileDesc/>
-		    <revisionDesc>
-         <change when="2017-07-19">
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
-			      <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
-			      </change>
-		    </revisionDesc>
-	  </teiHeader>
-	  <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>
       </body>

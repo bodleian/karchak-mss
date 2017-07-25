@@ -12,23 +12,23 @@
             <author>Dge slong Legs bshad klu sgrub</author>
          </titleStmt>
          <publicationStmt><!--First publisher-->
-            <publisher/>
-                <pubPlace>
-                    <address>
-                        <addrLine>Department of Special Collections</addrLine>
-                        <addrLine>Bodleian Library</addrLine>
-                        <street>Broad Street</street>
-                        <settlement>Oxford</settlement>
-                        <postCode>OX1 3BG</postCode>
-                        <addrLine>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
                      <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
                   </addrLine>
-                        <addrLine>
+                  <addrLine>
                      <email>charles.manson@bodleian.ox.ac.uk</email>
                   </addrLine>
-                    </address>
-                </pubPlace>
-				        <date calendar="Gregorian"/>
+               </address>
+            </pubPlace>
+            <date calendar="Gregorian"/>
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -45,7 +45,6 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS.Tibet.a.1</idno>
-                  <msName/>
                </msIdentifier>
                <head>An outline for meditation practice</head>
                <msContents>
@@ -55,15 +54,7 @@
                      <title xml:lang="bo-Latn-x-LC" type="alt">bla mgon dgyer med kyi rnal ʾbyor thun moṅs ma yin pa ñamsu len tshul rin chen dbaṅ gi rgyal poʾi do śal źes bya ba</title>
                      <title xml:lang="bo" type="alt">བླ་མགོན་དགྱེར་མེད་ཀྱི་རྣལ་འབྱོར་ཐུན་མོངས་མ་ཡིན་པ་ཉམསུ་ལེན་ཚུལ་རིན་ཆེན་དབང་གི་རྒྱལ་པོའི་དོ་ཤལ་ཞེས་བྱ་བ</title>
                      <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                        <locus/>
                      </colophon>
-                     <note/>
-                     <listBibl>
-                        <bibl>
-                           <ref type="page"/>
-                        </bibl>
-                        <bibl/>
-                     </listBibl>
                      <textLang mainLang="bo">tibetan</textLang>
                      <author>dge slong legs bshad klu sgrubdge sloṅ legs bśad klu sgrubདགེ་སློང་ལེགས་བཤད་ཀླུ་སྒྲུབ</author>
                   </msItem>
@@ -75,27 +66,18 @@
                               <height>58</height>
                               <width>10</width>
                            </dimensions>
-                           <dimensions type="written" unit="cm">
-                              <height>?</height>
-                              <width>?</width>
-                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
                         </extent>
                         <condition>
                            <p>good.</p>
                         </condition>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout columns="1" writtenLines="7"/>
-                     </layoutDesc>
                   </objectDesc>
                   <additions>
                      <p>numerous corrections (see JESD-DB)</p>
                   </additions>
-                  <accMat/>
                </physDesc>
                <history>
-                  <summary/>
-                  <origin/>
                   <provenance>
                      <p>Schl. 51 "aus Saimonbong."</p>
                      <p>S.C. 26284</p>
@@ -117,29 +99,18 @@
                      <custodialHist>
                         <custEvent type="check"/>
                      </custodialHist>
-                     <note/>
                   </adminInfo>
-                  <surrogates/>
-                  <listBibl>
-                     <bibl>
-                        <ref/>
-                     </bibl>
-                  </listBibl>
                </additional>
                <msPart xml:id="MSTibeta1-part1">
                   <msIdentifier>
-                     <altIdentifier type="internal">
-                        <idno/>
-                     </altIdentifier>
+                     <altIdentifier type="internal"/>
                   </msIdentifier>
-                  <msContents/>
                </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <profileDesc/>
       <revisionDesc>
-         <change when="2017-07-19">
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
          <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>

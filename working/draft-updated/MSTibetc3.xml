@@ -12,8 +12,7 @@
             <author>Karma pa Mi bskyod do rje</author>
          </titleStmt>
          <publicationStmt><!--First publisher-->
-            <publisher/>
-            <pubPlace/>
+            <publisher>Bodleian Libraries</publisher>
             <date calendar="Gregorian"/>
             <idno>UkOxU</idno>
             <availability status="restricted">
@@ -28,10 +27,8 @@
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Bodleian Library</institution>
-                  <repository/>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS.Tibet.c.3</idno>
-                  <msName/>
                </msIdentifier>
                <head>Burnt offering rite</head>
                <msContents>
@@ -41,15 +38,7 @@
                      <title xml:lang="bo-Latn-x-LC" type="alt">rgyud sde spyiʾi sbyin sreg bi cho ga bdud bźi daṅ sgrib gñis sreg ciṅ tshogs gñis ʾod ser ʾgyed byed ces bya ba rig sṅags ʾchaṅ ba chen po slob dpon karma pa mi bskyod rdo rje mdzad pa sor bźag las bźi myur grub ces bya ba las dbaṅ gi sbyin sreg rgyal ba rgya mtsho daṅ sbyar ba bltas chogsu bskod pa.</title>
                      <title xml:lang="bo" type="alt">རྒྱུད་སྡེ་སྤྱིའི་སྦྱིན་སྲེག་བི་ཆོ་ག་བདུད་བཞི་དང་སྒྲིབ་གཉིས་སྲེག་ཅིང་ཚོགས་གཉིས་འོད་སེར་འགྱེད་བྱེད་ཅེས་བྱ་བ་རིག་སྔགས་འཆང་བ་ཆེན་པོ་སློབ་དཔོན་ཀརྨ་པ་མི་བསྐྱོད་རྡོ་རྗེ་མཛད་པ་སོར་བཞག་ལས་བཞི་མྱུར་གྲུབ་ཅེས་བྱ་བ་ལས་དབང་གི་སྦྱིན་སྲེག་རྒྱལ་བ་རྒྱ་མཚོ་དང་སྦྱར་བ་བལྟས་ཆོགསུ་བསྐོད་པ</title>
                      <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                        <locus/>
                      </colophon>
-                     <note/>
-                     <listBibl>
-                        <bibl>
-                           <ref target="Denwood_1975" type="page"/>
-                        </bibl>
-                        <bibl/>
-                     </listBibl>
                      <textLang mainLang="bo">tibetan</textLang>
                      <author>karma pa mi bskyod do rjekarma pa mi bskyod do rjeཀརྨ་པ་མི་བསྐྱོད་དོ་རྗེ</author>
                   </msItem>
@@ -61,28 +50,17 @@
                               <height>36</height>
                               <width>7.25</width>
                            </dimensions>
-                           <dimensions type="written" unit="cm">
-                              <height>?</height>
-                              <width>?</width>
-                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
                         </extent>
-                        <condition/>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout columns="1" writtenLines="5"/>
-                     </layoutDesc>
                   </objectDesc>
-                  <additions/>
                   <bindingDesc>
                      <binding>
                         <condition>Pasted on to guards, Western binding.</condition>
                      </binding>
                   </bindingDesc>
-                  <accMat/>
                </physDesc>
                <history>
-                  <summary/>
-                  <origin/>
                   <provenance>
                      <p>Schl. 38 "aus Sikkim."</p>
                      <p>S.C. 26271</p>
@@ -104,29 +82,18 @@
                      <custodialHist>
                         <custEvent type="check"/>
                      </custodialHist>
-                     <note/>
                   </adminInfo>
-                  <surrogates/>
-                  <listBibl>
-                     <bibl>
-                        <ref/>
-                     </bibl>
-                  </listBibl>
                </additional>
                <msPart xml:id="MSTibetc3-part1">
                   <msIdentifier>
-                     <altIdentifier type="internal">
-                        <idno/>
-                     </altIdentifier>
+                     <altIdentifier type="internal"/>
                   </msIdentifier>
-                  <msContents/>
                </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <profileDesc/>
       <revisionDesc>
-         <change when="2017-07-19">
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
          <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>

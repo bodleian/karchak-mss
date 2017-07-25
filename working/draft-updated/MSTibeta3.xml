@@ -11,8 +11,7 @@
             </principal>
          </titleStmt>
          <publicationStmt><!--First publisher-->
-            <publisher/>
-            <pubPlace/>
+            <publisher>Bodleian Libraries</publisher>
             <date calendar="Gregorian"/>
             <idno>UkOxU</idno>
             <availability status="restricted">
@@ -27,10 +26,8 @@
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Bodleian Library</institution>
-                  <repository/>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS.Tibet.a.3</idno>
-                  <msName/>
                </msIdentifier>
                <head>A Buddhist encyclopaedia</head>
                <msContents>
@@ -39,13 +36,6 @@
                      <title xml:lang="">nye mkho mthong ba don yod zhes bya ba</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">ñe mkho mthoṅ ba don yod źes bya ba</title>
                      <title xml:lang="bo" type="alt">ཉེ་མཁོ་མཐོང་བ་དོན་ཡོད་ཞེས་བྱ་བ</title>
-                     <note/>
-                     <listBibl>
-                        <bibl>
-                           <ref target="Denwood_1975" type="page"/>
-                        </bibl>
-                        <bibl/>
-                     </listBibl>
                      <textLang mainLang="bo">tibetan</textLang>
                   </msItem>
                </msContents>
@@ -56,25 +46,14 @@
                               <height>59</height>
                               <width>10.2</width>
                            </dimensions>
-                           <dimensions type="written" unit="cm">
-                              <height>?</height>
-                              <width>?</width>
-                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
                         </extent>
-                        <condition/>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout columns="1" writtenLines="7"/>
-                     </layoutDesc>
                   </objectDesc>
-                  <accMat/>
                </physDesc>
                <history>
-                  <summary/>
-                  <origin/>
                   <provenance>
-                     <p>Schl. 71 ( "Gekauft 1855 vom letzten Titularkoenig von Ladak in Leh als
-Geschichtswerk, wozu der Inhalt stimmen wird." )</p>
+                     <p>Schl. 71 ( "Gekauft 1855 vom letzten Titularkoenig von Ladak in Leh als Geschichtswerk, wozu der Inhalt stimmen wird." )</p>
                      <p>S.C. 26304</p>
                   </provenance>
                   <acquisition>
@@ -94,29 +73,18 @@ Geschichtswerk, wozu der Inhalt stimmen wird." )</p>
                      <custodialHist>
                         <custEvent type="check"/>
                      </custodialHist>
-                     <note/>
                   </adminInfo>
-                  <surrogates/>
-                  <listBibl>
-                     <bibl>
-                        <ref/>
-                     </bibl>
-                  </listBibl>
                </additional>
                <msPart xml:id="MSTibeta3-part1">
                   <msIdentifier>
-                     <altIdentifier type="internal">
-                        <idno/>
-                     </altIdentifier>
+                     <altIdentifier type="internal"/>
                   </msIdentifier>
-                  <msContents/>
                </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <profileDesc/>
       <revisionDesc>
-         <change when="2017-07-19">
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
          <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>

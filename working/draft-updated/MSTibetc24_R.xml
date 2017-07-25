@@ -9,11 +9,9 @@
             <principal>
                <persName>Gillian Evison</persName>
             </principal>
-            <author/>
          </titleStmt>
          <publicationStmt><!--First publisher-->
-            <publisher/>
-            <pubPlace/>
+            <publisher>Bodleian Libraries</publisher>
             <date calendar="Gregorian"/>
             <idno>UkOxU</idno>
             <availability status="restricted">
@@ -28,28 +26,16 @@
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Bodleian Library</institution>
-                  <repository/>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS.Tibet.c.24 (R)</idno>
-                  <msName/>
                </msIdentifier>
                <head>Copies of Tibetan letters relating to Younghusband</head>
                <msContents>
                   <msItem xml:id="MSTibetc24_R-item1">
-                     <locus from="1" to="?"/>
                      <title xml:lang="en">Copies of documents relating to the Tibetan expedition of Sir F.Younghusband</title>
                      <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                        <locus/>
                      </colophon>
-                     <note/>
-                     <listBibl>
-                        <bibl>
-                           <ref target="Denwood_1975" type="page"/>
-                        </bibl>
-                        <bibl/>
-                     </listBibl>
                      <textLang mainLang="bo" otherLangs="en">tibetan</textLang>
-                     <author/>
                   </msItem>
                </msContents>
                <physDesc>
@@ -59,23 +45,12 @@
                               <height>41.5</height>
                               <width>21.2</width>
                            </dimensions>
-                           <dimensions type="written" unit="cm">
-                              <height>?</height>
-                              <width>?</width>
-                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
                         </extent>
-                        <condition/>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout columns="1"/>
-                     </layoutDesc>
                   </objectDesc>
-                  <additions/>
-                  <accMat/>
                </physDesc>
                <history>
-                  <summary/>
-                  <origin/>
                   <provenance>
                      <p>sent from Lhasa (1904) by Sir F.Younghusband, covering letters by Sir William Herschel, Valentine Magniac</p>
                      <p>S.C. note after 33644</p>
@@ -97,29 +72,18 @@
                      <custodialHist>
                         <custEvent type="check"/>
                      </custodialHist>
-                     <note/>
                   </adminInfo>
-                  <surrogates/>
-                  <listBibl>
-                     <bibl>
-                        <ref/>
-                     </bibl>
-                  </listBibl>
                </additional>
                <msPart xml:id="MSTibetc24_R-part1">
                   <msIdentifier>
-                     <altIdentifier type="internal">
-                        <idno/>
-                     </altIdentifier>
+                     <altIdentifier type="internal"/>
                   </msIdentifier>
-                  <msContents/>
                </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <profileDesc/>
       <revisionDesc>
-         <change when="2017-07-19">
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
          <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>

@@ -12,8 +12,7 @@
             <author>Ngag dbang Dge legs rgyal mtshan</author>
          </titleStmt>
          <publicationStmt><!--First publisher-->
-            <publisher/>
-            <pubPlace/>
+            <publisher>Bodleian Libraries</publisher>
             <date calendar="Gregorian"/>
             <idno>UkOxU</idno>
             <availability status="restricted">
@@ -28,10 +27,8 @@
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Bodleian Library</institution>
-                  <repository/>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS.Tibet.b.7</idno>
-                  <msName/>
                </msIdentifier>
                <head>Instructions on transference of consciousness</head>
                <msContents>
@@ -41,15 +38,7 @@
                      <title xml:lang="bo-Latn-x-LC" type="alt">chos smra baʾi btsun pa ṅag dbaṅ dge legs rgyal mtshan gyi ṅag thor bu pa las/ pho ba daṅ thugs dam bźugs ʾdod dag la ṅo sprod pa ye śes kyi sgron me źes bya ba</title>
                      <title xml:lang="bo" type="alt">ཆོས་སྨྲ་བའི་བཙུན་པ་ངག་དབང་དགེ་ལེགས་རྒྱལ་མཚན་གྱི་ངག་ཐོར་བུ་པ་ལས། ཕོ་བ་དང་ཐུགས་དམ་བཞུགས་འདོད་དག་ལ་ངོ་སྤྲོད་པ་ཡེ་ཤེས་ཀྱི་སྒྲོན་མེ་ཞེས་བྱ་བ</title>
                      <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                        <locus/>
                      </colophon>
-                     <note/>
-                     <listBibl>
-                        <bibl>
-                           <ref target="Denwood_1975" type="page"/>
-                        </bibl>
-                        <bibl/>
-                     </listBibl>
                      <textLang mainLang="bo">tibetan</textLang>
                      <author>ngag dbang dge legs rgyal mtshanṅag dbaṅ dge legs rgyal mtshanངག་དབང་དགེ་ལེགས་རྒྱལ་མཚན</author>
                   </msItem>
@@ -61,30 +50,20 @@
                               <height>43.5</height>
                               <width>7.25</width>
                            </dimensions>
-                           <dimensions type="written" unit="cm">
-                              <height>?</height>
-                              <width>?</width>
-                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
                         </extent>
                         <condition>
                            <p>f.2 damaged.</p>
                         </condition>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout columns="1"/>
-                     </layoutDesc>
                   </objectDesc>
-                  <additions/>
                   <bindingDesc>
                      <binding>
                         <condition>Pasted on to guards, Western binding.</condition>
                      </binding>
                   </bindingDesc>
-                  <accMat/>
                </physDesc>
                <history>
-                  <summary/>
-                  <origin/>
                   <provenance>
                      <p>Schl. 60 "aus Central Tibet."</p>
                      <p>S.C. 26292</p>
@@ -106,29 +85,18 @@
                      <custodialHist>
                         <custEvent type="check"/>
                      </custodialHist>
-                     <note/>
                   </adminInfo>
-                  <surrogates/>
-                  <listBibl>
-                     <bibl>
-                        <ref/>
-                     </bibl>
-                  </listBibl>
                </additional>
                <msPart xml:id="MSTibetb7-part1">
                   <msIdentifier>
-                     <altIdentifier type="internal">
-                        <idno/>
-                     </altIdentifier>
+                     <altIdentifier type="internal"/>
                   </msIdentifier>
-                  <msContents/>
                </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <profileDesc/>
       <revisionDesc>
-         <change when="2017-07-19">
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
          <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>

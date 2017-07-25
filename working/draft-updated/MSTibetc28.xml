@@ -9,11 +9,9 @@
             <principal>
                <persName>Gillian Evison</persName>
             </principal>
-            <author/>
          </titleStmt>
          <publicationStmt><!--First publisher-->
-            <publisher/>
-            <pubPlace/>
+            <publisher>Bodleian Libraries</publisher>
             <date calendar="Gregorian"/>
             <idno>UkOxU</idno>
             <availability status="restricted">
@@ -28,10 +26,8 @@
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Bodleian Library</institution>
-                  <repository/>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS.Tibet.c.28</idno>
-                  <msName/>
                </msIdentifier>
                <head>Dakini esoteric instructions</head>
                <msContents>
@@ -41,15 +37,7 @@
                      <title xml:lang="bo-Latn-x-LC" type="alt">mkhaʾ ʾgro gsaṅ lam raṅ lus gźan lus gyi khrid gźuṅ mṅon 3 lag khrid</title>
                      <title xml:lang="bo" type="alt">མཁའ་འགྲོ་གསང་ལམ་རང་ལུས་གཞན་ལུས་གྱི་ཁྲིད་གཞུང་མངོན ༣ ལག་ཁྲིད</title>
                      <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                        <locus/>
                      </colophon>
-                     <note/>
-                     <listBibl>
-                        <bibl>
-                           <ref target="Denwood_1975" type="page"/>
-                        </bibl>
-                        <bibl/>
-                     </listBibl>
                      <textLang mainLang="bo">tibetan</textLang>
                      <author/>
                   </msItem>
@@ -59,28 +47,16 @@
                      <supportDesc material="chart">
                         <extent>11 ff.<dimensions unit="cm" type="leaf">
                               <height>32</height>
-                              <width>7</width>
                            </dimensions>
-                           <dimensions type="written" unit="cm">
-                              <height>?</height>
-                              <width>?</width>
-                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
                         </extent>
-                        <condition/>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout columns="1" writtenLines="7"/>
-                     </layoutDesc>
                   </objectDesc>
-                  <additions/>
-                  <accMat/>
                </physDesc>
                <history>
-                  <summary/>
-                  <origin/>
                   <provenance>
                      <p>bequest of W.Y.Evans-Wentz</p>
-                     <p>Tibetan MS. No.35.    E.W.    Occultism.</p>
+                     <p>Tibetan MS. No.35. E.W. Occultism.</p>
                   </provenance>
                   <acquisition>
                      <date>1965</date>
@@ -99,29 +75,18 @@
                      <custodialHist>
                         <custEvent type="check"/>
                      </custodialHist>
-                     <note/>
                   </adminInfo>
-                  <surrogates/>
-                  <listBibl>
-                     <bibl>
-                        <ref/>
-                     </bibl>
-                  </listBibl>
                </additional>
                <msPart xml:id="MSTibetc28-part1">
                   <msIdentifier>
-                     <altIdentifier type="internal">
-                        <idno/>
-                     </altIdentifier>
+                     <altIdentifier type="internal"/>
                   </msIdentifier>
-                  <msContents/>
                </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <profileDesc/>
       <revisionDesc>
-         <change when="2017-07-19">
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
          <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>

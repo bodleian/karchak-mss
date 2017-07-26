@@ -28,7 +28,7 @@
                   </addrLine>
                </address>
             </pubPlace>
-            <date calendar="Gregorian">Gregorian</date>
+            <date calendar="#Gregorian">Gregorian</date>
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>

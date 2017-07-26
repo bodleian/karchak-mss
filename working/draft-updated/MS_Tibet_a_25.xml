@@ -12,7 +12,7 @@
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="Gregorian">Gregorian</date>
+            <date calendar="#Gregorian">Gregorian</date>
             <idno>UkOxU</idno>
             <idno type="msID">MS_Tibet_a_25</idno>
             <idno type="catalogue">Tibetan</idno>

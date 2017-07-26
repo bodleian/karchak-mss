@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title>bcom ldan 'das mgon po mi 'khrug pa'i sgo nas las kyi sgrib pa rnams par sbyong ba'i cho ga/ mngon par dga ba'i zhing gi rgyan zhes bya ba</title>
+            <principal>
+               <persName>Gillian Evison</persName>
+            </principal>
+            <author>Dge slong Chos kyi dbang phyug</author>
+         </titleStmt>
+         <publicationStmt><!--First publisher-->
+            <publisher>Bodleian Libraries</publisher>
+            <date calendar="Gregorian">Gregorian</date>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MS_Tibet_a_2</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Tibet_a_2" xml:lang="en" rend="all">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Bodleian Library</institution>
+                  <collection>Oriental Manuscripts</collection>
+                  <idno/>
+               </msIdentifier>
+               <head>Meditation text for purifying karma</head>
+               <msContents>
+                  <msItem xml:id="MS_Tibet_a_2-item1" class="Meditation rite">
+                     <locus from="1r" to="8v"/>
+                     <title xml:lang="">bcom ldan 'das mgon po mi 'khrug pa'i sgo nas las kyi sgrib pa rnams par sbyong ba'i cho ga/ mngon par dga ba'i zhing gi rgyan zhes bya ba</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt">bcom ldan ʾdas mgon po mi ʾkhrug paʾi sgo nas las kyi sgrib pa rnams par sbyoṅ baʾi cho ga/ mṅon par dga baʾi źiṅ gi rgyan źes bya ba</title>
+                     <title xml:lang="bo" type="alt">བཅོམ ལྡན་འདས་མགོན་པོ་མི་འཁྲུག་པའི་སྒོ་ནས་ལས་ཀྱི་སྒྲིབ་པ་རྣམས པར་སྦྱོང་བའི་ཆོ་ག། མངོན་པར་དག་བའི་ཞིང་གི་རྒྱན་ཞེས་བྱ་བ</title>
+                     <textLang mainLang="bo">tibetan</textLang>
+                     <author>dge slong chos kyi dbang phyugdge sloṅ chos kyi dbaṅ phyugདགེ་སློང་ཆོས་ཀྱི་དབང་ཕྱུག</author>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="bp_pothi">
+                     <supportDesc material="chart">
+                        <extent>7 ff.<dimensions unit="cm" type="leaf">
+                              <height>50.5</height>
+                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Schl. 57</p>
+                     <p>S.C. 26295</p>
+                  </provenance>
+                  <acquisition>
+                     <date>1885</date>
+                     <p>acquired 1885.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        </source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                     <custodialHist>
+                        <custEvent type="check"/>
+                     </custodialHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
+         </change>
+         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

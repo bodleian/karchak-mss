@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_31">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title>bka' rdzogs pa chen po yang zab rgyal ba dkon mchog spyi 'dus kyis cho ga bsgrigs bltas chog tu dkod pa</title>
+            <principal>
+               <persName>Gillian Evison</persName>
+            </principal>
+            <author>'Ja' tshon snying po</author>
+         </titleStmt>
+         <publicationStmt><!--First publisher-->
+            <publisher>Bodleian Libraries</publisher>
+            <date calendar="Gregorian">Gregorian</date>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MS_Tibet_b_14</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Tibet_b_14" xml:lang="en" rend="all">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Bodleian Library</institution>
+                  <collection>Oriental Manuscripts</collection>
+                  <idno/>
+               </msIdentifier>
+               <head>Terma rite of Padmasambhava worship</head>
+               <msContents>
+                  <msItem xml:id="MS_Tibet_b_14-item1" class="Rite">
+                     <locus from="1r" to="91v"/>
+                     <title xml:lang="">bka' rdzogs pa chen po yang zab rgyal ba dkon mchog spyi 'dus kyis cho ga bsgrigs bltas chog tu bkod pa</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt">bkaʾ rdzogs pa chen po yaṅ zab rgyal ba dkon mchog spyi ʾdus kyis cho ga bsgrigs bltas chog tu bkod pa</title>
+                     <title xml:lang="bo" type="alt">བཀའ་རྫོགས་པ་ཆེན་པོ་ཡང་ཟབ་རྒྱལ་བ་དཀོན་མཆོག་སྤྱི་འདུས་ཀྱིས་ཆོ་ག་བསྒྲིགས་བལྟས་ཆོག་ཏུ་བཀོད་པ</title>
+                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
+                     </colophon>
+                     <textLang mainLang="bo">tibetan</textLang>
+                     <author>'ja' tshon snying poʾjaʾ tshon sñiṅ poའཇའ་ཚོན་སྙིང་པོ</author>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="bp_pothi">
+                     <supportDesc material="chart">
+                        <extent>91 ff.<dimensions unit="cm" type="leaf">
+                              <height>41.75</height>
+                              <width>7.25</width>
+                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
+                        </extent>
+                        <condition>
+                           <p>damaged</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <binding>
+                        <condition>Pasted on to guards, Western binding.</condition>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Schl. 80 "Erworben Narigun."</p>
+                     <p>S.C. 26309</p>
+                  </provenance>
+                  <acquisition>
+                     <date>1885</date>
+                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        </source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                     <custodialHist>
+                        <custEvent type="check"/>
+                     </custodialHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
+         </change>
+         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

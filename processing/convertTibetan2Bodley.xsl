@@ -18,6 +18,44 @@
   <xsl:variable name="cat" select="'Tibetan'"/>
   <xsl:variable name="catdir" select="'tibetan'"/>
 
+  <xsl:template match="msDesc/msIdentifier/idno">
+    <idno></idno>
+</xsl:template>
   
+
+  <xsl:function name="jc:normalizeID">
+    <xsl:param name="id" as="item()"/>
+    <xsl:variable name="ID">
+      <xsl:value-of select="replace($id, '\.', '. ')"/>
+    </xsl:variable>
+    <xsl:variable name="pass0">
+      <xsl:choose>
+        <!-- some idno have a 12.3 type format -->
+        <xsl:when test="matches($ID, '[0-9]\.[0-9]')">
+          <xsl:variable name="part">
+            <xsl:analyze-string select="$ID" regex="([a-zA-Z]+)\.">
+              <xsl:matching-substring><xsl:value-of select="regex-group(1)"/></xsl:matching-substring>
+              <xsl:non-matching-substring><xsl:value-of select="."/></xsl:non-matching-substring>
+            </xsl:analyze-string>
+          </xsl:variable>
+          <xsl:value-of select="translate(normalize-space($part), '`!£$%^[_]°()}{,', '')"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="translate(normalize-space($ID), '`!£$%^[_]°()}{,.', '')"/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+    <xsl:variable name="pass1">
+      <xsl:value-of select="replace(normalize-space($pass0), ' - ', '-')"/>
+    </xsl:variable>
+    <xsl:variable name="pass2">
+      <xsl:value-of select="replace(normalize-space($pass1), '\*', '-star')"/>
+    </xsl:variable>
+    <xsl:variable name="apos">&apos;</xsl:variable>
+    <xsl:variable name="pass3">
+      <xsl:value-of select="replace(normalize-space($pass2), $apos, '')"/>
+    </xsl:variable>
+    <xsl:value-of select="translate(normalize-space($pass3), ' \/','_..')"/>
+  </xsl:function>
 
 </xsl:stylesheet>

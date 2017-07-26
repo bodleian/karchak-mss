@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_75">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title>MS.Tibet.c.26</title>
+            <title>bde chen zhing gi ro sreg cho ga ngan song gnas 'dren sdug snal mcho sems gtan bde ba 'bar zhes bya ba/ gnam chos thugs kyi gter kha snyan brgyud zab mo gu ru zhi ba'i skor las rtsa gsum spyi yi sngon 'gro/ gnam chos thugs kyi gter kha bsnyan rgyud zab mo'i bskor las gsol 'debs byin rlabs char 'bebs</title>
+            <principal>
+               <persName>Gillian Evison</persName>
+            </principal>
+         </titleStmt>
+         <publicationStmt><!--First publisher-->
+            <publisher>Bodleian Libraries</publisher>
+            <date calendar="Gregorian">Gregorian</date>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MS_Tibet_c_26</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Tibet_c_26" xml:lang="en" rend="all">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Bodleian Library</institution>
+                  <collection>Oriental Manuscripts</collection>
+                  <idno/>
+               </msIdentifier>
+               <head>Three rituals for body disposal</head>
+               <msContents>
+                  <msItem xml:id="MS_Tibet_c_26-item1" class="Rituals">
+                     <locus from="1r" to="27v"/>
+                     <title xml:lang="">bde chen zhing gi ro sreg cho ga ngan song gnas 'dren sdug snal mcho sems gtan bde ba 'bar zhes bya ba</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt">bde chen źiṅ gi ro sreg cho ga ṅan soṅ gnas ʾdren sdug snal mcho sems gtan bde ba ʾbar źes bya ba</title>
+                     <title xml:lang="bo" type="alt">བདེ་ཆེན་ཞིང་གི་རོ་སྲེག་ཆོ་ག་ངན་སོང་གནས་འདྲེན་སྡུག་སྣལ་མཆོ་སེམས་གཏན་བདེ་བ་འབར་ཞེས་བྱ་བ</title>
+                     <title xml:lang="">gnam chos thugs kyi gter kha snyan brgyud zab mo gu ru zhi ba'i skor las rtsa gsum spyi yi sngon 'gro</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt">gnam chos thugs kyi gter kha sñan brgyud zab mo gu ru źi baʾi skor las rtsa gsum spyi yi sṅon ʾgro</title>
+                     <title xml:lang="bo" type="alt">གནམ་ཆོས་ཐུགས་ཀྱི་གཏེར་ཁ་སྙན་བརྒྱུད་ཟབ་མོ་གུ་རུ་ཞི་བའི་སྐོར་ལས་རྩ་གསུམ་སྤྱི་ཡི་སྔོན་འགྲོ</title>
+                     <title xml:lang="">gnam chos thugs kyi gter kha bsnyan rgyud zab mo'i bskor las gsol 'debs byin rlabs char 'bebs</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt">gnam chos thugs kyi gter kha bsñan rgyud zab moʾi bskor las gsol ʾdebs byin rlabs char ʾbebs</title>
+                     <title xml:lang="bo" type="alt">གནམ་ཆོས་ཐུགས་ཀྱི་གཏེར་ཁ་བསྙན་རྒྱུད་ཟབ་མོའི་བསྐོར་ལས་གསོལ་འདེབས་བྱིན་རླབས་ཆར་འབེབས</title>
+                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
+                     </colophon>
+                     <textLang mainLang="bo">tibetan</textLang>
+                     <author/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="bp_pothi">
+                     <supportDesc material="chart">
+                        <extent>27 ff.<dimensions unit="cm" type="leaf"/>
+                           <dimensions type="written" unit="cm"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>bequest of W.Y.Evans-Wentz</p>
+                     <p>EW, Tibetan MS. no.37. Ritual.</p>
+                     <p>Tibetan MS. no.38. Ritual.</p>
+                     <p>Tibetan MS. no.39. Ritual.</p>
+                  </provenance>
+                  <acquisition>
+                     <date>1965</date>
+                     <p>bequest of W.Y.Evans-Wentz</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        </source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                     <custodialHist>
+                        <custEvent type="check"/>
+                     </custodialHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
+         </change>
+         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

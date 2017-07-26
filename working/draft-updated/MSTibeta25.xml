@@ -12,7 +12,7 @@
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="Gregorian"/>
+            <date calendar="Gregorian">Gregorian</date>
             <idno>UkOxU</idno>
             <idno type="msID">MSTibeta25</idno>
             <idno type="catalogue">Tibetan</idno>
@@ -78,16 +78,6 @@
                      </custodialHist>
                   </adminInfo>
                </additional>
-               <msPart xml:id="MSTibeta25-part1">
-                  <msIdentifier>
-                     <altIdentifier type="internal"/>
-                  </msIdentifier>
-                  <physDesc>
-                     <handDesc>
-                        <handNote script="dbu_can" scope="sole"/>
-                     </handDesc>
-                  </physDesc>
-               </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>

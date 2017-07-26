@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="Gregorian"/>
+            <date calendar="Gregorian">Gregorian</date>
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -83,11 +83,6 @@
                      </custodialHist>
                   </adminInfo>
                </additional>
-               <msPart xml:id="MSTibetd3-part1">
-                  <msIdentifier>
-                     <altIdentifier type="internal"/>
-                  </msIdentifier>
-               </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>

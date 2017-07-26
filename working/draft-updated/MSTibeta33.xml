@@ -28,7 +28,7 @@
                   </addrLine>
                </address>
             </pubPlace>
-            <date calendar="Gregorian"/>
+            <date calendar="Gregorian">Gregorian</date>
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -95,11 +95,6 @@
                      </custodialHist>
                   </adminInfo>
                </additional>
-               <msPart xml:id="MSTibeta33-part1" rend="invisible">
-                  <msIdentifier>
-                     <altIdentifier type="internal"/>
-                  </msIdentifier>
-               </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>

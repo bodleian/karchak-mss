@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_32">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title>rdzogs pa chen po kun bzang thug thig las byang bum sgrub dang na rak dong dkrugs [sprugs] kyi bskong bcas chu 'babs klag chog tu bkod pa 'phrin las bdud rtsi'i chu rgyun zhes bya ba</title>
+            <principal>
+               <persName>Gillian Evison</persName>
+            </principal>
+            <author>Rin chen rnam rgyal</author>
+         </titleStmt>
+         <publicationStmt><!--First publisher-->
+            <publisher>Bodleian Libraries</publisher>
+            <date calendar="#Gregorian">Gregorian</date>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MS_Tibet_b_15</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Tibet_b_15" xml:lang="en" rend="all">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Bodleian Library</institution>
+                  <collection>Oriental Manuscripts</collection>
+                  <idno/>
+               </msIdentifier>
+               <head>Dzogchen rite</head>
+               <msContents>
+                  <msItem xml:id="MS_Tibet_b_15-item1" class="Ceremonial rite">
+                     <locus from="1r" to="47v"/>
+                     <title xml:lang="">rdzogs pa chen po kun bzang thug thig las byang bum sgrub dang na rak dong dkrugs kyi bskong bcas chu 'babs klag chog tu bkod pa 'phrin las bdud rtsi'i chu rgyun zhes bya ba</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt">rdzogs pa chen po kun bzaṅ thug thig las byaṅ bum sgrub daṅ na rak doṅ dkrugs kyi bskoṅ bcas chu ʾbabs klag chog tu bkod pa ʾphrin las bdud rtsiʾi chu rgyun źes bya ba</title>
+                     <title xml:lang="bo" type="alt">རྫོགས་པ་ཆེན་པོ་ཀུན་བཟང་ཐུག་ཐིག་ལས་བྱང་བུམ་སྒྲུབ་དང་ན་རཀ་དོང་དཀྲུགས་ཀྱི་བསྐོང་བཅས་ཆུ་འབབས་ཀླག་ཆོག་ཏུ་བཀོད་པ་འཕྲིན་ལས་བདུད་རྩིའི་ཆུ་རྒྱུན་ཞེས་བྱ་བ</title>
+                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
+                     </colophon>
+                     <textLang mainLang="bo">tibetan</textLang>
+                     <author/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="bp_pothi">
+                     <supportDesc material="chart">
+                        <extent>47 ff.<dimensions unit="cm" type="leaf">
+                              <height>37.5</height>
+                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
+                        </extent>
+                        <condition>
+                           <p>damaged.</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <binding>
+                        <condition>Pasted on to guards, Western binding.</condition>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Schl. 82 "der englische Grenzbeamte, durch dessen Vermittlung es in Assam erworben wurde, gab als Gebrauchsanweisung die Benützung gegen Schwerkranke an."</p>
+                     <p>S.C. 26311</p>
+                  </provenance>
+                  <acquisition>
+                     <date>1885</date>
+                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        </source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                     <custodialHist>
+                        <custEvent type="check"/>
+                     </custodialHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
+         </change>
+         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_38">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title>sa bdag klu bnyan gyi byad grol</title>
+            <principal>
+               <persName>Gillian Evison</persName>
+            </principal>
+         </titleStmt>
+         <publicationStmt><!--First publisher-->
+            <publisher>Bodleian Libraries</publisher>
+            <date calendar="#Gregorian">Gregorian</date>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MS_Tibet_b_3</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Tibet_b_3" xml:lang="en" rend="all">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Bodleian Library</institution>
+                  <collection>Oriental Manuscripts</collection>
+                  <idno/>
+               </msIdentifier>
+               <head>A Bon work on liberating local spirits</head>
+               <msContents>
+                  <msItem xml:id="MS_Tibet_b_3-item1" class="ritual for liberating local spirits">
+                     <locus from="1r" to="9r"/>
+                     <title xml:lang="">sa bdag klu gnyan gyi byad grol</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt">sa bdag klu gñan gyi byad grol</title>
+                     <title xml:lang="bo" type="alt">ས་བདག་ཀླུ་གཉན་གྱི་བྱད་གྲོལ</title>
+                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
+                     </colophon>
+                     <note>for a comment on this ms. see A. Schiefner, "Bericht uber? eine im Sommer 1870 unternommene Reise", in Melanges? asiatiques, tome VI, 1873, pp. 289-290.</note>
+                     <textLang mainLang="bo">tibetan</textLang>
+                     <author/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="bp_pothi">
+                     <supportDesc material="chart">
+                        <extent>9 ff.<dimensions unit="cm" type="leaf">
+                              <height>39.75</height>
+                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
+                        </extent>
+                        <condition>
+                           <p>good.</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote script="dbu_can" scope="sole"/>
+                  </handDesc>
+                  <bindingDesc>
+                     <binding>
+                        <condition>Pasted on to guards, Western binding.</condition>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Schl. 47 "Erworben durch Chibu Lama."</p>
+                     <p>S.C. 26280</p>
+                  </provenance>
+                  <acquisition>
+                     <date>1885</date>
+                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        </source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                     <custodialHist>
+                        <custEvent type="check"/>
+                     </custodialHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
+         </change>
+         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_77">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title>mkha' 'gro gsang lam rang lus gzhan lus gyi khrid gzhung mngon 3 lag khrid</title>
+            <principal>
+               <persName>Gillian Evison</persName>
+            </principal>
+         </titleStmt>
+         <publicationStmt><!--First publisher-->
+            <publisher>Bodleian Libraries</publisher>
+            <date calendar="#Gregorian">Gregorian</date>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MS_Tibet_c_28</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Tibet_c_28" xml:lang="en" rend="all">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Bodleian Library</institution>
+                  <collection>Oriental Manuscripts</collection>
+                  <idno/>
+               </msIdentifier>
+               <head>Dakini esoteric instructions</head>
+               <msContents>
+                  <msItem xml:id="MS_Tibet_c_28-item1" class="Esoteric instructions">
+                     <locus from="1r" to="11v"/>
+                     <title xml:lang="">mkha' 'gro gsang lam rang lus gzhan lus gyi khrid gzhung mngon 3 lag khrid</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt">mkhaʾ ʾgro gsaṅ lam raṅ lus gźan lus gyi khrid gźuṅ mṅon 3 lag khrid</title>
+                     <title xml:lang="bo" type="alt">མཁའ་འགྲོ་གསང་ལམ་རང་ལུས་གཞན་ལུས་གྱི་ཁྲིད་གཞུང་མངོན ༣ ལག་ཁྲིད</title>
+                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
+                     </colophon>
+                     <textLang mainLang="bo">tibetan</textLang>
+                     <author/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="bp_pothi">
+                     <supportDesc material="chart">
+                        <extent>11 ff.<dimensions unit="cm" type="leaf">
+                              <height>32</height>
+                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>bequest of W.Y.Evans-Wentz</p>
+                     <p>Tibetan MS. No.35. E.W. Occultism.</p>
+                  </provenance>
+                  <acquisition>
+                     <date>1965</date>
+                     <p>bequest of W.Y.Evans-Wentz</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        </source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                     <custodialHist>
+                        <custEvent type="check"/>
+                     </custodialHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
+         </change>
+         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

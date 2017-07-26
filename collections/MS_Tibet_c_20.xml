@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_68">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title>sngags bsrung ma mo'i 'phrin las</title>
+            <principal>
+               <persName>Gillian Evison</persName>
+            </principal>
+         </titleStmt>
+         <publicationStmt><!--First publisher-->
+            <publisher>Bodleian Libraries</publisher>
+            <date calendar="#Gregorian">Gregorian</date>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MS_Tibet_c_20</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Tibet_c_20" xml:lang="en" rend="all">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Bodleian Library</institution>
+                  <collection>Oriental Manuscripts</collection>
+                  <idno/>
+               </msIdentifier>
+               <head>Ritual text for invoking Ma-mo activity</head>
+               <msContents>
+                  <msItem xml:id="MS_Tibet_c_20-item1" class="Meditation instructions">
+                     <locus from="1r" to="6v"/>
+                     <title xml:lang="">sngags bsrung ma mo'i 'phrin las</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt">sṅags bsruṅ ma moʾi ʾphrin las</title>
+                     <title xml:lang="bo" type="alt">སྔགས་བསྲུང་མ་མོའི་འཕྲིན་ལས</title>
+                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
+                     </colophon>
+                     <textLang mainLang="bo">tibetan</textLang>
+                     <author/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="bp_pothi">
+                     <supportDesc material="chart">
+                        <extent>5 ff.<dimensions unit="cm" type="leaf">
+                              <height>29</height>
+                              <width>5.5</width>
+                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <additions>
+                     <p>in margins: sngags bsrung</p>
+                  </additions>
+                  <bindingDesc>
+                     <binding>
+                        <condition>Pasted on to guards, Western binding.</condition>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Schl. 79 "gekauft Gasa, Central Tibet bei Mangnang."</p>
+                     <p>S.C. 26308</p>
+                  </provenance>
+                  <acquisition>
+                     <date>1885</date>
+                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        </source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                     <custodialHist>
+                        <custEvent type="check"/>
+                     </custodialHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
+         </change>
+         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

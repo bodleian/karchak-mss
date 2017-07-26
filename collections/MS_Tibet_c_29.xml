@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_78">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title>'di na dug nad gso ba bal po sman dkar gyi gdams pa dpa' bo chib thub</title>
+            <principal>
+               <persName>Gillian Evison</persName>
+            </principal>
+         </titleStmt>
+         <publicationStmt><!--First publisher-->
+            <publisher>Bodleian Libraries</publisher>
+            <date calendar="#Gregorian">Gregorian</date>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MS_Tibet_c_29</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Tibet_c_29" xml:lang="en" rend="all">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Bodleian Library</institution>
+                  <collection>Oriental Manuscripts</collection>
+                  <idno/>
+               </msIdentifier>
+               <head>Medical text</head>
+               <msContents>
+                  <msItem xml:id="MS_Tibet_c_29-item1" class="Medical text">
+                     <locus from="1r" to="9v"/>
+                     <title xml:lang="">'di na dug nad gso ba bal po sman dkar gyi gdams pa dpa' bo chib thub</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt">ʾdi na dug nad gso ba bal po sman dkar gyi gdams pa dpaʾ bo chib thub</title>
+                     <title xml:lang="bo" type="alt">འདི་ན་དུག་ནད་གསོ་བ་བལ་པོ་སྨན་དཀར་གྱི་གདམས་པ་དཔའ་བོ་ཆིབ་ཐུབ</title>
+                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
+                     </colophon>
+                     <textLang mainLang="bo">tibetan</textLang>
+                     <author/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="bp_pothi">
+                     <supportDesc material="chart">
+                        <extent>9 ff.<dimensions unit="cm" type="leaf">
+                              <height>31.2</height>
+                              <width>5.3</width>
+                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote script="dbu_med" scope="sole"/>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>bequest of W.Y.Evans-Wentz</p>
+                     <p>Tibetan MS. No.5. Medicine. EW</p>
+                  </provenance>
+                  <acquisition>
+                     <date>1965</date>
+                     <p>bequest of W.Y.Evans-Wentz</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        </source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                     <custodialHist>
+                        <custEvent type="check"/>
+                     </custodialHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
+         </change>
+         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

@@ -19,7 +19,7 @@
   <xsl:variable name="catdir" select="'tibetan'"/>
 
   <xsl:template match="msDesc/msIdentifier/idno">
-    <idno></idno>
+    <idno><xsl:value-of select="replace(., '\.', '. ')"/></idno>
 </xsl:template>
   
 

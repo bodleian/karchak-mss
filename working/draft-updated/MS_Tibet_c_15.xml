@@ -28,7 +28,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Bodleian Library</institution>
                   <collection>Oriental Manuscripts</collection>
-                  <idno/>
+                  <idno>MS. Tibet. c. 15</idno>
                </msIdentifier>
                <head>Klong-chen-pa text extolling Sikkim, tea and beer; pious verses by a Zhwa-dmar-pa</head>
                <msContents>
@@ -90,7 +90,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change when="2017-07-26">
+         <change when="2017-07-28">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
          <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>

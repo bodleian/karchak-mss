@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 57</idno>
                </msIdentifier>
-               <head><persName>Lama Kazi Dawa Samdup</persName> translation draft: section of Milarepa's Rnam thar</head>
+               <head><persName>Lama Kazi Dawa Samdup</persName> translation draft: section of <persName>Milarepa</persName>'s Rnam thar</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_57-item1" class="Translation draft">
                      <locus from="1r" to="19v"/>
@@ -56,7 +56,7 @@
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of <persName role="dnr">W.Y.Evans-Wentz</persName></p>
+                     <p>Bequest of <persName role="dnr fmo">W.Y.Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>

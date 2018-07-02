@@ -36,11 +36,8 @@
                      <title xml:lang="">sa bdag klu gnyan gyi byad grol</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">sa bdag klu gñan gyi byad grol</title>
                      <title xml:lang="bo" type="alt">ས་བདག་ཀླུ་གཉན་གྱི་བྱད་གྲོལ</title>
-                     
-
-                     <note>for a comment on this ms. see A. Schiefner, "Bericht uber? eine im Sommer 1870 unternommene Reise", in Melanges? asiatiques, tome VI, 1873, pp. 289-290.</note>
+                     <note>for a comment on this ms. see <bibl>A. Schiefner, "Bericht uber? eine im Sommer 1870 unternommene Reise", in Melanges? asiatiques, tome VI, 1873, pp. 289-290.</bibl></note>
                      <textLang mainLang="bo">tibetan</textLang>
-                     
                   </msItem>
                </msContents>
                <physDesc>
@@ -67,12 +64,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Schl. 47 "Erworben durch Chibu Lama."</p>
+                     <p>Schl. 47 "Erworben durch <persName role="fmo">Chibu Lama</persName>."</p>
                      <p>S.C. 26280</p>
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>

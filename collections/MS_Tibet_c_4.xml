@@ -60,7 +60,7 @@
                      <handNote script="dbu_can" scope="sole"/>
                   </handDesc>
                   <additions>
-                     <p>last folio has "Bl.7" on, written in Schlagintweit's hand.</p>
+                     <p>last folio has "Bl.7" on, written in <persName>Schlagintweit</persName>'s hand.</p>
                   </additions>
                   <bindingDesc>
                      <binding>
@@ -70,12 +70,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Schl. 39 "aus Sikkim."</p>
+                     <p>Schl. 39 "aus <placeName>Sikkim</placeName>."</p>
                      <p>S.C. 26272</p>
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>

@@ -59,12 +59,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Donated by the Government of India, 25 Sept 1905</p>
+                     <p>Donated by the <orgName role="dnr fmo">Government of India</orgName>, <date when="1905-09-25" calendar="#Gregorian">25 Sept 1905</date></p>
                      <p>S.C. 33623, 33717</p>
                   </provenance>
                   <acquisition>
                      <date when="1905" calendar="#Gregorian">1905</date>
-                     <p>donated by Government of India</p>
+                     <p>donated by <orgName role="dnr fmo">Government of India</orgName></p>
                   </acquisition>
                </history>
                <additional>

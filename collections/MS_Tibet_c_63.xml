@@ -46,7 +46,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 63</idno>
                </msIdentifier>
-               <head>6th Dalai Lama poems</head>
+               <head><persName>6th Dalai Lama</persName> poems</head>
                <msContents class="Poems">
                   <msItem xml:id="MS_Tibet_c_63-item1" class="Poems" rend="visible">
                      <locus from="1r" to="10r"/>
@@ -75,7 +75,7 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>H.E. Richardson Estate</p>
+                     <p><persName role="fmo">H.E. Richardson</persName> Estate</p>
                   </provenance>
                   <acquisition>
                      <date when="2001" calendar="#Gregorian">2001</date>

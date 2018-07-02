@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 22</idno>
                </msIdentifier>
-               <head>Biography in prose of Padmasambhava</head>
+               <head>Biography in prose of <persName>Padmasambhava</persName></head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_22-item1" class="Biography">
                      <locus from="1r" to="159v"/>
@@ -72,7 +72,7 @@
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>

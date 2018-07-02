@@ -29,7 +29,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. b. 11</idno>
                </msIdentifier>
-               <head>Praise of Sikkim, and Nyingma prayers</head>
+               <head>Praise of <placeName>Sikkim</placeName>, and Nyingma prayers</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_b_11-item1" class="Praise and prayers">
                      <locus from="1r" to="12v"/>
@@ -61,12 +61,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Schl. 70 "Ein Geschichtswerk u?ber Sikkim nach Angabe beim Kauf in Pemiongchi."</p>
+                      <p>Schl. 70 "Ein Geschichtswerk u?ber <placeName>Sikkim</placeName> nach Angabe beim Kauf in <orgName role="fmo">Pemiongchi</orgName>."</p>
                      <p>S.C. 26303</p>
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>

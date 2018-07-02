@@ -5,7 +5,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>Epistles of NAgArjuna</title>
+            <title>Epistles of <persName>NAgArjuna</persName></title>
             <principal>
                <persName>Gillian Evison</persName>
             </principal>
@@ -30,11 +30,11 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 40</idno>
                </msIdentifier>
-               <head><persName>Lama Kazi Dawa Samdup</persName> translation and notes of Nagarjuna's Epistles</head>
+               <head><persName>Lama Kazi Dawa Samdup</persName> translation and notes of <persName>Nagarjuna</persName>'s Epistles</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_40-item1" class="Translation &amp; notes">
                      <locus from="1r" to="66v"/>
-                     <title xml:lang="en">Epistles of NAgArjuna</title>
+                     <title xml:lang="en">Epistles of <persName>NAgArjuna</persName></title>
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
@@ -64,7 +64,7 @@
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of <persName role="dnr">W.Y. Evans-Wentz</persName></p>
+                     <p>Bequest of <persName role="dnr fmo">W.Y. Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>

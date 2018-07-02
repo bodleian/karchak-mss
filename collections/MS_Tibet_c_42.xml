@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 42</idno>
                </msIdentifier>
-               <head>Translated biography of Padmasambhava</head>
+               <head>Translated biography of <persName>Padmasambhava</persName></head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_42-item1" class="Biography translation">
                      <locus from="1r" to="91v"/>
@@ -65,7 +65,7 @@
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of <persName role="dnr">W.Y. Evans-Wentz</persName></p>
+                     <p>Bequest of <persName role="dnr fmo">W.Y. Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>

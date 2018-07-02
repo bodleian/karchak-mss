@@ -67,12 +67,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Schl. 68 "In Sikkim gekauft mit der Angabe: 'when a man is very sick, a Lama reads this, by which the man's life is prolongated'."</p>
+                     <p>Schl. 68 "In <placeName>Sikkim</placeName> gekauft mit der Angabe: 'when a man is very sick, a Lama reads this, by which the man's life is prolongated'."</p>
                      <p>S.C. 26301</p>
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>

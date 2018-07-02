@@ -61,12 +61,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Schl. 58 "in Sikkim erworben."</p>
+                     <p>Schl. 58 "in <placeName>Sikkim</placeName> erworben."</p>
                      <p>S.C. 262909</p>
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>

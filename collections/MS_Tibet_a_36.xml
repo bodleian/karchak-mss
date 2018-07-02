@@ -46,7 +46,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 36</idno>
                </msIdentifier>
-               <head>Nagarjuna collection</head>
+               <head><persName>Nagarjuna</persName> collection</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_a_36-item1" class="Doctrine" rend="visible">
                      <locus from="1r" to="459r"/>
@@ -76,7 +76,7 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>H.E. Richardson Estate</p>
+                     <p><persName role="fmo">H.E. Richardson</persName> Estate</p>
                   </provenance>
                   <acquisition>
                      <date when="2001" calendar="#Gregorian">2001</date>

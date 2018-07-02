@@ -61,12 +61,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Schl. 35 "Gekauft in? Leh."</p>
+                     <p>Schl. 35 "Gekauft in? <placeName>Leh</placeName>."</p>
                      <p>S.C. 26268.</p>
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>R.H. &amp; A. Schlagintweit</p>
+                     <p><persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>

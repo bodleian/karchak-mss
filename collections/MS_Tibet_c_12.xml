@@ -60,12 +60,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Schl. 59 "aus Darjiling."</p>
+                     <p>Schl. 59 "aus <placeName>Darjiling</placeName>."</p>
                      <p>S.C. 26291</p>
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>

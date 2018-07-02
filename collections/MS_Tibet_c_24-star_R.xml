@@ -50,12 +50,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>purchase from Oxfam, June 1990</p>
+                     <p>purchase from <orgName role="fmo">Oxfam</orgName>, <date when="1990-06" calendar="#Gregorian">June 1990</date></p>
                      <p>S.C. note after 33644</p>
                   </provenance>
                   <acquisition>
                      <date when="1990" calendar="#Gregorian">1990</date>
-                     <p>purchase from Oxfam</p>
+                     <p>purchase from <orgName role="fmo">Oxfam</orgName></p>
                   </acquisition>
                </history>
                <additional>

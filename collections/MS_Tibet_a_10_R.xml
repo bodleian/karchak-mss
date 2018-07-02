@@ -43,7 +43,8 @@
                      <author>
                         <persName>ngag dbang 'jigs rten dbang phyug grags pa'i rdo rje</persName>
                         <persName>ṅag dbaṅ ʾjigs rten dbaṅ phyug grags paʾi rdo rje</persName>
-                        <persName>ངག་དབང་འཇིགས་རྟེན་དབང་ཕྱུག་གྲགས་པའི་རྡོ་རྗེ</persName></author>
+                        <persName>ངག་དབང་འཇིགས་རྟེན་དབང་ཕྱུག་གྲགས་པའི་རྡོ་རྗེ</persName>
+                     </author>
                   </msItem>
                </msContents>
                <physDesc>
@@ -63,7 +64,7 @@
                   </provenance>
                   <acquisition>
                      <date when="1905-09-25" calendar="#Gregorian">25 Sept. 1905</date>
-                     <p>donation by the Government of India (listed as 'a book of synonyms').</p>
+                     <p>donation by the <orgName role="dnr fmo">Government of India</orgName> (listed as 'a book of synonyms').</p>
                   </acquisition>
                </history>
                <additional>

@@ -60,12 +60,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Donated by Rev. W. Asboe, 19 Aug. 1947</p>
+                     <p>Donated by <persName role="dnr fmo">Rev. W. Asboe</persName>, <date when="1947-08-19" calendar="#Gregorian">19 Aug. 1947</date></p>
                   </provenance>
                   <acquisition>
                      <date when="1947" calendar="#Gregorian">1947</date>
-                     <p>Donated by Rev. W. Asboe</p>
-                     <p>boxed at the expense of Friends of the Bodleian Library, Nov. 1994.</p>
+                     <p>Donated by <persName role="dnr fmo">Rev. W. Asboe</persName></p>
+                     <p>boxed at the expense of <orgName>Friends of the Bodleian Library</orgName>, <date when="1994-11" calendar="#Gregorian">Nov. 1994</date>.</p>
                   </acquisition>
                </history>
                <additional>

@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 10</idno>
                </msIdentifier>
-               <head>Padmasambhava writings</head>
+               <head><persName>Padmasambhava</persName> writings</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_10-item1" class="Rites">
                      <locus from="1r" to="32v"/>
@@ -66,7 +66,7 @@
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>

@@ -37,10 +37,9 @@
                      <title xml:lang="">rdzogs pa chen po kun bzang thug thig las byang bum sgrub dang na rak dong dkrugs kyi bskong bcas chu 'babs klag chog tu bkod pa 'phrin las bdud rtsi'i chu rgyun zhes bya ba</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">rdzogs pa chen po kun bzaṅ thug thig las byaṅ bum sgrub daṅ na rak doṅ dkrugs kyi bskoṅ bcas chu ʾbabs klag chog tu bkod pa ʾphrin las bdud rtsiʾi chu rgyun źes bya ba</title>
                      <title xml:lang="bo" type="alt">རྫོགས་པ་ཆེན་པོ་ཀུན་བཟང་ཐུག་ཐིག་ལས་བྱང་བུམ་སྒྲུབ་དང་ན་རཀ་དོང་དཀྲུགས་ཀྱི་བསྐོང་བཅས་ཆུ་འབབས་ཀླག་ཆོག་ཏུ་བཀོད་པ་འཕྲིན་ལས་བདུད་རྩིའི་ཆུ་རྒྱུན་ཞེས་བྱ་བ</title>
-                     
-
+                     <author>Rin chen rnam rgyal</author>
+                     <!-- Author copied from titleStmt, please check this is correct -->
                      <textLang mainLang="bo">tibetan</textLang>
-                     
                   </msItem>
                </msContents>
                <physDesc>
@@ -69,7 +68,7 @@
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>

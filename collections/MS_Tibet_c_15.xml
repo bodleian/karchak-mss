@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 15</idno>
                </msIdentifier>
-               <head>Klong-chen-pa text extolling Sikkim, tea and beer; pious verses by a Zhwa-dmar-pa</head>
+               <head><persName>Klong-chen-pa</persName> text extolling <placeName>Sikkim</placeName>, tea and beer; pious verses by a Zhwa-dmar-pa</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_15-item1" class="Meditation instructions">
                      <locus from="1r" to="12v"/>
@@ -73,7 +73,7 @@
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>

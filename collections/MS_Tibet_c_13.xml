@@ -55,12 +55,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Schl. 62 "Durch Chibu Lama erworberen."</p>
+                     <p>Schl. 62 "Durch <persName role="fmo">Chibu Lama</persName> erworberen."</p>
                      <p>S.C. 26294</p>
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>

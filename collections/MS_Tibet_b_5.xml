@@ -69,12 +69,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Schl. 50 "von Chibu Lama erhalten."</p>
+                     <p>Schl. 50 "von <persName role="fmo">Chibu Lama</persName> erhalten."</p>
                      <p>S.C. 26283</p>
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from R.H. &amp; A. Schlagintweit</p>
+                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>

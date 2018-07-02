@@ -29,7 +29,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 36</idno>
                </msIdentifier>
-               <head>Padmasambhava ritual</head>
+               <head><persName>Padmasambhava</persName> ritual</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_36-item1" class="Meditation instructions">
                      <locus from="1r" to="68v"/>
@@ -61,7 +61,7 @@
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>bequest of <persName role="dnr">W.Y.Evans-Wentz</persName></p>
+                     <p>bequest of <persName role="dnr fmo">W.Y.Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>

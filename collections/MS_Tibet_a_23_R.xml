@@ -53,12 +53,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Acquired 1907</p>
+                     <p>Acquired <date when="1907" calendar="#Gregorian">1907</date></p>
                      <p>S.C. 34025 (under the inaccurate description 'History of the Tibetan king Song Tsan Gampo, vol.2' )</p>
                   </provenance>
                   <acquisition>
                      <date when="1907" calendar="#Gregorian">1907</date>
-                     <p>Acquired 1907</p>
+                     <p>Acquired <date when="1907" calendar="#Gregorian">1907</date></p>
                   </acquisition>
                </history>
                <additional>

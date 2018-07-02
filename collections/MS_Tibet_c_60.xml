@@ -29,7 +29,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 60</idno>
                </msIdentifier>
-               <head>W.Y.Evans-Wentz's copy of Bar do thos grol text</head>
+               <head><persName>W.Y.Evans-Wentz</persName>'s copy of Bar do thos grol text</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_60-item1" class="Tibetan text">
                      <locus from="1r" to="137v"/>
@@ -56,11 +56,11 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Bequest of W.Y.Evans-Wentz</p>
+                     <p>Bequest of <persName>W.Y.Evans-Wentz</persName></p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of W.Y.Evans-Wentz</p>
+                     <p>Bequest of <persName role="dnr">W.Y.Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>

@@ -46,7 +46,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 35</idno>
                </msIdentifier>
-               <head>Life of Nagwang Yontan Thaye Namgyal, 18thC</head>
+               <head>Life of <persName>Nagwang Yontan Thaye Namgyal</persName>, 18thC</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_a_35-item1" class="Namtar" rend="visible">
                      <locus from="1r" to="136r"/>

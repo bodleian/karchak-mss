@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 44</idno>
                </msIdentifier>
-               <head>Evans-Wentz lecture on re-birth</head>
+               <head><persName>Evans-Wentz</persName> lecture on re-birth</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_44-item1" class="Lecture with notes">
                      <locus from="1r" to="82v"/>
@@ -55,12 +55,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Bequest of W.Y. Evans-Wentz</p>
+                     <p>Bequest of <persName>W.Y. Evans-Wentz</persName></p>
                      <p>E.W. 59</p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of W.Y. Evans-Wentz</p>
+                     <p>Bequest of <persName role="dnr">W.Y. Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>

@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 45, 46</idno>
                </msIdentifier>
-               <head>Lama Kazi Dawa Samdup's translation of Milarepa biography</head>
+               <head><persName>Lama Kazi Dawa Samdup</persName>'s translation of Milarepa biography</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_a_45_46-item1" class="Biography translation">
                      <locus from="1r" to="265v"/>

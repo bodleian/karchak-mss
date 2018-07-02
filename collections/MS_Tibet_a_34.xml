@@ -46,7 +46,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 34</idno>
                </msIdentifier>
-               <head>Life of Nagwang Namgyal, Bhutan 17thC</head>
+               <head>Life of <persName>Nagwang Namgyal</persName>, Bhutan 17thC</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_a_34-item1" class="Namtar" rend="visible">
                      <locus from="1r" to="151r"/>

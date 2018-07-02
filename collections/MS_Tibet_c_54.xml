@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 54</idno>
                </msIdentifier>
-               <head>Lama Kazi Dawa Samdup translation typescript</head>
+               <head><persName>Lama Kazi Dawa Samdup</persName> translation typescript</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_54-item1" class="Translation typescript">
                      <locus from="1r" to="26v"/>
@@ -57,12 +57,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Bequest of W.Y.Evans-Wentz</p>
+                     <p>Bequest of <persName>W.Y.Evans-Wentz</persName></p>
                      <p>earlier labelling E.W. 56</p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of W.Y.Evans-Wentz</p>
+                     <p>Bequest of <persName role="dnr">W.Y.Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>

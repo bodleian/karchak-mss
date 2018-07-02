@@ -57,12 +57,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Bequest of W.Y. Evans-Wentz</p>
+                     <p>Bequest of <persName>W.Y. Evans-Wentz</persName></p>
                      <p>E.W. 25</p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of W.Y. Evans-Wentz</p>
+                     <p>Bequest of <persName role="dnr">W.Y. Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>

@@ -60,14 +60,14 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>bequest of W.Y.Evans-Wentz</p>
+                     <p>bequest of <persName>W.Y.Evans-Wentz</persName></p>
                      <p>EW, Tibetan MS. no.37. Ritual.</p>
                      <p>Tibetan MS. no.38. Ritual.</p>
                      <p>Tibetan MS. no.39. Ritual.</p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>bequest of W.Y.Evans-Wentz</p>
+                     <p>bequest of <persName role="dnr">W.Y.Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>

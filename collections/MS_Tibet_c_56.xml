@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 56</idno>
                </msIdentifier>
-               <head>Lama Kazi Dawa Samdup early draft translation: Lam mchog rin po che'i 'phreng ba</head>
+               <head><persName>Lama Kazi Dawa Samdup</persName> early draft translation: Lam mchog rin po che'i 'phreng ba</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_56-item1" class="Translation draft">
                      <locus from="1r" to="43v"/>
@@ -57,11 +57,11 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Bequest of W.Y.Evans-Wentz</p>
+                     <p>Bequest of <persName>W.Y.Evans-Wentz</persName></p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of W.Y.Evans-Wentz</p>
+                     <p>Bequest of <persName role="dnr">W.Y.Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>

@@ -29,7 +29,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 37</idno>
                </msIdentifier>
-               <head>Four texts copied by Lama Kazi Dawa Samdup</head>
+               <head>Four texts copied by <persName>Lama Kazi Dawa Samdup</persName></head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_37-item1" class="Variety of texts">
                      <locus from="1r" to="31v"/>
@@ -56,12 +56,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Bequest of W.Y. Evans-Wentz</p>
+                     <p>Bequest of <persName>W.Y. Evans-Wentz</persName></p>
                      <p>E.W. 75</p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of W.Y. Evans-Wentz</p>
+                     <p>Bequest of <persName role="dnr">W.Y. Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>

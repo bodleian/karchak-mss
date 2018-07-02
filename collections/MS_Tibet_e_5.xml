@@ -12,7 +12,7 @@
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="#Gregorian">Gregorian</date>
+            
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -59,7 +59,7 @@
                      <p>S.C. 30986</p>
                   </provenance>
                   <acquisition>
-                     <date>1888?</date>
+                     <date when="1888" cert="medium" calendar="#Gregorian">1888?</date>
                   </acquisition>
                </history>
                <additional>

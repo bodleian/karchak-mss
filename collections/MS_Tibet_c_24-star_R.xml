@@ -5,14 +5,14 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>Document and copies relating to the Tibetan expedition of Sir F.Younghusband</title>
+            <title>Document and copies relating to the Tibetan expedition of <persName>Sir F.Younghusband</persName></title>
             <principal>
                <persName>Gillian Evison</persName>
             </principal>
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="#Gregorian">Gregorian</date>
+            
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -29,10 +29,10 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 24* (R)</idno>
                </msIdentifier>
-               <head>Tibetan letter relating to Younghusband, and copies</head>
+               <head>Tibetan letter relating to <persName>Younghusband</persName>, and copies</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_24-star_R-item1" class="Letters">
-                     <title xml:lang="en">Document and copies relating to the Tibetan expedition of Sir F.Younghusband</title>
+                     <title xml:lang="en">Document and copies relating to the Tibetan expedition of <persName>Sir F.Younghusband</persName></title>
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
@@ -54,7 +54,7 @@
                      <p>S.C. note after 33644</p>
                   </provenance>
                   <acquisition>
-                     <date>1990</date>
+                     <date when="1990" calendar="#Gregorian">1990</date>
                      <p>purchase from Oxfam</p>
                   </acquisition>
                </history>

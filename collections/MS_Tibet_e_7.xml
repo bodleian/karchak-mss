@@ -12,7 +12,7 @@
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="#Gregorian">Gregorian</date>
+            
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -59,7 +59,7 @@
                      <p>S.C. 28030</p>
                   </provenance>
                   <acquisition>
-                     <date>1806</date>
+                     <date when="1806" calendar="#Gregorian">1806</date>
                      <p>purchased from Prof. Joseph White</p>
                   </acquisition>
                </history>

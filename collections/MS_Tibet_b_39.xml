@@ -28,7 +28,7 @@
                   </addrLine>
                </address>
             </pubPlace>
-            <date calendar="#Gregorian">Gregorian</date>
+            
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -79,7 +79,7 @@
                      <p>H.E. Richardson Estate</p>
                   </provenance>
                   <acquisition>
-                     <date>2001</date>
+                     <date when="2001" calendar="#Gregorian">2001</date>
                   </acquisition>
                </history>
                <additional>

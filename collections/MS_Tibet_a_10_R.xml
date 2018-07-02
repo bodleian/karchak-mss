@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="#Gregorian">Gregorian</date>
+            
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -62,7 +62,7 @@
                      <p>S.C. 26315</p>
                   </provenance>
                   <acquisition>
-                     <date>25 Sept. 1905</date>
+                     <date when="1905-09-25" calendar="#Gregorian">25 Sept. 1905</date>
                      <p>donation by the Government of India (listed as 'a book of synonyms').</p>
                   </acquisition>
                </history>

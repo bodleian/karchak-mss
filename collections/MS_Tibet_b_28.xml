@@ -12,7 +12,7 @@
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="#Gregorian">Gregorian</date>
+            
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -54,7 +54,7 @@
                </physDesc>
                <history>
                   <acquisition>
-                     <date>2 June 1943</date>
+                     <date when="1943-06-02" calendar="#Gregorian">2 June 1943</date>
                      <p>gift of Col. W. Ryder</p>
                   </acquisition>
                </history>

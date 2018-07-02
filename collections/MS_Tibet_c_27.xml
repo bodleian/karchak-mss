@@ -12,7 +12,7 @@
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="#Gregorian">Gregorian</date>
+            
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -70,7 +70,7 @@
                      <p>Tibetan MS. No.42. Ritual.</p>
                   </provenance>
                   <acquisition>
-                     <date>1965</date>
+                     <date when="1965" calendar="#Gregorian">1965</date>
                      <p>bequest of W.Y.Evans-Wentz</p>
                   </acquisition>
                </history>

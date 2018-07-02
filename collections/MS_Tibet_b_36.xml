@@ -12,7 +12,7 @@
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="#Gregorian">Gregorian</date>
+            
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -56,7 +56,7 @@
                </physDesc>
                <history>
                   <acquisition>
-                     <date>1995</date>
+                     <date when="1995" calendar="#Gregorian">1995</date>
                      <p>purchased from James Singer</p>
                   </acquisition>
                </history>

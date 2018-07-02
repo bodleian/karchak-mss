@@ -5,14 +5,14 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>Facsimile copies of documents relating to the Tibetan expedition of Sir F.Younghusband</title>
+            <title>Facsimile copies of documents relating to the Tibetan expedition of <persName>Sir F.Younghusband</persName></title>
             <principal>
                <persName>Gillian Evison</persName>
             </principal>
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="#Gregorian">Gregorian</date>
+            
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -29,10 +29,10 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 24 (R)</idno>
                </msIdentifier>
-               <head>Copies of Tibetan letters relating to Younghusband</head>
+               <head>Copies of Tibetan letters relating to <persName>Younghusband</persName></head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_24_R-item1">
-                     <title xml:lang="en">Copies of documents relating to the Tibetan expedition of Sir F.Younghusband</title>
+                     <title xml:lang="en">Copies of documents relating to the Tibetan expedition of <persName>Sir F.Younghusband</persName></title>
                      
 
                      <textLang mainLang="bo" otherLangs="en">tibetan</textLang>
@@ -52,12 +52,12 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>sent from Lhasa (1904) by Sir F.Younghusband, covering letters by Sir William Herschel, Valentine Magniac</p>
+                     <p>sent from <placeName>Lhasa</placeName> (<date when="1904" calendar="#Gregorian">1904</date>) by <persName>Sir F.Younghusband</persName>, covering letters by <persName>Sir William Herschel</persName>, <persName>Valentine Magniac</persName></p>
                      <p>S.C. note after 33644</p>
                   </provenance>
                   <acquisition>
-                     <date>1905</date>
-                     <p>don. Valentine Magniac</p>
+                     <date when="1905" calendar="#Gregorian">1905</date>
+                     <p>don. <persName role="dnr">Valentine Magniac</persName></p>
                   </acquisition>
                </history>
                <additional>

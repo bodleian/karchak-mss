@@ -12,7 +12,7 @@
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="#Gregorian">Gregorian</date>
+            
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -63,7 +63,7 @@
                      <p>S.C. 33623, 33717</p>
                   </provenance>
                   <acquisition>
-                     <date>1905</date>
+                     <date when="1905" calendar="#Gregorian">1905</date>
                      <p>donated by Government of India</p>
                   </acquisition>
                </history>

@@ -12,7 +12,7 @@
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="#Gregorian">Gregorian</date>
+            
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -59,7 +59,7 @@
                      <p>E.W. 13</p>
                   </provenance>
                   <acquisition>
-                     <date>18965</date>
+                     <date when="8965" calendar="#Gregorian">18965</date>
                      <p>Bequest of W.Y. Evans-Wentz</p>
                   </acquisition>
                </history>

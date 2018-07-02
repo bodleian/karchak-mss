@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="#Gregorian">Gregorian</date>
+            
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -72,7 +72,7 @@
                      <p>S.C. 26297</p>
                   </provenance>
                   <acquisition>
-                     <date>1885</date>
+                     <date when="1885" calendar="#Gregorian">1885</date>
                      <p>purchased from R.H. &amp; A. Schlagintweit</p>
                   </acquisition>
                </history>

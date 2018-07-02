@@ -12,7 +12,7 @@
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
-            <date calendar="#Gregorian">Gregorian</date>
+            
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
@@ -57,7 +57,7 @@
                      <p>S.C. 34025 (under the inaccurate description 'History of the Tibetan king Song Tsan Gampo, vol.2' )</p>
                   </provenance>
                   <acquisition>
-                     <date>1907</date>
+                     <date when="1907" calendar="#Gregorian">1907</date>
                      <p>Acquired 1907</p>
                   </acquisition>
                </history>

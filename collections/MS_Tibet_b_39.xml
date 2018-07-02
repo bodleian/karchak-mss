@@ -46,7 +46,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. b. 39</idno>
                </msIdentifier>
-               <head>Sras-mkhar-dgu-thog guide</head>
+               <head><orgName>Sras-mkhar-dgu-thog</orgName> guide</head>
                <msContents class="Place guide">
                   <msItem xml:id="MS_Tibet_b_39-item1" class="Place guide" rend="visible">
                      <locus from="1r" to="27v"/>

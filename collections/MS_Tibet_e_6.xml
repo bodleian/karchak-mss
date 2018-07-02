@@ -53,13 +53,13 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Acquired by purchase from Prof. Joseph White, 17 May 1806</p>
-                     <p>Placed in the MS.Tibet collection in 1901</p>
+                     <p>Acquired by purchase from <persName role="fmo">Prof. Joseph White</persName>, <date when="1806-05-17" calendar="#Gregorian">17 May 1806</date></p>
+                     <p>Placed in the MS.Tibet collection in <date when="1901" calendar="#Gregorian">1901</date></p>
                      <p>S.C. 28029</p>
                   </provenance>
                   <acquisition>
                      <date when="1806" calendar="#Gregorian">1806</date>
-                     <p>purchased from Prof. Joseph White</p>
+                     <p>purchased from <persName role="fmo">Prof. Joseph White</persName></p>
                   </acquisition>
                </history>
                <additional>

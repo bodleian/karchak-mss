@@ -63,7 +63,7 @@
                   </provenance>
                   <acquisition>
                      <date when="1888" calendar="#Gregorian">1888</date>
-                     <p>purchased from K.W. Hiersemann</p>
+                     <p>purchased from <persName role="fmo">K.W. Hiersemann</persName></p>
                   </acquisition>
                </history>
                <additional>

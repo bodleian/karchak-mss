@@ -57,7 +57,7 @@
                <history>
                   <acquisition>
                      <date when="1995" calendar="#Gregorian">1995</date>
-                     <p>purchased from James Singer</p>
+                     <p>purchased from <persName role="fmo">James Singer</persName></p>
                   </acquisition>
                </history>
                <additional>

@@ -48,9 +48,7 @@
                </msIdentifier>
                <head>Kadam collection volume 1 (Ka)</head>
                <msContents>
-                  <msItem xml:id="MS_Tibet_a_30-item1"
-                          class="Kadam collection volume 1 (Ka)"
-                          rend="visible">
+                  <msItem xml:id="MS_Tibet_a_30-item1" class="Kadam collection volume 1 (Ka)" rend="visible">
                      <locus from="1r" to="256r"/>
                      <title xml:lang="">'Brom ston pa rgyal ba'i 'byung gnas kyi skyes rabs bka' gdams bu chos le'u nyi shu pa bzhugs so</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt"/>
@@ -64,7 +62,7 @@
                <physDesc>
                   <objectDesc form="bp_pothi">
                      <supportDesc material="chart">
-                        <extent>258 ff.<dimensions unit="cm" type="leaf">
+                        <extent>258 ff. <dimensions unit="cm" type="leaf">
                               <height>54.5</height>
                            </dimensions>
                            <dimensions type="written" unit="cm"/>
@@ -86,7 +84,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by<persName>CEM</persName>
+                        <source>converted from master records created by <persName>CEM</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -104,7 +102,7 @@
          <change when="2017-07-28">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
-         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         <change>entry created by <persName key="TBRC_1234">Charles Manson</persName>
          </change>
       </revisionDesc>
    </teiHeader>

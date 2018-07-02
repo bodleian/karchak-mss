@@ -45,7 +45,7 @@
                <physDesc>
                   <objectDesc form="bp_pothi">
                      <supportDesc material="chart">
-                        <extent>22 ff.<dimensions unit="cm" type="leaf">
+                        <extent>22 ff. <dimensions unit="cm" type="leaf">
                               <height>22</height>
                            </dimensions>
                            <dimensions type="written" unit="cm"/>
@@ -71,7 +71,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName>JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -89,7 +89,7 @@
          <change when="2017-07-28">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
-         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         <change>entry created by <persName key="TBRC_1234">Charles Manson</persName>
          </change>
       </revisionDesc>
    </teiHeader>

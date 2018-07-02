@@ -48,9 +48,7 @@
                </msIdentifier>
                <head>Kadam collection volume 2 (Kha)</head>
                <msContents>
-                  <msItem xml:id="MS_Tibet_a_31-item1"
-                          class="Kadam collection volume 2 (Kha)"
-                          rend="visible">
+                  <msItem xml:id="MS_Tibet_a_31-item1" class="Kadam collection volume 2 (Kha)" rend="visible">
                      <locus from="1r" to="149r"/>
                      <title xml:lang="">Bka' rgya/ Khu chos gnyis/ Lung bstan/ Rdor glu/ Kha skong rnams bzhugs so/</title>
                      <title xml:lang="bo" type="alt"/>
@@ -64,7 +62,7 @@
                <physDesc>
                   <objectDesc form="bp_pothi">
                      <supportDesc material="chart">
-                        <extent>149 ff.<dimensions unit="cm" type="leaf">
+                        <extent>149 ff. <dimensions unit="cm" type="leaf">
                               <height>54.5</height>
                            </dimensions>
                            <dimensions type="written" unit="cm"/>
@@ -86,7 +84,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by<persName>CEM</persName>
+                        <source>converted from master records created by <persName>CEM</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -104,7 +102,7 @@
          <change when="2017-07-28">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
-         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         <change>entry created by <persName key="TBRC_1234">Charles Manson</persName>
          </change>
       </revisionDesc>
    </teiHeader>

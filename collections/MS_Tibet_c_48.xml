@@ -32,8 +32,7 @@
                </msIdentifier>
                <head>Lama Kazi Dawa Samdup translation of Mahamudra text</head>
                <msContents>
-                  <msItem xml:id="MS_Tibet_c_48-item1"
-                          class="Meditation instructions translation">
+                  <msItem xml:id="MS_Tibet_c_48-item1" class="Meditation instructions translation">
                      <locus from="1r" to="35v"/>
                      <title xml:lang="">phyag chen gyi zin bris</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">phyag chen gyi zin bris</title>
@@ -49,7 +48,7 @@
                <physDesc>
                   <objectDesc form="typescript">
                      <supportDesc material="chart">
-                        <extent>35 ff.<dimensions unit="cm" type="leaf"/>
+                        <extent>35 ff. <dimensions unit="cm" type="leaf"/>
                            <dimensions type="written" unit="cm"/>
                         </extent>
                      </supportDesc>
@@ -67,7 +66,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName>JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -85,7 +84,7 @@
          <change when="2017-07-28">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
-         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         <change>entry created by <persName key="TBRC_1234">Charles Manson</persName>
          </change>
       </revisionDesc>
    </teiHeader>

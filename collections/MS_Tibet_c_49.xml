@@ -31,8 +31,7 @@
                </msIdentifier>
                <head>Lami Kazi Dawa Samdup translation of 6 Yogas of Naropa</head>
                <msContents>
-                  <msItem xml:id="MS_Tibet_c_49-item1"
-                          class="Meditation instructions translation">
+                  <msItem xml:id="MS_Tibet_c_49-item1" class="Meditation instructions translation">
                      <locus from="1r" to="59v"/>
                      <title xml:lang="en">The epitome of the six doctrines</title>
                      
@@ -44,7 +43,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <extent>59 ff.<dimensions unit="cm" type="leaf">
+                        <extent>59 ff. <dimensions unit="cm" type="leaf">
                               <height>34.5</height>
                               <width>21.5</width>
                            </dimensions>
@@ -65,7 +64,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by<persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName>JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -83,7 +82,7 @@
          <change when="2017-07-28">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
          </change>
-         <change>entry created by<persName key="TBRC_1234">Charles Manson</persName>
+         <change>entry created by <persName key="TBRC_1234">Charles Manson</persName>
          </change>
       </revisionDesc>
    </teiHeader>

@@ -37,10 +37,14 @@
                      <title xml:lang="">bla mgon dgyer med kyi rnal 'byor thun mongs ma yin pa nyams su len tshul rin chen dbang gi rgyal po'i do shal zhes bya ba</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">bla mgon dgyer med kyi rnal ʾbyor thun moṅs ma yin pa ñams su len tshul rin chen dbaṅ gi rgyal poʾi do śal źes bya ba</title>
                      <title xml:lang="bo" type="alt">བླ་མགོན་དགྱེར་མེད་ཀྱི་རྣལ་འབྱོར་ཐུན་མོངས་མ་ཡིན་པ་ཉམས་སུ་ལེན་ཚུལ་རིན་ཆེན་དབང་གི་རྒྱལ་པོའི་དོ་ཤལ་ཞེས་བྱ་བ</title>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>ras chung rdo rje grags paras chuṅ rdo rje grags paརས་ཆུང་རྡོ་རྗེ་གྲགས་པ</author>
+                     <author>
+                        <persName>ras chung rdo rje grags pa</persName>
+                        <persName>ras chuṅ rdo rje grags pa</persName>
+                        <persName>རས་ཆུང་རྡོ་རྗེ་གྲགས་པ</persName>
+                     </author>
                   </msItem>
                </msContents>
                <physDesc>
@@ -56,12 +60,9 @@
                   </objectDesc>
                </physDesc>
                <history>
-                  <provenance>
-                     <p>Bequest of W.Y.Evans-Wentz</p>
-                  </provenance>
                   <acquisition>
                      <date>1965</date>
-                     <p>Bequest of W.Y.Evans-Wentz</p>
+                     <p>Bequest of <persName>W.Y.Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>

@@ -34,11 +34,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_16-item1" class="Termas">
                      <locus from="1r" to="10v"/>
-                     <title xml:lang=""/>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>gter ston rig 'dzin rgod kyi ldem 'phru cangter ston rig ʾdzin rgod kyi ldem ʾphru canགཏེར་སྟོན་རིག་འཛིན་རྒོད་ཀྱི་ལྡེམ་འཕྲུ་ཅན</author>
+                     <author>
+                        <persName>gter ston rig 'dzin rgod kyi ldem 'phru can</persName>
+                        <persName>gter ston rig ʾdzin rgod kyi ldem ʾphru can</persName>
+                        <persName>གཏེར་སྟོན་རིག་འཛིན་རྒོད་ཀྱི་ལྡེམ་འཕྲུ་ཅན</persName>
+                     </author>
                   </msItem>
                </msContents>
                <physDesc>

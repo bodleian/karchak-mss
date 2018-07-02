@@ -38,7 +38,11 @@
                      <title xml:lang="bo-Latn-x-LC" type="alt">slob dpon saṅs rgyas gñis pa padma ʾbyuṅ gnas kyi rnam par thar pa yid kyi mun sel źes bya ba</title>
                      <title xml:lang="bo" type="alt">སློབ་དཔོན་སངས་རྒྱས་གཉིས་པ་པདྨ་འབྱུང་གནས་ཀྱི་རྣམ་པར་ཐར་པ་ཡིད་ཀྱི་མུན་སེལ་ཞེས་བྱ་བ</title>
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>blo gros rgyal mtshan dpal bzang poblo gros rgyal mtshan dpal bzaṅ poབློ་གྲོས་རྒྱལ་མཚན་དཔལ་བཟང་པོ</author>
+                     <author>
+                        <persName>blo gros rgyal mtshan dpal bzang po</persName>
+                        <persName>blo gros rgyal mtshan dpal bzaṅ po</persName>
+                        <persName>བློ་གྲོས་རྒྱལ་མཚན་དཔལ་བཟང་པོ</persName>
+                     </author>
                   </msItem>
                </msContents>
                <physDesc>

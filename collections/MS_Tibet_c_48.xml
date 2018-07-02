@@ -39,7 +39,11 @@
                      <title xml:lang="bo-Latn-x-LC" type="alt">phyag chen gyi zin bris</title>
                      <title xml:lang="bo" type="alt">ཕྱག་ཆེན་གྱི་ཟིན་བྲིས</title>
                      <textLang mainLang="en">tibetan</textLang>
-                     <author>pad+ma dkar popadma dkar poཔདྨ་དཀར་པོ</author>
+                     <author>
+                        <persName>pad+ma dkar po</persName>
+                        <persName>padma dkar po</persName>
+                        <persName>པདྨ་དཀར་པོ</persName>
+                     </author>
                   </msItem>
                </msContents>
                <physDesc>

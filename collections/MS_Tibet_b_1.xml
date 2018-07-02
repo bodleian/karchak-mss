@@ -31,13 +31,17 @@
                <head>Heruka Prayer</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_b_1-item1" class="Prayer">
-                     <author>ngag gi dbang po rnam par rgyal baṅag gi dbaṅ po rnam par rgyal baངག་གི་དབང་པོ་རྣམ་པར་རྒྱལ་བ</author>
+                     <author>
+                        <persName>ngag gi dbang po rnam par rgyal ba</persName>
+                        <persName>ṅag gi dbaṅ po rnam par rgyal ba</persName>
+                        <persName>ངག་གི་དབང་པོ་རྣམ་པར་རྒྱལ་བ</persName>
+                     </author>
                      <title xml:lang="">he ru ka'i zhing du 'dren pa'i smon las yid kyi shing rta zhes bya ba</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">he ru kaʾi źiṅ du ʾdren paʾi smon las yid kyi śiṅ rta źes bya ba</title>
                      <title xml:lang="bo" type="alt">ཧེ་རུ་ཀའི་ཞིང་དུ་འདྲེན་པའི་སྨོན་ལས་ཡིད་ཀྱི་ཤིང་རྟ་ཞེས་བྱ་བ</title>
-                     <incipit xml:lang=""/>
-                     <explicit xml:lang=""/>
-                     <colophon xml:lang=""/>
+                     
+                     
+                     
                      <textLang mainLang="bo"/>
                   </msItem>
                </msContents>

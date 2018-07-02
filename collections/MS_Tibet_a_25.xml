@@ -29,13 +29,13 @@
                <head>Golden Light Sūtra</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_a_25-item1" class="Sutra">
-                     <author/>
+                     
                      <title xml:lang="">'phags pa gser 'od dam pa mdo sde'i dbang po'i rgyal po zhes bya ba</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">ʾphags pa gser ʾod dam pa mdo sdeʾi dbaṅ poʾi rgyal po źes bya ba</title>
                      <title xml:lang="bo" type="alt">འཕགས་པ་གསེར་འོད་དམ་པ་མདོ་སྡེའི་དབང་པོའི་རྒྱལ་པོ་ཞེས་བྱ་བ</title>
-                     <incipit xml:lang=""/>
-                     <explicit xml:lang=""/>
-                     <colophon xml:lang=""/>
+                     
+                     
+                     
                      <textLang mainLang="bo"/>
                   </msItem>
                </msContents>

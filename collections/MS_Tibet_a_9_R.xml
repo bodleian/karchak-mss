@@ -33,13 +33,13 @@
                <head>Dakini Oral Lineage</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_a_9_R-item1" class="Meditation instructions">
-                     <author>(various)</author>
+                     <note>Various authors</note>
                      <title xml:lang="">mkha' 'gro snyan brgyud</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">mkhaʾ ʾgro sñan brgyud</title>
                      <title xml:lang="bo" type="alt">མཁའ་འགྲོ་སྙན་བརྒྱུད</title>
-                     <incipit xml:lang=""/>
-                     <explicit xml:lang=""/>
-                     <colophon xml:lang=""/>
+                     
+                     
+                     
                      <textLang mainLang="bo"/>
                   </msItem>
                </msContents>

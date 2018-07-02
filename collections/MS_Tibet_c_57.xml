@@ -35,8 +35,8 @@
                   <msItem xml:id="MS_Tibet_c_57-item1" class="Translation draft">
                      <locus from="1r" to="19v"/>
                      <title xml:lang="en">Translation of chapter 7 of Mi la'i rnam thar</title>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
                      <author>Lama Kazi Dawa Samdup</author>
                   </msItem>

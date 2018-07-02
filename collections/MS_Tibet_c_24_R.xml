@@ -33,8 +33,8 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_24_R-item1">
                      <title xml:lang="en">Copies of documents relating to the Tibetan expedition of Sir F.Younghusband</title>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo" otherLangs="en">tibetan</textLang>
                   </msItem>
                </msContents>

@@ -34,10 +34,10 @@
                   <msItem xml:id="MS_Tibet_d_2-item1" class="Divinaton slips">
                      <locus from="1r" to="39v"/>
                      <title xml:lang="en">Divination slips</title>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author/>
+                     
                   </msItem>
                </msContents>
                <physDesc>

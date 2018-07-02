@@ -9,7 +9,6 @@
             <principal>
                <persName>Gillian Evison</persName>
             </principal>
-            <author>[no title]</author>
          </titleStmt>
          <publicationStmt><!--First publisher-->
             <publisher>Bodleian Libraries</publisher>
@@ -34,11 +33,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_b_30-item1" class="Astrology tables">
                      <locus from="1r" to="11v"/>
-                     <title xml:lang=""/>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author/>
+                     
                   </msItem>
                </msContents>
                <physDesc>

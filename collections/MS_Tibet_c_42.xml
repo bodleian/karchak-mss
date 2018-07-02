@@ -37,10 +37,14 @@
                      <title xml:lang="">pad+ma bka'i thang yig</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">padma bkaʾi thaṅ yig</title>
                      <title xml:lang="bo" type="alt">པདྨ་བཀའི་ཐང་ཡིག</title>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>ye shes mtsho rgyalye śes mtsho rgyalཡེ་ཤེས་མཚོ་རྒྱལ</author>
+                     <author>
+                        <persName>ye shes mtsho rgyal</persName>
+                        <persName>ye śes mtsho rgyal</persName>
+                        <persName>ཡེ་ཤེས་མཚོ་རྒྱལ</persName>
+                     </author>
                   </msItem>
                </msContents>
                <physDesc>

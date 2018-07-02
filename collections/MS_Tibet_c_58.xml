@@ -34,10 +34,10 @@
                   <msItem xml:id="MS_Tibet_c_58-item1" class="Diagram">
                      <locus from="1r" to="3v"/>
                      <title xml:lang="en">Herein lies the five-fold wisdom of the long Hum</title>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo" otherLangs="en">tibetan</textLang>
-                     <author/>
+                     
                   </msItem>
                </msContents>
                <physDesc>

@@ -37,10 +37,14 @@
                      <title xml:lang="">klong chen snying gi thig le las : gcod yul mkha' 'gro'i gad rgyangs bzhugs :</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">kloṅ chen sñiṅ gi thig le las : gcod yul mkhaʾ ʾgroʾi gad rgyaṅs bźugs :</title>
                      <title xml:lang="bo" type="alt">ཀློང་ཆེན་སྙིང་གི་ཐིག་ལེ་ལས་༔་གཅོད་ཡུལ་མཁའ་འགྲོའི་གད་རྒྱངས་བཞུགས་༔</title>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>klong chen rab byams pa dri med 'od zerkloṅ chen rab byams pa dri med ʾod zerཀློང་ཆེན་རབ་བྱམས་པ་དྲི་མེད་འོད་ཟེར</author>
+                     <author>
+                        <persName>klong chen rab byams pa dri med 'od zer</persName>
+                        <persName>kloṅ chen rab byams pa dri med ʾod zer</persName>
+                        <persName>ཀློང་ཆེན་རབ་བྱམས་པ་དྲི་མེད་འོད་ཟེར</persName>
+                     </author>
                   </msItem>
                </msContents>
                <physDesc>

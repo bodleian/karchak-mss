@@ -35,10 +35,14 @@
                   <msItem xml:id="MS_Tibet_c_40-item1" class="Translation &amp; notes">
                      <locus from="1r" to="66v"/>
                      <title xml:lang="en">Epistles of NAgArjuna</title>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>zla ba bsam 'grubzla ba bsam ʾgrubཟླ་བ་བསམ་འགྲུབ</author>
+                     <author>
+                        <persName>zla ba bsam 'grub</persName>
+                        <persName>zla ba bsam ʾgrub</persName>
+                        <persName>ཟླ་བ་བསམ་འགྲུབ</persName>
+                     </author>
                   </msItem>
                </msContents>
                <physDesc>

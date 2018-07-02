@@ -38,7 +38,11 @@
                      <title xml:lang="bo-Latn-x-LC" type="alt">bcom ldan ʾdas mgon po mi ʾkhrug paʾi sgo nas las kyi sgrib pa rnams par sbyoṅ baʾi cho ga/ mṅon par dga baʾi źiṅ gi rgyan źes bya ba</title>
                      <title xml:lang="bo" type="alt">བཅོམ ལྡན་འདས་མགོན་པོ་མི་འཁྲུག་པའི་སྒོ་ནས་ལས་ཀྱི་སྒྲིབ་པ་རྣམས པར་སྦྱོང་བའི་ཆོ་ག། མངོན་པར་དག་བའི་ཞིང་གི་རྒྱན་ཞེས་བྱ་བ</title>
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>dge slong chos kyi dbang phyugdge sloṅ chos kyi dbaṅ phyugདགེ་སློང་ཆོས་ཀྱི་དབང་ཕྱུག</author>
+                     <author>
+                        <persName>dge slong chos kyi dbang phyug</persName>
+                        <persName>dge sloṅ chos kyi dbaṅ phyug</persName>
+                        <persName>དགེ་སློང་ཆོས་ཀྱི་དབང་ཕྱུག</persName>
+                     </author>
                   </msItem>
                </msContents>
                <physDesc>

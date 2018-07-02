@@ -37,10 +37,13 @@
                      <title xml:lang="">mngon brjod mkhas pa'i rna rgyan zhes bya ba</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">mṅon brjod mkhas paʾi rna rgyan źes bya ba</title>
                      <title xml:lang="bo" type="alt">མངོན་བརྗོད་མཁས་པའི་རྣ་རྒྱན་ཞེས་བྱ་བ</title>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>ngag dbang 'jigs rten dbang phyug grags pa'i rdo rjeṅag dbaṅ ʾjigs rten dbaṅ phyug grags paʾi rdo rjeངག་དབང་འཇིགས་རྟེན་དབང་ཕྱུག་གྲགས་པའི་རྡོ་རྗེ</author>
+                     <author>
+                        <persName>ngag dbang 'jigs rten dbang phyug grags pa'i rdo rje</persName>
+                        <persName>ṅag dbaṅ ʾjigs rten dbaṅ phyug grags paʾi rdo rje</persName>
+                        <persName>ངག་དབང་འཇིགས་རྟེན་དབང་ཕྱུག་གྲགས་པའི་རྡོ་རྗེ</persName></author>
                   </msItem>
                </msContents>
                <physDesc>

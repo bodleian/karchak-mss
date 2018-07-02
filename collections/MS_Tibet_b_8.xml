@@ -37,10 +37,14 @@
                      <title xml:lang="">phyag na rdo rje rtum po'i me 'phrengs gi las byang gu ru chos dbang gi gter ma</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">phyag na rdo rje rtum poʾi me ʾphreṅs gi las byaṅ gu ru chos dbaṅ gi gter ma</title>
                      <title xml:lang="bo" type="alt">ཕྱག་ན་རྡོ་རྗེ་རྟུམ་པོའི་མེ་འཕྲེངས་གི་ལས་བྱང་གུ་རུ་ཆོས་དབང་གི་གཏེར་མ</title>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>gu ru chos kyi dbang phyuggu ru chos kyi dbaṅ phyugགུ་རུ་ཆོས་ཀྱི་དབང་ཕྱུག</author>
+                     <author>
+                        <persName>gu ru chos kyi dbang phyug</persName>
+                        <persName>gu ru chos kyi dbaṅ phyug</persName>
+                        <persName>གུ་རུ་ཆོས་ཀྱི་དབང་ཕྱུག</persName>
+                     </author>
                   </msItem>
                </msContents>
                <physDesc rend="visible">

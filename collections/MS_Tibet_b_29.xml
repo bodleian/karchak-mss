@@ -33,11 +33,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_b_29-item1" class="Mantra exposition">
                      <locus from="1r" to="26v"/>
-                     <title xml:lang=""/>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author/>
+                     
                   </msItem>
                </msContents>
                <physDesc>

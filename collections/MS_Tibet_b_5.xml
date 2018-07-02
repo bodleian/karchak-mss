@@ -38,10 +38,14 @@
                      <title xml:lang="">sngon 'gro</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">sṅon ʾgro</title>
                      <title xml:lang="bo" type="alt">སྔོན་འགྲོ</title>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>khrag 'thung rdo rje bdud 'jomskhrag ʾthuṅ rdo rje bdud ʾjomsཁྲག་འཐུང་རྡོ་རྗེ་བདུད་འཇོམས</author>
+                     <author>
+                        <persName>khrag 'thung rdo rje bdud 'joms</persName>
+                        <persName>khrag ʾthuṅ rdo rje bdud ʾjoms</persName>
+                        <persName>ཁྲག་འཐུང་རྡོ་རྗེ་བདུད་འཇོམས</persName>
+                     </author>
                   </msItem>
                </msContents>
                <physDesc>

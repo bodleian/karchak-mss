@@ -37,10 +37,14 @@
                      <title xml:lang="">slob dpon pad+ma 'byung gnas mdzad pa'i mdo dpe</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">slob dpon padma ʾbyuṅ gnas mdzad paʾi mdo dpe</title>
                      <title xml:lang="bo" type="alt">སློབ་དཔོན་པདྨ་འབྱུང་གནས་མཛད་པའི་མདོ་དཔེ</title>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>pad+ma 'byung gnaspadma ʾbyuṅ gnasཔདྨ་འབྱུང་གནས</author>
+                     <author>
+                        <persName>pad+ma 'byung gnas</persName>
+                        <persName>padma ʾbyuṅ gnas</persName>
+                        <persName>པདྨ་འབྱུང་གནས</persName>
+                     </author>
                   </msItem>
                </msContents>
                <physDesc>

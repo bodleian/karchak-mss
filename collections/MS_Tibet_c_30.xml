@@ -33,10 +33,10 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_30-item1" class="Ritual">
                      <locus from="1r" to="19v"/>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author/>
+                     
                      <title xml:lang="">thugs rjes chen po pad+ma rgyal po bsdus pa</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">thugs rjes chen po padma rgyal po bsdus pa</title>
                      <title xml:lang="bo" type="alt">ཐུགས་རྗེས་ཆེན་པོ་པདྨ་རྒྱལ་པོ་བསྡུས་པ</title>

@@ -34,10 +34,10 @@
                   <msItem xml:id="MS_Tibet_d_1-item1" class="Miscellaneous texts">
                      <locus from="1r" to="23v"/>
                      <title xml:lang="en">Miscellaneous writings on astrology and divination</title>
-                     <colophon xml:lang="">col o<persName key="TBRC_P1234">phon</persName>
-                     </colophon>
+                     
+
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author/>
+                     
                   </msItem>
                </msContents>
                <physDesc>

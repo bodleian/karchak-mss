@@ -99,6 +99,18 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term key="subject_sh85014152"
+                           target="https://id.loc.gov/authorities/subjects/sh85014152">Biography</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="2017-07-28">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>

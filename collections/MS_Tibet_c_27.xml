@@ -33,15 +33,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_27-item1" class="Oblation rituals">
                      <locus from="1r" to="26v"/>
-                     <title xml:lang="">rdo rje'i legs pa'i gsol kha</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">rdo rjeʾi legs paʾi gsol kha</title>
-                     <title xml:lang="bo" type="alt">རྡོ་རྗེའི་ལེགས་པའི་གསོལ་ཁ</title>
-                     <title xml:lang="">rtse'u dmar po'i gsol kha</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">rtseʾu dmar poʾi gsol kha</title>
-                     <title xml:lang="bo" type="alt">རྩེའུ་དམར་པོའི་གསོལ་ཁ</title>
-                     <title xml:lang="">chos skyong rgyal po sku lnga dpon g.yog 'khor bcas kyi gsol kha</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">chos skyoṅ rgyal po sku lṅa dpon g.yog ʾkhor bcas kyi gsol kha</title>
-                     <title xml:lang="bo" type="alt">ཆོས་སྐྱོང་རྒྱལ་པོ་སྐུ་ལྔ་དཔོན་གཡོག་འཁོར་བཅས་ཀྱི་གསོལ་ཁ</title>
+                     <title xml:lang="" key="work_117">rdo rje'i legs pa'i gsol kha</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt" key="work_117">rdo rjeʾi legs paʾi gsol kha</title>
+                     <title xml:lang="bo" type="alt" key="work_117">རྡོ་རྗེའི་ལེགས་པའི་གསོལ་ཁ</title>
+                     <title xml:lang="" key="work_117">rtse'u dmar po'i gsol kha</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt" key="work_117">rtseʾu dmar poʾi gsol kha</title>
+                     <title xml:lang="bo" type="alt" key="work_117">རྩེའུ་དམར་པོའི་གསོལ་ཁ</title>
+                     <title xml:lang="" key="work_117">chos skyong rgyal po sku lnga dpon g.yog 'khor bcas kyi gsol kha</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt" key="work_117">chos skyoṅ rgyal po sku lṅa dpon g.yog ʾkhor bcas kyi gsol kha</title>
+                     <title xml:lang="bo" type="alt" key="work_117">ཆོས་སྐྱོང་རྒྱལ་པོ་སྐུ་ལྔ་དཔོན་གཡོག་འཁོར་བཅས་ཀྱི་གསོལ་ཁ</title>
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

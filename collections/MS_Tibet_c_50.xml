@@ -34,7 +34,7 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_50-item1" class="Drafts &amp; typescripts">
                      <locus from="1r" to="368v"/>
-                     <title xml:lang="en">23 translation drafts</title>
+                     <title xml:lang="en" key="work_80">23 translation drafts</title>
                      <textLang mainLang="bo" otherLangs="en">tibetan</textLang>
                      <author key="person_26">Lama Kazi Dawa Samdup</author>
                   </msItem>

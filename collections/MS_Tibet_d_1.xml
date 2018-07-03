@@ -33,7 +33,7 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_d_1-item1" class="Miscellaneous texts">
                      <locus from="1r" to="23v"/>
-                     <title xml:lang="en">Miscellaneous writings on astrology and divination</title>
+                     <title xml:lang="en" key="work_2">Miscellaneous writings on astrology and divination</title>
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

@@ -33,6 +33,7 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_a_23_R-item1" class="Vinaya commentary">
                      <locus from="1r" to="394v"/>
+                     <title type="desc" key="work_94">Untitled vinaya commentary</title>
                      <textLang mainLang="bo">tibetan</textLang>
                   </msItem>
                </msContents>

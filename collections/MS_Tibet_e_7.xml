@@ -33,7 +33,7 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_e_7-item1" class="Language examples">
                      <locus from="1r" to="16v"/>
-                     <title xml:lang="en">Specimen of the Tibbet language written in the Uchen</title>
+                     <title xml:lang="en" key="work_39">Specimen of the Tibbet language written in the Uchen</title>
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

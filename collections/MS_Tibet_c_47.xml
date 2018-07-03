@@ -33,7 +33,7 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_47-item1" class="Prayers translation">
                      <locus from="1r" to="9v"/>
-                     <title xml:lang="en">Prayer to Manjushri</title>
+                     <title xml:lang="en" key="work_55">Prayer to Manjushri</title>
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

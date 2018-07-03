@@ -34,8 +34,8 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_48-item1" class="Meditation instructions translation">
                      <locus from="1r" to="35v"/>
-                     <title xml:lang="">phyag chen gyi zin bris</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">phyag chen gyi zin bris</title>
+                     <title xml:lang="" key="work_120">phyag chen gyi zin bris</title>
+                     <title xml:lang="bo-Latn-x-LC" type="alt" key="work_120">phyag chen gyi zin bris</title>
                      <title xml:lang="bo" type="alt">ཕྱག་ཆེན་གྱི་ཟིན་བྲིས</title>
                      <textLang mainLang="en">tibetan</textLang>
                      <author key="person_89">

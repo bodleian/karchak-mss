@@ -33,7 +33,7 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_e_6-item1" class="Translation of dictionary">
                      <locus from="1r" to="28v"/>
-                     <title xml:lang="en">Tibet alphabet &amp; characters</title>
+                     <title xml:lang="en" key="work_134">Tibet alphabet &amp; characters</title>
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

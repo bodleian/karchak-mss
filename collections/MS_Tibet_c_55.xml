@@ -35,7 +35,7 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_55-item1" class="Translation draft">
                      <locus from="1r" to="41v"/>
-                     <title xml:lang="en">The supreme path of discipleship: the precepts of the gurus</title>
+                     <title xml:lang="en" key="work_78">The supreme path of discipleship: the precepts of the gurus</title>
                      
 
                      <textLang mainLang="bo" otherLangs="en">tibetan</textLang>

@@ -34,7 +34,7 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_40-item1" class="Translation &amp; notes">
                      <locus from="1r" to="66v"/>
-                     <title xml:lang="en">Epistles of <persName key="person_80">NAgArjuna</persName></title>
+                     <title xml:lang="en" key="work_108">Epistles of <persName key="person_80">NAgArjuna</persName></title>
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

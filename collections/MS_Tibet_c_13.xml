@@ -33,7 +33,7 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_13-item1" class="Meditation instructions">
                      <locus from="1r" to="5v"/>
-                     
+                     <title type="desc" key="work_79">Untitled meditation instructions</title>
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

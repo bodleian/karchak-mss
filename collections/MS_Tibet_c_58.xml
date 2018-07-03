@@ -33,7 +33,7 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_58-item1" class="Diagram">
                      <locus from="1r" to="3v"/>
-                     <title xml:lang="en">Herein lies the five-fold wisdom of the long Hum</title>
+                     <title xml:lang="en" key="work_68">Herein lies the five-fold wisdom of the long Hum</title>
                      
 
                      <textLang mainLang="bo" otherLangs="en">tibetan</textLang>

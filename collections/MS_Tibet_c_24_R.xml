@@ -32,7 +32,7 @@
                <head>Copies of Tibetan letters relating to <persName key="person_15">Younghusband</persName></head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_24_R-item1">
-                     <title xml:lang="en">Copies of documents relating to the Tibetan expedition of <persName key="person_15">Sir F.Younghusband</persName></title>
+                     <title xml:lang="en" key="work_6">Copies of documents relating to the Tibetan expedition of <persName key="person_15">Sir F.Younghusband</persName></title>
                      
 
                      <textLang mainLang="bo" otherLangs="en">tibetan</textLang>

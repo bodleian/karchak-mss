@@ -33,7 +33,7 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_49-item1" class="Meditation instructions translation">
                      <locus from="1r" to="59v"/>
-                     <title xml:lang="en">The epitome of the six doctrines</title>
+                     <title xml:lang="en" key="work_40">The epitome of the six doctrines</title>
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

@@ -34,7 +34,7 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_44-item1" class="Lecture with notes">
                      <locus from="1r" to="82v"/>
-                     <title xml:lang="en">The doctrine of rebirth</title>
+                     <title xml:lang="en" key="work_1">The doctrine of rebirth</title>
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

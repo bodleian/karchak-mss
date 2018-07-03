@@ -5,7 +5,7 @@
 #           Append 'force' to disable checking for data issues and push to Solr without prompting
 #           Append 'noindex' to generate the files and do the checking but not push to Solr
 
-SERVER="solr01-qa.bodleian.ox.ac.uk"
+SERVER="solr01-prd.bodleian.ox.ac.uk"
 
 if [ ! "$1" == "force" ]; then
     # Give up if any one index fails or is abandoned

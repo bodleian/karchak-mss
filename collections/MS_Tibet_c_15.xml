@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 15</idno>
                </msIdentifier>
-               <head><persName>Klong-chen-pa</persName> text extolling <placeName>Sikkim</placeName>, tea and beer; pious verses by a Zhwa-dmar-pa</head>
+               <head><persName>Klong-chen-pa</persName> text extolling <placeName key="subject_n80038365">Sikkim</placeName>, tea and beer; pious verses by a Zhwa-dmar-pa</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_15-item1" class="Meditation instructions">
                      <locus from="1r" to="12v"/>

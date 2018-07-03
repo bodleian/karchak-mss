@@ -29,7 +29,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. b. 31</idno>
                </msIdentifier>
-               <head><placeName>Sikkim</placeName> edict against animal sacrifices and smoking</head>
+               <head><placeName key="subject_n80038365">Sikkim</placeName> edict against animal sacrifices and smoking</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_b_31-item1" class="Edict draft">
                      <locus from="1r"/>

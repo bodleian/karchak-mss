@@ -46,7 +46,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 28</idno>
                </msIdentifier>
-               <head>Dharma in <placeName>India</placeName></head>
+               <head>Dharma in <placeName key="subject_n80125948">India</placeName></head>
                <msContents>
                   <msItem xml:id="MS_Tibet_a_28-item1" class="Treatise">
                      <locus from="1r" to="192v"/>

@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schamtypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schamtypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="authority-schematron.sch" type="application/xml" schamtypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+
+            <bibl xml:id="work_20">
+               <title type="uniform">'bras mo gshongs kyi phan yon kar tshab dang shing bcud ja yi byung khung rnams gnyis</title>
+               <!-- ../collections/MS_Tibet_c_15.xml#MS_Tibet_c_15%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_16">
+               <title type="uniform">'Brom ston pa rgyal ba'i 'byung gnas kyi skyes rabs bka' gdams bu chos le'u nyi shu pa bzhugs so</title>
+               <!-- ../collections/MS_Tibet_a_30.xml#MS_Tibet_a_30%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_36">
+               <title type="uniform">'bum gyi sdus don snying po lo rgyus</title>
+               <!-- ../collections/MS_Tibet_c_37.xml#MS_Tibet_c_37%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_32">
+               <title type="uniform">'das log phag bdag gis rnams thar</title>
+               <!-- ../collections/MS_Tibet_c_21.xml#MS_Tibet_c_21%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_132">
+               <title type="uniform">'di na dug nad gso ba bal po sman dkar gyi gdams pa dpa' bo chib thub</title>
+               <!-- ../collections/MS_Tibet_c_29.xml#MS_Tibet_c_29%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_92">
+               <title type="uniform">'do blon sa kyis 'don bchod 'pel stsags bched ma</title>
+               <!-- ../collections/MS_Tibet_b_4.xml#MS_Tibet_b_4%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_90">
+               <title type="uniform">'jam dpal gsin rje'i gshed dregs pa 'joms byed kyi drag po zor gyi man ngag rdo rje'i thog mda' zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_c_35.xml#MS_Tibet_c_35%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_89">
+               <title type="uniform">'phag pa thugs rje chen po spyan ras gzigs kyi sa 'khrungs rabs</title>
+               <!-- ../collections/MS_Tibet_d_3.xml#MS_Tibet_d_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_101">
+               <title type="uniform">'Phags mchog 'jig rten dbang phyug gi sgyu 'phrul dpal ldan 'brug pa'i gdul zhing lho phyogs sman 'jongs yongs kyi bstan'dzin gyi skyes pa gsar byon rnams kyi byang chub spyod pa'i thems skas chos spyod nye mkho rnams chab gcig tu sgrigs pa thar lam ?dang gsal zhes bya ba bzhugs so</title>
+               <!-- ../collections/MS_Tibet_a_40.xml#MS_Tibet_a_40%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_97">
+               <title type="uniform">'phags pa che dang ye shes dpag tu med pa zhes bya ba theg pa chen po'i mdo</title>
+               <!-- ../collections/MS_Tibet_e_2.xml#MS_Tibet_e_2%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_131">
+               <title type="uniform">'phags pa gser 'od dam pa mdo sde'i dbang po'i rgyal po zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_a_25.xml#MS_Tibet_a_25%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_80">
+               <title type="uniform">23 translation drafts</title>
+               <!-- ../collections/MS_Tibet_c_50.xml#MS_Tibet_c_50%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_112">
+               <title type="uniform">a rgya ga na dza ma hA bhri ca pu lu dkarma a bhi ra na sho dha yA budha ra bhu ha na ma hA ya na na sU tra</title>
+               <!-- ../collections/MS_Tibet_b_36.xml#MS_Tibet_b_36%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_133">
+               <title type="uniform">bag rtsis rgyud lung kun 'dus</title>
+               <!-- ../collections/MS_Tibet_d_5.xml#MS_Tibet_d_5%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_64">
+               <title type="uniform">bcom ldan 'das mgon po mi 'khrug pa'i sgo nas las kyi sgrib pa rnams par sbyong ba'i cho ga/ mngon par dga ba'i zhing gi rgyan zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_a_2.xml#MS_Tibet_a_2%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_67">
+               <title type="uniform">Bde bar gshegs pa'i bstan pa'i yang snyang rig'dzin gyi sde snga 'gyus zab mo rin chen gter mdzod chen po'i chos sde spar du bsgrubs pa'i rtogs brjod lha'i rnga bo che'i sgra dbyangs rgya mtsho'i sprin gyi bla bra zhes bya ba bzhugs so</title>
+               <!-- ../collections/MS_Tibet_a_32.xml#MS_Tibet_a_32%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_128">
+               <title type="uniform">bde chen zhing gi ro sreg cho ga ngan song gnas 'dren sdug snal mcho sems gtan bde ba 'bar zhes bya ba</title>
+               <title type="variant">gnam chos thugs kyi gter kha bsnyan rgyud zab mo'i bskor las gsol 'debs byin rlabs char 'bebs</title>
+               <title type="variant">gnam chos thugs kyi gter kha snyan brgyud zab mo gu ru zhi ba'i skor las rtsa gsum spyi yi sngon 'gro</title>
+               <title type="variant">bde chen źiṅ gi ro sreg cho ga ṅan soṅ gnas ʾdren sdug snal mcho sems gtan bde ba ʾbar źes bya ba</title>
+               <title type="variant">བདེ་ཆེན་ཞིང་གི་རོ་སྲེག་ཆོ་ག་ངན་སོང་གནས་འདྲེན་སྡུག་སྣལ་མཆོ་སེམས་གཏན་བདེ་བ་འབར་ཞེས་བྱ་བ</title>
+               <title type="variant">gnam chos thugs kyi gter kha sñan brgyud zab mo gu ru źi baʾi skor las rtsa gsum spyi yi sṅon ʾgro</title>
+               <title type="variant">གནམ་ཆོས་ཐུགས་ཀྱི་གཏེར་ཁ་སྙན་བརྒྱུད་ཟབ་མོ་གུ་རུ་ཞི་བའི་སྐོར་ལས་རྩ་གསུམ་སྤྱི་ཡི་སྔོན་འགྲོ</title>
+               <title type="variant">gnam chos thugs kyi gter kha bsñan rgyud zab moʾi bskor las gsol ʾdebs byin rlabs char ʾbebs</title>
+               <title type="variant">གནམ་ཆོས་ཐུགས་ཀྱི་གཏེར་ཁ་བསྙན་རྒྱུད་ཟབ་མོའི་བསྐོར་ལས་གསོལ་འདེབས་བྱིན་རླབས་ཆར་འབེབས</title>
+               <!-- ../collections/MS_Tibet_c_26.xml#MS_Tibet_c_26%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_27">
+               <title type="uniform">bka' brgyad bde gshegs 'dus pa'i brgyud pa'i gsol 'debbs byin rlabs kyi sprin phung</title>
+               <!-- ../collections/MS_Tibet_b_12.xml#MS_Tibet_b_12%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_93">
+               <title type="uniform">bka' rdzog pa chen po dkon mchog spyi 'dus las sang sgral chos zor gdab len dang dpal mgon ma ning gi skangs gsol</title>
+               <!-- ../collections/MS_Tibet_c_36.xml#MS_Tibet_c_36%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_5">
+               <title type="uniform">bka' rdzogs pa chen po yang zab rgyal ba dkon mchog spyi 'dus kyis cho ga bsgrigs bltas chog tu bkod pa</title>
+               <!-- ../collections/MS_Tibet_b_14.xml#MS_Tibet_b_14%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_58">
+               <title type="uniform">Bka' rgya/ Khu chos gnyis/ Lung bstan/ Rdor glu/ Kha skong rnams bzhugs so/</title>
+               <!-- ../collections/MS_Tibet_a_31.xml#MS_Tibet_a_31%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_72">
+               <title type="uniform">bla mgon dgyer med kyi rnal 'byor thun mongs ma yin pa nyams su len tshul rin chen dbang gi rgyal po'i do shal zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_a_45_46.xml#MS_Tibet_a_45_46%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_114">
+               <title type="uniform">bla mgon dgyer med kyi rnal 'byor thun mongs ma yin pa nyamsu len tshul rin chen dbang gi rgyal po'i do shal zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_a_1.xml#MS_Tibet_a_1%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_31">
+               <title type="uniform">blud bchung kyis rings pa</title>
+               <!-- ../collections/MS_Tibet_e_1.xml#MS_Tibet_e_1%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_91">
+               <title type="uniform">bsang yig nad gdon sdig sgrib ba da chad kun sel dngos grub dam pa'i sprin phung</title>
+               <!-- ../collections/MS_Tibet_c_32.xml#MS_Tibet_c_32%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_37">
+               <title type="uniform">bshags pa'i rgyud dri ma med pa'i las khol du byung ba'i bshags pa yid 'ong ye shes sku mchog</title>
+               <!-- ../collections/MS_Tibet_c_33.xml#MS_Tibet_c_33%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_59">
+               <title type="uniform">bsngo ba 'jam dbyangs zhal lung las/ yon bshad kyi bskor</title>
+               <!-- ../collections/MS_Tibet_b_9.xml#MS_Tibet_b_9%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_74">
+               <title type="uniform">bstan rtsis 'dod sbyin gter 'bum zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_c_2.xml#MS_Tibet_c_2%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_111">
+               <title type="uniform">bu d+hyu dA ya</title>
+               <!-- ../collections/MS_Tibet_c_38.xml#MS_Tibet_c_38%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_12">
+               <title type="uniform">Byang chub lam gyi rim pa'i dmar khrid myur lam gyi sngon 'gro'i ngag 'don gyi rim pa khyer bde bklag chog bskal bzang mgrin rgyan zhes bya ba bzhugs so/</title>
+               <!-- ../collections/MS_Tibet_b_41.xml#MS_Tibet_b_41%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_77">
+               <title type="uniform">byis pa'i gdon chen po bco lnga'i mdos</title>
+               <!-- ../collections/MS_Tibet_b_13.xml#MS_Tibet_b_13%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_46">
+               <title type="uniform">che bsgrubs gsang ba 'dus pa'i las byang cho ga'i rim pa dang bsgrub khog padma'i phreng ba dan / yang gsang gud du sbas pa'i dmigs pa phyogs gcig tu gab sprad pa</title>
+               <!-- ../collections/MS_Tibet_b_10.xml#MS_Tibet_b_10%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_33">
+               <title type="uniform">che g.yang kha sprod kyi cho kha dngos grub kyi buM bzang zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_d_25.xml#MS_Tibet_d_25%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_126">
+               <title type="uniform">chos 'byung bstan pa'i pad+ma rgyas pa'i nyin byed ces bya ba bzhugs so</title>
+               <!-- ../collections/MS_Tibet_c_43.xml#MS_Tibet_c_43%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_41">
+               <title type="uniform">Chos rje karma pa sku 'phreng rim byon gyi rnam thar mdor bsdus dpag bsam khri shing zhes bya ba bzhugs so/</title>
+               <!-- ../collections/MS_Tibet_b_37.xml#MS_Tibet_b_37%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_117">
+               <title type="uniform">chos skyong rgyal po sku lnga dpon g.yog 'khor bcas kyi gsol kha</title>
+               <title type="variant">rdo rje'i legs pa'i gsol kha</title>
+               <title type="variant">rtse'u dmar po'i gsol kha</title>
+               <title type="variant">rdo rjeʾi legs paʾi gsol kha</title>
+               <title type="variant">རྡོ་རྗེའི་ལེགས་པའི་གསོལ་ཁ</title>
+               <title type="variant">rtseʾu dmar poʾi gsol kha</title>
+               <title type="variant">རྩེའུ་དམར་པོའི་གསོལ་ཁ</title>
+               <title type="variant">chos skyoṅ rgyal po sku lṅa dpon g.yog ʾkhor bcas kyi gsol kha</title>
+               <title type="variant">ཆོས་སྐྱོང་རྒྱལ་པོ་སྐུ་ལྔ་དཔོན་གཡོག་འཁོར་བཅས་ཀྱི་གསོལ་ཁ</title>
+               <!-- ../collections/MS_Tibet_c_27.xml#MS_Tibet_c_27%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_86">
+               <title type="uniform">chos smra ba'i btsun pa ngag dbang dge legs rgyal mtshan gyi ngag thor bu pa las/ pho ba dang thugs dam bzhugs 'dod dag la ngo sprod pa ye shes kyi sgron me zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_b_7.xml#MS_Tibet_b_7%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_6">
+               <title type="uniform">Copies of documents relating to the Tibetan expedition of Sir F.Younghusband</title>
+               <!-- ../collections/MS_Tibet_c_24_R.xml#MS_Tibet_c_24_R%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_8">
+               <title type="uniform">Dam pa'i chos rin po che 'phags pa'i yul du ji ltar dar ba'i tshul gsal bar ston pa dgos 'dod kun 'byung zhes bya ba bzhugs so</title>
+               <!-- ../collections/MS_Tibet_a_28.xml#MS_Tibet_a_28%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_127">
+               <title type="uniform">De ther dmar po</title>
+               <!-- ../collections/MS_Tibet_b_43.xml#MS_Tibet_b_43%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_125">
+               <title type="uniform">dge byed zhes bya chu stag lo'i re'u tho blang dor gsal ba'i me long</title>
+               <!-- ../collections/MS_Tibet_e_5.xml#MS_Tibet_e_5%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_70">
+               <title type="uniform">Divination slips</title>
+               <!-- ../collections/MS_Tibet_d_2.xml#MS_Tibet_d_2%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_88">
+               <title type="uniform">Document and copies relating to the Tibetan expedition of Sir F.Younghusband</title>
+               <!-- ../collections/MS_Tibet_c_24%2Dstar_R.xml#MS_Tibet_c_24%2Dstar_R%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_13">
+               <title type="uniform">dpal 'bras mo gshongs kyi mngon par rtogs pa brjod pa</title>
+               <!-- ../collections/MS_Tibet_b_11.xml#MS_Tibet_b_11%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_57">
+               <title type="uniform">dpal gsang ba 'dus pa zhes bya ba rgyud kyi rgyal po chen po</title>
+               <!-- ../collections/MS_Tibet_c_1.xml#MS_Tibet_c_1%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_105">
+               <title type="uniform">dpal ldan bla ma bsgrubs cing mchod pa'i rnal 'byor mdor bsdus</title>
+               <!-- ../collections/MS_Tibet_c_31.xml#MS_Tibet_c_31%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_50">
+               <title type="uniform">dpal ldan gcig skyes ma rdo rje rnal 'byor ma'i sgrub thabs dkyil 'khor gyi cho ga gsang chen mchogi myur lam gsal ba'i 'dren pa</title>
+               <!-- ../collections/MS_Tibet_b_17.xml#MS_Tibet_b_17%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_11">
+               <title type="uniform">dpal rdo rje rnam par 'joms pa'i cho ga phan bde'i 'byung gnas</title>
+               <!-- ../collections/MS_Tibet_c_8.xml#MS_Tibet_c_8%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_87">
+               <title type="uniform">dpal ye shes kyi lha mo dud sol ma'i gtor bsngos bsdus pa</title>
+               <!-- ../collections/MS_Tibet_c_12.xml#MS_Tibet_c_12%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_108">
+               <title type="uniform">Epistles of NAgArjuna</title>
+               <!-- ../collections/MS_Tibet_c_40.xml#MS_Tibet_c_40%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_43">
+               <title type="uniform">gnams chos thabs kyi gter kha snyan mo'i skor las bde chen zhing go sgrubs thabs 'don cha</title>
+               <!-- ../collections/MS_Tibet_c_5.xml#MS_Tibet_c_5%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_113">
+               <title type="uniform">gsang bdag dregs pa kun 'dul kyis bsngon 'gro chos spyod zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_c_25.xml#MS_Tibet_c_25%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_19">
+               <title type="uniform">gsnams sgo sdom pa'i lto bcod</title>
+               <!-- ../collections/MS_Tibet_b_2.xml#MS_Tibet_b_2%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_99">
+               <title type="uniform">gtor dpe</title>
+               <!-- ../collections/MS_Tibet_c_4.xml#MS_Tibet_c_4%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_107">
+               <title type="uniform">gtsug tor gzhan gyis mi thub pa zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_e_3.xml#MS_Tibet_e_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_104">
+               <title type="uniform">Gzhan stong khas len seng ge'i nga ro bzhugs so/</title>
+               <!-- ../collections/MS_Tibet_a_43.xml#MS_Tibet_a_43%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_119">
+               <title type="uniform">he ru ka'i zhing du 'dren pa'i smon las yid kyi shing rta zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_b_1.xml#MS_Tibet_b_1%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_68">
+               <title type="uniform">Herein lies the five-fold wisdom of the long Hum</title>
+               <!-- ../collections/MS_Tibet_c_58.xml#MS_Tibet_c_58%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_4">
+               <title type="uniform">Illegible</title>
+               <!-- ../collections/MS_Tibet_e_13.xml#MS_Tibet_e_13%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_83">
+               <title type="uniform">Khyab bdag rdo rje 'chang ngag dbang yon tan mtha' yas kyi gsangg gsum mi zad rgyan gyi 'khor lor rnam par rol ba'i rtogs brjod pa skal bzang mos pa'i padmo rgyas byed ye shes 'od stong 'phro ba'i nyi ma zhes bya ba bzhugs so</title>
+               <!-- ../collections/MS_Tibet_a_35.xml#MS_Tibet_a_35%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_9">
+               <title type="uniform">klong chen snying gi thig le las : gcod yul mkha' 'gro'i gad rgyangs bzhugs :</title>
+               <!-- ../collections/MS_Tibet_c_59.xml#MS_Tibet_c_59%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_103">
+               <title type="uniform">kun bzang smon lam zhes bya ba'i dmyal ba'i segs bsdar</title>
+               <!-- ../collections/MS_Tibet_c_14.xml#MS_Tibet_c_14%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_100">
+               <title type="uniform">lam mchog rin po che'i 'phreng ba</title>
+               <!-- ../collections/MS_Tibet_c_54.xml#MS_Tibet_c_54%2Ditem1 -->
+               <!-- ../collections/MS_Tibet_c_56.xml#MS_Tibet_c_56%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_76">
+               <title type="uniform">Lha ldan sogs dbus 'gyur chos sde khag dar/ /yar lung lho rgyud/ gtsang stod/ byang rwa sgreng rgyal ba'i 'byung gnas sogs kyi rten gnas mang po'i gnas yig ngo mtshar lung ston me long zhes bya ba bzhugs so/</title>
+               <!-- ../collections/MS_Tibet_b_40.xml#MS_Tibet_b_40%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_118">
+               <title type="uniform">Lho’i chos ‘byung bstan pa rin po che’i ‘phro mthud ‘jam mgom smon mtha’i ‘phreng ba zhes bya ba/ Gtso bor skyabs mgon rin po che rgyal sras Ngag dbang rnam rgyal gyi rnam thar kun gyi go bde gsal bar bkod pa bcas bzhugs/</title>
+               <!-- ../collections/MS_Tibet_a_34.xml#MS_Tibet_a_34%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_3">
+               <title type="uniform">lta ba'i gsung mgur zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_e_12.xml#MS_Tibet_e_12%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_25">
+               <title type="uniform">Mchog gi dngos grub mngon du byed pa'i myur lam bka' brgyud bla ma rnams kyi rdo rje'i mgur dbyangs ye shes char 'bebs rang grol lhun grub bde chen rab 'bar nges don rgya mtsho'i snying po zhes bya ba bzhugs so/</title>
+               <!-- ../collections/MS_Tibet_a_42.xml#MS_Tibet_a_42%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_2">
+               <title type="uniform">Miscellaneous writings on astrology and divination</title>
+               <!-- ../collections/MS_Tibet_d_1.xml#MS_Tibet_d_1%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_109">
+               <title type="uniform">mkha' 'gro gsang lam rang lus gzhan lus gyi khrid gzhung mngon 3 lag khrid</title>
+               <!-- ../collections/MS_Tibet_c_28.xml#MS_Tibet_c_28%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_30">
+               <title type="uniform">mkha' 'gro snyan brgyud</title>
+               <!-- ../collections/MS_Tibet_a_9_R.xml#MS_Tibet_a_9_R%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_26">
+               <title type="uniform">mngon brjod mkhas pa'i rna rgyan zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_a_10_R.xml#MS_Tibet_a_10_R%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_28">
+               <title type="uniform">Myang ro rtsib kyi gnas gsar lha khang gi gnas bshad thos grol ngo mtshar rmad byung bzhugs/</title>
+               <!-- ../collections/MS_Tibet_b_38.xml#MS_Tibet_b_38%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_66">
+               <title type="uniform">nad bdag stobs 'jom gyi cha lags mdos mchog</title>
+               <!-- ../collections/MS_Tibet_c_11.xml#MS_Tibet_c_11%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_65">
+               <title type="uniform">No title - margin title Klu 'bum</title>
+               <!-- ../collections/MS_Tibet_a_36.xml#MS_Tibet_a_36%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_123">
+               <title type="uniform">nye mkho mthong ba don yod zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_a_3.xml#MS_Tibet_a_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_81">
+               <title type="uniform">pad+ma bka'i thang yig</title>
+               <!-- ../collections/MS_Tibet_c_42.xml#MS_Tibet_c_42%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_120">
+               <title type="uniform">phyag chen gyi zin bris</title>
+               <!-- ../collections/MS_Tibet_c_48.xml#MS_Tibet_c_48%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_122">
+               <title type="uniform">phyag na rdo rje rtum po'i me 'phrengs gi las byang gu ru chos dbang gi gter ma</title>
+               <!-- ../collections/MS_Tibet_b_8.xml#MS_Tibet_b_8%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_55">
+               <title type="uniform">Prayer to Manjushri</title>
+               <!-- ../collections/MS_Tibet_c_47.xml#MS_Tibet_c_47%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_71">
+               <title type="uniform">rdzogs pa chen po kun bzang thug thig las byang bum sgrub dang na rak dong dkrugs kyi bskong bcas chu 'babs klag chog tu bkod pa 'phrin las bdud rtsi'i chu rgyun zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_b_15.xml#MS_Tibet_b_15%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_63">
+               <title type="uniform">Rgya nag gi yul du dam pa'i chos dang tshul gtso bos shad pa blogs la kun tu dga' ba'i rna rgyan ces bya ba bzhugs so</title>
+               <!-- ../collections/MS_Tibet_a_29.xml#MS_Tibet_a_29%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_110">
+               <title type="uniform">rgyal po sku lnga'i gser skyems/</title>
+               <!-- ../collections/MS_Tibet_a_4.xml#MS_Tibet_a_4%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_7">
+               <title type="uniform">rgyal rabs gsal ba'i me long</title>
+               <!-- ../collections/MS_Tibet_c_7.xml#MS_Tibet_c_7%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_35">
+               <title type="uniform">Rgyal rabs rnams kyi byung tshul gsal ba'i me long chos 'byung bzhugs</title>
+               <!-- ../collections/MS_Tibet_a_33.xml#MS_Tibet_a_33%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_38">
+               <title type="uniform">rgyud sde spyi'i sbyin sreg bi cho ga bdud bzhi dang sgrib gnyis sreg cing tshogs gnyis 'od ser 'gyed byed ces bya ba rig sngags 'chang ba chen po slob dpon karma pa mi bskyod rdo rje mdzad pa sor bzhag las bzhi myur grub ces bya ba las dbang gi sbyin sreg rgyal ba rgya mtsho dang sbyar ba bltas chogsu bskod pa.</title>
+               <!-- ../collections/MS_Tibet_c_3.xml#MS_Tibet_c_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_29">
+               <title type="uniform">rig 'dzin srog sgrub las: bzhes sgra me rlung khrug pa dmar nag las mkhan gshing je'i skan sgra/</title>
+               <!-- ../collections/MS_Tibet_c_18.xml#MS_Tibet_c_18%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_24">
+               <title type="uniform">Ris med chos kyi 'byung gnas mdo tsam smos pa blo gsal mgrin pa'i mdzes rgyan zhes bya ba bzhugs so/</title>
+               <!-- ../collections/MS_Tibet_b_42.xml#MS_Tibet_b_42%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_14">
+               <title type="uniform">rje sgam po rin po che'i lam mchog rin po che'i 'phreng ba zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_c_61.xml#MS_Tibet_c_61%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_51">
+               <title type="uniform">Rnal 'byor gyi dbang phyug Rje btsun Bstan 'dzin ras pa'i rnam thar mdzad pa nyung du gcig bzhugs so</title>
+               <!-- ../collections/MS_Tibet_a_27.xml#MS_Tibet_a_27%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_53">
+               <title type="uniform">Rnal 'byor gyi dbang phyug Rje btsun Bstan 'dzin ras pa'i rnam thar mdzad pa nyung ngu gcig bzhugs so</title>
+               <!-- ../collections/MS_Tibet_a_41.xml#MS_Tibet_a_41%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_15">
+               <title type="uniform">sa bdag klu gnyan gyi byad grol</title>
+               <!-- ../collections/MS_Tibet_b_3.xml#MS_Tibet_b_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_42">
+               <title type="uniform">shes rab sdong bu</title>
+               <!-- ../collections/MS_Tibet_c_41.xml#MS_Tibet_c_41%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_102">
+               <title type="uniform">shes rab snying po</title>
+               <!-- ../collections/MS_Tibet_c_51%2D53.xml#MS_Tibet_c_51%2D53%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_124">
+               <title type="uniform">shing rtsis rde'u drug cu'i kha dmar brgya go dgu'i nang nas khol ston pa bzhugs so</title>
+               <!-- ../collections/MS_Tibet_d_19.xml#MS_Tibet_d_19%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_73">
+               <title type="uniform">shrI mahAkAla dang bstan bsrung rnams kyi bskang so bdod 'don lhun grub dgra bgegs char gcod</title>
+               <!-- ../collections/MS_Tibet_c_23.xml#MS_Tibet_c_23%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_52">
+               <title type="uniform">shu gla ta</title>
+               <!-- ../collections/MS_Tibet_e_4.xml#MS_Tibet_e_4%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_135">
+               <title type="uniform">slob dpon pad+ma 'byung gnas mdzad pa'i mdo dpe</title>
+               <!-- ../collections/MS_Tibet_c_10.xml#MS_Tibet_c_10%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_47">
+               <title type="uniform">slob dpon sangs rgyas gnyis pa pad+ma 'byung gnas kyi rnam par thar pa yid kyi mun sel zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_c_22.xml#MS_Tibet_c_22%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_45">
+               <title type="uniform">snang gsal 'o sde 'bum 'khor ba la skyo ba skyes pa'i rnams par thar pa</title>
+               <!-- ../collections/MS_Tibet_c_9.xml#MS_Tibet_c_9%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_54">
+               <title type="uniform">Snang srid mdzod phugs kyi gzhung dang 'grel pa 'phrul gyi sgron me bzhugs so</title>
+               <!-- ../collections/MS_Tibet_a_26.xml#MS_Tibet_a_26%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_49">
+               <title type="uniform">sngags bsrung ma mo'i 'phrin las</title>
+               <!-- ../collections/MS_Tibet_c_20.xml#MS_Tibet_c_20%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_106">
+               <title type="uniform">sngon 'gro</title>
+               <!-- ../collections/MS_Tibet_b_5.xml#MS_Tibet_b_5%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_95">
+               <title type="uniform">so' ma ra' ca' yi'</title>
+               <!-- ../collections/MS_Tibet_c_19.xml#MS_Tibet_c_19%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_39">
+               <title type="uniform">Specimen of the Tibbet language written in the Uchen</title>
+               <!-- ../collections/MS_Tibet_e_7.xml#MS_Tibet_e_7%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_23">
+               <title type="uniform">spyod kyis gsol 'debs</title>
+               <!-- ../collections/MS_Tibet_c_17.xml#MS_Tibet_c_17%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_82">
+               <title type="uniform">Sras mkhar dgu thog gtsug lag khang / khro bolung / zangs phug ltag gnya' bcas kyi gnas yig rna ba'i bdud rtsi dad ba'i shing rta zhes bya ba bzhugs so/</title>
+               <!-- ../collections/MS_Tibet_b_39.xml#MS_Tibet_b_39%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_10">
+               <title type="uniform">Srid pa rgyud kyis kha byang chen mo zhes bya ba bzhugs pa dbu yi gzigs phyogs so/</title>
+               <!-- ../collections/MS_Tibet_a_44.xml#MS_Tibet_a_44%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1">
+               <title type="uniform">The doctrine of rebirth</title>
+               <!-- ../collections/MS_Tibet_c_44.xml#MS_Tibet_c_44%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_40">
+               <title type="uniform">The epitome of the six doctrines</title>
+               <!-- ../collections/MS_Tibet_c_49.xml#MS_Tibet_c_49%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_78">
+               <title type="uniform">The supreme path of discipleship: the precepts of the gurus</title>
+               <!-- ../collections/MS_Tibet_c_55.xml#MS_Tibet_c_55%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_56">
+               <title type="uniform">thod mo bsal ba'i sgron me</title>
+               <!-- ../collections/MS_Tibet_d_4.xml#MS_Tibet_d_4%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_85">
+               <title type="uniform">Thugs rje chen po zhal bcuig pa dpal mo lugs kyi sgrub thabs smyur bar gnas pa'i chog dang de'i bla ma brgyud pa'i gsol 'debs bcas bzhugs so//</title>
+               <!-- ../collections/MS_Tibet_a_45.xml#MS_Tibet_a_45%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_44">
+               <title type="uniform">thugs rjes chen po pad+ma rgyal po bsdus pa</title>
+               <!-- ../collections/MS_Tibet_c_30.xml#MS_Tibet_c_30%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_134">
+               <title type="uniform">Tibet alphabet &amp; characters</title>
+               <!-- ../collections/MS_Tibet_e_6.xml#MS_Tibet_e_6%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_17">
+               <title type="uniform">Translation of chapter 7 of Mi la'i rnam thar</title>
+               <!-- ../collections/MS_Tibet_c_57.xml#MS_Tibet_c_57%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_61">
+               <title type="uniform">Tshangs dbyangs rgya mtsho'i rnam thar snyan 'grugs? kyis ??? pa ces bya ba bzhugs so/</title>
+               <!-- ../collections/MS_Tibet_c_63.xml#MS_Tibet_c_63%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_18">
+               <title type="uniform">tshe g.yang kha sprod gyis cho ga</title>
+               <!-- ../collections/MS_Tibet_b_6.xml#MS_Tibet_b_6%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_34">
+               <title type="uniform">Untitled astrology tables</title>
+               <!-- ../collections/MS_Tibet_b_30.xml#MS_Tibet_b_30%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_69">
+               <title type="uniform">Untitled divination text</title>
+               <!-- ../collections/MS_Tibet_c_6.xml#MS_Tibet_c_6%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_22">
+               <title type="uniform">Untitled edict draft</title>
+               <!-- ../collections/MS_Tibet_b_31.xml#MS_Tibet_b_31%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_96">
+               <title type="uniform">Untitled mantra exposition</title>
+               <!-- ../collections/MS_Tibet_b_29.xml#MS_Tibet_b_29%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_79">
+               <title type="uniform">Untitled meditation instructions</title>
+               <!-- ../collections/MS_Tibet_c_13.xml#MS_Tibet_c_13%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_21">
+               <title type="uniform">Untitled miscellanea</title>
+               <!-- ../collections/MS_Tibet_b_28.xml#MS_Tibet_b_28%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_75">
+               <title type="uniform">Untitled prayer</title>
+               <!-- ../collections/MS_Tibet_c_34.xml#MS_Tibet_c_34%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_94">
+               <title type="uniform">Untitled vinaya commentary</title>
+               <!-- ../collections/MS_Tibet_a_23_R.xml#MS_Tibet_a_23_R%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_121">
+               <title type="uniform">Untitled work by gter ston rig 'dzin rgod kyi ldem 'phru can</title>
+               <!-- ../collections/MS_Tibet_c_16.xml#MS_Tibet_c_16%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_84">
+               <title type="uniform">Untitled work by zla ba bsam 'grub</title>
+               <!-- ../collections/MS_Tibet_c_39.xml#MS_Tibet_c_39%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_98">
+               <title type="uniform">yang zab dkon mchog spyi 'dus kyis cho ga bsgrigs ltas chog to bkod pa</title>
+               <!-- ../collections/MS_Tibet_b_16.xml#MS_Tibet_b_16%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_60">
+               <title type="uniform">yig brgya lha brgyar ngo sprod</title>
+               <!-- ../collections/MS_Tibet_b_32.xml#MS_Tibet_b_32%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_48">
+               <title type="uniform">zab chos zhi khro dgongs pa rang grol las bar do'i thos grol chen mo chos nyid bar do'i ngo sprod</title>
+               <!-- ../collections/MS_Tibet_c_60.xml#MS_Tibet_c_60%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_62">
+               <title type="uniform">zab chos zhi khro dgongs pa rang grol las rig pa ngo sprod gcer mthong rang grol zhes bya ba</title>
+               <!-- ../collections/MS_Tibet_d_29.xml#MS_Tibet_d_29%2Ditem1 -->
+            </bibl>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

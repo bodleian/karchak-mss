@@ -107,10 +107,13 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2017-07-28">
-            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
+         <change when="2018-07-03">
+            <persName>Andrew Morrison</persName> Various adjustments including adding LCSH terms, linking people and work titles to authority files, tagging people and places, removing empty tags, etc. Scripts used are in the <ref target="https://github.com/bodleian/karchak-mss/tree/master/processing/batch_conversion/">batch_conversion</ref> folder.
          </change>
-         <change>entry created by <persName key="TBRC_1234">Charles Manson</persName>
+         <change when="2017-07-28">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/batch_conversion/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
+         </change>
+         <change>entry created by <persName>Charles Manson</persName>
          </change>
       </revisionDesc>
    </teiHeader>

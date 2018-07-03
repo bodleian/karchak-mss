@@ -65,7 +65,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -84,8 +84,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh90001186"
-                           target="https://id.loc.gov/authorities/subjects/sh90001186">Calendar, Tibetan</term>
+                     <term key="subject_sh90001186" target="https://id.loc.gov/authorities/subjects/sh90001186">Calendar, Tibetan</term>
                   </item>
                </list>
             </keywords>

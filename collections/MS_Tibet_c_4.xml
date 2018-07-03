@@ -60,7 +60,7 @@
                      <handNote script="dbu_can" scope="sole"/>
                   </handDesc>
                   <additions>
-                     <p>last folio has "Bl.7" on, written in <persName>Schlagintweit</persName>'s hand.</p>
+                     <p>last folio has "Bl.7" on, written in <persName key="person_4">Schlagintweit</persName>'s hand.</p>
                   </additions>
                   <bindingDesc>
                      <binding>
@@ -75,13 +75,13 @@
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
+                     <p>purchased from <persName role="fmo" key="person_4">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -100,8 +100,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85114211"
-                           target="https://id.loc.gov/authorities/subjects/sh85114211">Rites and ceremonies</term>
+                     <term key="subject_sh85114211" target="https://id.loc.gov/authorities/subjects/sh85114211">Rites and ceremonies</term>
                   </item>
                </list>
             </keywords>

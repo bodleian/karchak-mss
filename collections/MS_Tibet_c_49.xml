@@ -31,8 +31,7 @@
                </msIdentifier>
                <head>Lami Kazi Dawa Samdup translation of 6 Yogas of Naropa</head>
                <msContents>
-                  <msItem xml:id="MS_Tibet_c_49-item1"
-                          class="Meditation instructions translation">
+                  <msItem xml:id="MS_Tibet_c_49-item1" class="Meditation instructions translation">
                      <locus from="1r" to="59v"/>
                      <title xml:lang="en">The epitome of the six doctrines</title>
                      
@@ -55,17 +54,17 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Bequest of <persName>W.Y.Evans-Wentz</persName></p>
+                     <p>Bequest of <persName key="person_2">W.Y.Evans-Wentz</persName></p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of <persName role="dnr fmo">W.Y.Evans-Wentz</persName></p>
+                     <p>Bequest of <persName role="dnr fmo" key="person_2">W.Y.Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -84,8 +83,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85083210"
-                           target="https://id.loc.gov/authorities/subjects/sh85083210">Meditation</term>
+                     <term key="subject_sh85083210" target="https://id.loc.gov/authorities/subjects/sh85083210">Meditation</term>
                   </item>
                </list>
             </keywords>

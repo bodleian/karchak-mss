@@ -75,7 +75,7 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p><persName>Mr. Franklin</persName> (of Culham? - refer Ralf Kramer)</p>
+                     <p><persName key="person_8">Mr. Franklin</persName> (of Culham? - refer Ralf Kramer)</p>
                   </provenance>
                   <acquisition>
                      <date notBefore="2000" notAfter="2014-09" cert="low" calendar="#Gregorian">200?</date>
@@ -84,7 +84,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>CEM</persName>
+                        <source>converted from master records created by <persName key="person_9">CEM</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">

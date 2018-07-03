@@ -54,19 +54,19 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Acquired by purchase from <persName role="fmo">Prof. Joseph White</persName>, <date when="1806-05-17" calendar="#Gregorian">17 May 1806</date></p>
+                     <p>Acquired by purchase from <persName role="fmo" key="person_40">Prof. Joseph White</persName>, <date when="1806-05-17" calendar="#Gregorian">17 May 1806</date></p>
                      <p>Placed in the MS.Tibet collection in <date when="1901" calendar="#Gregorian">1901</date></p>
                      <p>S.C. 28030</p>
                   </provenance>
                   <acquisition>
                      <date when="1806" calendar="#Gregorian">1806</date>
-                     <p>purchased from <persName role="fmo">Prof. Joseph White</persName></p>
+                     <p>purchased from <persName role="fmo" key="person_40">Prof. Joseph White</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -85,8 +85,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh2008112892"
-                           target="https://id.loc.gov/authorities/subjects/sh2008112892">Tibetan language--Texts</term>
+                     <term key="subject_sh2008112892" target="https://id.loc.gov/authorities/subjects/sh2008112892">Tibetan language--Texts</term>
                   </item>
                </list>
             </keywords>

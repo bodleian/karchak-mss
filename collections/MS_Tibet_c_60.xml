@@ -29,7 +29,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 60</idno>
                </msIdentifier>
-               <head><persName>W.Y.Evans-Wentz</persName>'s copy of Bar do thos grol text</head>
+               <head><persName key="person_2">W.Y.Evans-Wentz</persName>'s copy of Bar do thos grol text</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_60-item1" class="Tibetan text">
                      <locus from="1r" to="137v"/>
@@ -56,17 +56,17 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Bequest of <persName>W.Y.Evans-Wentz</persName></p>
+                     <p>Bequest of <persName key="person_2">W.Y.Evans-Wentz</persName></p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of <persName role="dnr fmo">W.Y.Evans-Wentz</persName></p>
+                     <p>Bequest of <persName role="dnr fmo" key="person_2">W.Y.Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -85,8 +85,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh2008112892"
-                           target="https://id.loc.gov/authorities/subjects/sh2008112892">Tibetan language--Texts</term>
+                     <term key="subject_sh2008112892" target="https://id.loc.gov/authorities/subjects/sh2008112892">Tibetan language--Texts</term>
                   </item>
                </list>
             </keywords>

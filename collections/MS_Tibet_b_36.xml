@@ -57,13 +57,13 @@
                <history>
                   <acquisition>
                      <date when="1995" calendar="#Gregorian">1995</date>
-                     <p>purchased from <persName role="fmo">James Singer</persName></p>
+                     <p>purchased from <persName role="fmo" key="person_81">James Singer</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -82,8 +82,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85106113"
-                           target="https://id.loc.gov/authorities/subjects/sh85106113">Prayer</term>
+                     <term key="subject_sh85106113" target="https://id.loc.gov/authorities/subjects/sh85106113">Prayer</term>
                   </item>
                </list>
             </keywords>

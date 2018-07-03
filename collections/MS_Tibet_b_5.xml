@@ -32,8 +32,7 @@
                </msIdentifier>
                <head>Preliminary practices ritual text</head>
                <msContents>
-                  <msItem xml:id="MS_Tibet_b_5-item1"
-                          class="Meditation preliminary exercises text">
+                  <msItem xml:id="MS_Tibet_b_5-item1" class="Meditation preliminary exercises text">
                      <locus from="2r" to="9v"/>
                      <title xml:lang="">sngon 'gro</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">sṅon ʾgro</title>
@@ -41,10 +40,10 @@
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>
+                     <author key="person_77">
                         <persName>khrag 'thung rdo rje bdud 'joms</persName>
-                        <persName>khrag ʾthuṅ rdo rje bdud ʾjoms</persName>
-                        <persName>ཁྲག་འཐུང་རྡོ་རྗེ་བདུད་འཇོམས</persName>
+                         (<persName>khrag ʾthuṅ rdo rje bdud ʾjoms</persName> / 
+                         (<persName>ཁྲག་འཐུང་རྡོ་རྗེ་བདུད་འཇོམས</persName>)
                      </author>
                   </msItem>
                </msContents>
@@ -70,18 +69,18 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Schl. 50 "von <persName role="fmo">Chibu Lama</persName> erhalten."</p>
+                     <p>Schl. 50 "von <persName role="fmo" key="person_25">Chibu Lama</persName> erhalten."</p>
                      <p>S.C. 26283</p>
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
+                     <p>purchased from <persName role="fmo" key="person_4">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -100,8 +99,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85083210"
-                           target="https://id.loc.gov/authorities/subjects/sh85083210">Meditation</term>
+                     <term key="subject_sh85083210" target="https://id.loc.gov/authorities/subjects/sh85083210">Meditation</term>
                   </item>
                </list>
             </keywords>

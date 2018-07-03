@@ -30,13 +30,13 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 50</idno>
                </msIdentifier>
-               <head><persName>Lama Kazi Dawa Samdup</persName> drafts and typescripts</head>
+               <head><persName key="person_26">Lama Kazi Dawa Samdup</persName> drafts and typescripts</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_50-item1" class="Drafts &amp; typescripts">
                      <locus from="1r" to="368v"/>
                      <title xml:lang="en">23 translation drafts</title>
                      <textLang mainLang="bo" otherLangs="en">tibetan</textLang>
-                     <author>Lama Kazi Dawa Samdup</author>
+                     <author key="person_26">Lama Kazi Dawa Samdup</author>
                   </msItem>
                </msContents>
                <physDesc>
@@ -50,17 +50,17 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Bequest of <persName>W.Y.Evans-Wentz</persName></p>
+                     <p>Bequest of <persName key="person_2">W.Y.Evans-Wentz</persName></p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of <persName role="dnr fmo">W.Y.Evans-Wentz</persName></p>
+                     <p>Bequest of <persName role="dnr fmo" key="person_2">W.Y.Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -79,8 +79,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85136967"
-                           target="https://id.loc.gov/authorities/subjects/sh85136967">Translations</term>
+                     <term key="subject_sh85136967" target="https://id.loc.gov/authorities/subjects/sh85136967">Translations</term>
                   </item>
                </list>
             </keywords>

@@ -40,10 +40,10 @@
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>
+                     <author key="person_66">
                         <persName>ngag dbang dge legs rgyal mtshan</persName>
-                        <persName>ṅag dbaṅ dge legs rgyal mtshan</persName>
-                        <persName>ངག་དབང་དགེ་ལེགས་རྒྱལ་མཚན</persName>
+                         (<persName>ṅag dbaṅ dge legs rgyal mtshan</persName> / 
+                         (<persName>ངག་དབང་དགེ་ལེགས་རྒྱལ་མཚན</persName>)
                      </author>
                   </msItem>
                </msContents>
@@ -74,13 +74,13 @@
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
+                     <p>purchased from <persName role="fmo" key="person_4">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -99,8 +99,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85083210"
-                           target="https://id.loc.gov/authorities/subjects/sh85083210">Meditation</term>
+                     <term key="subject_sh85083210" target="https://id.loc.gov/authorities/subjects/sh85083210">Meditation</term>
                   </item>
                </list>
             </keywords>

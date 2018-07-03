@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 44</idno>
                </msIdentifier>
-               <head><persName>Evans-Wentz</persName> lecture on re-birth</head>
+               <head><persName key="person_2">Evans-Wentz</persName> lecture on re-birth</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_44-item1" class="Lecture with notes">
                      <locus from="1r" to="82v"/>
@@ -38,7 +38,7 @@
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>W.Y. Evans-Wentz</author>
+                     <author key="person_2">W.Y. Evans-Wentz</author>
                   </msItem>
                </msContents>
                <physDesc>
@@ -55,18 +55,18 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Bequest of <persName>W.Y. Evans-Wentz</persName></p>
+                     <p>Bequest of <persName key="person_2">W.Y. Evans-Wentz</persName></p>
                      <p>E.W. 59</p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of <persName role="dnr fmo">W.Y. Evans-Wentz</persName></p>
+                     <p>Bequest of <persName role="dnr fmo" key="person_2">W.Y. Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -85,8 +85,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85112429"
-                           target="https://id.loc.gov/authorities/subjects/sh85112429">Reincarnation</term>
+                     <term key="subject_sh85112429" target="https://id.loc.gov/authorities/subjects/sh85112429">Reincarnation</term>
                   </item>
                </list>
             </keywords>

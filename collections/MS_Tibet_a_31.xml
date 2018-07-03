@@ -48,9 +48,7 @@
                </msIdentifier>
                <head>Kadam collection volume 2 (Kha)</head>
                <msContents>
-                  <msItem xml:id="MS_Tibet_a_31-item1"
-                          class="Kadam collection volume 2 (Kha)"
-                          rend="visible">
+                  <msItem xml:id="MS_Tibet_a_31-item1" class="Kadam collection volume 2 (Kha)" rend="visible">
                      <locus from="1r" to="149r"/>
                      <title xml:lang="">Bka' rgya/ Khu chos gnyis/ Lung bstan/ Rdor glu/ Kha skong rnams bzhugs so/</title>
                      
@@ -77,7 +75,7 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p><persName role="fmo">H.E. Richardson</persName> Estate</p>
+                     <p><persName role="fmo" key="person_18">H.E. Richardson</persName> Estate</p>
                   </provenance>
                   <acquisition>
                      <date when="2001" calendar="#Gregorian">2001</date>
@@ -86,7 +84,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>CEM</persName>
+                        <source>converted from master records created by <persName key="person_9">CEM</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">

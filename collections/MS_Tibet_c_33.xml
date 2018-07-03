@@ -55,18 +55,18 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>bequest of <persName>W.Y.Evans-Wentz</persName></p>
+                     <p>bequest of <persName key="person_2">W.Y.Evans-Wentz</persName></p>
                      <p>E.W.81</p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>bequest of <persName role="dnr fmo">W.Y.Evans-Wentz</persName></p>
+                     <p>bequest of <persName role="dnr fmo" key="person_2">W.Y.Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -85,8 +85,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh2006008511"
-                           target="https://id.loc.gov/authorities/subjects/sh2006008511">Tantric literature</term>
+                     <term key="subject_sh2006008511" target="https://id.loc.gov/authorities/subjects/sh2006008511">Tantric literature</term>
                   </item>
                </list>
             </keywords>

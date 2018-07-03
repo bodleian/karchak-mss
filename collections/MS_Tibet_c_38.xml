@@ -55,18 +55,18 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Bequest of <persName>W.Y. Evans-Wentz</persName></p>
+                     <p>Bequest of <persName key="person_2">W.Y. Evans-Wentz</persName></p>
                      <p>E.W. 13</p>
                   </provenance>
                   <acquisition>
                      <date when="8965" calendar="#Gregorian">18965</date>
-                     <p>Bequest of <persName role="dnr fmo">W.Y. Evans-Wentz</persName></p>
+                     <p>Bequest of <persName role="dnr fmo" key="person_2">W.Y. Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -85,8 +85,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh2013001938"
-                           target="https://id.loc.gov/authorities/subjects/sh2013001938">Tibetan language--Alphabet</term>
+                     <term key="subject_sh2013001938" target="https://id.loc.gov/authorities/subjects/sh2013001938">Tibetan language--Alphabet</term>
                   </item>
                </list>
             </keywords>

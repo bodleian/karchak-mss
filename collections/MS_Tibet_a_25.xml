@@ -60,11 +60,11 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Donated by <persName role="dnr fmo">Rev. W. Asboe</persName>, <date when="1947-08-19" calendar="#Gregorian">19 Aug. 1947</date></p>
+                     <p>Donated by <persName role="dnr fmo" key="person_98">Rev. W. Asboe</persName>, <date when="1947-08-19" calendar="#Gregorian">19 Aug. 1947</date></p>
                   </provenance>
                   <acquisition>
                      <date when="1947" calendar="#Gregorian">1947</date>
-                     <p>Donated by <persName role="dnr fmo">Rev. W. Asboe</persName></p>
+                     <p>Donated by <persName role="dnr fmo" key="person_98">Rev. W. Asboe</persName></p>
                      <p>boxed at the expense of <orgName>Friends of the Bodleian Library</orgName>, <date when="1994-11" calendar="#Gregorian">Nov. 1994</date>.</p>
                   </acquisition>
                </history>
@@ -86,8 +86,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85106113"
-                           target="https://id.loc.gov/authorities/subjects/sh85106113">Prayer</term>
+                     <term key="subject_sh85106113" target="https://id.loc.gov/authorities/subjects/sh85106113">Prayer</term>
                   </item>
                </list>
             </keywords>

@@ -56,13 +56,13 @@
                <history>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>bequest of <persName role="dnr fmo">W.Y. Evans-Wentz</persName></p>
+                     <p>bequest of <persName role="dnr fmo" key="person_2">W.Y. Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -81,12 +81,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh96010631"
-                           target="https://id.loc.gov/authorities/subjects/sh96010631">Animal sacrifice</term>
+                     <term key="subject_sh96010631" target="https://id.loc.gov/authorities/subjects/sh96010631">Animal sacrifice</term>
                   </item>
                   <item>
-                     <term key="subject_sh85123693"
-                           target="https://id.loc.gov/authorities/subjects/sh85123693">Smoking</term>
+                     <term key="subject_sh85123693" target="https://id.loc.gov/authorities/subjects/sh85123693">Smoking</term>
                   </item>
                </list>
             </keywords>

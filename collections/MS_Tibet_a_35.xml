@@ -46,7 +46,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 35</idno>
                </msIdentifier>
-               <head>Life of <persName>Nagwang Yontan Thaye Namgyal</persName>, 18thC</head>
+               <head>Life of <persName key="person_62">Nagwang Yontan Thaye Namgyal</persName>, 18thC</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_a_35-item1" class="Namtar" rend="visible">
                      <locus from="1r" to="136r"/>
@@ -75,7 +75,7 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p><persName role="fmo">H.E. Richardson</persName> Estate</p>
+                     <p><persName role="fmo" key="person_18">H.E. Richardson</persName> Estate</p>
                   </provenance>
                   <acquisition>
                      <date when="2001" calendar="#Gregorian">2001</date>
@@ -84,7 +84,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>CEM</persName>
+                        <source>converted from master records created by <persName key="person_9">CEM</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">

@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 45, 46</idno>
                </msIdentifier>
-               <head><persName>Lama Kazi Dawa Samdup</persName>'s translation of <persName>Milarepa</persName> biography</head>
+               <head><persName key="person_26">Lama Kazi Dawa Samdup</persName>'s translation of <persName key="person_27">Milarepa</persName> biography</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_a_45_46-item1" class="Biography translation">
                      <locus from="1r" to="265v"/>
@@ -40,10 +40,10 @@
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>
+                     <author key="person_53">
                         <persName>ras chung rdo rje grags pa</persName>
-                        <persName>ras chuṅ rdo rje grags pa</persName>
-                        <persName>རས་ཆུང་རྡོ་རྗེ་གྲགས་པ</persName>
+                         (<persName>ras chuṅ rdo rje grags pa</persName> / 
+                         (<persName>རས་ཆུང་རྡོ་རྗེ་གྲགས་པ</persName>)
                      </author>
                   </msItem>
                </msContents>
@@ -62,13 +62,13 @@
                <history>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of <persName role="dnr fmo">W.Y.Evans-Wentz</persName></p>
+                     <p>Bequest of <persName role="dnr fmo" key="person_2">W.Y.Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -87,8 +87,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85014152"
-                           target="https://id.loc.gov/authorities/subjects/sh85014152">Biography</term>
+                     <term key="subject_sh85014152" target="https://id.loc.gov/authorities/subjects/sh85014152">Biography</term>
                   </item>
                </list>
             </keywords>

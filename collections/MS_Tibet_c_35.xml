@@ -40,10 +40,10 @@
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>
+                     <author key="person_72">
                         <persName>rig 'dzin 'gyur med rdo rje</persName>
-                        <persName>rig ʾdzin ʾgyur med rdo rje</persName>
-                        <persName>རིག་འཛིན་འགྱུར་མེད་རྡོ་རྗེ</persName>
+                         (<persName>rig ʾdzin ʾgyur med rdo rje</persName> / 
+                         (<persName>རིག་འཛིན་འགྱུར་མེད་རྡོ་རྗེ</persName>)
                      </author>
                   </msItem>
                </msContents>
@@ -61,18 +61,18 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>bequest of <persName>W.Y.Evans-Wentz</persName></p>
+                     <p>bequest of <persName key="person_2">W.Y.Evans-Wentz</persName></p>
                      <p>E.W. (Tibetan MS. no.19)</p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>bequest of <persName role="dnr fmo">W.Y.Evans-Wentz</persName></p>
+                     <p>bequest of <persName role="dnr fmo" key="person_2">W.Y.Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -91,8 +91,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85114228"
-                           target="https://id.loc.gov/authorities/subjects/sh85114228">Ritual</term>
+                     <term key="subject_sh85114228" target="https://id.loc.gov/authorities/subjects/sh85114228">Ritual</term>
                   </item>
                </list>
             </keywords>

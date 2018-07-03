@@ -40,10 +40,10 @@
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>
+                     <author key="person_95">
                         <persName>gu ru chos kyi dbang phyug</persName>
-                        <persName>gu ru chos kyi dbaṅ phyug</persName>
-                        <persName>གུ་རུ་ཆོས་ཀྱི་དབང་ཕྱུག</persName>
+                         (<persName>gu ru chos kyi dbaṅ phyug</persName> / 
+                         (<persName>གུ་རུ་ཆོས་ཀྱི་དབང་ཕྱུག</persName>)
                      </author>
                   </msItem>
                </msContents>
@@ -69,18 +69,18 @@
                </physDesc>
                <history rend="visible">
                   <provenance>
-                     <p>Schl. 61 "Durch <persName role="fmo">Chibu Lama</persName> erworben."</p>
+                     <p>Schl. 61 "Durch <persName role="fmo" key="person_25">Chibu Lama</persName> erworben."</p>
                      <p>S.C. 26293</p>
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
+                     <p>purchased from <persName role="fmo" key="person_4">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional rend="visible">
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -99,8 +99,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85017580"
-                           target="https://id.loc.gov/authorities/subjects/sh85017580">Buddhism--Customs and practices</term>
+                     <term key="subject_sh85017580" target="https://id.loc.gov/authorities/subjects/sh85017580">Buddhism--Customs and practices</term>
                   </item>
                </list>
             </keywords>

@@ -40,10 +40,10 @@
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>
+                     <author key="person_69">
                         <persName>dga' ldan chos rgyal</persName>
-                        <persName>dgaʾ ldan chos rgyal</persName>
-                        <persName>དགའ་ལྡན་ཆོས་རྒྱལ</persName>
+                         (<persName>dgaʾ ldan chos rgyal</persName> / 
+                         (<persName>དགའ་ལྡན་ཆོས་རྒྱལ</persName>)
                      </author>
                   </msItem>
                </msContents>
@@ -65,18 +65,18 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Schl.52 (Durch <persName role="fmo">Chibu Lama</persName> erworben)</p>
+                     <p>Schl.52 (Durch <persName role="fmo" key="person_25">Chibu Lama</persName> erworben)</p>
                      <p>S.C. 26284</p>
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
+                     <p>purchased from <persName role="fmo" key="person_4">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -95,8 +95,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_n2017054713"
-                           target="https://id.loc.gov/authorities/names/n2017054713">Avalokiteśvara (Buddhist deity)</term>
+                     <term key="subject_n2017054713" target="https://id.loc.gov/authorities/names/n2017054713">Avalokiteśvara (Buddhist deity)</term>
                   </item>
                </list>
             </keywords>

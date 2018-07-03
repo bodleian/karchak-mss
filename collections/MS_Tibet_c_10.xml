@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 10</idno>
                </msIdentifier>
-               <head><persName>Padmasambhava</persName> writings</head>
+               <head><persName key="person_10">Padmasambhava</persName> writings</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_10-item1" class="Rites">
                      <locus from="1r" to="32v"/>
@@ -40,10 +40,10 @@
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>
+                     <author key="person_99">
                         <persName>pad+ma 'byung gnas</persName>
-                        <persName>padma ʾbyuṅ gnas</persName>
-                        <persName>པདྨ་འབྱུང་གནས</persName>
+                         (<persName>padma ʾbyuṅ gnas</persName> / 
+                         (<persName>པདྨ་འབྱུང་གནས</persName>)
                      </author>
                   </msItem>
                </msContents>
@@ -66,13 +66,13 @@
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p>purchased from <persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
+                     <p>purchased from <persName role="fmo" key="person_4">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -91,8 +91,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85114211"
-                           target="https://id.loc.gov/authorities/subjects/sh85114211">Rites and ceremonies</term>
+                     <term key="subject_sh85114211" target="https://id.loc.gov/authorities/subjects/sh85114211">Rites and ceremonies</term>
                   </item>
                </list>
             </keywords>

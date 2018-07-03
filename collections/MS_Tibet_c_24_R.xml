@@ -5,7 +5,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>Facsimile copies of documents relating to the Tibetan expedition of <persName>Sir F.Younghusband</persName></title>
+            <title>Facsimile copies of documents relating to the Tibetan expedition of <persName key="person_15">Sir F.Younghusband</persName></title>
             <principal>
                <persName>Gillian Evison</persName>
             </principal>
@@ -29,10 +29,10 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 24 (R)</idno>
                </msIdentifier>
-               <head>Copies of Tibetan letters relating to <persName>Younghusband</persName></head>
+               <head>Copies of Tibetan letters relating to <persName key="person_15">Younghusband</persName></head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_24_R-item1">
-                     <title xml:lang="en">Copies of documents relating to the Tibetan expedition of <persName>Sir F.Younghusband</persName></title>
+                     <title xml:lang="en">Copies of documents relating to the Tibetan expedition of <persName key="person_15">Sir F.Younghusband</persName></title>
                      
 
                      <textLang mainLang="bo" otherLangs="en">tibetan</textLang>
@@ -52,18 +52,18 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>sent from <placeName key="subject_n82001375">Lhasa</placeName> (<date when="1904" calendar="#Gregorian">1904</date>) by <persName>Sir F.Younghusband</persName>, covering letters by <persName>Sir William Herschel</persName>, <persName>Valentine Magniac</persName></p>
+                     <p>sent from <placeName key="subject_n82001375">Lhasa</placeName> (<date when="1904" calendar="#Gregorian">1904</date>) by <persName key="person_15">Sir F.Younghusband</persName>, covering letters by <persName key="person_16">Sir William Herschel</persName>, <persName key="person_17">Valentine Magniac</persName></p>
                      <p>S.C. note after 33644</p>
                   </provenance>
                   <acquisition>
                      <date when="1905" calendar="#Gregorian">1905</date>
-                     <p>don. <persName role="dnr fmo">Valentine Magniac</persName></p>
+                     <p>don. <persName role="dnr fmo" key="person_17">Valentine Magniac</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">

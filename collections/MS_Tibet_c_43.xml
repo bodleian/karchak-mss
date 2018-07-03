@@ -30,7 +30,7 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 43</idno>
                </msIdentifier>
-               <head><persName>Lama Kazi Dawa Samdup</persName> translation of a Bhutanese History of Dharma's Origin</head>
+               <head><persName key="person_26">Lama Kazi Dawa Samdup</persName> translation of a Bhutanese History of Dharma's Origin</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_43-item1" class="History">
                      <locus from="1r" to="28v"/>
@@ -40,10 +40,10 @@
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author>
+                     <author key="person_89">
                         <persName>pad+ma dkar po</persName>
-                        <persName>padma dkar po</persName>
-                        <persName>པདྨ་དཀར་པོ</persName>
+                         (<persName>padma dkar po</persName> / 
+                         (<persName>པདྨ་དཀར་པོ</persName>)
                      </author>
                   </msItem>
                </msContents>
@@ -61,18 +61,18 @@
                </physDesc>
                <history>
                   <provenance>
-                     <p>Bequest of <persName>W.Y. Evans-Wentz</persName></p>
+                     <p>Bequest of <persName key="person_2">W.Y. Evans-Wentz</persName></p>
                      <p>E.W. 57</p>
                   </provenance>
                   <acquisition>
                      <date when="1965" calendar="#Gregorian">1965</date>
-                     <p>Bequest of <persName role="dnr fmo">W.Y. Evans-Wentz</persName></p>
+                     <p>Bequest of <persName role="dnr fmo" key="person_2">W.Y. Evans-Wentz</persName></p>
                   </acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -91,8 +91,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85061212"
-                           target="https://id.loc.gov/authorities/subjects/sh85061212">History</term>
+                     <term key="subject_sh85061212" target="https://id.loc.gov/authorities/subjects/sh85061212">History</term>
                   </item>
                </list>
             </keywords>

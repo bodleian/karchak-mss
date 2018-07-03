@@ -5,7 +5,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>Document and copies relating to the Tibetan expedition of <persName>Sir F.Younghusband</persName></title>
+            <title>Document and copies relating to the Tibetan expedition of <persName key="person_15">Sir F.Younghusband</persName></title>
             <principal>
                <persName>Gillian Evison</persName>
             </principal>
@@ -29,10 +29,10 @@
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 24* (R)</idno>
                </msIdentifier>
-               <head>Tibetan letter relating to <persName>Younghusband</persName>, and copies</head>
+               <head>Tibetan letter relating to <persName key="person_15">Younghusband</persName>, and copies</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_c_24-star_R-item1" class="Letters">
-                     <title xml:lang="en">Document and copies relating to the Tibetan expedition of <persName>Sir F.Younghusband</persName></title>
+                     <title xml:lang="en">Document and copies relating to the Tibetan expedition of <persName key="person_15">Sir F.Younghusband</persName></title>
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
@@ -61,7 +61,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>converted from master records created by <persName>JESD-DB</persName>
+                        <source>converted from master records created by <persName key="person_3">JESD-DB</persName>
                         </source>
                      </recordHist>
                      <availability status="restricted">
@@ -80,8 +80,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85076240"
-                           target="https://id.loc.gov/authorities/subjects/sh85076240">Letters</term>
+                     <term key="subject_sh85076240" target="https://id.loc.gov/authorities/subjects/sh85076240">Letters</term>
                   </item>
                </list>
             </keywords>

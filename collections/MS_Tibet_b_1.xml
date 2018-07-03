@@ -31,10 +31,10 @@
                <head>Heruka Prayer</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_b_1-item1" class="Prayer">
-                     <author>
+                     <author key="person_86">
                         <persName>ngag gi dbang po rnam par rgyal ba</persName>
-                        <persName>ṅag gi dbaṅ po rnam par rgyal ba</persName>
-                        <persName>ངག་གི་དབང་པོ་རྣམ་པར་རྒྱལ་བ</persName>
+                         (<persName>ṅag gi dbaṅ po rnam par rgyal ba</persName> / 
+                         (<persName>ངག་གི་དབང་པོ་རྣམ་པར་རྒྱལ་བ</persName>)
                      </author>
                      <title xml:lang="">he ru ka'i zhing du 'dren pa'i smon las yid kyi shing rta zhes bya ba</title>
                      <title xml:lang="bo-Latn-x-LC" type="alt">he ru kaʾi źiṅ du ʾdren paʾi smon las yid kyi śiṅ rta źes bya ba</title>
@@ -66,7 +66,7 @@
                   </provenance>
                   <acquisition>
                      <date when="1885" calendar="#Gregorian">1885</date>
-                     <p><persName role="fmo">R.H. &amp; A. Schlagintweit</persName></p>
+                     <p><persName role="fmo" key="person_4">R.H. &amp; A. Schlagintweit</persName></p>
                   </acquisition>
                </history>
                <additional>
@@ -90,8 +90,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85106113"
-                           target="https://id.loc.gov/authorities/subjects/sh85106113">Prayer</term>
+                     <term key="subject_sh85106113" target="https://id.loc.gov/authorities/subjects/sh85106113">Prayer</term>
                   </item>
                </list>
             </keywords>

@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schamtypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schamtypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="authority-schematron.sch" type="application/xml" schamtypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+
+            <person xml:id="person_11">
+               <persName type="display">'ja' tshon snying po</persName>
+               <persName type="variant">ʾjaʾ tshon sñiṅ po</persName>
+               <persName type="variant">འཇའ་ཚོན་སྙིང་པོ</persName>
+               <!-- ../collections/MS_Tibet_b_14.xml#MS_Tibet_b_14%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_48">
+               <persName type="display">6th Dalai Lama</persName>
+               <!-- ../collections/MS_Tibet_c_63.xml#MS_Tibet_c_63 -->
+            </person>
+
+            <person xml:id="person_44">
+               <persName type="display">blo gros rgyal mtshan dpal bzang po</persName>
+               <persName type="variant">blo gros rgyal mtshan dpal bzaṅ po</persName>
+               <persName type="variant">བློ་གྲོས་རྒྱལ་མཚན་དཔལ་བཟང་པོ</persName>
+               <!-- ../collections/MS_Tibet_c_22.xml#MS_Tibet_c_22%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_9">
+               <persName type="display">CEM</persName>
+               <!-- ../collections/MS_Tibet_a_26.xml#MS_Tibet_a_26 -->
+               <!-- ../collections/MS_Tibet_a_27.xml#MS_Tibet_a_27 -->
+               <!-- ../collections/MS_Tibet_a_28.xml#MS_Tibet_a_28 -->
+               <!-- ../collections/MS_Tibet_a_29.xml#MS_Tibet_a_29 -->
+               <!-- ../collections/MS_Tibet_a_30.xml#MS_Tibet_a_30 -->
+               <!-- ../collections/MS_Tibet_a_31.xml#MS_Tibet_a_31 -->
+               <!-- ../collections/MS_Tibet_a_32.xml#MS_Tibet_a_32 -->
+               <!-- ../collections/MS_Tibet_a_33.xml#MS_Tibet_a_33 -->
+               <!-- ../collections/MS_Tibet_a_34.xml#MS_Tibet_a_34 -->
+               <!-- ../collections/MS_Tibet_a_35.xml#MS_Tibet_a_35 -->
+               <!-- ../collections/MS_Tibet_a_36.xml#MS_Tibet_a_36 -->
+               <!-- ../collections/MS_Tibet_a_40.xml#MS_Tibet_a_40 -->
+               <!-- ../collections/MS_Tibet_a_41.xml#MS_Tibet_a_41 -->
+               <!-- ../collections/MS_Tibet_a_42.xml#MS_Tibet_a_42 -->
+               <!-- ../collections/MS_Tibet_a_43.xml#MS_Tibet_a_43 -->
+               <!-- ../collections/MS_Tibet_a_44.xml#MS_Tibet_a_44 -->
+               <!-- ../collections/MS_Tibet_a_45.xml#MS_Tibet_a_45 -->
+               <!-- ../collections/MS_Tibet_b_37.xml#MS_Tibet_b_37 -->
+               <!-- ../collections/MS_Tibet_b_38.xml#MS_Tibet_b_38 -->
+               <!-- ../collections/MS_Tibet_b_39.xml#MS_Tibet_b_39 -->
+               <!-- ../collections/MS_Tibet_b_40.xml#MS_Tibet_b_40 -->
+               <!-- ../collections/MS_Tibet_b_41.xml#MS_Tibet_b_41 -->
+               <!-- ../collections/MS_Tibet_b_42.xml#MS_Tibet_b_42 -->
+               <!-- ../collections/MS_Tibet_b_43.xml#MS_Tibet_b_43 -->
+               <!-- ../collections/MS_Tibet_c_63.xml#MS_Tibet_c_63 -->
+               <!-- ../collections/MS_Tibet_e_13.xml#MS_Tibet_e_13 -->
+            </person>
+
+            <person xml:id="person_25">
+               <persName type="display">Chibu Lama</persName>
+               <!-- ../collections/MS_Tibet_b_3.xml#MS_Tibet_b_3 -->
+               <!-- ../collections/MS_Tibet_b_4.xml#MS_Tibet_b_4 -->
+               <!-- ../collections/MS_Tibet_b_5.xml#MS_Tibet_b_5 -->
+               <!-- ../collections/MS_Tibet_b_8.xml#MS_Tibet_b_8 -->
+               <!-- ../collections/MS_Tibet_c_13.xml#MS_Tibet_c_13 -->
+               <!-- ../collections/MS_Tibet_d_2.xml#MS_Tibet_d_2 -->
+               <!-- ../collections/MS_Tibet_d_3.xml#MS_Tibet_d_3 -->
+               <!-- ../collections/MS_Tibet_e_1.xml#MS_Tibet_e_1 -->
+            </person>
+
+            <person xml:id="person_34">
+               <persName type="display">Col. W. Ryder</persName>
+               <!-- ../collections/MS_Tibet_b_28.xml#MS_Tibet_b_28 -->
+            </person>
+
+            <person xml:id="person_69">
+               <persName type="display">dga' ldan chos rgyal</persName>
+               <persName type="variant">dgaʾ ldan chos rgyal</persName>
+               <persName type="variant">དགའ་ལྡན་ཆོས་རྒྱལ</persName>
+               <!-- ../collections/MS_Tibet_d_3.xml#MS_Tibet_d_3%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_49">
+               <persName type="display">dge slong chos kyi dbang phyug</persName>
+               <persName type="variant">dge sloṅ chos kyi dbaṅ phyug</persName>
+               <persName type="variant">དགེ་སློང་ཆོས་ཀྱི་དབང་ཕྱུག</persName>
+               <!-- ../collections/MS_Tibet_a_2.xml#MS_Tibet_a_2%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_82">
+               <persName type="display">dge slong legs bshad klu sgrub</persName>
+               <persName type="variant">dge sloṅ legs bśad klu sgrub</persName>
+               <persName type="variant">དགེ་སློང་ལེགས་བཤད་ཀླུ་སྒྲུབ</persName>
+               <!-- ../collections/MS_Tibet_a_1.xml#MS_Tibet_a_1%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_92">
+               <persName type="display">gter ston rig 'dzin rgod kyi ldem 'phru can</persName>
+               <persName type="variant">gter ston rig ʾdzin rgod kyi ldem ʾphru can</persName>
+               <persName type="variant">གཏེར་སྟོན་རིག་འཛིན་རྒོད་ཀྱི་ལྡེམ་འཕྲུ་ཅན</persName>
+               <!-- ../collections/MS_Tibet_c_16.xml#MS_Tibet_c_16%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_95">
+               <persName type="display">gu ru chos kyi dbang phyug</persName>
+               <persName type="variant">gu ru chos kyi dbaṅ phyug</persName>
+               <persName type="variant">གུ་རུ་ཆོས་ཀྱི་དབང་ཕྱུག</persName>
+               <!-- ../collections/MS_Tibet_b_8.xml#MS_Tibet_b_8%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_18">
+               <persName type="display">H.E. Richardson</persName>
+               <!-- ../collections/MS_Tibet_a_26.xml#MS_Tibet_a_26 -->
+               <!-- ../collections/MS_Tibet_a_27.xml#MS_Tibet_a_27 -->
+               <!-- ../collections/MS_Tibet_a_28.xml#MS_Tibet_a_28 -->
+               <!-- ../collections/MS_Tibet_a_29.xml#MS_Tibet_a_29 -->
+               <!-- ../collections/MS_Tibet_a_30.xml#MS_Tibet_a_30 -->
+               <!-- ../collections/MS_Tibet_a_31.xml#MS_Tibet_a_31 -->
+               <!-- ../collections/MS_Tibet_a_32.xml#MS_Tibet_a_32 -->
+               <!-- ../collections/MS_Tibet_a_33.xml#MS_Tibet_a_33 -->
+               <!-- ../collections/MS_Tibet_a_34.xml#MS_Tibet_a_34 -->
+               <!-- ../collections/MS_Tibet_a_35.xml#MS_Tibet_a_35 -->
+               <!-- ../collections/MS_Tibet_a_36.xml#MS_Tibet_a_36 -->
+               <!-- ../collections/MS_Tibet_a_40.xml#MS_Tibet_a_40 -->
+               <!-- ../collections/MS_Tibet_a_41.xml#MS_Tibet_a_41 -->
+               <!-- ../collections/MS_Tibet_a_42.xml#MS_Tibet_a_42 -->
+               <!-- ../collections/MS_Tibet_a_43.xml#MS_Tibet_a_43 -->
+               <!-- ../collections/MS_Tibet_a_44.xml#MS_Tibet_a_44 -->
+               <!-- ../collections/MS_Tibet_a_45.xml#MS_Tibet_a_45 -->
+               <!-- ../collections/MS_Tibet_b_37.xml#MS_Tibet_b_37 -->
+               <!-- ../collections/MS_Tibet_b_38.xml#MS_Tibet_b_38 -->
+               <!-- ../collections/MS_Tibet_b_39.xml#MS_Tibet_b_39 -->
+               <!-- ../collections/MS_Tibet_b_40.xml#MS_Tibet_b_40 -->
+               <!-- ../collections/MS_Tibet_b_41.xml#MS_Tibet_b_41 -->
+               <!-- ../collections/MS_Tibet_b_42.xml#MS_Tibet_b_42 -->
+               <!-- ../collections/MS_Tibet_b_43.xml#MS_Tibet_b_43 -->
+               <!-- ../collections/MS_Tibet_c_63.xml#MS_Tibet_c_63 -->
+            </person>
+
+            <person xml:id="person_81">
+               <persName type="display">James Singer</persName>
+               <!-- ../collections/MS_Tibet_b_36.xml#MS_Tibet_b_36 -->
+            </person>
+
+            <person xml:id="person_3">
+               <persName type="display">JESD-DB</persName>
+               <!-- ../collections/MS_Tibet_a_1.xml#MS_Tibet_a_1 -->
+               <!-- ../collections/MS_Tibet_a_10_R.xml#MS_Tibet_a_10_R -->
+               <!-- ../collections/MS_Tibet_a_2.xml#MS_Tibet_a_2 -->
+               <!-- ../collections/MS_Tibet_a_23_R.xml#MS_Tibet_a_23_R -->
+               <!-- ../collections/MS_Tibet_a_3.xml#MS_Tibet_a_3 -->
+               <!-- ../collections/MS_Tibet_a_4.xml#MS_Tibet_a_4 -->
+               <!-- ../collections/MS_Tibet_a_45_46.xml#MS_Tibet_a_45_46 -->
+               <!-- ../collections/MS_Tibet_b_10.xml#MS_Tibet_b_10 -->
+               <!-- ../collections/MS_Tibet_b_11.xml#MS_Tibet_b_11 -->
+               <!-- ../collections/MS_Tibet_b_12.xml#MS_Tibet_b_12 -->
+               <!-- ../collections/MS_Tibet_b_13.xml#MS_Tibet_b_13 -->
+               <!-- ../collections/MS_Tibet_b_14.xml#MS_Tibet_b_14 -->
+               <!-- ../collections/MS_Tibet_b_15.xml#MS_Tibet_b_15 -->
+               <!-- ../collections/MS_Tibet_b_16.xml#MS_Tibet_b_16 -->
+               <!-- ../collections/MS_Tibet_b_17.xml#MS_Tibet_b_17 -->
+               <!-- ../collections/MS_Tibet_b_2.xml#MS_Tibet_b_2 -->
+               <!-- ../collections/MS_Tibet_b_28.xml#MS_Tibet_b_28 -->
+               <!-- ../collections/MS_Tibet_b_29.xml#MS_Tibet_b_29 -->
+               <!-- ../collections/MS_Tibet_b_3.xml#MS_Tibet_b_3 -->
+               <!-- ../collections/MS_Tibet_b_30.xml#MS_Tibet_b_30 -->
+               <!-- ../collections/MS_Tibet_b_31.xml#MS_Tibet_b_31 -->
+               <!-- ../collections/MS_Tibet_b_32.xml#MS_Tibet_b_32 -->
+               <!-- ../collections/MS_Tibet_b_36.xml#MS_Tibet_b_36 -->
+               <!-- ../collections/MS_Tibet_b_4.xml#MS_Tibet_b_4 -->
+               <!-- ../collections/MS_Tibet_b_5.xml#MS_Tibet_b_5 -->
+               <!-- ../collections/MS_Tibet_b_6.xml#MS_Tibet_b_6 -->
+               <!-- ../collections/MS_Tibet_b_7.xml#MS_Tibet_b_7 -->
+               <!-- ../collections/MS_Tibet_b_8.xml#MS_Tibet_b_8 -->
+               <!-- ../collections/MS_Tibet_b_9.xml#MS_Tibet_b_9 -->
+               <!-- ../collections/MS_Tibet_c_1.xml#MS_Tibet_c_1 -->
+               <!-- ../collections/MS_Tibet_c_10.xml#MS_Tibet_c_10 -->
+               <!-- ../collections/MS_Tibet_c_11.xml#MS_Tibet_c_11 -->
+               <!-- ../collections/MS_Tibet_c_12.xml#MS_Tibet_c_12 -->
+               <!-- ../collections/MS_Tibet_c_13.xml#MS_Tibet_c_13 -->
+               <!-- ../collections/MS_Tibet_c_14.xml#MS_Tibet_c_14 -->
+               <!-- ../collections/MS_Tibet_c_15.xml#MS_Tibet_c_15 -->
+               <!-- ../collections/MS_Tibet_c_16.xml#MS_Tibet_c_16 -->
+               <!-- ../collections/MS_Tibet_c_17.xml#MS_Tibet_c_17 -->
+               <!-- ../collections/MS_Tibet_c_18.xml#MS_Tibet_c_18 -->
+               <!-- ../collections/MS_Tibet_c_19.xml#MS_Tibet_c_19 -->
+               <!-- ../collections/MS_Tibet_c_2.xml#MS_Tibet_c_2 -->
+               <!-- ../collections/MS_Tibet_c_20.xml#MS_Tibet_c_20 -->
+               <!-- ../collections/MS_Tibet_c_21.xml#MS_Tibet_c_21 -->
+               <!-- ../collections/MS_Tibet_c_22.xml#MS_Tibet_c_22 -->
+               <!-- ../collections/MS_Tibet_c_23.xml#MS_Tibet_c_23 -->
+               <!-- ../collections/MS_Tibet_c_24%2Dstar_R.xml#MS_Tibet_c_24%2Dstar_R -->
+               <!-- ../collections/MS_Tibet_c_24_R.xml#MS_Tibet_c_24_R -->
+               <!-- ../collections/MS_Tibet_c_25.xml#MS_Tibet_c_25 -->
+               <!-- ../collections/MS_Tibet_c_26.xml#MS_Tibet_c_26 -->
+               <!-- ../collections/MS_Tibet_c_27.xml#MS_Tibet_c_27 -->
+               <!-- ../collections/MS_Tibet_c_28.xml#MS_Tibet_c_28 -->
+               <!-- ../collections/MS_Tibet_c_29.xml#MS_Tibet_c_29 -->
+               <!-- ../collections/MS_Tibet_c_3.xml#MS_Tibet_c_3 -->
+               <!-- ../collections/MS_Tibet_c_30.xml#MS_Tibet_c_30 -->
+               <!-- ../collections/MS_Tibet_c_31.xml#MS_Tibet_c_31 -->
+               <!-- ../collections/MS_Tibet_c_32.xml#MS_Tibet_c_32 -->
+               <!-- ../collections/MS_Tibet_c_33.xml#MS_Tibet_c_33 -->
+               <!-- ../collections/MS_Tibet_c_34.xml#MS_Tibet_c_34 -->
+               <!-- ../collections/MS_Tibet_c_35.xml#MS_Tibet_c_35 -->
+               <!-- ../collections/MS_Tibet_c_36.xml#MS_Tibet_c_36 -->
+               <!-- ../collections/MS_Tibet_c_37.xml#MS_Tibet_c_37 -->
+               <!-- ../collections/MS_Tibet_c_38.xml#MS_Tibet_c_38 -->
+               <!-- ../collections/MS_Tibet_c_39.xml#MS_Tibet_c_39 -->
+               <!-- ../collections/MS_Tibet_c_4.xml#MS_Tibet_c_4 -->
+               <!-- ../collections/MS_Tibet_c_40.xml#MS_Tibet_c_40 -->
+               <!-- ../collections/MS_Tibet_c_41.xml#MS_Tibet_c_41 -->
+               <!-- ../collections/MS_Tibet_c_42.xml#MS_Tibet_c_42 -->
+               <!-- ../collections/MS_Tibet_c_43.xml#MS_Tibet_c_43 -->
+               <!-- ../collections/MS_Tibet_c_44.xml#MS_Tibet_c_44 -->
+               <!-- ../collections/MS_Tibet_c_47.xml#MS_Tibet_c_47 -->
+               <!-- ../collections/MS_Tibet_c_48.xml#MS_Tibet_c_48 -->
+               <!-- ../collections/MS_Tibet_c_49.xml#MS_Tibet_c_49 -->
+               <!-- ../collections/MS_Tibet_c_5.xml#MS_Tibet_c_5 -->
+               <!-- ../collections/MS_Tibet_c_50.xml#MS_Tibet_c_50 -->
+               <!-- ../collections/MS_Tibet_c_51%2D53.xml#MS_Tibet_c_51%2D53 -->
+               <!-- ../collections/MS_Tibet_c_54.xml#MS_Tibet_c_54 -->
+               <!-- ../collections/MS_Tibet_c_55.xml#MS_Tibet_c_55 -->
+               <!-- ../collections/MS_Tibet_c_56.xml#MS_Tibet_c_56 -->
+               <!-- ../collections/MS_Tibet_c_57.xml#MS_Tibet_c_57 -->
+               <!-- ../collections/MS_Tibet_c_58.xml#MS_Tibet_c_58 -->
+               <!-- ../collections/MS_Tibet_c_59.xml#MS_Tibet_c_59 -->
+               <!-- ../collections/MS_Tibet_c_6.xml#MS_Tibet_c_6 -->
+               <!-- ../collections/MS_Tibet_c_60.xml#MS_Tibet_c_60 -->
+               <!-- ../collections/MS_Tibet_c_61.xml#MS_Tibet_c_61 -->
+               <!-- ../collections/MS_Tibet_c_7.xml#MS_Tibet_c_7 -->
+               <!-- ../collections/MS_Tibet_c_8.xml#MS_Tibet_c_8 -->
+               <!-- ../collections/MS_Tibet_c_9.xml#MS_Tibet_c_9 -->
+               <!-- ../collections/MS_Tibet_d_1.xml#MS_Tibet_d_1 -->
+               <!-- ../collections/MS_Tibet_d_19.xml#MS_Tibet_d_19 -->
+               <!-- ../collections/MS_Tibet_d_2.xml#MS_Tibet_d_2 -->
+               <!-- ../collections/MS_Tibet_d_25.xml#MS_Tibet_d_25 -->
+               <!-- ../collections/MS_Tibet_d_29.xml#MS_Tibet_d_29 -->
+               <!-- ../collections/MS_Tibet_d_3.xml#MS_Tibet_d_3 -->
+               <!-- ../collections/MS_Tibet_d_4.xml#MS_Tibet_d_4 -->
+               <!-- ../collections/MS_Tibet_d_5.xml#MS_Tibet_d_5 -->
+               <!-- ../collections/MS_Tibet_e_1.xml#MS_Tibet_e_1 -->
+               <!-- ../collections/MS_Tibet_e_12.xml#MS_Tibet_e_12 -->
+               <!-- ../collections/MS_Tibet_e_2.xml#MS_Tibet_e_2 -->
+               <!-- ../collections/MS_Tibet_e_3.xml#MS_Tibet_e_3 -->
+               <!-- ../collections/MS_Tibet_e_4.xml#MS_Tibet_e_4 -->
+               <!-- ../collections/MS_Tibet_e_5.xml#MS_Tibet_e_5 -->
+               <!-- ../collections/MS_Tibet_e_6.xml#MS_Tibet_e_6 -->
+               <!-- ../collections/MS_Tibet_e_7.xml#MS_Tibet_e_7 -->
+            </person>
+
+            <person xml:id="person_47">
+               <persName type="display">K.W. Hiersemann</persName>
+               <!-- ../collections/MS_Tibet_e_4.xml#MS_Tibet_e_4 -->
+            </person>
+
+            <person xml:id="person_38">
+               <persName type="display">karma pa mi bskyod do rje</persName>
+               <persName type="variant">ཀརྨ་པ་མི་བསྐྱོད་དོ་རྗེ</persName>
+               <!-- ../collections/MS_Tibet_c_3.xml#MS_Tibet_c_3%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_77">
+               <persName type="display">khrag 'thung rdo rje bdud 'joms</persName>
+               <persName type="variant">khrag ʾthuṅ rdo rje bdud ʾjoms</persName>
+               <persName type="variant">ཁྲག་འཐུང་རྡོ་རྗེ་བདུད་འཇོམས</persName>
+               <!-- ../collections/MS_Tibet_b_5.xml#MS_Tibet_b_5%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_31">
+               <persName type="display">klong chen rab 'byams</persName>
+               <persName type="variant">kloṅ chen rab ʾbyams</persName>
+               <persName type="variant">ཀློང་ཆེན་རབ་འབྱམས</persName>
+               <!-- ../collections/MS_Tibet_c_15.xml#MS_Tibet_c_15%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_19">
+               <persName type="display">klong chen rab byams pa dri med 'od zer</persName>
+               <persName type="variant">kloṅ chen rab byams pa dri med ʾod zer</persName>
+               <persName type="variant">ཀློང་ཆེན་རབ་བྱམས་པ་དྲི་མེད་འོད་ཟེར</persName>
+               <!-- ../collections/MS_Tibet_c_59.xml#MS_Tibet_c_59%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_30">
+               <persName type="display">Klong-chen-pa</persName>
+               <!-- ../collections/MS_Tibet_c_15.xml#MS_Tibet_c_15 -->
+            </person>
+
+            <person xml:id="person_26">
+               <persName type="display">Lama Kazi Dawa Samdup</persName>
+               <!-- ../collections/MS_Tibet_a_45_46.xml#MS_Tibet_a_45_46 -->
+               <!-- ../collections/MS_Tibet_c_37.xml#MS_Tibet_c_37 -->
+               <!-- ../collections/MS_Tibet_c_39.xml#MS_Tibet_c_39 -->
+               <!-- ../collections/MS_Tibet_c_40.xml#MS_Tibet_c_40 -->
+               <!-- ../collections/MS_Tibet_c_43.xml#MS_Tibet_c_43 -->
+               <!-- ../collections/MS_Tibet_c_48.xml#MS_Tibet_c_48 -->
+               <!-- ../collections/MS_Tibet_c_50.xml#MS_Tibet_c_50 -->
+               <!-- ../collections/MS_Tibet_c_51%2D53.xml#MS_Tibet_c_51%2D53 -->
+               <!-- ../collections/MS_Tibet_c_54.xml#MS_Tibet_c_54 -->
+               <!-- ../collections/MS_Tibet_c_55.xml#MS_Tibet_c_55 -->
+               <!-- ../collections/MS_Tibet_c_56.xml#MS_Tibet_c_56 -->
+               <!-- ../collections/MS_Tibet_c_57.xml#MS_Tibet_c_57 -->
+            </person>
+
+            <person xml:id="person_5">
+               <persName type="display">lcang skya rol pa'i rdo rje</persName>
+               <persName type="variant">lcaṅ skya rol paʾi rdo rje</persName>
+               <persName type="variant">ལྕང་སྐྱ་རོལ་པའི་རྡོ་རྗེ</persName>
+               <!-- ../collections/MS_Tibet_e_12.xml#MS_Tibet_e_12%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_27">
+               <persName type="display">Milarepa</persName>
+               <!-- ../collections/MS_Tibet_a_45_46.xml#MS_Tibet_a_45_46 -->
+               <!-- ../collections/MS_Tibet_c_57.xml#MS_Tibet_c_57 -->
+            </person>
+
+            <person xml:id="person_8">
+               <persName type="display">Mr. Franklin</persName>
+               <!-- ../collections/MS_Tibet_e_13.xml#MS_Tibet_e_13 -->
+            </person>
+
+            <person xml:id="person_80">
+               <persName type="display">Nagarjuna</persName>
+               <persName type="variant">NAgArjuna</persName>
+               <!-- ../collections/MS_Tibet_a_36.xml#MS_Tibet_a_36 -->
+               <!-- ../collections/MS_Tibet_c_40.xml#MS_Tibet_c_40 -->
+               <!-- ../collections/MS_Tibet_c_40.xml#MS_Tibet_c_40%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_85">
+               <persName type="display">Nagwang Namgyal</persName>
+               <!-- ../collections/MS_Tibet_a_34.xml#MS_Tibet_a_34 -->
+            </person>
+
+            <person xml:id="person_62">
+               <persName type="display">Nagwang Yontan Thaye Namgyal</persName>
+               <!-- ../collections/MS_Tibet_a_35.xml#MS_Tibet_a_35 -->
+            </person>
+
+            <person xml:id="person_35">
+               <persName type="display">ngag dbang 'jigs rten dbang phyug grags pa'i rdo rje</persName>
+               <persName type="variant">ངག་དབང་འཇིགས་རྟེན་དབང་ཕྱུག་གྲགས་པའི་རྡོ་རྗེ</persName>
+               <persName type="variant">ṅag dbaṅ ʾjigs rten dbaṅ phyug grags paʾi rdo rje</persName>
+               <!-- ../collections/MS_Tibet_a_10_R.xml#MS_Tibet_a_10_R%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_66">
+               <persName type="display">ngag dbang dge legs rgyal mtshan</persName>
+               <persName type="variant">ངག་དབང་དགེ་ལེགས་རྒྱལ་མཚན</persName>
+               <persName type="variant">ṅag dbaṅ dge legs rgyal mtshan</persName>
+               <!-- ../collections/MS_Tibet_b_7.xml#MS_Tibet_b_7%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_86">
+               <persName type="display">ngag gi dbang po rnam par rgyal ba</persName>
+               <persName type="variant">ངག་གི་དབང་པོ་རྣམ་པར་རྒྱལ་བ</persName>
+               <persName type="variant">ṅag gi dbaṅ po rnam par rgyal ba</persName>
+               <!-- ../collections/MS_Tibet_b_1.xml#MS_Tibet_b_1%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_28">
+               <persName type="display">o rgyan padma</persName>
+               <persName type="variant">ཨོ་རྒྱན་པདམ</persName>
+               <!-- ../collections/MS_Tibet_b_6.xml#MS_Tibet_b_6%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_99">
+               <persName type="display">pad+ma 'byung gnas</persName>
+               <persName type="variant">padma ʾbyuṅ gnas</persName>
+               <persName type="variant">པདྨ་འབྱུང་གནས</persName>
+               <!-- ../collections/MS_Tibet_c_10.xml#MS_Tibet_c_10%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_89">
+               <persName type="display">pad+ma dkar po</persName>
+               <persName type="variant">padma dkar po</persName>
+               <persName type="variant">པདྨ་དཀར་པོ</persName>
+               <!-- ../collections/MS_Tibet_c_43.xml#MS_Tibet_c_43%2Ditem1 -->
+               <!-- ../collections/MS_Tibet_c_48.xml#MS_Tibet_c_48%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_10">
+               <persName type="display">Padmasambhava</persName>
+               <!-- ../collections/MS_Tibet_b_14.xml#MS_Tibet_b_14 -->
+               <!-- ../collections/MS_Tibet_c_10.xml#MS_Tibet_c_10 -->
+               <!-- ../collections/MS_Tibet_c_22.xml#MS_Tibet_c_22 -->
+               <!-- ../collections/MS_Tibet_c_36.xml#MS_Tibet_c_36 -->
+               <!-- ../collections/MS_Tibet_c_42.xml#MS_Tibet_c_42 -->
+            </person>
+
+            <person xml:id="person_40">
+               <persName type="display">Prof. Joseph White</persName>
+               <!-- ../collections/MS_Tibet_e_6.xml#MS_Tibet_e_6 -->
+               <!-- ../collections/MS_Tibet_e_7.xml#MS_Tibet_e_7 -->
+            </person>
+
+            <person xml:id="person_4">
+               <persName type="display">The Schlagintweit brothers</persName>
+               <persName type="variant">R.H. &amp; A. Schlagintweit</persName>
+               <persName type="variant">Schlagintweit</persName>
+               <!-- ../collections/MS_Tibet_c_4.xml#MS_Tibet_c_4 -->
+               <!-- ../collections/MS_Tibet_a_1.xml#MS_Tibet_a_1 -->
+               <!-- ../collections/MS_Tibet_b_1.xml#MS_Tibet_b_1 -->
+               <!-- ../collections/MS_Tibet_b_10.xml#MS_Tibet_b_10 -->
+               <!-- ../collections/MS_Tibet_b_11.xml#MS_Tibet_b_11 -->
+               <!-- ../collections/MS_Tibet_b_12.xml#MS_Tibet_b_12 -->
+               <!-- ../collections/MS_Tibet_b_13.xml#MS_Tibet_b_13 -->
+               <!-- ../collections/MS_Tibet_b_14.xml#MS_Tibet_b_14 -->
+               <!-- ../collections/MS_Tibet_b_15.xml#MS_Tibet_b_15 -->
+               <!-- ../collections/MS_Tibet_b_16.xml#MS_Tibet_b_16 -->
+               <!-- ../collections/MS_Tibet_b_17.xml#MS_Tibet_b_17 -->
+               <!-- ../collections/MS_Tibet_b_2.xml#MS_Tibet_b_2 -->
+               <!-- ../collections/MS_Tibet_b_3.xml#MS_Tibet_b_3 -->
+               <!-- ../collections/MS_Tibet_b_4.xml#MS_Tibet_b_4 -->
+               <!-- ../collections/MS_Tibet_b_5.xml#MS_Tibet_b_5 -->
+               <!-- ../collections/MS_Tibet_b_6.xml#MS_Tibet_b_6 -->
+               <!-- ../collections/MS_Tibet_b_7.xml#MS_Tibet_b_7 -->
+               <!-- ../collections/MS_Tibet_b_8.xml#MS_Tibet_b_8 -->
+               <!-- ../collections/MS_Tibet_b_9.xml#MS_Tibet_b_9 -->
+               <!-- ../collections/MS_Tibet_c_1.xml#MS_Tibet_c_1 -->
+               <!-- ../collections/MS_Tibet_c_10.xml#MS_Tibet_c_10 -->
+               <!-- ../collections/MS_Tibet_c_11.xml#MS_Tibet_c_11 -->
+               <!-- ../collections/MS_Tibet_c_12.xml#MS_Tibet_c_12 -->
+               <!-- ../collections/MS_Tibet_c_13.xml#MS_Tibet_c_13 -->
+               <!-- ../collections/MS_Tibet_c_14.xml#MS_Tibet_c_14 -->
+               <!-- ../collections/MS_Tibet_c_15.xml#MS_Tibet_c_15 -->
+               <!-- ../collections/MS_Tibet_c_16.xml#MS_Tibet_c_16 -->
+               <!-- ../collections/MS_Tibet_c_17.xml#MS_Tibet_c_17 -->
+               <!-- ../collections/MS_Tibet_c_18.xml#MS_Tibet_c_18 -->
+               <!-- ../collections/MS_Tibet_c_19.xml#MS_Tibet_c_19 -->
+               <!-- ../collections/MS_Tibet_c_2.xml#MS_Tibet_c_2 -->
+               <!-- ../collections/MS_Tibet_c_20.xml#MS_Tibet_c_20 -->
+               <!-- ../collections/MS_Tibet_c_21.xml#MS_Tibet_c_21 -->
+               <!-- ../collections/MS_Tibet_c_22.xml#MS_Tibet_c_22 -->
+               <!-- ../collections/MS_Tibet_c_23.xml#MS_Tibet_c_23 -->
+               <!-- ../collections/MS_Tibet_c_3.xml#MS_Tibet_c_3 -->
+               <!-- ../collections/MS_Tibet_c_4.xml#MS_Tibet_c_4 -->
+               <!-- ../collections/MS_Tibet_c_5.xml#MS_Tibet_c_5 -->
+               <!-- ../collections/MS_Tibet_c_6.xml#MS_Tibet_c_6 -->
+               <!-- ../collections/MS_Tibet_c_7.xml#MS_Tibet_c_7 -->
+               <!-- ../collections/MS_Tibet_c_8.xml#MS_Tibet_c_8 -->
+               <!-- ../collections/MS_Tibet_c_9.xml#MS_Tibet_c_9 -->
+               <!-- ../collections/MS_Tibet_d_1.xml#MS_Tibet_d_1 -->
+               <!-- ../collections/MS_Tibet_d_2.xml#MS_Tibet_d_2 -->
+               <!-- ../collections/MS_Tibet_d_3.xml#MS_Tibet_d_3 -->
+               <!-- ../collections/MS_Tibet_d_4.xml#MS_Tibet_d_4 -->
+               <!-- ../collections/MS_Tibet_d_5.xml#MS_Tibet_d_5 -->
+               <!-- ../collections/MS_Tibet_e_1.xml#MS_Tibet_e_1 -->
+               <!-- ../collections/MS_Tibet_e_2.xml#MS_Tibet_e_2 -->
+               <!-- ../collections/MS_Tibet_e_3.xml#MS_Tibet_e_3 -->
+            </person>
+
+            <person xml:id="person_53">
+               <persName type="display">ras chung rdo rje grags pa</persName>
+               <persName type="variant">ras chuṅ rdo rje grags pa</persName>
+               <persName type="variant">རས་ཆུང་རྡོ་རྗེ་གྲགས་པ</persName>
+               <!-- ../collections/MS_Tibet_a_45_46.xml#MS_Tibet_a_45_46%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_41">
+               <persName type="display">rat+na gling pa</persName>
+               <persName type="variant">ratna gliṅ pa</persName>
+               <persName type="variant">རཏྣ་གླིང་པ</persName>
+               <!-- ../collections/MS_Tibet_b_10.xml#MS_Tibet_b_10%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_98">
+               <persName type="display">Rev. W. Asboe</persName>
+               <!-- ../collections/MS_Tibet_a_25.xml#MS_Tibet_a_25 -->
+            </person>
+
+            <person xml:id="person_72">
+               <persName type="display">rig 'dzin 'gyur med rdo rje</persName>
+               <persName type="variant">rig ʾdzin ʾgyur med rdo rje</persName>
+               <persName type="variant">རིག་འཛིན་འགྱུར་མེད་རྡོ་རྗེ</persName>
+               <!-- ../collections/MS_Tibet_c_35.xml#MS_Tibet_c_35%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_56">
+               <persName type="display">rngog 'brug Lha dbang blo gros</persName>
+               <persName type="variant">rṅog ʾbrug ḷha dbaṅ blo gros</persName>
+               <persName type="variant">རྔོག་འབྲུག་Lཧ་དབང་བློ་གྲོས</persName>
+               <!-- ../collections/MS_Tibet_c_2.xml#MS_Tibet_c_2%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_23">
+               <persName type="display">sgam po pa</persName>
+               <persName type="variant">སྒམ་པོ་པ</persName>
+               <!-- ../collections/MS_Tibet_c_54.xml#MS_Tibet_c_54%2Ditem1 -->
+               <!-- ../collections/MS_Tibet_c_56.xml#MS_Tibet_c_56%2Ditem1 -->
+               <!-- ../collections/MS_Tibet_c_61.xml#MS_Tibet_c_61%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_15">
+               <persName type="display">Sir F.Younghusband</persName>
+               <persName type="variant">Younghusband</persName>
+               <!-- ../collections/MS_Tibet_c_24%2Dstar_R.xml#MS_Tibet_c_24%2Dstar_R -->
+               <!-- ../collections/MS_Tibet_c_24_R.xml#MS_Tibet_c_24_R -->
+               <!-- ../collections/MS_Tibet_c_24%2Dstar_R.xml#MS_Tibet_c_24%2Dstar_R%2Ditem1 -->
+               <!-- ../collections/MS_Tibet_c_24_R.xml#MS_Tibet_c_24_R -->
+               <!-- ../collections/MS_Tibet_c_24_R.xml#MS_Tibet_c_24_R%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_16">
+               <persName type="display">Sir William Herschel</persName>
+               <!-- ../collections/MS_Tibet_c_24_R.xml#MS_Tibet_c_24_R -->
+            </person>
+
+            <person xml:id="person_17">
+               <persName type="display">Valentine Magniac</persName>
+               <!-- ../collections/MS_Tibet_c_24_R.xml#MS_Tibet_c_24_R -->
+            </person>
+
+            <person xml:id="person_2">
+               <persName type="display">W.Y. Evans-Wentz</persName>
+               <persName type="variant">W.Y.Evans-Wentz</persName>
+               <persName type="variant">Evans-Wentz</persName>
+               <!-- ../collections/MS_Tibet_c_44.xml#MS_Tibet_c_44 -->
+               <!-- ../collections/MS_Tibet_a_45_46.xml#MS_Tibet_a_45_46 -->
+               <!-- ../collections/MS_Tibet_b_29.xml#MS_Tibet_b_29 -->
+               <!-- ../collections/MS_Tibet_b_30.xml#MS_Tibet_b_30 -->
+               <!-- ../collections/MS_Tibet_b_31.xml#MS_Tibet_b_31 -->
+               <!-- ../collections/MS_Tibet_b_32.xml#MS_Tibet_b_32 -->
+               <!-- ../collections/MS_Tibet_c_25.xml#MS_Tibet_c_25 -->
+               <!-- ../collections/MS_Tibet_c_26.xml#MS_Tibet_c_26 -->
+               <!-- ../collections/MS_Tibet_c_27.xml#MS_Tibet_c_27 -->
+               <!-- ../collections/MS_Tibet_c_28.xml#MS_Tibet_c_28 -->
+               <!-- ../collections/MS_Tibet_c_29.xml#MS_Tibet_c_29 -->
+               <!-- ../collections/MS_Tibet_c_30.xml#MS_Tibet_c_30 -->
+               <!-- ../collections/MS_Tibet_c_31.xml#MS_Tibet_c_31 -->
+               <!-- ../collections/MS_Tibet_c_32.xml#MS_Tibet_c_32 -->
+               <!-- ../collections/MS_Tibet_c_33.xml#MS_Tibet_c_33 -->
+               <!-- ../collections/MS_Tibet_c_34.xml#MS_Tibet_c_34 -->
+               <!-- ../collections/MS_Tibet_c_35.xml#MS_Tibet_c_35 -->
+               <!-- ../collections/MS_Tibet_c_36.xml#MS_Tibet_c_36 -->
+               <!-- ../collections/MS_Tibet_c_37.xml#MS_Tibet_c_37 -->
+               <!-- ../collections/MS_Tibet_c_38.xml#MS_Tibet_c_38 -->
+               <!-- ../collections/MS_Tibet_c_39.xml#MS_Tibet_c_39 -->
+               <!-- ../collections/MS_Tibet_c_40.xml#MS_Tibet_c_40 -->
+               <!-- ../collections/MS_Tibet_c_41.xml#MS_Tibet_c_41 -->
+               <!-- ../collections/MS_Tibet_c_42.xml#MS_Tibet_c_42 -->
+               <!-- ../collections/MS_Tibet_c_43.xml#MS_Tibet_c_43 -->
+               <!-- ../collections/MS_Tibet_c_44.xml#MS_Tibet_c_44 -->
+               <!-- ../collections/MS_Tibet_c_47.xml#MS_Tibet_c_47 -->
+               <!-- ../collections/MS_Tibet_c_48.xml#MS_Tibet_c_48 -->
+               <!-- ../collections/MS_Tibet_c_49.xml#MS_Tibet_c_49 -->
+               <!-- ../collections/MS_Tibet_c_50.xml#MS_Tibet_c_50 -->
+               <!-- ../collections/MS_Tibet_c_51%2D53.xml#MS_Tibet_c_51%2D53 -->
+               <!-- ../collections/MS_Tibet_c_54.xml#MS_Tibet_c_54 -->
+               <!-- ../collections/MS_Tibet_c_55.xml#MS_Tibet_c_55 -->
+               <!-- ../collections/MS_Tibet_c_56.xml#MS_Tibet_c_56 -->
+               <!-- ../collections/MS_Tibet_c_57.xml#MS_Tibet_c_57 -->
+               <!-- ../collections/MS_Tibet_c_58.xml#MS_Tibet_c_58 -->
+               <!-- ../collections/MS_Tibet_c_59.xml#MS_Tibet_c_59 -->
+               <!-- ../collections/MS_Tibet_c_60.xml#MS_Tibet_c_60 -->
+               <!-- ../collections/MS_Tibet_c_61.xml#MS_Tibet_c_61 -->
+               <!-- ../collections/MS_Tibet_d_19.xml#MS_Tibet_d_19 -->
+               <!-- ../collections/MS_Tibet_d_25.xml#MS_Tibet_d_25 -->
+               <!-- ../collections/MS_Tibet_d_29.xml#MS_Tibet_d_29 -->
+               <!-- ../collections/MS_Tibet_e_12.xml#MS_Tibet_e_12 -->
+            </person>
+
+            <person xml:id="person_59">
+               <persName type="display">ye shes mtsho rgyal</persName>
+               <persName type="variant">ye śes mtsho rgyal</persName>
+               <persName type="variant">ཡེ་ཤེས་མཚོ་རྒྱལ</persName>
+               <!-- ../collections/MS_Tibet_c_42.xml#MS_Tibet_c_42%2Ditem1 -->
+            </person>
+
+            <person xml:id="person_63">
+               <persName type="display">zla ba bsam 'grub</persName>
+               <persName type="variant">zla ba bsam ʾgrub</persName>
+               <persName type="variant">ཟླ་བ་བསམ་འགྲུབ</persName>
+               <!-- ../collections/MS_Tibet_c_39.xml#MS_Tibet_c_39%2Ditem1 -->
+               <!-- ../collections/MS_Tibet_c_40.xml#MS_Tibet_c_40%2Ditem1 -->
+            </person>
+            
+            
+            
+         </listPerson>
+      </body>
+   </text>
+</TEI>

@@ -53,7 +53,9 @@
 	</xsl:template>
 
     <xsl:template match="tei:persName[(ancestor::tei:author or ancestor::tei:editor) and preceding-sibling::*[1]/self::tei:persName]">
-        <xsl:text> (</xsl:text>
+        <xsl:if test="count(preceding-sibling::tei:persName) eq 1">
+            <xsl:text> (</xsl:text>
+        </xsl:if>
         <xsl:copy><xsl:copy-of select="@*"/><xsl:apply-templates/></xsl:copy>
         <xsl:choose>
             <xsl:when test="not(following-sibling::tei:persName)">

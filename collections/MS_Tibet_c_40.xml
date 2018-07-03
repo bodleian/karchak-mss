@@ -5,7 +5,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>Epistles of <persName key="person_80">NAgArjuna</persName></title>
+            <title>Epistles of NAgArjuna</title>
             <principal>
                <persName>Gillian Evison</persName>
             </principal>
@@ -42,7 +42,7 @@
                      <author key="person_63">
                         <persName>zla ba bsam 'grub</persName>
                          (<persName>zla ba bsam ʾgrub</persName> / 
-                         (<persName>ཟླ་བ་བསམ་འགྲུབ</persName>)
+                         <persName>ཟླ་བ་བསམ་འགྲུབ</persName>)
                      </author>
                   </msItem>
                </msContents>

@@ -35,14 +35,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_39-item1" class="Translation and notes">
                      <locus from="1r" to="49v"/>
-                     <title type="desc">Untitled translation and notes</title>
-                     
-
+                     <title type="desc" key="work_84">Untitled translation and notes</title>
                      <textLang mainLang="bo">tibetan</textLang>
                      <author key="person_63">
                         <persName>zla ba bsam 'grub</persName>
-                         (<persName>zla ba bsam ʾgrub</persName> / 
-                         (<persName>ཟླ་བ་བསམ་འགྲུབ</persName>)
+                         (<persName>zla ba bsam ʾgrub</persName> / <persName>ཟླ་བ་བསམ་འགྲུབ</persName>)
                      </author>
                   </msItem>
                </msContents>

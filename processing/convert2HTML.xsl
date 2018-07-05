@@ -29,9 +29,16 @@
                 <xsl:copy-of select="bod:standardText('Title:')"/>
                 <xsl:text> </xsl:text>
             </span>
-            <span class="italic">
-                <xsl:apply-templates/>
-            </span>
+            <xsl:choose>
+                <xsl:when test="@xml:lang = 'bo'">
+                    <xsl:apply-templates/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <span class="italic">
+                        <xsl:apply-templates/>
+                    </span>
+                </xsl:otherwise>
+            </xsl:choose>  
         </div>
     </xsl:template>
     
@@ -165,6 +172,10 @@
             </div>
         </xsl:if>
     </xsl:template>
+    
+    
+    <!-- In Karchak, custodialHist contains nothing but a custEvent of @type "check". Do not display. -->
+    <xsl:template match="custodialHist"></xsl:template>
 
 
 </xsl:stylesheet>

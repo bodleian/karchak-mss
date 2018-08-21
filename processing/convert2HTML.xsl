@@ -34,7 +34,24 @@
                     <xsl:apply-templates/>
                 </xsl:when>
                 <xsl:otherwise>
-                    <span class="italic">
+                    <span>
+                        <xsl:choose>
+                            <xsl:when test="@xml:lang = 'bo-Latn-x-EWTS'">
+                                <xsl:attribute name="title">
+                                    <xsl:text>Wylie transliteration</xsl:text>
+                                </xsl:attribute>
+                                <xsl:attribute name="class" select="'italic wylie-translit'"/>
+                            </xsl:when>
+                            <xsl:when test="@xml:lang = 'bo-Latn-x-LC'">
+                                <xsl:attribute name="title">
+                                    <xsl:text>Library of Congress transliteration</xsl:text>
+                                </xsl:attribute>
+                                <xsl:attribute name="class" select="'italic lc-translit'"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:attribute name="class" select="'italic'"/>
+                            </xsl:otherwise>
+                        </xsl:choose>
                         <xsl:apply-templates/>
                     </span>
                 </xsl:otherwise>
@@ -100,7 +117,28 @@
         </div>
     </xsl:template>
     
-    
+    <xsl:template match="persName[not(@key)]">
+        <span>
+            <xsl:attribute name="class">
+                <xsl:value-of select="string-join((name(), @role), ' ')"/>
+            </xsl:attribute>
+            <xsl:choose>
+                <xsl:when test="@xml:lang = 'bo-Latn-x-EWTS'">
+                    <xsl:attribute name="title">
+                        <xsl:text>Wylie transliteration</xsl:text>
+                    </xsl:attribute>
+                    <xsl:attribute name="class" select="'wylie-translit'"/>
+                </xsl:when>
+                <xsl:when test="@xml:lang = 'bo-Latn-x-LC'">
+                    <xsl:attribute name="title">
+                        <xsl:text>Library of Congress transliteration</xsl:text>
+                    </xsl:attribute>
+                    <xsl:attribute name="class" select="'lc-translit'"/>
+                </xsl:when>
+            </xsl:choose>
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
     
     
     <!-- Move bibliographic references (which can include a links to the digitial surrogates but those are not tagged any differently) 

@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_4-item1" class="Rite">
                      <locus from="2r" to="6v"/>
-                     <title xml:lang="" key="work_99">gtor dpe</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt" key="work_99">gtor dpe</title>
-                     <title xml:lang="bo" type="alt">གཏོར་དཔེ</title>
+                     <title key="work_99" xml:lang="bo">གཏོར་དཔེ</title>
+                     <title key="work_99" xml:lang="bo-Latn-x-EWTS">gtor dpe</title>
+                     <title key="work_99" xml:lang="bo-Latn-x-LC" type="alt">gtor dpe</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

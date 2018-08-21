@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_b_5-item1" class="Meditation preliminary exercises text">
                      <locus from="2r" to="9v"/>
-                     <title xml:lang="" key="work_106">sngon 'gro</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">sṅon ʾgro</title>
-                     <title xml:lang="bo" type="alt">སྔོན་འགྲོ</title>
+                     <title key="work_106" xml:lang="bo">སྔོན་འགྲོ</title>
+                     <title key="work_106" xml:lang="bo-Latn-x-EWTS">sngon 'gro</title>
+                     <title key="work_106" xml:lang="bo-Latn-x-LC" type="alt">sṅon ʾgro</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_77">
-                        <persName>khrag 'thung rdo rje bdud 'joms</persName>
-                         (<persName>khrag ʾthuṅ rdo rje bdud ʾjoms</persName> / 
-                         <persName>ཁྲག་འཐུང་རྡོ་རྗེ་བདུད་འཇོམས</persName>)
-                     </author>
+                     <author key="person_77"><persName xml:lang="bo">ཁྲག་འཐུང་རྡོ་རྗེ་བདུད་འཇོམས</persName> (<persName xml:lang="bo-Latn-x-EWTS">khrag 'thung rdo rje bdud 'joms</persName> / <persName xml:lang="bo-Latn-x-LC">khrag ʾthuṅ rdo rje bdud ʾjoms</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

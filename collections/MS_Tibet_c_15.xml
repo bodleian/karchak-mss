@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_15-item1" class="Meditation instructions">
                      <locus from="1r" to="12v"/>
-                     <title xml:lang="" key="work_20">'bras mo gshongs kyi phan yon kar tshab dang shing bcud ja yi byung khung rnams gnyis</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">ʾbras mo gśoṅs kyi phan yon kar tshab daṅ śiṅ bcud ja yi byuṅ khuṅ rnams gñis</title>
-                     <title xml:lang="bo" type="alt">འབྲས་མོ་གཤོངས་ཀྱི་ཕན་ཡོན་ཀར་ཚབ་དང་ཤིང་བཅུད་ཇ་ཡི་བྱུང་ཁུང་རྣམས་གཉིས</title>
+                     <title key="work_20" xml:lang="bo">འབྲས་མོ་གཤོངས་ཀྱི་ཕན་ཡོན་ཀར་ཚབ་དང་ཤིང་བཅུད་ཇ་ཡི་བྱུང་ཁུང་རྣམས་གཉིས</title>
+                     <title key="work_20" xml:lang="bo-Latn-x-EWTS">'bras mo gshongs kyi phan yon kar tshab dang shing bcud ja yi byung khung rnams gnyis</title>
+                     <title key="work_20" xml:lang="bo-Latn-x-LC" type="alt">ʾbras mo gśoṅs kyi phan yon kar tshab daṅ śiṅ bcud ja yi byuṅ khuṅ rnams gñis</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_31">
-                        <persName>klong chen rab 'byams</persName>
-                         (<persName>kloṅ chen rab ʾbyams</persName> / 
-                         <persName>ཀློང་ཆེན་རབ་འབྱམས</persName>)
-                     </author>
+                     <author key="person_31"><persName xml:lang="bo">ཀློང་ཆེན་རབ་འབྱམས</persName> (<persName xml:lang="bo-Latn-x-EWTS">klong chen rab 'byams</persName> / <persName xml:lang="bo-Latn-x-LC">kloṅ chen rab ʾbyams</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_37-item1" class="Variety of texts">
                      <locus from="1r" to="31v"/>
-                     <title xml:lang="" key="work_36">'bum gyi sdus don snying po lo rgyus</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">ʾbum gyi sdus don sñiṅ po lo rgyus</title>
-                     <title xml:lang="bo" type="alt">འབུམ་གྱི་སྡུས་དོན་སྙིང་པོ་ལོ་རྒྱུས</title>
+                     <title key="work_36" xml:lang="bo">འབུམ་གྱི་སྡུས་དོན་སྙིང་པོ་ལོ་རྒྱུས</title>
+                     <title key="work_36" xml:lang="bo-Latn-x-EWTS">'bum gyi sdus don snying po lo rgyus</title>
+                     <title key="work_36" xml:lang="bo-Latn-x-LC" type="alt">ʾbum gyi sdus don sñiṅ po lo rgyus</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

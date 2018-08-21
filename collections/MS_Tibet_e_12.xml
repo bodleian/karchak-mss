@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_e_12-item1" class="Poem of metaphysics">
                      <locus from="1r" to="5v"/>
-                     <title xml:lang="" key="work_3">lta ba'i gsung mgur zhes bya ba</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">lta baʾi gsuṅ mgur źes bya ba</title>
-                     <title xml:lang="bo" type="alt">ལྟ་བའི་གསུང་མགུར་ཞེས་བྱ་བ</title>
+                     <title key="work_3" xml:lang="bo">ལྟ་བའི་གསུང་མགུར་ཞེས་བྱ་བ</title>
+                     <title key="work_3" xml:lang="bo-Latn-x-EWTS">lta ba'i gsung mgur zhes bya ba</title>
+                     <title key="work_3" xml:lang="bo-Latn-x-LC" type="alt">lta baʾi gsuṅ mgur źes bya ba</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_5">
-                        <persName>lcang skya rol pa'i rdo rje</persName>
-                         (<persName>lcaṅ skya rol paʾi rdo rje</persName> / 
-                         <persName>ལྕང་སྐྱ་རོལ་པའི་རྡོ་རྗེ</persName>)
-                     </author>
+                     <author key="person_5"><persName xml:lang="bo">ལྕང་སྐྱ་རོལ་པའི་རྡོ་རྗེ</persName> (<persName xml:lang="bo-Latn-x-EWTS">lcang skya rol pa'i rdo rje</persName> / <persName xml:lang="bo-Latn-x-LC">lcaṅ skya rol paʾi rdo rje</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

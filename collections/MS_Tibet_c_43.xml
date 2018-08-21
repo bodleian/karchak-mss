@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_43-item1" class="History">
                      <locus from="1r" to="28v"/>
-                     <title xml:lang="" key="work_126">chos 'byung bstan pa'i pad+ma rgyas pa'i nyin byed ces bya ba bzhugs so</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">chos ʾbyuṅ bstan paʾi padma rgyas paʾi ñin byed ces bya ba bźugs so</title>
-                     <title xml:lang="bo" type="alt">ཆོས་འབྱུང་བསྟན་པའི་པདྨ་རྒྱས་པའི་ཉིན་བྱེད་ཅེས་བྱ་བ་བཞུགས་སོ</title>
+                     <title key="work_126" xml:lang="bo">ཆོས་འབྱུང་བསྟན་པའི་པདྨ་རྒྱས་པའི་ཉིན་བྱེད་ཅེས་བྱ་བ་བཞུགས་སོ</title>
+                     <title key="work_126" xml:lang="bo-Latn-x-EWTS">chos 'byung bstan pa'i pad+ma rgyas pa'i nyin byed ces bya ba bzhugs so</title>
+                     <title key="work_126" xml:lang="bo-Latn-x-LC" type="alt">chos ʾbyuṅ bstan paʾi padma rgyas paʾi ñin byed ces bya ba bźugs so</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_89">
-                        <persName>pad+ma dkar po</persName>
-                         (<persName>padma dkar po</persName> / 
-                         <persName>པདྨ་དཀར་པོ</persName>)
-                     </author>
+                     <author key="person_89"><persName xml:lang="bo">པདྨ་དཀར་པོ</persName> (<persName xml:lang="bo-Latn-x-EWTS">pad+ma dkar po</persName> / <persName xml:lang="bo-Latn-x-LC">padma dkar po</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

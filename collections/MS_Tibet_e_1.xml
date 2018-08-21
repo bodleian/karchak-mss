@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_e_1-item1" class="Protection rites">
                      <locus from="1r" to="22v"/>
-                     <title xml:lang="" key="work_31">blud bchung kyis rings pa</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">blud bchuṅ kyis riṅs pa</title>
-                     <title xml:lang="bo" type="alt">བླུད་བཆུང་ཀྱིས་རིངས་པ</title>
+                     <title key="work_31" xml:lang="bo">བླུད་བཆུང་ཀྱིས་རིངས་པ</title>
+                     <title key="work_31" xml:lang="bo-Latn-x-EWTS">blud bchung kyis rings pa</title>
+                     <title key="work_31" xml:lang="bo-Latn-x-LC" type="alt">blud bchuṅ kyis riṅs pa</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

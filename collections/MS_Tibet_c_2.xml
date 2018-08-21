@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_2-item1" class="Study of chronology">
                      <locus from="1r" to="25v"/>
-                     <title xml:lang="" key="work_74">bstan rtsis 'dod sbyin gter 'bum zhes bya ba</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">bstan rtsis ʾdod sbyin gter ʾbum źes bya ba</title>
-                     <title xml:lang="bo" type="alt">བསྟན་རྩིས་འདོད་སྦྱིན་གཏེར་འབུམ་ཞེས་བྱ་བ</title>
+                     <title key="work_74" xml:lang="bo">བསྟན་རྩིས་འདོད་སྦྱིན་གཏེར་འབུམ་ཞེས་བྱ་བ</title>
+                     <title key="work_74" xml:lang="bo-Latn-x-EWTS">bstan rtsis 'dod sbyin gter 'bum zhes bya ba</title>
+                     <title key="work_74" xml:lang="bo-Latn-x-LC" type="alt">bstan rtsis ʾdod sbyin gter ʾbum źes bya ba</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_56">
-                        <persName>rngog 'brug Lha dbang blo gros</persName>
-                         (<persName>rṅog ʾbrug ḷha dbaṅ blo gros</persName> / 
-                         <persName>རྔོག་འབྲུག་Lཧ་དབང་བློ་གྲོས</persName>)
-                     </author>
+                     <author key="person_56"><persName xml:lang="bo">རྔོག་འབྲུག་Lཧ་དབང་བློ་གྲོས</persName> (<persName xml:lang="bo-Latn-x-EWTS">rngog 'brug Lha dbang blo gros</persName> / <persName xml:lang="bo-Latn-x-LC">rṅog ʾbrug ḷha dbaṅ blo gros</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

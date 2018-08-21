@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_60-item1" class="Tibetan text">
                      <locus from="1r" to="137v"/>
-                     <title xml:lang="" key="work_48">zab chos zhi khro dgongs pa rang grol las bar do'i thos grol chen mo chos nyid bar do'i ngo sprod</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">zab chos źi khro dgoṅs pa raṅ grol las bar doʾi thos grol chen mo chos ñid bar doʾi ṅo sprod</title>
-                     <title xml:lang="bo" type="alt">ཟབ་ཆོས་ཞི་ཁྲོ་དགོངས་པ་རང་གྲོལ་ལས་བར་དོའི་ཐོས་གྲོལ་ཆེན་མོ་ཆོས་ཉིད་བར་དོའི་ངོ་སྤྲོད</title>
+                     <title key="work_48" xml:lang="bo">ཟབ་ཆོས་ཞི་ཁྲོ་དགོངས་པ་རང་གྲོལ་ལས་བར་དོའི་ཐོས་གྲོལ་ཆེན་མོ་ཆོས་ཉིད་བར་དོའི་ངོ་སྤྲོད</title>
+                     <title key="work_48" xml:lang="bo-Latn-x-EWTS">zab chos zhi khro dgongs pa rang grol las bar do'i thos grol chen mo chos nyid bar do'i ngo sprod</title>
+                     <title key="work_48" xml:lang="bo-Latn-x-LC" type="alt">zab chos źi khro dgoṅs pa raṅ grol las bar doʾi thos grol chen mo chos ñid bar doʾi ṅo sprod</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

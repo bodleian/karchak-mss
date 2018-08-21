@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_10-item1" class="Rites">
                      <locus from="1r" to="32v"/>
-                     <title xml:lang="" key="work_135">slob dpon pad+ma 'byung gnas mdzad pa'i mdo dpe</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">slob dpon padma ʾbyuṅ gnas mdzad paʾi mdo dpe</title>
-                     <title xml:lang="bo" type="alt">སློབ་དཔོན་པདྨ་འབྱུང་གནས་མཛད་པའི་མདོ་དཔེ</title>
+                     <title key="work_135" xml:lang="bo">སློབ་དཔོན་པདྨ་འབྱུང་གནས་མཛད་པའི་མདོ་དཔེ</title>
+                     <title key="work_135" xml:lang="bo-Latn-x-EWTS">slob dpon pad+ma 'byung gnas mdzad pa'i mdo dpe</title>
+                     <title key="work_135" xml:lang="bo-Latn-x-LC" type="alt">slob dpon padma ʾbyuṅ gnas mdzad paʾi mdo dpe</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_99">
-                        <persName>pad+ma 'byung gnas</persName>
-                         (<persName>padma ʾbyuṅ gnas</persName> / 
-                         <persName>པདྨ་འབྱུང་གནས</persName>)
-                     </author>
+                     <author key="person_99"><persName xml:lang="bo">པདྨ་འབྱུང་གནས</persName> (<persName xml:lang="bo-Latn-x-EWTS">pad+ma 'byung gnas</persName> / <persName xml:lang="bo-Latn-x-LC">padma ʾbyuṅ gnas</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

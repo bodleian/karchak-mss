@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_8-item1" class="Meditation ritual">
                      <locus from="14r" to="28v"/>
-                     <title xml:lang="" key="work_11">dpal rdo rje rnam par 'joms pa'i cho ga phan bde'i 'byung gnas</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">dpal rdo rje rnam par ʾjoms paʾi cho ga phan bdeʾi ʾbyuṅ gnas</title>
-                     <title xml:lang="bo" type="alt">དཔལ་རྡོ་རྗེ་རྣམ་པར་འཇོམས་པའི་ཆོ་ག་ཕན་བདེའི་འབྱུང་གནས</title>
+                     <title key="work_11" xml:lang="bo">དཔལ་རྡོ་རྗེ་རྣམ་པར་འཇོམས་པའི་ཆོ་ག་ཕན་བདེའི་འབྱུང་གནས</title>
+                     <title key="work_11" xml:lang="bo-Latn-x-EWTS">dpal rdo rje rnam par 'joms pa'i cho ga phan bde'i 'byung gnas</title>
+                     <title key="work_11" xml:lang="bo-Latn-x-LC" type="alt">dpal rdo rje rnam par ʾjoms paʾi cho ga phan bdeʾi ʾbyuṅ gnas</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

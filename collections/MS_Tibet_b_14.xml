@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_b_14-item1" class="Rite">
                      <locus from="1r" to="91v"/>
-                     <title xml:lang="" key="work_5">bka' rdzogs pa chen po yang zab rgyal ba dkon mchog spyi 'dus kyis cho ga bsgrigs bltas chog tu bkod pa</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">bkaʾ rdzogs pa chen po yaṅ zab rgyal ba dkon mchog spyi ʾdus kyis cho ga bsgrigs bltas chog tu bkod pa</title>
-                     <title xml:lang="bo" type="alt">བཀའ་རྫོགས་པ་ཆེན་པོ་ཡང་ཟབ་རྒྱལ་བ་དཀོན་མཆོག་སྤྱི་འདུས་ཀྱིས་ཆོ་ག་བསྒྲིགས་བལྟས་ཆོག་ཏུ་བཀོད་པ</title>
+                     <title key="work_5" xml:lang="bo">བཀའ་རྫོགས་པ་ཆེན་པོ་ཡང་ཟབ་རྒྱལ་བ་དཀོན་མཆོག་སྤྱི་འདུས་ཀྱིས་ཆོ་ག་བསྒྲིགས་བལྟས་ཆོག་ཏུ་བཀོད་པ</title>
+                     <title key="work_5" xml:lang="bo-Latn-x-EWTS">bka' rdzogs pa chen po yang zab rgyal ba dkon mchog spyi 'dus kyis cho ga bsgrigs bltas chog tu bkod pa</title>
+                     <title key="work_5" xml:lang="bo-Latn-x-LC" type="alt">bkaʾ rdzogs pa chen po yaṅ zab rgyal ba dkon mchog spyi ʾdus kyis cho ga bsgrigs bltas chog tu bkod pa</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_11">
-                        <persName>'ja' tshon snying po</persName>
-                         (<persName>ʾjaʾ tshon sñiṅ po</persName> / 
-                         <persName>འཇའ་ཚོན་སྙིང་པོ</persName>)
-                     </author>
+                     <author key="person_11"><persName xml:lang="bo">འཇའ་ཚོན་སྙིང་པོ</persName> (<persName xml:lang="bo-Latn-x-EWTS">'ja' tshon snying po</persName> / <persName xml:lang="bo-Latn-x-LC">ʾjaʾ tshon sñiṅ po</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

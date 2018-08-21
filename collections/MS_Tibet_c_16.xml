@@ -37,10 +37,7 @@
                      <locus from="1r" to="10v"/>
                      <title type="desc" key="work_121">Untitled termas</title>
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_92">
-                        <persName>gter ston rig 'dzin rgod kyi ldem 'phru can</persName> 
-                         (<persName>gter ston rig ʾdzin rgod kyi ldem ʾphru can</persName> / <persName>གཏེར་སྟོན་རིག་འཛིན་རྒོད་ཀྱི་ལྡེམ་འཕྲུ་ཅན</persName>)
-                     </author>
+                     <author key="person_92"><persName xml:lang="bo">གཏེར་སྟོན་རིག་འཛིན་རྒོད་ཀྱི་ལྡེམ་འཕྲུ་ཅན</persName> (<persName xml:lang="bo-Latn-x-EWTS">gter ston rig 'dzin rgod kyi ldem 'phru can</persName> / <persName xml:lang="bo-Latn-x-LC">gter ston rig ʾdzin rgod kyi ldem ʾphru can</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_d_29-item1" class="Rite">
                      <locus from="1r" to="25v"/>
-                     <title xml:lang="" key="work_62">zab chos zhi khro dgongs pa rang grol las rig pa ngo sprod gcer mthong rang grol zhes bya ba</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">zab chos źi khro dgoṅs pa raṅ grol las rig pa ṅo sprod gcer mthoṅ raṅ grol źes bya ba</title>
-                     <title xml:lang="bo" type="alt">ཟབ་ཆོས་ཞི་ཁྲོ་དགོངས་པ་རང་གྲོལ་ལས་རིག་པ་ངོ་སྤྲོད་གཅེར་མཐོང་རང་གྲོལ་ཞེས་བྱ་བ</title>
+                     <title key="work_62" xml:lang="bo">ཟབ་ཆོས་ཞི་ཁྲོ་དགོངས་པ་རང་གྲོལ་ལས་རིག་པ་ངོ་སྤྲོད་གཅེར་མཐོང་རང་གྲོལ་ཞེས་བྱ་བ</title>
+                     <title key="work_62" xml:lang="bo-Latn-x-EWTS">zab chos zhi khro dgongs pa rang grol las rig pa ngo sprod gcer mthong rang grol zhes bya ba</title>
+                     <title key="work_62" xml:lang="bo-Latn-x-LC" type="alt">zab chos źi khro dgoṅs pa raṅ grol las rig pa ṅo sprod gcer mthoṅ raṅ grol źes bya ba</title>
+                     
+                     
                      
 
                      <note>Gter ma punctuation</note>

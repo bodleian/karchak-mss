@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_b_10-item1" class="Long life practice">
                      <locus from="1r" to="38v"/>
-                     <title xml:lang="" key="work_46">che bsgrubs gsang ba 'dus pa'i las byang cho ga'i rim pa dang bsgrub khog padma'i phreng ba dan / yang gsang gud du sbas pa'i dmigs pa phyogs gcig tu gab sprad pa</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">che bsgrubs gsaṅ ba ʾdus paʾi las byaṅ cho gaʾi rim pa daṅ bsgrub khog padmaʾi phreṅ ba dan / yaṅ gsaṅ gud du sbas paʾi dmigs pa phyogs gcig tu gab sprad pa</title>
-                     <title xml:lang="bo" type="alt">ཆེ་བསྒྲུབས་གསང་བ་འདུས་པའི་ལས་བྱང་ཆོ་གའི་རིམ་པ་དང་བསྒྲུབ་ཁོག་པདམའི་ཕྲེང་བ་དན་། ཡང་གསང་གུད་དུ་སྦས་པའི་དམིགས་པ་ཕྱོགས་གཅིག་ཏུ་གབ་སྤྲད་པ</title>
+                     <title key="work_46" xml:lang="bo">ཆེ་བསྒྲུབས་གསང་བ་འདུས་པའི་ལས་བྱང་ཆོ་གའི་རིམ་པ་དང་བསྒྲུབ་ཁོག་པདམའི་ཕྲེང་བ་དན་། ཡང་གསང་གུད་དུ་སྦས་པའི་དམིགས་པ་ཕྱོགས་གཅིག་ཏུ་གབ་སྤྲད་པ</title>
+                     <title key="work_46" xml:lang="bo-Latn-x-EWTS">che bsgrubs gsang ba 'dus pa'i las byang cho ga'i rim pa dang bsgrub khog padma'i phreng ba dan / yang gsang gud du sbas pa'i dmigs pa phyogs gcig tu gab sprad pa</title>
+                     <title key="work_46" xml:lang="bo-Latn-x-LC" type="alt">che bsgrubs gsaṅ ba ʾdus paʾi las byaṅ cho gaʾi rim pa daṅ bsgrub khog padmaʾi phreṅ ba dan / yaṅ gsaṅ gud du sbas paʾi dmigs pa phyogs gcig tu gab sprad pa</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_41">
-                        <persName>rat+na gling pa</persName>
-                         (<persName>ratna gliṅ pa</persName> / 
-                         <persName>རཏྣ་གླིང་པ</persName>)
-                     </author>
+                     <author key="person_41"><persName xml:lang="bo">རཏྣ་གླིང་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">rat+na gling pa</persName> / <persName xml:lang="bo-Latn-x-LC">ratna gliṅ pa</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

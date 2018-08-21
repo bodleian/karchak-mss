@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_59-item1" class="Tibetan text">
                      <locus from="1r" to="7v"/>
-                     <title xml:lang="" key="work_9">klong chen snying gi thig le las : gcod yul mkha' 'gro'i gad rgyangs bzhugs :</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">kloṅ chen sñiṅ gi thig le las : gcod yul mkhaʾ ʾgroʾi gad rgyaṅs bźugs :</title>
-                     <title xml:lang="bo" type="alt">ཀློང་ཆེན་སྙིང་གི་ཐིག་ལེ་ལས་༔་གཅོད་ཡུལ་མཁའ་འགྲོའི་གད་རྒྱངས་བཞུགས་༔</title>
+                     <title key="work_9" xml:lang="bo">ཀློང་ཆེན་སྙིང་གི་ཐིག་ལེ་ལས་༔་གཅོད་ཡུལ་མཁའ་འགྲོའི་གད་རྒྱངས་བཞུགས་༔</title>
+                     <title key="work_9" xml:lang="bo-Latn-x-EWTS">klong chen snying gi thig le las : gcod yul mkha' 'gro'i gad rgyangs bzhugs :</title>
+                     <title key="work_9" xml:lang="bo-Latn-x-LC" type="alt">kloṅ chen sñiṅ gi thig le las : gcod yul mkhaʾ ʾgroʾi gad rgyaṅs bźugs :</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_19">
-                        <persName>klong chen rab byams pa dri med 'od zer</persName>
-                         (<persName>kloṅ chen rab byams pa dri med ʾod zer</persName> / 
-                         <persName>ཀློང་ཆེན་རབ་བྱམས་པ་དྲི་མེད་འོད་ཟེར</persName>)
-                     </author>
+                     <author key="person_19"><persName xml:lang="bo">ཀློང་ཆེན་རབ་བྱམས་པ་དྲི་མེད་འོད་ཟེར</persName> (<persName xml:lang="bo-Latn-x-EWTS">klong chen rab byams pa dri med 'od zer</persName> / <persName xml:lang="bo-Latn-x-LC">kloṅ chen rab byams pa dri med ʾod zer</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

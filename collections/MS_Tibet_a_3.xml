@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_a_3-item1" class="Buddhist reference work">
                      <locus from="1r" to="4v"/>
-                     <title xml:lang="" key="work_123">nye mkho mthong ba don yod zhes bya ba</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">ñe mkho mthoṅ ba don yod źes bya ba</title>
-                     <title xml:lang="bo" type="alt">ཉེ་མཁོ་མཐོང་བ་དོན་ཡོད་ཞེས་བྱ་བ</title>
+                     <title key="work_123" xml:lang="bo">ཉེ་མཁོ་མཐོང་བ་དོན་ཡོད་ཞེས་བྱ་བ</title>
+                     <title key="work_123" xml:lang="bo-Latn-x-EWTS">nye mkho mthong ba don yod zhes bya ba</title>
+                     <title key="work_123" xml:lang="bo-Latn-x-LC" type="alt">ñe mkho mthoṅ ba don yod źes bya ba</title>
+                     
+                     
                      <textLang mainLang="bo">tibetan</textLang>
                   </msItem>
                </msContents>

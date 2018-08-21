@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_d_4-item1" class="Divination">
                      <locus from="1r" to="4v"/>
-                     <title xml:lang="" key="work_56">thod mo bsal ba'i sgron me</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">thod mo bsal baʾi sgron me</title>
-                     <title xml:lang="bo" type="alt">ཐོད་མོ་བསལ་བའི་སྒྲོན་མེ</title>
+                     <title key="work_56" xml:lang="bo">ཐོད་མོ་བསལ་བའི་སྒྲོན་མེ</title>
+                     <title key="work_56" xml:lang="bo-Latn-x-EWTS">thod mo bsal ba'i sgron me</title>
+                     <title key="work_56" xml:lang="bo-Latn-x-LC" type="alt">thod mo bsal baʾi sgron me</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

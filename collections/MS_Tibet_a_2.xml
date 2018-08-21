@@ -35,15 +35,13 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_a_2-item1" class="Meditation rite">
                      <locus from="1r" to="8v"/>
-                     <title xml:lang="" key="work_64">bcom ldan 'das mgon po mi 'khrug pa'i sgo nas las kyi sgrib pa rnams par sbyong ba'i cho ga/ mngon par dga ba'i zhing gi rgyan zhes bya ba</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">bcom ldan ʾdas mgon po mi ʾkhrug paʾi sgo nas las kyi sgrib pa rnams par sbyoṅ baʾi cho ga/ mṅon par dga baʾi źiṅ gi rgyan źes bya ba</title>
-                     <title xml:lang="bo" type="alt">བཅོམ ལྡན་འདས་མགོན་པོ་མི་འཁྲུག་པའི་སྒོ་ནས་ལས་ཀྱི་སྒྲིབ་པ་རྣམས པར་སྦྱོང་བའི་ཆོ་ག། མངོན་པར་དག་བའི་ཞིང་གི་རྒྱན་ཞེས་བྱ་བ</title>
+                     <title key="work_64" xml:lang="bo">བཅོམ ལྡན་འདས་མགོན་པོ་མི་འཁྲུག་པའི་སྒོ་ནས་ལས་ཀྱི་སྒྲིབ་པ་རྣམས པར་སྦྱོང་བའི་ཆོ་ག། མངོན་པར་དག་བའི་ཞིང་གི་རྒྱན་ཞེས་བྱ་བ</title>
+                     <title key="work_64" xml:lang="bo-Latn-x-EWTS">bcom ldan 'das mgon po mi 'khrug pa'i sgo nas las kyi sgrib pa rnams par sbyong ba'i cho ga/ mngon par dga ba'i zhing gi rgyan zhes bya ba</title>
+                     <title key="work_64" xml:lang="bo-Latn-x-LC" type="alt">bcom ldan ʾdas mgon po mi ʾkhrug paʾi sgo nas las kyi sgrib pa rnams par sbyoṅ baʾi cho ga/ mṅon par dga baʾi źiṅ gi rgyan źes bya ba</title>
+                     
+                     
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_49">
-                        <persName>dge slong chos kyi dbang phyug</persName>
-                         (<persName>dge sloṅ chos kyi dbaṅ phyug</persName> / 
-                         <persName>དགེ་སློང་ཆོས་ཀྱི་དབང་ཕྱུག</persName>)
-                     </author>
+                     <author key="person_49"><persName xml:lang="bo">དགེ་སློང་ཆོས་ཀྱི་དབང་ཕྱུག</persName> (<persName xml:lang="bo-Latn-x-EWTS">dge slong chos kyi dbang phyug</persName> / <persName xml:lang="bo-Latn-x-LC">dge sloṅ chos kyi dbaṅ phyug</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

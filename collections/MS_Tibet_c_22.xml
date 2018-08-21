@@ -35,15 +35,13 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_22-item1" class="Biography">
                      <locus from="1r" to="159v"/>
-                     <title xml:lang="" key="work_47">slob dpon sangs rgyas gnyis pa pad+ma 'byung gnas kyi rnam par thar pa yid kyi mun sel zhes bya ba</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">slob dpon saṅs rgyas gñis pa padma ʾbyuṅ gnas kyi rnam par thar pa yid kyi mun sel źes bya ba</title>
-                     <title xml:lang="bo" type="alt">སློབ་དཔོན་སངས་རྒྱས་གཉིས་པ་པདྨ་འབྱུང་གནས་ཀྱི་རྣམ་པར་ཐར་པ་ཡིད་ཀྱི་མུན་སེལ་ཞེས་བྱ་བ</title>
+                     <title key="work_47" xml:lang="bo">སློབ་དཔོན་སངས་རྒྱས་གཉིས་པ་པདྨ་འབྱུང་གནས་ཀྱི་རྣམ་པར་ཐར་པ་ཡིད་ཀྱི་མུན་སེལ་ཞེས་བྱ་བ</title>
+                     <title key="work_47" xml:lang="bo-Latn-x-EWTS">slob dpon sangs rgyas gnyis pa pad+ma 'byung gnas kyi rnam par thar pa yid kyi mun sel zhes bya ba</title>
+                     <title key="work_47" xml:lang="bo-Latn-x-LC" type="alt">slob dpon saṅs rgyas gñis pa padma ʾbyuṅ gnas kyi rnam par thar pa yid kyi mun sel źes bya ba</title>
+                     
+                     
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_44">
-                        <persName>blo gros rgyal mtshan dpal bzang po</persName>
-                         (<persName>blo gros rgyal mtshan dpal bzaṅ po</persName> / 
-                         <persName>བློ་གྲོས་རྒྱལ་མཚན་དཔལ་བཟང་པོ</persName>)
-                     </author>
+                     <author key="person_44"><persName xml:lang="bo">བློ་གྲོས་རྒྱལ་མཚན་དཔལ་བཟང་པོ</persName> (<persName xml:lang="bo-Latn-x-EWTS">blo gros rgyal mtshan dpal bzang po</persName> / <persName xml:lang="bo-Latn-x-LC">blo gros rgyal mtshan dpal bzaṅ po</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_21-item1" class="Biographical tale">
                      <locus from="1r" to="27v"/>
-                     <title xml:lang="" key="work_32">'das log phag bdag gis rnams thar</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">ʾdas log phag bdag gis rnams thar</title>
-                     <title xml:lang="bo" type="alt">འདས་ལོག་ཕག་བདག་གིས་རྣམས་ཐར</title>
+                     <title key="work_32" xml:lang="bo">འདས་ལོག་ཕག་བདག་གིས་རྣམས་ཐར</title>
+                     <title key="work_32" xml:lang="bo-Latn-x-EWTS">'das log phag bdag gis rnams thar</title>
+                     <title key="work_32" xml:lang="bo-Latn-x-LC" type="alt">ʾdas log phag bdag gis rnams thar</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

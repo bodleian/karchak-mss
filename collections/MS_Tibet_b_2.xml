@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_b_2-item1" class="Ritual for averting disasters">
                      <locus from="1r" to="3v"/>
-                     <title xml:lang="" key="work_19">gsnams sgo sdom pa'i lto bcod</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">gsnams sgo sdom paʾi lto bcod</title>
-                     <title xml:lang="bo" type="alt">གསྣམས་སྒོ་སྡོམ་པའི་ལྟོ་བཅོད</title>
+                     <title key="work_19" xml:lang="bo">གསྣམས་སྒོ་སྡོམ་པའི་ལྟོ་བཅོད</title>
+                     <title key="work_19" xml:lang="bo-Latn-x-EWTS">gsnams sgo sdom pa'i lto bcod</title>
+                     <title key="work_19" xml:lang="bo-Latn-x-LC" type="alt">gsnams sgo sdom paʾi lto bcod</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

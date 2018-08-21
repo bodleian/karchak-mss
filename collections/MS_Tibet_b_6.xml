@@ -35,16 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_b_6-item1" class="Meditation instructions">
                      <locus from="1r" to="15v"/>
-                     <title xml:lang="" key="work_18">tshe g.yang kha sprod gyis cho ga</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">tshe g.yaṅ kha sprod gyis cho ga</title>
-                     <title xml:lang="bo" type="alt">ཚེ་གཡང་ཁ་སྤྲོད་གྱིས་ཆོ་ག</title>
+                     <title key="work_18" xml:lang="bo">ཚེ་གཡང་ཁ་སྤྲོད་གྱིས་ཆོ་ག</title>
+                     <title key="work_18" xml:lang="bo-Latn-x-EWTS">tshe g.yang kha sprod gyis cho ga</title>
+                     <title key="work_18" xml:lang="bo-Latn-x-LC" type="alt">tshe g.yaṅ kha sprod gyis cho ga</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_28">
-                        <persName>o rgyan padma</persName>
-                         (<persName>ཨོ་རྒྱན་པདམ</persName>)
-                     </author>
+                     <author key="person_28"><persName xml:lang="bo">ཨོ་རྒྱན་པདམ</persName> (<persName xml:lang="bo-Latn-x-LC">o rgyan padma</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

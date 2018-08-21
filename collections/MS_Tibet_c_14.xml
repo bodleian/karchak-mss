@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_14-item1" class="Terma prayer">
                      <locus from="1r" to="5v"/>
-                     <title xml:lang="" key="work_103">kun bzang smon lam zhes bya ba'i dmyal ba'i segs bsdar</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">kun bzaṅ smon lam źes bya baʾi dmyal baʾi segs bsdar</title>
-                     <title xml:lang="bo" type="alt">ཀུན་བཟང་སྨོན་ལམ་ཞེས་བྱ་བའི་དམྱལ་བའི་སེགས་བསྡར</title>
+                     <title key="work_103" xml:lang="bo">ཀུན་བཟང་སྨོན་ལམ་ཞེས་བྱ་བའི་དམྱལ་བའི་སེགས་བསྡར</title>
+                     <title key="work_103" xml:lang="bo-Latn-x-EWTS">kun bzang smon lam zhes bya ba'i dmyal ba'i segs bsdar</title>
+                     <title key="work_103" xml:lang="bo-Latn-x-LC" type="alt">kun bzaṅ smon lam źes bya baʾi dmyal baʾi segs bsdar</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

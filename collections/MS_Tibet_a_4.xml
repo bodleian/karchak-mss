@@ -34,9 +34,11 @@
                <head>Three short ritual sections</head>
                <msContents>
                   <msItem xml:id="MS_Tibet_a_4-item1" class="Ritual">
-                     <title xml:lang="" key="work_110">rgyal po sku lnga'i gser skyems/</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">rgyal po sku lṅaʾi gser skyems/</title>
-                     <title xml:lang="bo" type="alt">རྒྱལ་པོ་སྐུ་ལྔའི་གསེར་སྐྱེམས།</title>
+                     <title key="work_110" xml:lang="bo">རྒྱལ་པོ་སྐུ་ལྔའི་གསེར་སྐྱེམས།</title>
+                     <title key="work_110" xml:lang="bo-Latn-x-EWTS">rgyal po sku lnga'i gser skyems/</title>
+                     <title key="work_110" xml:lang="bo-Latn-x-LC" type="alt">rgyal po sku lṅaʾi gser skyems/</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_28-item1" class="Esoteric instructions">
                      <locus from="1r" to="11v"/>
-                     <title xml:lang="" key="work_109">mkha' 'gro gsang lam rang lus gzhan lus gyi khrid gzhung mngon 3 lag khrid</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">mkhaʾ ʾgro gsaṅ lam raṅ lus gźan lus gyi khrid gźuṅ mṅon 3 lag khrid</title>
-                     <title xml:lang="bo" type="alt">མཁའ་འགྲོ་གསང་ལམ་རང་ལུས་གཞན་ལུས་གྱི་ཁྲིད་གཞུང་མངོན ༣ ལག་ཁྲིད</title>
+                     <title key="work_109" xml:lang="bo">མཁའ་འགྲོ་གསང་ལམ་རང་ལུས་གཞན་ལུས་གྱི་ཁྲིད་གཞུང་མངོན ༣ ལག་ཁྲིད</title>
+                     <title key="work_109" xml:lang="bo-Latn-x-EWTS">mkha' 'gro gsang lam rang lus gzhan lus gyi khrid gzhung mngon 3 lag khrid</title>
+                     <title key="work_109" xml:lang="bo-Latn-x-LC" type="alt">mkhaʾ ʾgro gsaṅ lam raṅ lus gźan lus gyi khrid gźuṅ mṅon 3 lag khrid</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

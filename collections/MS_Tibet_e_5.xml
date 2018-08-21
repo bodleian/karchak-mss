@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_e_5-item1" class="Tibetan calendar">
                      <locus from="1r" to="56v"/>
-                     <title xml:lang="" key="work_125">dge byed zhes bya chu stag lo'i re'u tho blang dor gsal ba'i me long</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">dge byed źes bya chu stag loʾi reʾu tho blaṅ dor gsal baʾi me loṅ</title>
-                     <title xml:lang="bo" type="alt">དགེ་བྱེད་ཞེས་བྱ་ཆུ་སྟག་ལོའི་རེའུ་ཐོ་བླང་དོར་གསལ་བའི་མེ་ལོང</title>
+                     <title key="work_125" xml:lang="bo">དགེ་བྱེད་ཞེས་བྱ་ཆུ་སྟག་ལོའི་རེའུ་ཐོ་བླང་དོར་གསལ་བའི་མེ་ལོང</title>
+                     <title key="work_125" xml:lang="bo-Latn-x-EWTS">dge byed zhes bya chu stag lo'i re'u tho blang dor gsal ba'i me long</title>
+                     <title key="work_125" xml:lang="bo-Latn-x-LC" type="alt">dge byed źes bya chu stag loʾi reʾu tho blaṅ dor gsal baʾi me loṅ</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

@@ -50,7 +50,7 @@
                <msContents class="Place guide">
                   <msItem xml:id="MS_Tibet_b_40-item1" class="Place guide" rend="visible">
                      <locus from="1r" to="40r"/>
-                     <title xml:lang="" key="work_76">Lha ldan sogs dbus 'gyur chos sde khag dar/ /yar lung lho rgyud/ gtsang stod/ byang rwa sgreng rgyal ba'i 'byung gnas sogs kyi rten gnas mang po'i gnas yig ngo mtshar lung ston me long zhes bya ba bzhugs so/</title>
+                     <title key="work_76" xml:lang="bo-Latn-x-EWTS">Lha ldan sogs dbus 'gyur chos sde khag dar/ /yar lung lho rgyud/ gtsang stod/ byang rwa sgreng rgyal ba'i 'byung gnas sogs kyi rten gnas mang po'i gnas yig ngo mtshar lung ston me long zhes bya ba bzhugs so/</title>
                      
                      
                      

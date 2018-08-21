@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_b_12-item1" class="Liturgy">
                      <locus from="1r" to="16v"/>
-                     <title xml:lang="" key="work_27">bka' brgyad bde gshegs 'dus pa'i brgyud pa'i gsol 'debbs byin rlabs kyi sprin phung</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">bkaʾ brgyad bde gśegs ʾdus paʾi brgyud paʾi gsol ʾdebbs byin rlabs kyi sprin phuṅ</title>
-                     <title xml:lang="bo" type="alt">བཀའ་བརྒྱད་བདེ་གཤེགས་འདུས་པའི་བརྒྱུད་པའི་གསོལ་འདེབབས་བྱིན་རླབས་ཀྱི་སྤྲིན་ཕུང</title>
+                     <title key="work_27" xml:lang="bo">བཀའ་བརྒྱད་བདེ་གཤེགས་འདུས་པའི་བརྒྱུད་པའི་གསོལ་འདེབབས་བྱིན་རླབས་ཀྱི་སྤྲིན་ཕུང</title>
+                     <title key="work_27" xml:lang="bo-Latn-x-EWTS">bka' brgyad bde gshegs 'dus pa'i brgyud pa'i gsol 'debbs byin rlabs kyi sprin phung</title>
+                     <title key="work_27" xml:lang="bo-Latn-x-LC" type="alt">bkaʾ brgyad bde gśegs ʾdus paʾi brgyud paʾi gsol ʾdebbs byin rlabs kyi sprin phuṅ</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

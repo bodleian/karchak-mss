@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_d_19-item1" class="Meditation instructions">
                      <locus from="1r" to="24v"/>
-                     <title xml:lang="" key="work_124">shing rtsis rde'u drug cu'i kha dmar brgya go dgu'i nang nas khol ston pa bzhugs so</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">śiṅ rtsis rdeʾu drug cuʾi kha dmar brgya go dguʾi naṅ nas khol ston pa bźugs so</title>
-                     <title xml:lang="bo" type="alt">ཤིང་རྩིས་རྡེའུ་དྲུག་ཅུའི་ཁ་དམར་བརྒྱ་གོ་དགུའི་ནང་ནས་ཁོལ་སྟོན་པ་བཞུགས་སོ</title>
+                     <title key="work_124" xml:lang="bo">ཤིང་རྩིས་རྡེའུ་དྲུག་ཅུའི་ཁ་དམར་བརྒྱ་གོ་དགུའི་ནང་ནས་ཁོལ་སྟོན་པ་བཞུགས་སོ</title>
+                     <title key="work_124" xml:lang="bo-Latn-x-EWTS">shing rtsis rde'u drug cu'i kha dmar brgya go dgu'i nang nas khol ston pa bzhugs so</title>
+                     <title key="work_124" xml:lang="bo-Latn-x-LC" type="alt">śiṅ rtsis rdeʾu drug cuʾi kha dmar brgya go dguʾi naṅ nas khol ston pa bźugs so</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

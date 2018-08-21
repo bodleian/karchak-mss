@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_23-item1" class="Ritual">
                      <locus from="1r" to="106v"/>
-                     <title xml:lang="" key="work_73">shrI mahAkAla dang bstan bsrung rnams kyi bskang so bdod 'don lhun grub dgra bgegs char gcod</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">śrī mahākāla daṅ bstan bsruṅ rnams kyi bskaṅ so bdod ʾdon lhun grub dgra bgegs char gcod</title>
-                     <title xml:lang="bo" type="alt">ཤྲཱི་མཧཱཀཱལ་དང་བསྟན་བསྲུང་རྣམས་ཀྱི་བསྐང་སོ་བདོད་འདོན་ལྷུན་གྲུབ་དགྲ་བགེགས་ཆར་གཅོད</title>
+                     <title key="work_73" xml:lang="bo">ཤྲཱི་མཧཱཀཱལ་དང་བསྟན་བསྲུང་རྣམས་ཀྱི་བསྐང་སོ་བདོད་འདོན་ལྷུན་གྲུབ་དགྲ་བགེགས་ཆར་གཅོད</title>
+                     <title key="work_73" xml:lang="bo-Latn-x-EWTS">shrI mahAkAla dang bstan bsrung rnams kyi bskang so bdod 'don lhun grub dgra bgegs char gcod</title>
+                     <title key="work_73" xml:lang="bo-Latn-x-LC" type="alt">śrī mahākāla daṅ bstan bsruṅ rnams kyi bskaṅ so bdod ʾdon lhun grub dgra bgegs char gcod</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

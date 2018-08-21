@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_36-item1" class="Meditation instructions">
                      <locus from="1r" to="68v"/>
-                     <title xml:lang="" key="work_93">bka' rdzog pa chen po dkon mchog spyi 'dus las sang sgral chos zor gdab len dang dpal mgon ma ning gi skangs gsol</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">bkaʾ rdzog pa chen po dkon mchog spyi ʾdus las saṅ sgral chos zor gdab len daṅ dpal mgon ma niṅ gi skaṅs gsol</title>
-                     <title xml:lang="bo" type="alt">བཀའ་རྫོག་པ་ཆེན་པོ་དཀོན་མཆོག་སྤྱི་འདུས་ལས་སང་སྒྲལ་ཆོས་ཟོར་གདབ་ལེན་དང་དཔལ་མགོན་མ་ནིང་གི་སྐངས་གསོལ</title>
+                     <title key="work_93" xml:lang="bo">བཀའ་རྫོག་པ་ཆེན་པོ་དཀོན་མཆོག་སྤྱི་འདུས་ལས་སང་སྒྲལ་ཆོས་ཟོར་གདབ་ལེན་དང་དཔལ་མགོན་མ་ནིང་གི་སྐངས་གསོལ</title>
+                     <title key="work_93" xml:lang="bo-Latn-x-EWTS">bka' rdzog pa chen po dkon mchog spyi 'dus las sang sgral chos zor gdab len dang dpal mgon ma ning gi skangs gsol</title>
+                     <title key="work_93" xml:lang="bo-Latn-x-LC" type="alt">bkaʾ rdzog pa chen po dkon mchog spyi ʾdus las saṅ sgral chos zor gdab len daṅ dpal mgon ma niṅ gi skaṅs gsol</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

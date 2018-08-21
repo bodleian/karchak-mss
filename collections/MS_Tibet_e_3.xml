@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_e_3-item1" class="Canonical text">
                      <locus from="1r" to="23v"/>
-                     <title xml:lang="" key="work_107">gtsug tor gzhan gyis mi thub pa zhes bya ba</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">gtsug tor gźan gyis mi thub pa źes bya ba</title>
-                     <title xml:lang="bo" type="alt">གཙུག་ཏོར་གཞན་གྱིས་མི་ཐུབ་པ་ཞེས་བྱ་བ</title>
+                     <title key="work_107" xml:lang="bo">གཙུག་ཏོར་གཞན་གྱིས་མི་ཐུབ་པ་ཞེས་བྱ་བ</title>
+                     <title key="work_107" xml:lang="bo-Latn-x-EWTS">gtsug tor gzhan gyis mi thub pa zhes bya ba</title>
+                     <title key="work_107" xml:lang="bo-Latn-x-LC" type="alt">gtsug tor gźan gyis mi thub pa źes bya ba</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

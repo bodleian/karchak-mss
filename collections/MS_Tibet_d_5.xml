@@ -35,9 +35,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_d_5-item1" class="Meditation instructions">
                      <locus from="1r" to="4v"/>
-                     <title xml:lang="" key="work_133">bag rtsis rgyud lung kun 'dus</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">bag rtsis rgyud luṅ kun ʾdus</title>
-                     <title xml:lang="bo" type="alt">བག་རྩིས་རྒྱུད་ལུང་ཀུན་འདུས</title>
+                     <title key="work_133" xml:lang="bo">བག་རྩིས་རྒྱུད་ལུང་ཀུན་འདུས</title>
+                     <title key="work_133" xml:lang="bo-Latn-x-EWTS">bag rtsis rgyud lung kun 'dus</title>
+                     <title key="work_133" xml:lang="bo-Latn-x-LC" type="alt">bag rtsis rgyud luṅ kun ʾdus</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

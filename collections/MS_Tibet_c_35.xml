@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_35-item1" class="Protection ritual">
                      <locus from="1r" to="13v"/>
-                     <title xml:lang="" key="work_90">'jam dpal gsin rje'i gshed dregs pa 'joms byed kyi drag po zor gyi man ngag rdo rje'i thog mda' zhes bya ba</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">ʾjam dpal gsin rjeʾi gśed dregs pa ʾjoms byed kyi drag po zor gyi man ṅag rdo rjeʾi thog mdaʾ źes bya ba</title>
-                     <title xml:lang="bo" type="alt">འཇམ་དཔལ་གསིན་རྗེའི་གཤེད་དྲེགས་པ་འཇོམས་བྱེད་ཀྱི་དྲག་པོ་ཟོར་གྱི་མན་ངག་རྡོ་རྗེའི་ཐོག་མདའ་ཞེས་བྱ་བ</title>
+                     <title key="work_90" xml:lang="bo">འཇམ་དཔལ་གསིན་རྗེའི་གཤེད་དྲེགས་པ་འཇོམས་བྱེད་ཀྱི་དྲག་པོ་ཟོར་གྱི་མན་ངག་རྡོ་རྗེའི་ཐོག་མདའ་ཞེས་བྱ་བ</title>
+                     <title key="work_90" xml:lang="bo-Latn-x-EWTS">'jam dpal gsin rje'i gshed dregs pa 'joms byed kyi drag po zor gyi man ngag rdo rje'i thog mda' zhes bya ba</title>
+                     <title key="work_90" xml:lang="bo-Latn-x-LC" type="alt">ʾjam dpal gsin rjeʾi gśed dregs pa ʾjoms byed kyi drag po zor gyi man ṅag rdo rjeʾi thog mdaʾ źes bya ba</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_72">
-                        <persName>rig 'dzin 'gyur med rdo rje</persName>
-                         (<persName>rig ʾdzin ʾgyur med rdo rje</persName> / 
-                         <persName>རིག་འཛིན་འགྱུར་མེད་རྡོ་རྗེ</persName>)
-                     </author>
+                     <author key="person_72"><persName xml:lang="bo">རིག་འཛིན་འགྱུར་མེད་རྡོ་རྗེ</persName> (<persName xml:lang="bo-Latn-x-EWTS">rig 'dzin 'gyur med rdo rje</persName> / <persName xml:lang="bo-Latn-x-LC">rig ʾdzin ʾgyur med rdo rje</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_42-item1" class="Biography translation">
                      <locus from="1r" to="91v"/>
-                     <title xml:lang="" key="work_81">pad+ma bka'i thang yig</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">padma bkaʾi thaṅ yig</title>
-                     <title xml:lang="bo" type="alt">པདྨ་བཀའི་ཐང་ཡིག</title>
+                     <title key="work_81" xml:lang="bo">པདྨ་བཀའི་ཐང་ཡིག</title>
+                     <title key="work_81" xml:lang="bo-Latn-x-EWTS">pad+ma bka'i thang yig</title>
+                     <title key="work_81" xml:lang="bo-Latn-x-LC" type="alt">padma bkaʾi thaṅ yig</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_59">
-                        <persName>ye shes mtsho rgyal</persName>
-                         (<persName>ye śes mtsho rgyal</persName> / 
-                         <persName>ཡེ་ཤེས་མཚོ་རྒྱལ</persName>)
-                     </author>
+                     <author key="person_59"><persName xml:lang="bo">ཡེ་ཤེས་མཚོ་རྒྱལ</persName> (<persName xml:lang="bo-Latn-x-EWTS">ye shes mtsho rgyal</persName> / <persName xml:lang="bo-Latn-x-LC">ye śes mtsho rgyal</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

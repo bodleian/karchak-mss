@@ -39,11 +39,7 @@
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_63">
-                        <persName>zla ba bsam 'grub</persName>
-                         (<persName>zla ba bsam ʾgrub</persName> / 
-                         <persName>ཟླ་བ་བསམ་འགྲུབ</persName>)
-                     </author>
+                     <author key="person_63"><persName xml:lang="bo">ཟླ་བ་བསམ་འགྲུབ</persName> (<persName xml:lang="bo-Latn-x-EWTS">zla ba bsam 'grub</persName> / <persName xml:lang="bo-Latn-x-LC">zla ba bsam ʾgrub</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

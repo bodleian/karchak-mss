@@ -38,9 +38,11 @@
 
                      <textLang mainLang="bo">tibetan</textLang>
                      
-                     <title xml:lang="" key="work_44">thugs rjes chen po pad+ma rgyal po bsdus pa</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">thugs rjes chen po padma rgyal po bsdus pa</title>
-                     <title xml:lang="bo" type="alt">ཐུགས་རྗེས་ཆེན་པོ་པདྨ་རྒྱལ་པོ་བསྡུས་པ</title>
+                     <title key="work_44" xml:lang="bo">ཐུགས་རྗེས་ཆེན་པོ་པདྨ་རྒྱལ་པོ་བསྡུས་པ</title>
+                                          <title key="work_44" xml:lang="bo-Latn-x-EWTS">thugs rjes chen po pad+ma rgyal po bsdus pa</title>
+                     <title key="work_44" xml:lang="bo-Latn-x-LC" type="alt">thugs rjes chen po padma rgyal po bsdus pa</title>
+                     
+                     
                   </msItem>
                </msContents>
                <physDesc>

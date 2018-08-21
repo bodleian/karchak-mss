@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_a_45_46-item1" class="Biography translation">
                      <locus from="1r" to="265v"/>
-                     <title xml:lang="" key="work_72">bla mgon dgyer med kyi rnal 'byor thun mongs ma yin pa nyams su len tshul rin chen dbang gi rgyal po'i do shal zhes bya ba</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">bla mgon dgyer med kyi rnal ʾbyor thun moṅs ma yin pa ñams su len tshul rin chen dbaṅ gi rgyal poʾi do śal źes bya ba</title>
-                     <title xml:lang="bo" type="alt">བླ་མགོན་དགྱེར་མེད་ཀྱི་རྣལ་འབྱོར་ཐུན་མོངས་མ་ཡིན་པ་ཉམས་སུ་ལེན་ཚུལ་རིན་ཆེན་དབང་གི་རྒྱལ་པོའི་དོ་ཤལ་ཞེས་བྱ་བ</title>
+                     <title key="work_72" xml:lang="bo">བླ་མགོན་དགྱེར་མེད་ཀྱི་རྣལ་འབྱོར་ཐུན་མོངས་མ་ཡིན་པ་ཉམས་སུ་ལེན་ཚུལ་རིན་ཆེན་དབང་གི་རྒྱལ་པོའི་དོ་ཤལ་ཞེས་བྱ་བ</title>
+                     <title key="work_72" xml:lang="bo-Latn-x-EWTS">bla mgon dgyer med kyi rnal 'byor thun mongs ma yin pa nyams su len tshul rin chen dbang gi rgyal po'i do shal zhes bya ba</title>
+                     <title key="work_72" xml:lang="bo-Latn-x-LC" type="alt">bla mgon dgyer med kyi rnal ʾbyor thun moṅs ma yin pa ñams su len tshul rin chen dbaṅ gi rgyal poʾi do śal źes bya ba</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_53">
-                        <persName>ras chung rdo rje grags pa</persName>
-                         (<persName>ras chuṅ rdo rje grags pa</persName> / 
-                         <persName>རས་ཆུང་རྡོ་རྗེ་གྲགས་པ</persName>)
-                     </author>
+                     <author key="person_53"><persName xml:lang="bo">རས་ཆུང་རྡོ་རྗེ་གྲགས་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">ras chung rdo rje grags pa</persName> / <persName xml:lang="bo-Latn-x-LC">ras chuṅ rdo rje grags pa</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

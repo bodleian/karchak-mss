@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_a_10_R-item1" class="Ritual">
                      <locus from="1r" to="95v"/>
-                     <title xml:lang="" key="work_26">mngon brjod mkhas pa'i rna rgyan zhes bya ba</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">mṅon brjod mkhas paʾi rna rgyan źes bya ba</title>
-                     <title xml:lang="bo" type="alt">མངོན་བརྗོད་མཁས་པའི་རྣ་རྒྱན་ཞེས་བྱ་བ</title>
+                     <title key="work_26" xml:lang="bo">མངོན་བརྗོད་མཁས་པའི་རྣ་རྒྱན་ཞེས་བྱ་བ</title>
+                     <title key="work_26" xml:lang="bo-Latn-x-EWTS">mngon brjod mkhas pa'i rna rgyan zhes bya ba</title>
+                     <title key="work_26" xml:lang="bo-Latn-x-LC" type="alt">mṅon brjod mkhas paʾi rna rgyan źes bya ba</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_35">
-                        <persName>ngag dbang 'jigs rten dbang phyug grags pa'i rdo rje</persName>
-                         (<persName>ṅag dbaṅ ʾjigs rten dbaṅ phyug grags paʾi rdo rje</persName> / 
-                         <persName>ངག་དབང་འཇིགས་རྟེན་དབང་ཕྱུག་གྲགས་པའི་རྡོ་རྗེ</persName>)
-                     </author>
+                     <author key="person_35"><persName xml:lang="bo">ངག་དབང་འཇིགས་རྟེན་དབང་ཕྱུག་གྲགས་པའི་རྡོ་རྗེ</persName> (<persName xml:lang="bo-Latn-x-EWTS">ngag dbang 'jigs rten dbang phyug grags pa'i rdo rje</persName> / <persName xml:lang="bo-Latn-x-LC">ṅag dbaṅ ʾjigs rten dbaṅ phyug grags paʾi rdo rje</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

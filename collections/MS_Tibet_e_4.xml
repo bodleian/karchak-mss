@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_e_4-item1" class="Tibetan calendar">
                      <locus from="1r" to="77v"/>
-                     <title xml:lang="" key="work_52">shu gla ta</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">śu gla ta</title>
-                     <title xml:lang="bo" type="alt">ཤུ་གླ་ཏ</title>
+                     <title key="work_52" xml:lang="bo">ཤུ་གླ་ཏ</title>
+                     <title key="work_52" xml:lang="bo-Latn-x-EWTS">shu gla ta</title>
+                     <title key="work_52" xml:lang="bo-Latn-x-LC" type="alt">śu gla ta</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

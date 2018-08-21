@@ -35,17 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_d_3-item1" class="Deity text">
                      <locus from="1r" to="3v"/>
-                     <title xml:lang="" key="work_89">'phag pa thugs rje chen po spyan ras gzigs kyi sa 'khrungs rabs</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">ʾphag pa thugs rje chen po spyan ras gzigs kyi sa ʾkhruṅs rabs</title>
-                     <title xml:lang="bo" type="alt">འཕག་པ་ཐུགས་རྗེ་ཆེན་པོ་སྤྱན་རས་གཟིགས་ཀྱི་ས་འཁྲུངས་རབས</title>
+                     <title key="work_89" xml:lang="bo">འཕག་པ་ཐུགས་རྗེ་ཆེན་པོ་སྤྱན་རས་གཟིགས་ཀྱི་ས་འཁྲུངས་རབས</title>
+                     <title key="work_89" xml:lang="bo-Latn-x-EWTS">'phag pa thugs rje chen po spyan ras gzigs kyi sa 'khrungs rabs</title>
+                     <title key="work_89" xml:lang="bo-Latn-x-LC" type="alt">ʾphag pa thugs rje chen po spyan ras gzigs kyi sa ʾkhruṅs rabs</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_69">
-                        <persName>dga' ldan chos rgyal</persName>
-                         (<persName>dgaʾ ldan chos rgyal</persName> / 
-                         <persName>དགའ་ལྡན་ཆོས་རྒྱལ</persName>)
-                     </author>
+                     <author key="person_69"><persName xml:lang="bo">དགའ་ལྡན་ཆོས་རྒྱལ</persName> (<persName xml:lang="bo-Latn-x-EWTS">dga' ldan chos rgyal</persName> / <persName xml:lang="bo-Latn-x-LC">dgaʾ ldan chos rgyal</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

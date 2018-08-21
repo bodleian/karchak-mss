@@ -35,16 +35,15 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_56-item1" class="Translation draft">
                      <locus from="1r" to="43v"/>
-                     <title xml:lang="" key="work_100">lam mchog rin po che'i 'phreng ba</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">lam mchog rin po cheʾi ʾphreṅ ba</title>
-                     <title xml:lang="bo" type="alt">ལམ་མཆོག་རིན་པོ་ཆེའི་འཕྲེང་བ</title>
+                     <title key="work_100" xml:lang="bo">ལམ་མཆོག་རིན་པོ་ཆེའི་འཕྲེང་བ</title>
+                     <title key="work_100" xml:lang="bo-Latn-x-EWTS">lam mchog rin po che'i 'phreng ba</title>
+                     <title key="work_100" xml:lang="bo-Latn-x-LC" type="alt">lam mchog rin po cheʾi ʾphreṅ ba</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>
-                     <author key="person_23">
-                        <persName>sgam po pa</persName>
-                         (<persName>སྒམ་པོ་པ</persName>)
-                     </author>
+                     <author key="person_23"><persName xml:lang="bo">སྒམ་པོ་པ</persName> (<persName xml:lang="bo-Latn-x-LC">sgam po pa</persName>)</author>
                   </msItem>
                </msContents>
                <physDesc>

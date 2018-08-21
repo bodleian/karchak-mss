@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_19-item1" class="Medical texts">
                      <locus from="1r" to="257v"/>
-                     <title xml:lang="" key="work_95">so' ma ra' ca' yi'</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">soʾ ma raʾ caʾ yiʾ</title>
-                     <title xml:lang="bo" type="alt">སོའ་མ་རའ་ཅའ་ཡིའ་</title>
+                     <title key="work_95" xml:lang="bo">སོའ་མ་རའ་ཅའ་ཡིའ་</title>
+                     <title key="work_95" xml:lang="bo-Latn-x-EWTS">so' ma ra' ca' yi'</title>
+                     <title key="work_95" xml:lang="bo-Latn-x-LC" type="alt">soʾ ma raʾ caʾ yiʾ</title>
+                     
+                     
                      
 
                      <textLang mainLang="bo">tibetan</textLang>

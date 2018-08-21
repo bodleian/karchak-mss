@@ -50,7 +50,7 @@
                <msContents class="Songs">
                   <msItem xml:id="MS_Tibet_a_42-item1" class="Songs" rend="visible">
                      <locus from="1r" to="160v"/>
-                     <title xml:lang="" key="work_25">Mchog gi dngos grub mngon du byed pa'i myur lam bka' brgyud bla ma rnams kyi rdo rje'i mgur dbyangs ye shes char 'bebs rang grol lhun grub bde chen rab 'bar nges don rgya mtsho'i snying po zhes bya ba bzhugs so/</title>
+                     <title key="work_25" xml:lang="bo-Latn-x-EWTS">Mchog gi dngos grub mngon du byed pa'i myur lam bka' brgyud bla ma rnams kyi rdo rje'i mgur dbyangs ye shes char 'bebs rang grol lhun grub bde chen rab 'bar nges don rgya mtsho'i snying po zhes bya ba bzhugs so/</title>
                      
                      
                      

@@ -34,9 +34,11 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_b_4-item1" class="Bon and Buddhist history">
                      <locus from="1r" to="18v"/>
-                     <title xml:lang="" key="work_92">'do blon sa kyis 'don bchod 'pel stsags bched ma</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt">ʾdo blon sa kyis ʾdon bchod ʾpel stsags bched ma</title>
-                     <title xml:lang="bo" type="alt">འདོ་བློན་ས་ཀྱིས་འདོན་བཆོད་འཔེལ་སྩགས་བཆེད་མ</title>
+                     <title key="work_92" xml:lang="bo">འདོ་བློན་ས་ཀྱིས་འདོན་བཆོད་འཔེལ་སྩགས་བཆེད་མ</title>
+                     <title key="work_92" xml:lang="bo-Latn-x-EWTS">'do blon sa kyis 'don bchod 'pel stsags bched ma</title>
+                     <title key="work_92" xml:lang="bo-Latn-x-LC" type="alt">ʾdo blon sa kyis ʾdon bchod ʾpel stsags bched ma</title>
+                     
+                     
                      
 
                      <note>spelling highly eccentric (JESD)</note>

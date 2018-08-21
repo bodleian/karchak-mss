@@ -33,22 +33,27 @@
                </msIdentifier>
                <head>Three rituals for body disposal</head>
                <msContents>
-                  <msItem xml:id="MS_Tibet_c_26-item1" class="Rituals">
-                     <locus from="1r" to="27v"/>
-                     <title xml:lang="" key="work_128">bde chen zhing gi ro sreg cho ga ngan song gnas 'dren sdug snal mcho sems gtan bde ba 'bar zhes bya ba</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt" key="work_128">bde chen źiṅ gi ro sreg cho ga ṅan soṅ gnas ʾdren sdug snal mcho sems gtan bde ba ʾbar źes bya ba</title>
-                     <title xml:lang="bo" type="alt" key="work_128">བདེ་ཆེན་ཞིང་གི་རོ་སྲེག་ཆོ་ག་ངན་སོང་གནས་འདྲེན་སྡུག་སྣལ་མཆོ་སེམས་གཏན་བདེ་བ་འབར་ཞེས་བྱ་བ</title>
-                     <title xml:lang="" key="work_128">gnam chos thugs kyi gter kha snyan brgyud zab mo gu ru zhi ba'i skor las rtsa gsum spyi yi sngon 'gro</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt" key="work_128">gnam chos thugs kyi gter kha sñan brgyud zab mo gu ru źi baʾi skor las rtsa gsum spyi yi sṅon ʾgro</title>
-                     <title xml:lang="bo" type="alt" key="work_128">གནམ་ཆོས་ཐུགས་ཀྱི་གཏེར་ཁ་སྙན་བརྒྱུད་ཟབ་མོ་གུ་རུ་ཞི་བའི་སྐོར་ལས་རྩ་གསུམ་སྤྱི་ཡི་སྔོན་འགྲོ</title>
-                     <title xml:lang="" key="work_128">gnam chos thugs kyi gter kha bsnyan rgyud zab mo'i bskor las gsol 'debs byin rlabs char 'bebs</title>
-                     <title xml:lang="bo-Latn-x-LC" type="alt" key="work_128">gnam chos thugs kyi gter kha bsñan rgyud zab moʾi bskor las gsol ʾdebs byin rlabs char ʾbebs</title>
-                     <title xml:lang="bo" type="alt" key="work_128">གནམ་ཆོས་ཐུགས་ཀྱི་གཏེར་ཁ་བསྙན་རྒྱུད་ཟབ་མོའི་བསྐོར་ལས་གསོལ་འདེབས་བྱིན་རླབས་ཆར་འབེབས</title>
-                     
-
-                     <textLang mainLang="bo">tibetan</textLang>
-                     
-                  </msItem>
+                   <msItem xml:id="MS_Tibet_c_26-item1" class="Rituals">
+                      <locus from="1r" to="27v"/>
+                      <msItem xml:id="MS_Tibet_c_26-item1-item1">
+                         <title xml:lang="bo" key="work_128">བདེ་ཆེན་ཞིང་གི་རོ་སྲེག་ཆོ་ག་ངན་སོང་གནས་འདྲེན་སྡུག་སྣལ་མཆོ་སེམས་གཏན་བདེ་བ་འབར་ཞེས་བྱ་བ</title>
+                         <title xml:lang="bo-Latn-x-EWTS" key="work_128">bde chen zhing gi ro sreg cho ga ngan song gnas 'dren sdug snal mcho sems gtan bde ba 'bar zhes bya ba</title>
+                         <title xml:lang="bo-Latn-x-LC" key="work_128">bde chen źiṅ gi ro sreg cho ga ṅan soṅ gnas ʾdren sdug snal mcho sems gtan bde ba ʾbar źes bya ba</title>
+                         <textLang mainLang="bo">tibetan</textLang>
+                      </msItem>
+                      <msItem xml:id="MS_Tibet_c_26-item1-item2">
+                         <title xml:lang="bo" key="work_129">གནམ་ཆོས་ཐུགས་ཀྱི་གཏེར་ཁ་སྙན་བརྒྱུད་ཟབ་མོ་གུ་རུ་ཞི་བའི་སྐོར་ལས་རྩ་གསུམ་སྤྱི་ཡི་སྔོན་འགྲོ</title>
+                         <title xml:lang="bo-Latn-x-EWTS" key="work_128">gnam chos thugs kyi gter kha snyan brgyud zab mo gu ru zhi ba'i skor las rtsa gsum spyi yi sngon 'gro</title>
+                         <title xml:lang="bo-Latn-x-LC" key="work_128">gnam chos thugs kyi gter kha sñan brgyud zab mo gu ru źi baʾi skor las rtsa gsum spyi yi sṅon ʾgro</title>
+                         <textLang mainLang="bo">tibetan</textLang>
+                      </msItem>
+                      <msItem xml:id="MS_Tibet_c_26-item1-item3">
+                         <title xml:lang="bo" key="work_130">གནམ་ཆོས་ཐུགས་ཀྱི་གཏེར་ཁ་བསྙན་རྒྱུད་ཟབ་མོའི་བསྐོར་ལས་གསོལ་འདེབས་བྱིན་རླབས་ཆར་འབེབས</title>
+                         <title xml:lang="bo-Latn-x-EWTS" key="work_128">gnam chos thugs kyi gter kha bsnyan rgyud zab mo'i bskor las gsol 'debs byin rlabs char 'bebs</title>
+                         <title xml:lang="bo-Latn-x-LC" key="work_128">gnam chos thugs kyi gter kha bsñan rgyud zab moʾi bskor las gsol ʾdebs byin rlabs char ʾbebs</title>
+                         <textLang mainLang="bo">tibetan</textLang>
+                      </msItem>
+                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="bp_pothi">

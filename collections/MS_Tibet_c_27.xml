@@ -34,24 +34,24 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_c_27-item1" class="Oblation rituals">
                      <locus from="1r" to="26v"/>
-                        <msItem xml:id="MS_Tibet_c_27-item1-item1">
-                           <title xml:lang="bo" type="alt" key="work_136">རྡོ་རྗེའི་ལེགས་པའི་གསོལ་ཁ</title>
-                           <title xml:lang="" key="work_136">rdo rje'i legs pa'i gsol kha</title>
-                           <title xml:lang="bo-Latn-x-LC" type="alt" key="work_136">rdo rjeʾi legs paʾi gsol kha</title>
-                           <textLang mainLang="bo">tibetan</textLang>
-                        </msItem>
-                        <msItem xml:id="MS_Tibet_c_27-item1-item2">
-                           <title xml:lang="bo" type="alt" key="work_137">རྩེའུ་དམར་པོའི་གསོལ་ཁ</title>
-                           <title xml:lang="" key="work_117">rtse'u dmar po'i gsol kha</title>
-                           <title xml:lang="bo-Latn-x-LC" type="alt" key="work_137">rtseʾu dmar poʾi gsol kha</title>
-                           <textLang mainLang="bo">tibetan</textLang>
-                        </msItem>
-                        <msItem xml:id="MS_Tibet_c_27-item1-item3">
-                           <title xml:lang="bo" type="alt" key="work_138">ཆོས་སྐྱོང་རྒྱལ་པོ་སྐུ་ལྔ་དཔོན་གཡོག་འཁོར་བཅས་ཀྱི་གསོལ་ཁ</title>
-                           <title xml:lang="" key="work_138">chos skyong rgyal po sku lnga dpon g.yog 'khor bcas kyi gsol kha</title>
-                           <title xml:lang="bo-Latn-x-LC" type="alt" key="work_138">chos skyoṅ rgyal po sku lṅa dpon g.yog ʾkhor bcas kyi gsol kha</title>
-                           <textLang mainLang="bo">tibetan</textLang>
-                      </msItem>
+                     <msItem xml:id="MS_Tibet_c_27-item1-item1">
+                        <title xml:lang="bo" key="work_136">རྡོ་རྗེའི་ལེགས་པའི་གསོལ་ཁ</title>
+                        <title xml:lang="bo-Latn-x-EWTS" key="work_136">rdo rje'i legs pa'i gsol kha</title>
+                        <title xml:lang="bo-Latn-x-LC" type="alt" key="work_136">rdo rjeʾi legs paʾi gsol kha</title>
+                        <textLang mainLang="bo">tibetan</textLang>
+                     </msItem>
+                     <msItem xml:id="MS_Tibet_c_27-item1-item2">
+                        <title xml:lang="bo" key="work_137">རྩེའུ་དམར་པོའི་གསོལ་ཁ</title>
+                        <title xml:lang="bo-Latn-x-EWTS" key="work_117">rtse'u dmar po'i gsol kha</title>
+                        <title xml:lang="bo-Latn-x-LC" type="alt" key="work_137">rtseʾu dmar poʾi gsol kha</title>
+                        <textLang mainLang="bo">tibetan</textLang>
+                     </msItem>
+                     <msItem xml:id="MS_Tibet_c_27-item1-item3">
+                        <title xml:lang="bo" key="work_138">ཆོས་སྐྱོང་རྒྱལ་པོ་སྐུ་ལྔ་དཔོན་གཡོག་འཁོར་བཅས་ཀྱི་གསོལ་ཁ</title>
+                        <title xml:lang="bo-Latn-x-EWTS" key="work_138">chos skyong rgyal po sku lnga dpon g.yog 'khor bcas kyi gsol kha</title>
+                        <title xml:lang="bo-Latn-x-LC" type="alt" key="work_138">chos skyoṅ rgyal po sku lṅa dpon g.yog ʾkhor bcas kyi gsol kha</title>
+                        <textLang mainLang="bo">tibetan</textLang>
+                     </msItem>
                   </msItem>
                </msContents>
                <physDesc>

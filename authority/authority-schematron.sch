@@ -36,32 +36,5 @@
     </pattern>
 -->
 
-    <!-- Import all the entries for the current type of authority file being checked, so that when editing an individual file checks can be made across all others -->
-    <let name="allworks" value="if (contains(base-uri(.), 'works_')) then doc('works.xml')/tei:TEI/tei:text/tei:body/tei:listBibl/tei:bibl else ()"/>
-    <let name="allpeople" value="if (contains(base-uri(.), 'persons_')) then doc('persons.xml')/tei:TEI/tei:text/tei:body/tei:listPerson/tei:person else ()"/>
-    <let name="allsubjects" value="if (contains(base-uri(.), 'subjects_')) then doc('subjects.xml')/tei:TEI/tei:text/tei:body/tei:list/tei:item else ()"/>
-
-    <!-- Check for duplicate xml:ids. Those would be invalid automatically if in the same file, but these additionally test for duplicates across multiple files -->
-    <pattern>
-        <rule context="/tei:TEI/tei:text/tei:body/tei:listBibl/tei:bibl">
-            <let name="thisid" value="@xml:id"/>
-            <report test="count($allworks[@xml:id eq $thisid]) gt 1" role="error">
-                The xml:id of <value-of select="$thisid"/> has been used elsewhere
-            </report>
-        </rule>
-        <rule context="/tei:TEI/tei:text/tei:body/tei:listPerson/tei:person">
-            <let name="thisid" value="@xml:id"/>
-            <report test="count($allpeople[@xml:id eq $thisid]) gt 1" role="error">
-                The xml:id of <value-of select="$thisid"/> has been used elsewhere
-            </report>
-        </rule>
-        <rule context="/tei:TEI/tei:text/tei:body/tei:list/tei:item">
-            <let name="thisid" value="@xml:id"/>
-            <report test="count($allsubjects[@xml:id eq $thisid]) gt 1" role="error">
-                The xml:id of <value-of select="$thisid"/> has been used elsewhere
-            </report>
-        </rule>
-    </pattern>
-
     
 </schema>

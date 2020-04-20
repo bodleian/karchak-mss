@@ -33,7 +33,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_31.xml -->
                 </item>
 
                 <item xml:id="subject_sh2009116097">
@@ -48,7 +47,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_30.xml -->
                 </item>
 
                 <item xml:id="subject_n2017054713">
@@ -62,7 +60,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_d_3.xml -->
                 </item>
 
                 <item xml:id="subject_sh85014152">
@@ -77,12 +74,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_27.xml -->
-                    <!-- ../collections/MS_Tibet_a_45_46.xml -->
-                    <!-- ../collections/MS_Tibet_b_37.xml -->
-                    <!-- ../collections/MS_Tibet_c_21.xml -->
-                    <!-- ../collections/MS_Tibet_c_22.xml -->
-                    <!-- ../collections/MS_Tibet_c_42.xml -->
                 </item>
 
                 <item xml:id="subject_sh85015578" corresp="#subject_sh2009117334">
@@ -97,7 +88,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_26.xml -->
                 </item>
 
                 <item xml:id="subject_sh2009117334" corresp="#subject_sh85015578">
@@ -112,7 +102,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_4.xml -->
                 </item>
 
                 <item xml:id="subject_sh85017454"
@@ -128,7 +117,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_3.xml -->
                 </item>
 
                 <item xml:id="subject_sh85017580"
@@ -144,7 +132,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_8.xml -->
                 </item>
 
                 <item xml:id="subject_sh85017462"
@@ -160,7 +147,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_23_R.xml -->
                 </item>
 
                 <item xml:id="subject_sh85017463"
@@ -176,8 +162,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_36.xml -->
-                    <!-- ../collections/MS_Tibet_a_40.xml -->
                 </item>
 
                 <item xml:id="subject_sh85017565"
@@ -193,8 +177,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_29.xml -->
-                    <!-- ../collections/MS_Tibet_b_32.xml -->
                 </item>
 
                 <item xml:id="subject_sh85086694"
@@ -210,8 +192,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_39.xml -->
-                    <!-- ../collections/MS_Tibet_b_40.xml -->
                 </item>
 
                 <item xml:id="subject_sh90001186">
@@ -226,8 +206,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_e_4.xml -->
-                    <!-- ../collections/MS_Tibet_e_5.xml -->
                 </item>
 
                 <item xml:id="subject_n79091151">
@@ -241,7 +219,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_29.xml -->
                 </item>
 
                 <item xml:id="subject_sh99001875">
@@ -256,7 +233,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_2.xml -->
                 </item>
 
                 <item xml:id="subject_n85044864">
@@ -270,10 +246,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_12.xml -->
-                    <!-- ../collections/MS_Tibet_c_19.xml -->
-                    <!-- ../collections/MS_Tibet_c_23.xml -->
-                    <!-- ../collections/MS_Tibet_e_3.xml -->
                 </item>
 
                 <item xml:id="subject_sh85038589">
@@ -288,9 +260,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_6.xml -->
-                    <!-- ../collections/MS_Tibet_d_2.xml -->
-                    <!-- ../collections/MS_Tibet_d_4.xml -->
                 </item>
 
                 <item xml:id="subject_sh2005003005">
@@ -307,10 +276,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_11.xml -->
-                    <!-- ../collections/MS_Tibet_c_14.xml -->
-                    <!-- ../collections/MS_Tibet_c_16.xml -->
-                    <!-- ../collections/MS_Tibet_c_25.xml -->
                 </item>
 
                 <item xml:id="subject_sh85061150">
@@ -325,7 +290,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_7.xml -->
                 </item>
 
                 <item xml:id="subject_sh85061212">
@@ -340,11 +304,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_33.xml -->
-                    <!-- ../collections/MS_Tibet_a_44.xml -->
-                    <!-- ../collections/MS_Tibet_b_42.xml -->
-                    <!-- ../collections/MS_Tibet_b_43.xml -->
-                    <!-- ../collections/MS_Tibet_c_43.xml -->
                 </item>
 
                 <item xml:id="subject_sh85061245">
@@ -359,7 +318,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_4.xml -->
                 </item>
 
                 <item xml:id="subject_n80125948">
@@ -373,7 +331,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_28.xml -->
                 </item>
 
                 <item xml:id="subject_n83159862">
@@ -387,8 +344,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_e_2.xml -->
-                    <!-- ../collections/MS_Tibet_e_3.xml -->
                 </item>
 
                 <item xml:id="subject_n82026672">
@@ -402,8 +357,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_3.xml -->
-                    <!-- ../collections/MS_Tibet_e_2.xml -->
                 </item>
 
                 <item xml:id="subject_n2012218730">
@@ -417,8 +370,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_3.xml -->
-                    <!-- ../collections/MS_Tibet_b_1.xml -->
                 </item>
 
                 <item xml:id="subject_sh85076240">
@@ -434,7 +385,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_24-star_R.xml -->
                 </item>
 
                 <item xml:id="subject_n82001375">
@@ -448,7 +398,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_24_R.xml -->
                 </item>
 
                 <item xml:id="subject_sh2002011417">
@@ -463,8 +412,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_45.xml -->
-                    <!-- ../collections/MS_Tibet_b_12.xml -->
                 </item>
 
                 <item xml:id="subject_sh2010012660">
@@ -479,7 +426,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_10.xml -->
                 </item>
 
                 <item xml:id="subject_sh85083064">
@@ -494,8 +440,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_19.xml -->
-                    <!-- ../collections/MS_Tibet_c_29.xml -->
                 </item>
 
                 <item xml:id="subject_sh85083210">
@@ -510,25 +454,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_1.xml -->
-                    <!-- ../collections/MS_Tibet_a_2.xml -->
-                    <!-- ../collections/MS_Tibet_a_9_R.xml -->
-                    <!-- ../collections/MS_Tibet_b_17.xml -->
-                    <!-- ../collections/MS_Tibet_b_5.xml -->
-                    <!-- ../collections/MS_Tibet_b_6.xml -->
-                    <!-- ../collections/MS_Tibet_b_7.xml -->
-                    <!-- ../collections/MS_Tibet_c_13.xml -->
-                    <!-- ../collections/MS_Tibet_c_15.xml -->
-                    <!-- ../collections/MS_Tibet_c_18.xml -->
-                    <!-- ../collections/MS_Tibet_c_20.xml -->
-                    <!-- ../collections/MS_Tibet_c_25.xml -->
-                    <!-- ../collections/MS_Tibet_c_32.xml -->
-                    <!-- ../collections/MS_Tibet_c_36.xml -->
-                    <!-- ../collections/MS_Tibet_c_48.xml -->
-                    <!-- ../collections/MS_Tibet_c_49.xml -->
-                    <!-- ../collections/MS_Tibet_c_8.xml -->
-                    <!-- ../collections/MS_Tibet_d_19.xml -->
-                    <!-- ../collections/MS_Tibet_d_5.xml -->
                 </item>
 
                 <item xml:id="subject_sh85084286">
@@ -543,7 +468,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_e_12.xml -->
                 </item>
 
                 <item xml:id="subject_sh99001944">
@@ -558,8 +482,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_28.xml -->
-                    <!-- ../collections/MS_Tibet_d_1.xml -->
                 </item>
 
                 <item xml:id="subject_sh85100849">
@@ -574,7 +496,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_43.xml -->
                 </item>
 
                 <item xml:id="subject_sh2003007202" corresp="#subject_sh85106113">
@@ -589,7 +510,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_11.xml -->
                 </item>
 
                 <item xml:id="subject_sh85106113" corresp="#subject_sh2003007202">
@@ -604,15 +524,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_25.xml -->
-                    <!-- ../collections/MS_Tibet_b_1.xml -->
-                    <!-- ../collections/MS_Tibet_b_11.xml -->
-                    <!-- ../collections/MS_Tibet_b_36.xml -->
-                    <!-- ../collections/MS_Tibet_c_14.xml -->
-                    <!-- ../collections/MS_Tibet_c_17.xml -->
-                    <!-- ../collections/MS_Tibet_c_34.xml -->
-                    <!-- ../collections/MS_Tibet_c_47.xml -->
-                    <!-- ../collections/MS_Tibet_c_5.xml -->
                 </item>
 
                 <item xml:id="subject_sh85111625">
@@ -628,7 +539,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_15.xml -->
                 </item>
 
                 <item xml:id="subject_sh85112429">
@@ -643,7 +553,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_44.xml -->
                 </item>
 
                 <item xml:id="subject_sh2010110681">
@@ -658,7 +567,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_3.xml -->
                 </item>
 
                 <item xml:id="subject_sh85114211"
@@ -674,17 +582,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_2.xml -->
-                    <!-- ../collections/MS_Tibet_b_13.xml -->
-                    <!-- ../collections/MS_Tibet_b_14.xml -->
-                    <!-- ../collections/MS_Tibet_b_15.xml -->
-                    <!-- ../collections/MS_Tibet_b_16.xml -->
-                    <!-- ../collections/MS_Tibet_b_17.xml -->
-                    <!-- ../collections/MS_Tibet_c_10.xml -->
-                    <!-- ../collections/MS_Tibet_c_3.xml -->
-                    <!-- ../collections/MS_Tibet_c_4.xml -->
-                    <!-- ../collections/MS_Tibet_d_29.xml -->
-                    <!-- ../collections/MS_Tibet_e_1.xml -->
                 </item>
 
                 <item xml:id="subject_sh85114228"
@@ -700,21 +597,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_10_R.xml -->
-                    <!-- ../collections/MS_Tibet_a_4.xml -->
-                    <!-- ../collections/MS_Tibet_b_2.xml -->
-                    <!-- ../collections/MS_Tibet_b_3.xml -->
-                    <!-- ../collections/MS_Tibet_b_41.xml -->
-                    <!-- ../collections/MS_Tibet_c_11.xml -->
-                    <!-- ../collections/MS_Tibet_c_12.xml -->
-                    <!-- ../collections/MS_Tibet_c_23.xml -->
-                    <!-- ../collections/MS_Tibet_c_26.xml -->
-                    <!-- ../collections/MS_Tibet_c_27.xml -->
-                    <!-- ../collections/MS_Tibet_c_30.xml -->
-                    <!-- ../collections/MS_Tibet_c_31.xml -->
-                    <!-- ../collections/MS_Tibet_c_35.xml -->
-                    <!-- ../collections/MS_Tibet_c_8.xml -->
-                    <!-- ../collections/MS_Tibet_d_25.xml -->
                 </item>
 
                 <item xml:id="subject_sh2003003695"
@@ -730,8 +612,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_12.xml -->
-                    <!-- ../collections/MS_Tibet_d_25.xml -->
                 </item>
 
                 <item xml:id="subject_n80038365">
@@ -745,18 +625,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_10.xml -->
-                    <!-- ../collections/MS_Tibet_b_11.xml -->
-                    <!-- ../collections/MS_Tibet_b_12.xml -->
-                    <!-- ../collections/MS_Tibet_b_17.xml -->
-                    <!-- ../collections/MS_Tibet_b_31.xml -->
-                    <!-- ../collections/MS_Tibet_c_11.xml -->
-                    <!-- ../collections/MS_Tibet_c_15.xml -->
-                    <!-- ../collections/MS_Tibet_c_17.xml -->
-                    <!-- ../collections/MS_Tibet_c_2.xml -->
-                    <!-- ../collections/MS_Tibet_c_3.xml -->
-                    <!-- ../collections/MS_Tibet_c_4.xml -->
-                    <!-- ../collections/MS_Tibet_c_9.xml -->
                 </item>
 
                 <item xml:id="subject_sh85123693">
@@ -771,7 +639,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_31.xml -->
                 </item>
 
                 <item xml:id="subject_sh85125120">
@@ -786,7 +653,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_a_42.xml -->
                 </item>
 
                 <item xml:id="subject_sh85132085">
@@ -801,7 +667,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_21.xml -->
                 </item>
 
                 <item xml:id="subject_sh85132363">
@@ -816,7 +681,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_28.xml -->
                 </item>
 
                 <item xml:id="subject_sh2006008511">
@@ -831,8 +695,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_1.xml -->
-                    <!-- ../collections/MS_Tibet_c_33.xml -->
                 </item>
 
                 <item xml:id="subject_sh85133743">
@@ -847,7 +709,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_b_38.xml -->
                 </item>
 
                 <item xml:id="subject_sh90000129">
@@ -862,7 +723,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_9.xml -->
                 </item>
 
                 <item xml:id="subject_sh2013001938"
@@ -878,7 +738,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_38.xml -->
                 </item>
 
                 <item xml:id="subject_sh2010012100"
@@ -894,7 +753,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_e_6.xml -->
                 </item>
 
                 <item xml:id="subject_sh2008112892"
@@ -910,10 +768,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_37.xml -->
-                    <!-- ../collections/MS_Tibet_c_59.xml -->
-                    <!-- ../collections/MS_Tibet_c_60.xml -->
-                    <!-- ../collections/MS_Tibet_e_7.xml -->
                 </item>
 
                 <item xml:id="subject_sh85135229">
@@ -928,8 +782,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_63.xml -->
-                    <!-- ../collections/MS_Tibet_e_12.xml -->
                 </item>
 
                 <item xml:id="subject_sh85136967">
@@ -944,14 +796,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_39.xml -->
-                    <!-- ../collections/MS_Tibet_c_40.xml -->
-                    <!-- ../collections/MS_Tibet_c_50.xml -->
-                    <!-- ../collections/MS_Tibet_c_51-53.xml -->
-                    <!-- ../collections/MS_Tibet_c_54.xml -->
-                    <!-- ../collections/MS_Tibet_c_55.xml -->
-                    <!-- ../collections/MS_Tibet_c_56.xml -->
-                    <!-- ../collections/MS_Tibet_c_57.xml -->
                 </item>
 
                 <item xml:id="subject_sh85147110"
@@ -967,7 +811,6 @@
                             </item>
                         </list>
                     </note>
-                    <!-- ../collections/MS_Tibet_c_41.xml -->
                 </item>
 
 

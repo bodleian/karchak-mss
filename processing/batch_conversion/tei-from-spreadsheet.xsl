@@ -81,7 +81,7 @@
                             <respStmt xml:id="AM">
                                 <resp when="2020">Markup and encoding</resp>
                                 <persName>Andrew Morrison</persName>
-                                <note>TEI encoding programmatically created using spreadsheet data</note>
+                                <note>Conversion from spreadsheet to TEI</note>
                             </respStmt>
                         </titleStmt>
                         <editionStmt>

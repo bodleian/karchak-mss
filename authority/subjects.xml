@@ -165,8 +165,9 @@
                 </item>
 
                 <item xml:id="subject_sh85017565"
-                    corresp="#subject_sh85017580 #subject_sh85017462 #subject_sh85017463 #subject_sh85017454 #subject_sh85086694 #subject_sh85147110">
+                    corresp="#subject_sh85080651 #subject_sh85017580 #subject_sh85017462 #subject_sh85017463 #subject_sh85017454 #subject_sh85086694 #subject_sh85147110">
                     <term type="display">Buddhist mantras</term>
+                    <term type="variant">Mantras, Buddhist</term>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -498,7 +499,7 @@
                     </note>
                 </item>
 
-                <item xml:id="subject_sh2003007202" corresp="#subject_sh85106113">
+                <item xml:id="subject_sh2003007202" corresp="#subject_sh85106083 #subject_sh85106113">
                     <term type="display">Praise--Religious aspects</term>
                     <note type="links">
                         <list type="links">
@@ -728,6 +729,7 @@
                 <item xml:id="subject_sh2013001938"
                     corresp="#subject_sh2010012100 #subject_sh2008112892">
                     <term type="display">Tibetan language--Alphabet</term>
+                    <term type="variant">Alphabet</term>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -1119,7 +1121,8 @@
                 </item>
 
                 <item xml:id="subject_sh85008919">
-                    <term type="display">Astrology, Tibetan., Tibetan</term>
+                    <term type="display">Astrology, Tibetan</term>
+                    <term type="variant">Astrology, Tibetan., Tibetan</term>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -1153,6 +1156,34 @@
                             <item>
                                 <ref
                                     target="https://id.loc.gov/authorities/subjects/sh85081416.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </item>
+
+                <item xml:id="subject_sh85080651" corresp="#subject_sh85017565">
+                    <term type="display">Mantras</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85080651.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </item>
+                
+                <item xml:id="subject_sh85106083" corresp="#subject_sh2003007202">
+                    <term type="display">Praise</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85106083.html">
                                     <title>LC</title>
                                 </ref>
                             </item>

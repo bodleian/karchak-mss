@@ -135,12 +135,12 @@
                                 <msContents>
                                     <msItem xml:id="{ $filename }-item1">
                                         <xsl:if test="string-length($title) gt 0">
-                                            <title key="">
+                                            <title key="" xml:lang="{ $langscript }">
                                                 <xsl:value-of select="normalize-space($title)"/>
                                             </title>
                                         </xsl:if>
                                         <xsl:if test="string-length($incipit) gt 0">
-                                            <incipit>
+                                            <incipit xml:lang="{ $langscript }">
                                                 <xsl:value-of select="normalize-space($incipit)"/>
                                             </incipit>
                                         </xsl:if>

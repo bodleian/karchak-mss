@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_133">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Driver. c. 1</title>
+            <respStmt xml:id="CM">
+               <resp when="2020">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="AM">
+               <resp when="2020">Markup and encoding</resp>
+               <persName>Andrew Morrison</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MS_Driver_c_1</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="MS_Driver_c_1">
+               <msIdentifier>
+                  <settlement>Oxford</settlement>
+                  <repository>Weston Library</repository>
+                  <collection>John Stapleton Driver Collection</collection>
+                  <idno type="shelfmark">MS. Driver. c. 1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem xml:id="MS_Driver_c_1-item1">
+                     <title key="" xml:lang="bo-Latn-x-EWTS">Bstan bsrung yongs rdzogs nag 'gros bkod pa bzhugs so</title>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="ms_pothi">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>1 f <dimensions unit="cm" type="leaf">
+                              <width>26</width>
+                              <height>9</height>
+                           </dimensions>
+                        </extent>
+                        <condition><!-- Add description of condition, if applicable, otherwise delete the condition element. See https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout><!-- Add description of layout, if applicable, otherwise delete the layoutDesc element. See https://git.io/msdescdoc#layoutdesc --></layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote><!-- Add description of hands, if applicable, otherwise delete the handDesc element. See https://git.io/msdescdoc#handdesc --></handNote>
+                  </handDesc>
+                  <additions><!-- Add description additions, if applicable, otherwise delete the additions element. See https://git.io/msdescdoc#additions --></additions>
+               </physDesc>
+               <history>
+                  <origin><!-- Add origin, if applicable, otherwise delete the origin element. See https://git.io/msdescdoc#origin --></origin>
+                  <provenance><!-- Add provenance, if applicable, otherwise delete the provenance element. See https://git.io/msdescdoc#provenance --></provenance>
+                  <acquisition when="2016">Donated to the Bodleian Libraries in 2016</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass/>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2020-04-24">Record created.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

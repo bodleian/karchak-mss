@@ -72,6 +72,34 @@
                     <persName type="display">Col. W. Ryder</persName>
                     <!-- ../collections/MS_Tibet_b_28.xml -->
                 </person>
+                
+                <person xml:id="person_286478621">
+                    <persName type="display">Driver, J. E. Stapleton</persName>
+                    <persName type="variant">John E. Stapleton Driver</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/286478621/">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                
+                <person xml:id="person_n2017054713">
+                    <persName type="display">Driver, Felix (Prof)</persName>
+                    <persName type="variant">Professor Felix Driver</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n2017054713.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
 
                 <person xml:id="person_18">
                     <persName type="display">H.E. Richardson</persName>

@@ -90,7 +90,7 @@
                <history>
                   <origin><!-- Add origin, if applicable, otherwise delete the origin element. See https://git.io/msdescdoc#origin --></origin>
                   <provenance><!-- Add provenance, if applicable, otherwise delete the provenance element. See https://git.io/msdescdoc#provenance --></provenance>
-                  <acquisition when="2016">John E. Stapleton Driver collection, donated by Prof Felix Driver to the Bodleian Libraries in 2016</acquisition>
+                  <acquisition when="2016"><persName role="fmo" key="person_286478621">John E. Stapleton Driver</persName> collection, donated by <persName role="dnr" key="person_n2017054713">Prof Felix Driver</persName> to the Bodleian Libraries in 2016</acquisition>
                </history>
                <additional>
                   <adminInfo>

@@ -62,6 +62,7 @@
                </msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Driver_c_1-item1">
+                     <title key="" xml:lang="bo">བསྟན་བསྲུང་ཡོངས་རྫོགས་ནག་འགྲོས་བཀོད་པ་བཞུགས་སོ།</title>
                      <title key="" xml:lang="bo-Latn-x-EWTS">Bstan bsrung yongs rdzogs nag 'gros bkod pa bzhugs so</title>
                      <textLang mainLang="bo">Tibetan</textLang>
                   </msItem>
@@ -89,7 +90,7 @@
                <history>
                   <origin><!-- Add origin, if applicable, otherwise delete the origin element. See https://git.io/msdescdoc#origin --></origin>
                   <provenance><!-- Add provenance, if applicable, otherwise delete the provenance element. See https://git.io/msdescdoc#provenance --></provenance>
-                  <acquisition when="2016">Donated to the Bodleian Libraries in 2016</acquisition>
+                  <acquisition when="2016">John E. Stapleton Driver collection, donated by Prof Felix Driver to the Bodleian Libraries in 2016</acquisition>
                </history>
                <additional>
                   <adminInfo>

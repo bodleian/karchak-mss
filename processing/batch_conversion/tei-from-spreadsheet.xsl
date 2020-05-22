@@ -46,18 +46,21 @@
         
         <xsl:variable name="shelfmarknum" as="xs:string" select="$fields[1]"/>
         <xsl:variable name="shelfmark" as="xs:string" select="concat('MS. Driver. c. ', $shelfmarknum)"/>
-        <xsl:variable name="title" as="xs:string" select="if (not(starts-with($fields[2], 'nt'))) then $fields[2] else ''"/>
-        <xsl:variable name="incipit" as="xs:string" select="if (starts-with($fields[2], 'nt')) then substring-after($fields[2], ' ') else ''"/>
-        <xsl:variable name="extent" as="xs:string" select="$fields[3]"/>
-        <xsl:variable name="types" as="xs:string*" select="tokenize($fields[4], '[^A-Za-z]+')"/>
-        <xsl:variable name="langscript" as="xs:string" select="$fields[5]"/>
+        <xsl:variable name="notitle" as="xs:boolean" select="starts-with($fields[2], 'nt')"/>
+        <xsl:variable name="romanizedtitle" as="xs:string" select="if (not($notitle)) then $fields[2] else ''"/>
+        <xsl:variable name="romanizedincipit" as="xs:string" select="if ($notitle) then substring-after($fields[2], ' ') else ''"/>
+        <xsl:variable name="tibetantitle" as="xs:string" select="if (not($notitle)) then $fields[3] else ''"/>
+        <xsl:variable name="tibetanincipit" as="xs:string" select="if ($notitle) then $fields[3] else ''"/>
+        <xsl:variable name="extent" as="xs:string" select="$fields[4]"/>
+        <xsl:variable name="types" as="xs:string*" select="tokenize($fields[5], '[^A-Za-z]+')"/>
+        <xsl:variable name="langscript" as="xs:string" select="$fields[6]"/>
         <xsl:variable name="langcode" as="xs:string" select="if ($langscript eq 'bo-Latn-x-EWTS') then 'bo' else ''"/>
         <xsl:variable name="language" as="xs:string" select="if ($langscript eq 'bo-Latn-x-EWTS') then 'Tibetan' else ''"/>
-        <xsl:variable name="dimensions" as="xs:string" select="$fields[6]"/>
+        <xsl:variable name="dimensions" as="xs:string" select="$fields[7]"/>
         <xsl:variable name="width" as="xs:string" select="(tokenize($dimensions, '\D+')[1], '')[1]"/>
         <xsl:variable name="height" as="xs:string" select="(tokenize($dimensions, '\D+')[2], '')[1]"/>
-        <xsl:variable name="subject1" as="xs:string" select="replace($fields[7], '\.\s*$', '')"/>
-        <xsl:variable name="subject2" as="xs:string" select="replace($fields[8], '\.\s*$', '')"/>
+        <xsl:variable name="subject1" as="xs:string" select="replace($fields[8], '\.\s*$', '')"/>
+        <xsl:variable name="subject2" as="xs:string" select="replace($fields[9], '\.\s*$', '')"/>
         
         <xsl:variable name="filename" as="xs:string" select="replace(replace($shelfmark, '\*' ,'_star'), '[^A-Za-z0-9_]+', '_')"/>
         
@@ -74,7 +77,7 @@
                             <title>
                                 <xsl:value-of select="$shelfmark"/>
                             </title>
-                            <respStmt xml:id="CM">
+                            <respStmt xml:id="CEM">
                                 <resp when="2020">Summary description</resp>
                                 <persName>Charles Manson</persName>
                             </respStmt>
@@ -134,16 +137,32 @@
                                 </msIdentifier>
                                 <msContents>
                                     <msItem xml:id="{ $filename }-item1">
-                                        <xsl:if test="string-length($title) gt 0">
-                                            <title key="" xml:lang="{ $langscript }">
-                                                <xsl:value-of select="normalize-space($title)"/>
-                                            </title>
-                                        </xsl:if>
-                                        <xsl:if test="string-length($incipit) gt 0">
-                                            <incipit xml:lang="{ $langscript }">
-                                                <xsl:value-of select="normalize-space($incipit)"/>
-                                            </incipit>
-                                        </xsl:if>
+                                        <xsl:choose>
+                                            <xsl:when test="not($notitle)">
+                                                <xsl:if test="string-length($tibetantitle) gt 0">
+                                                    <title key="" xml:lang="bo">
+                                                        <xsl:value-of select="normalize-space($tibetantitle)"/>
+                                                    </title>
+                                                </xsl:if>
+                                                <xsl:if test="string-length($romanizedtitle) gt 0">
+                                                    <title key="" xml:lang="{ $langscript }">
+                                                        <xsl:value-of select="normalize-space($romanizedtitle)"/>
+                                                    </title>
+                                                </xsl:if>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <xsl:if test="string-length($tibetanincipit) gt 0">
+                                                    <incipit xml:lang="bo">
+                                                        <xsl:value-of select="normalize-space($tibetanincipit)"/>
+                                                    </incipit>
+                                                </xsl:if>
+                                                <xsl:if test="string-length($romanizedincipit) gt 0">
+                                                    <incipit xml:lang="{ $langscript }">
+                                                        <xsl:value-of select="normalize-space($romanizedincipit)"/>
+                                                    </incipit>
+                                                </xsl:if>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
                                         <xsl:if test="string-length($langcode) gt 0">
                                             <textLang mainLang="{ $langcode }">
                                                 <xsl:if test="string-length($language) gt 0">
@@ -228,7 +247,7 @@
                                     <provenance>
                                         <xsl:comment> Add provenance, if applicable, otherwise delete the provenance element. See https://git.io/msdescdoc#provenance </xsl:comment>
                                     </provenance>
-                                    <acquisition when="2016">Donated to the Bodleian Libraries in 2016</acquisition>
+                                    <acquisition when="2016"><persName role="fmo" key="person_286478621">John E. Stapleton Driver</persName> collection, donated by <persName role="dnr" key="person_n2017054713">Prof Felix Driver</persName> to the Bodleian Libraries in 2016</acquisition>
                                 </history>
                                 <additional>
                                     <adminInfo>

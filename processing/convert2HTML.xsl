@@ -20,7 +20,7 @@
 
     
     
-    <!-- The next two templates override the default by putting authors, editors and titles on separate lines, because in Georgina there are often sometimes
+    <!-- The next two templates override the default by putting authors, editors and titles on separate lines, because in Tibetan there are often
          titles in different languages, which gets confusing all on one line -->
     
     <xsl:template match="msItem/title">
@@ -72,39 +72,38 @@
                     </a>
                 </xsl:when>
                 <xsl:otherwise>
-                    <span>
-                        <xsl:if test="not(@type = 'desc')">
-                            <xsl:attribute name="class" select="'italic'"/>
-                        </xsl:if>
-                        <xsl:copy-of select="bod:direction(.)"/>
-                        <xsl:choose>
-                            <xsl:when test="@xml:lang = 'bo'">
+                    <xsl:copy-of select="bod:direction(.)"/>
+                    <xsl:choose>
+                        <xsl:when test="@xml:lang = 'bo'">
+                            <!-- Do not display Tibetan titles in italic -->
+                            <xsl:apply-templates/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <span>
+                                <xsl:if test="not(@type = 'desc')">
+                                    <xsl:attribute name="class" select="'italic'"/>
+                                </xsl:if>
+                                <xsl:choose>
+                                    <xsl:when test="@xml:lang = 'bo-Latn-x-EWTS'">
+                                        <xsl:attribute name="title">
+                                            <xsl:text>Wylie transliteration</xsl:text>
+                                        </xsl:attribute>
+                                        <xsl:attribute name="class" select="'italic wylie-translit'"/>
+                                    </xsl:when>
+                                    <xsl:when test="@xml:lang = 'bo-Latn-x-LC'">
+                                        <xsl:attribute name="title">
+                                            <xsl:text>Library of Congress transliteration</xsl:text>
+                                        </xsl:attribute>
+                                        <xsl:attribute name="class" select="'italic lc-translit'"/>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <xsl:attribute name="class" select="'italic'"/>
+                                    </xsl:otherwise>
+                                </xsl:choose>
                                 <xsl:apply-templates/>
-                            </xsl:when>
-                            <xsl:otherwise>
-                                <span>
-                                    <xsl:choose>
-                                        <xsl:when test="@xml:lang = 'bo-Latn-x-EWTS'">
-                                            <xsl:attribute name="title">
-                                                <xsl:text>Wylie transliteration</xsl:text>
-                                            </xsl:attribute>
-                                            <xsl:attribute name="class" select="'italic wylie-translit'"/>
-                                        </xsl:when>
-                                        <xsl:when test="@xml:lang = 'bo-Latn-x-LC'">
-                                            <xsl:attribute name="title">
-                                                <xsl:text>Library of Congress transliteration</xsl:text>
-                                            </xsl:attribute>
-                                            <xsl:attribute name="class" select="'italic lc-translit'"/>
-                                        </xsl:when>
-                                        <xsl:otherwise>
-                                            <xsl:attribute name="class" select="'italic'"/>
-                                        </xsl:otherwise>
-                                    </xsl:choose>
-                                    <xsl:apply-templates/>
-                                </span>
-                            </xsl:otherwise>
-                        </xsl:choose>
-                    </span>
+                            </span>
+                        </xsl:otherwise>
+                    </xsl:choose>
                 </xsl:otherwise>
             </xsl:choose>
         </div>

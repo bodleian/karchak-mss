@@ -21,9 +21,10 @@
     <xsl:template match="/">
         <html>
             <head>
+                <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i" rel="stylesheet"/>
                 <style type="text/css">
                     <xsl:value-of select="unparsed-text('preview.css')"/>
-            </style>
+                </style>
             </head>
             <body style="padding:2em ! important;">
                 <h1 itemprop="name">

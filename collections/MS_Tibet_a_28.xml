@@ -50,6 +50,7 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_a_28-item1" class="Treatise">
                      <locus from="1r" to="192v"/>
+                     <title key="work_8" xml:lang="bo">དམ་པའི་ཆོས་རིན་པོ་ཆེ་འཕགས་པའི་ཡུལ་དུ་ཇི་ལྟར་དར་བའི་ཚུལ་གསལ་བར་སྟོན་པ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ།</title>
                      <title key="work_8" xml:lang="bo-Latn-x-EWTS">Dam pa'i chos rin po che 'phags pa'i yul du ji ltar dar ba'i tshul gsal bar ston pa dgos 'dod kun 'byung zhes bya ba bzhugs so</title>
                      
                      

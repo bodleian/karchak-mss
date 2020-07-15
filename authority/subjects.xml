@@ -48,7 +48,7 @@
                         </list>
                     </note>
                 </item>
-
+                
                 <item xml:id="subject_n2017054713">
                     <term type="display">Avalokiteśvara (Buddhist deity)</term>
                     <note type="links">
@@ -62,7 +62,7 @@
                     </note>
                 </item>
 
-                <item xml:id="subject_sh85014152">
+                <item xml:id="subject_sh85014152" corresp="#subject_sh85010050 #subject_sh85112612 #subject_sh94007374">
                     <term type="display">Biography</term>
                     <note type="links">
                         <list type="links">
@@ -163,7 +163,7 @@
                         </list>
                     </note>
                 </item>
-
+                
                 <item xml:id="subject_sh85017565"
                     corresp="#subject_sh85080651 #subject_sh85017580 #subject_sh85017462 #subject_sh85017463 #subject_sh85017454 #subject_sh85086694 #subject_sh85147110">
                     <term type="display">Buddhist mantras</term>
@@ -179,7 +179,7 @@
                         </list>
                     </note>
                 </item>
-
+                
                 <item xml:id="subject_sh85086694"
                     corresp="#subject_sh85017580 #subject_sh85017462 #subject_sh85017463 #subject_sh85017565 #subject_sh85017454 #subject_sh85147110">
                     <term type="display">Buddhist monasteries</term>
@@ -262,7 +262,7 @@
                         </list>
                     </note>
                 </item>
-
+                
                 <item xml:id="subject_sh2005003005">
                     <term type="display">Gter ma</term>
                     <term type="variant">Terma</term>
@@ -359,7 +359,7 @@
                         </list>
                     </note>
                 </item>
-
+                
                 <item xml:id="subject_n2012218730">
                     <term type="display">Leh</term>
                     <note type="links">
@@ -485,7 +485,7 @@
                     </note>
                 </item>
 
-                <item xml:id="subject_sh85100849">
+                <item xml:id="subject_sh85100849" corresp="#subject_sh85100881">
                     <term type="display">Philosophy</term>
                     <note type="links">
                         <list type="links">
@@ -571,7 +571,7 @@
                 </item>
 
                 <item xml:id="subject_sh85114211"
-                    corresp="#subject_sh85114228 #subject_sh2003003695">
+                    corresp="#subject_sh85114228 #subject_sh2003003695 #subject_sh85053607">
                     <term type="display">Rites and ceremonies</term>
                     <note type="links">
                         <list type="links">
@@ -655,7 +655,7 @@
                         </list>
                     </note>
                 </item>
-
+                
                 <item xml:id="subject_sh85132085">
                     <term type="display">Tales</term>
                     <note type="links">
@@ -857,7 +857,7 @@
                     </note>
                 </item>
 
-                <item xml:id="subject_sh85126765">
+                <item xml:id="subject_sh85126765" corresp="#subject_sh85126752">
                     <term type="display">Spiritual life--Buddhism</term>
                     <note type="links">
                         <list type="links">
@@ -871,7 +871,7 @@
                     </note>
                 </item>
 
-                <item xml:id="subject_sh85112612">
+                <item xml:id="subject_sh85112612" corresp="#subject_sh85014152">
                     <term type="display">Religious biography</term>
                     <note type="links">
                         <list type="links">
@@ -885,7 +885,7 @@
                     </note>
                 </item>
 
-                <item xml:id="subject_sh94007374">
+                <item xml:id="subject_sh94007374" corresp="#subject_sh85014152">
                     <term type="display">Spiritual biography</term>
                     <note type="links">
                         <list type="links">
@@ -1191,7 +1191,119 @@
                     </note>
                 </item>
 
-
+                <item xml:id="subject_sh85010050" corresp="#subject_sh85014152">
+                    <term type="display">Autobiography</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85010050.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </item>
+                
+                <item xml:id="subject_sh87005422">
+                    <term type="display">Buddhist drawing</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh87005422.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </item>
+                
+                <item xml:id="subject_sh85017560">
+                    <term type="display">Buddhist literature, Tibetan</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85017560.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </item>
+                
+                <item xml:id="subject_sh85100881" corresp="#subject_sh85100849">
+                    <term type="display">Buddhist philosophy</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85100881.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </item>
+                
+                <item xml:id="subject_sh85053607" corresp="#subject_sh85114211">
+                    <term type="display">Gcod (Buddhist rite)</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85053607.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </item>
+                
+                <item xml:id="subject_sh85074159">
+                    <term type="display">Lam-rim</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85074159.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </item>
+                
+                <item xml:id="subject_sh85126752" corresp="#subject_sh85126765">
+                    <term type="display">Spiritual direction</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh85126752.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </item>
+                
+                <item xml:id="subject_sh2001000367">
+                    <term type="display">Tables of contents</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref
+                                    target="https://id.loc.gov/authorities/subjects/sh2001000367.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </item>
+                
+                
 
 
             </list>

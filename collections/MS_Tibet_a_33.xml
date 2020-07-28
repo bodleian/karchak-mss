@@ -50,7 +50,8 @@
                <msContents>
                   <msItem xml:id="MS_Tibet_a_33-item1" class="History" rend="visible">
                      <locus from="1r" to="104r"/>
-                     <title key="work_35">Rgyal rabs rnams kyi byung tshul gsal ba'i me long chos 'byung bzhugs</title>
+                     <title key="work_35" xml:lang="bo">རྒྱལ་རབས་རྣམས་ཀྱི་བྱུང་ཚུལ་གསལ་བའི་མེ་ལོང་ཆོས་འབྱུང་བཞུགས།</title>
+                     <title key="work_35" xml:lang="bo-Latn-x-EWTS">Rgyal rabs rnams kyi byung tshul gsal ba'i me long chos 'byung bzhugs</title>
                      
                      
 

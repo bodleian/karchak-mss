@@ -2,8 +2,8 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare option saxon:output "indent=yes";
 
 (: Read authority files :)
-declare variable $base := doc("../authority/subjects_base.xml")/tei:TEI/tei:text/tei:body/tei:list/tei:item[@xml:id];
-declare variable $additions := doc("../authority/subjects_additions.xml")/tei:TEI/tei:text/tei:body/tei:list/tei:item[@xml:id];
+declare variable $base := doc("../authority/subjects.xml")/tei:TEI/tei:text/tei:body/tei:list/tei:item[@xml:id];
+declare variable $additions := ();
 declare variable $currentsubjects := ($base, $additions);
 declare variable $collection := collection('../collections/?select=*.xml;recurse=yes');
 declare variable $currentkeys := $currentsubjects//@xml:id/data();

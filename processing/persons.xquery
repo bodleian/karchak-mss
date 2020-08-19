@@ -51,8 +51,19 @@ declare option saxon:output "indent=yes";
                     let $msid := $ms/@xml:id/string()
                     let $url := concat("/catalog/", $msid)
                     let $classmark := $ms//tei:msDesc/tei:msIdentifier/tei:idno[1]/text()
-                    order by $classmark
-                    return <field name="link_manuscripts_smni">{ concat($url, "|", $classmark) }</field>
+                    let $repository := normalize-space($ms//tei:msDesc/tei:msIdentifier/tei:repository[1]/text())
+                    let $institution := normalize-space($ms//tei:msDesc/tei:msIdentifier/tei:institution/text())
+                    let $linktext := concat(
+                                    $classmark, 
+                                    ' (', 
+                                    $repository,
+                                    if ($repository ne $institution) then
+                                        concat(', ', translate(replace($institution, ' \(', ', '), ')', ''), ')')
+                                    else
+                                        ')'
+                                )
+                    order by $institution, $classmark
+                    return <field name="link_manuscripts_smni">{ concat($url, "|", $linktext[1]) }</field>
                 }
                 {
                 for $relatedid in distinct-values((tokenize(translate($person/@corresp, '#', ''), ' '), tokenize(translate($person/@sameAs, '#', ''), ' ')))

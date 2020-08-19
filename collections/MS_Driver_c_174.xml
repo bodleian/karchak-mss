@@ -64,8 +64,8 @@
                </msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Driver_c_174-item1">
-                     <title key="" xml:lang="bo">དམ་པའི་ཞལ་ལས་བོང་བའི་ཀུན་སློབ་བཅོས་ཚུལ་གྱི་དམིགས་རིམ་བླ་མའི་དགོངས་རྒྱན་ལེགས་ཚོགས་འབྱུང་གནས་ཞེས་བྱ་བ་བཞུགས་སོ།</title>
-                     <title key="" xml:lang="bo-Latn-x-EWTS">Dam pa'i zhal las bong ba'i kun slob bcos tshul gyi dmigs rim bla ma'i dgongs rgyan legs tshogs 'byung gnas zhes bya ba bzhugs so</title>
+                     <title key="work_172" xml:lang="bo">དམ་པའི་ཞལ་ལས་བོང་བའི་ཀུན་སློབ་བཅོས་ཚུལ་གྱི་དམིགས་རིམ་བླ་མའི་དགོངས་རྒྱན་ལེགས་ཚོགས་འབྱུང་གནས་ཞེས་བྱ་བ་བཞུགས་སོ།</title>
+                     <title key="work_172" xml:lang="bo-Latn-x-EWTS">Dam pa'i zhal las bong ba'i kun slob bcos tshul gyi dmigs rim bla ma'i dgongs rgyan legs tshogs 'byung gnas zhes bya ba bzhugs so</title>
                      <textLang mainLang="bo">Tibetan</textLang>
                   </msItem>
                </msContents>

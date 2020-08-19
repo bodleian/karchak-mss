@@ -64,8 +64,8 @@
                </msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Driver_c_409-item1">
-                     <title key="" xml:lang="bo">དེབ་ཐེར་དམར་པོ།</title>
-                     <title key="" xml:lang="bo-Latn-x-EWTS">De ther dmar po - The Red Annals</title>
+                     <title key="work_556" xml:lang="bo">དེབ་ཐེར་དམར་པོ།</title>
+                     <title key="work_556" xml:lang="bo-Latn-x-EWTS">De ther dmar po - The Red Annals</title>
                      <textLang mainLang="bo">Tibetan</textLang>
                   </msItem>
                </msContents>

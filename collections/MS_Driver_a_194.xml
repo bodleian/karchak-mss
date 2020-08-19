@@ -67,8 +67,8 @@
                </msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Driver_a_194-item1">
-                     <title key="" xml:lang="bo">གཤིན་པོ་རྗེས་སུ་འཛིན་པའི་ཆོ་ག་ཐར་པའི་མྱུར་ལམ་ཞེས་བྱ་བ་བཞུགས་སོ།</title>
-                     <title key="" xml:lang="bo-Latn-x-EWTS">Gshin po rjes su 'dzin pa'i cho ga thar pa'i myur lam zhes bya ba bzhugs so</title>
+                     <title key="work_506" xml:lang="bo">གཤིན་པོ་རྗེས་སུ་འཛིན་པའི་ཆོ་ག་ཐར་པའི་མྱུར་ལམ་ཞེས་བྱ་བ་བཞུགས་སོ།</title>
+                     <title key="work_506" xml:lang="bo-Latn-x-EWTS">Gshin po rjes su 'dzin pa'i cho ga thar pa'i myur lam zhes bya ba bzhugs so</title>
                      <textLang mainLang="bo">Tibetan</textLang>
                   </msItem>
                </msContents>

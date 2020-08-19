@@ -64,8 +64,8 @@
                </msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Driver_c_386-item1">
-                     <title key="" xml:lang="bo">རྒྱལ་དབང་མི་སྐྱོད་རྡོ་རྗེའི་ཐུན་བཞི་བླ་མའི་རྣལ་འབྱོར་གྱི་མིགས་རིམ་ཀརྨ་ཆགས་མེད་ཀྱི་མཛད་པ་བཞུགས་སོ།</title>
-                     <title key="" xml:lang="bo-Latn-x-EWTS">Rgyal dbang mi skyod rdo rje'i thun bzhi bla ma'i rnal 'byor gyi migs rim Karma Chags med kyi mdzad pa bzhugs so</title>
+                     <title key="work_333" xml:lang="bo">རྒྱལ་དབང་མི་སྐྱོད་རྡོ་རྗེའི་ཐུན་བཞི་བླ་མའི་རྣལ་འབྱོར་གྱི་མིགས་རིམ་ཀརྨ་ཆགས་མེད་ཀྱི་མཛད་པ་བཞུགས་སོ།</title>
+                     <title key="work_333" xml:lang="bo-Latn-x-EWTS">Rgyal dbang mi skyod rdo rje'i thun bzhi bla ma'i rnal 'byor gyi migs rim Karma Chags med kyi mdzad pa bzhugs so</title>
                      <textLang mainLang="bo">Tibetan</textLang>
                   </msItem>
                </msContents>

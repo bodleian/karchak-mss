@@ -67,8 +67,8 @@
                </msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Driver_a_193-item1">
-                     <title key="" xml:lang="bo">ན་རག་དོང་སྤྲུགས་ཀྱི་ཆོ་ག་འཁོར་བ་ཀུན་སྒྲོལ་གྱི་ཟུར་འདེབས་ལྷན་ཐབས་ངོ་མཚར་རིན་ཆེན་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།</title>
-                     <title key="" xml:lang="bo-Latn-x-EWTS">Na rag dong sprugs kyi cho ga 'khor ba kun sgrol gyi zur 'debs lhan thabs ngo mtshar rin chen phreng ba zhes bya ba bzhugs so</title>
+                     <title key="work_385" xml:lang="bo">ན་རག་དོང་སྤྲུགས་ཀྱི་ཆོ་ག་འཁོར་བ་ཀུན་སྒྲོལ་གྱི་ཟུར་འདེབས་ལྷན་ཐབས་ངོ་མཚར་རིན་ཆེན་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།</title>
+                     <title key="work_385" xml:lang="bo-Latn-x-EWTS">Na rag dong sprugs kyi cho ga 'khor ba kun sgrol gyi zur 'debs lhan thabs ngo mtshar rin chen phreng ba zhes bya ba bzhugs so</title>
                      <textLang mainLang="bo">Tibetan</textLang>
                   </msItem>
                </msContents>

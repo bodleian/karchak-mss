@@ -67,8 +67,8 @@
                </msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Driver_a_94-item1">
-                     <title key="" xml:lang="bo">ཟབ་གསང་རྫོགས་པ་ཆེན་པོའི་སྔོན་འགྲོ། ཡང་དག་ལམ་དུ་དྲང་བའི་ངག་འདོན། སྐལ་ལྡན་བདེ་ལ་འགོད་པའི་ཤིང་རྟ་བཞུགས།</title>
-                     <title key="" xml:lang="bo-Latn-x-EWTS">Zab gsang rdzogs pa chen po'i sngon 'gro/ yang dag lam du drang ba'i ngag 'don/ skal ldan bde la 'god pa'i shing rta bzhugs/</title>
+                     <title key="work_462" xml:lang="bo">ཟབ་གསང་རྫོགས་པ་ཆེན་པོའི་སྔོན་འགྲོ། ཡང་དག་ལམ་དུ་དྲང་བའི་ངག་འདོན། སྐལ་ལྡན་བདེ་ལ་འགོད་པའི་ཤིང་རྟ་བཞུགས།</title>
+                     <title key="work_462" xml:lang="bo-Latn-x-EWTS">Zab gsang rdzogs pa chen po'i sngon 'gro/ yang dag lam du drang ba'i ngag 'don/ skal ldan bde la 'god pa'i shing rta bzhugs/</title>
                      <textLang mainLang="bo">Tibetan</textLang>
                   </msItem>
                </msContents>

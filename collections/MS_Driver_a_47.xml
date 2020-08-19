@@ -67,8 +67,8 @@
                </msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Driver_a_47-item1">
-                     <title key="" xml:lang="bo">མ་མོའི་ཡམ་མདོས་བཞུགས་སོ།</title>
-                     <title key="" xml:lang="bo-Latn-x-EWTS">Ma mo'i yam mdos bzhugs so</title>
+                     <title key="work_402" xml:lang="bo">མ་མོའི་ཡམ་མདོས་བཞུགས་སོ།</title>
+                     <title key="work_402" xml:lang="bo-Latn-x-EWTS">Ma mo'i yam mdos bzhugs so</title>
                      <textLang mainLang="bo">Tibetan</textLang>
                   </msItem>
                </msContents>

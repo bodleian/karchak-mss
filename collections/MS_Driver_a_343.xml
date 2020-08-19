@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_133">
+
+<!-- Temporary box: B18-8 -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_979">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>MS. Driver. c. 1</title>
+            <title>MS. Driver. a. 343</title>
             <respStmt xml:id="CEM">
                <resp when="2020">Summary description</resp>
                <persName>Charles Manson</persName>
@@ -48,33 +51,33 @@
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
             </availability>
-            <idno type="msID">MS_Driver_c_1</idno>
+            <idno type="msID">MS_Driver_a_343</idno>
             <idno type="collection">JESD</idno>
             <idno type="catalogue">Tibetan</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:lang="en" xml:id="MS_Driver_c_1">
+            <msDesc xml:lang="en" xml:id="MS_Driver_a_343">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
                   <collection>John Stapleton Driver Collection</collection>
-                  <idno type="shelfmark">MS. Driver. c. 1</idno>
+                  <idno type="shelfmark">MS. Driver. a. 343</idno>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Driver_c_1-item1">
-                     <title key="" xml:lang="bo">བསྟན་བསྲུང་ཡོངས་རྫོགས་ནག་འགྲོས་བཀོད་པ་བཞུགས་སོ།</title>
-                     <title key="" xml:lang="bo-Latn-x-EWTS">Bstan bsrung yongs rdzogs nag 'gros bkod pa bzhugs so</title>
+                  <msItem xml:id="MS_Driver_a_343-item1">
+                     <title key="" xml:lang="bo">བར་དོ་ཐོས་གྲོལ་ཆེན་མོ་ལས་སྲིད་པ་བར་དོའི་ངོ་སྤྲོད་བཞུགས་སོ༔</title>
+                     <title key="" xml:lang="bo-Latn-x-EWTS">Bar do thos grol chen mo las srid pa bar do'i ngo sprod bzhugs so:</title>
                      <textLang mainLang="bo">Tibetan</textLang>
                   </msItem>
                </msContents>
                <physDesc>
-                  <objectDesc form="ms_pothi">
+                  <objectDesc form="bp_pothi">
                      <supportDesc material="chart">
                         <support>Paper</support>
-                        <extent>1 f <dimensions unit="cm" type="leaf">
-                              <width>26</width>
+                        <extent>35 ff <dimensions unit="cm" type="leaf">
+                              <width>42</width>
                               <height>9</height>
                            </dimensions>
                         </extent>
@@ -84,15 +87,16 @@
                         <layout><!-- Add description of layout, if applicable, otherwise delete the layoutDesc element. See https://git.io/msdescdoc#layoutdesc --></layout>
                      </layoutDesc>
                   </objectDesc>
-                  <handDesc>
-                     <handNote><!-- Add description of hands, if applicable, otherwise delete the handDesc element. See https://git.io/msdescdoc#handdesc --></handNote>
-                  </handDesc>
+                  <typeDesc>
+                     <typeNote medium="xyl" script="print">Woodcut print (dbu can)</typeNote>
+                  </typeDesc>
                   <additions><!-- Add description additions, if applicable, otherwise delete the additions element. See https://git.io/msdescdoc#additions --></additions>
                </physDesc>
                <history>
                   <origin><!-- Add origin, if applicable, otherwise delete the origin element. See https://git.io/msdescdoc#origin --></origin>
                   <provenance><!-- Add provenance, if applicable, otherwise delete the provenance element. See https://git.io/msdescdoc#provenance --></provenance>
-                  <acquisition when="2016"><persName role="fmo" key="person_286478621">John E. Stapleton Driver</persName> collection, donated by <persName role="dnr" key="person_n2017054713">Prof Felix Driver</persName> to the Bodleian Libraries in 2016</acquisition>
+                  <acquisition when="2016">
+                     <persName role="fmo" key="person_286478621">John E. Stapleton Driver</persName> collection, donated by <persName role="dnr" key="person_n2017054713">Prof Felix Driver</persName> to the Bodleian Libraries in 2016</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -105,10 +109,21 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass/>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term key="subject_sh2005003005">Gter ma</term>
+                  </item>
+                  <item>
+                     <term key="subject_sh85017560">Buddhist literature, Tibetan</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2020-04-24">Record created.</change>
+         <change when="2020-07-29">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

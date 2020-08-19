@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_133">
+
+<!-- Temporary box: A10 -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_653">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>MS. Driver. c. 1</title>
+            <title>MS. Driver. a. 19</title>
             <respStmt xml:id="CEM">
                <resp when="2020">Summary description</resp>
                <persName>Charles Manson</persName>
@@ -48,34 +51,34 @@
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
             </availability>
-            <idno type="msID">MS_Driver_c_1</idno>
+            <idno type="msID">MS_Driver_a_19</idno>
             <idno type="collection">JESD</idno>
             <idno type="catalogue">Tibetan</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:lang="en" xml:id="MS_Driver_c_1">
+            <msDesc xml:lang="en" xml:id="MS_Driver_a_19">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
                   <collection>John Stapleton Driver Collection</collection>
-                  <idno type="shelfmark">MS. Driver. c. 1</idno>
+                  <idno type="shelfmark">MS. Driver. a. 19</idno>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Driver_c_1-item1">
-                     <title key="" xml:lang="bo">བསྟན་བསྲུང་ཡོངས་རྫོགས་ནག་འགྲོས་བཀོད་པ་བཞུགས་སོ།</title>
-                     <title key="" xml:lang="bo-Latn-x-EWTS">Bstan bsrung yongs rdzogs nag 'gros bkod pa bzhugs so</title>
+                  <msItem xml:id="MS_Driver_a_19-item1">
+                     <title key="" xml:lang="bo">གྲུབ་མཐའི་རྣམ་བཤད་རང་གཞན་གྲུབ་མཐའ་ཀུན་དང་ཟབ་དན་མཆོགས་ཏུ་གསལ་བ་ཀུན་བཟང་ཞིང་གི་ཉི་མ་ལུང་རིགས་རྒྱ་མཚོའི་སྐྱེ་དགུའི་རེ་བ་ཀུན་སྐོངས་ལས་ལེའུ་དང་པོ་གྲུབ་མཐའ་སྤྱིའི་སྐབས་དང་ལེའུ་གཉིས་པ་ནས་བདུན་པའི་བར་གཞན་སྡེའི་རྟག་ཆད་ཀྱི་མཐའ་དགག་པའི་སྐབས་དྲུག་གི་འགྲེལ་པ་རྣམས་བཞུགས་སོ།</title>
+                     <title key="" xml:lang="bo-Latn-x-EWTS">Grub mtha'i rnam bshad rang gzhan grub mtha' kun dang zab dan mchogs tu gsal ba kun bzang zhing gi nyi ma lung rigs rgya mtsho'i skye dgu'i re ba kun skongs las le'u dang po grub mtha' spyi'i skabs dang le'u gnyis pa nas bdun pa'i bar gzhan sde'i rtag chad kyi mtha' dgag pa'i skabs drug gi 'grel pa rnams bzhugs so</title>
                      <textLang mainLang="bo">Tibetan</textLang>
                   </msItem>
                </msContents>
                <physDesc>
-                  <objectDesc form="ms_pothi">
+                  <objectDesc form="bp_pothi">
                      <supportDesc material="chart">
                         <support>Paper</support>
-                        <extent>1 f <dimensions unit="cm" type="leaf">
-                              <width>26</width>
-                              <height>9</height>
+                        <extent>70,18,16,66,82,58 [total310] ff <dimensions unit="cm" type="leaf">
+                              <width>52</width>
+                              <height>12</height>
                            </dimensions>
                         </extent>
                         <condition><!-- Add description of condition, if applicable, otherwise delete the condition element. See https://git.io/msdescdoc#condition --></condition>
@@ -84,15 +87,16 @@
                         <layout><!-- Add description of layout, if applicable, otherwise delete the layoutDesc element. See https://git.io/msdescdoc#layoutdesc --></layout>
                      </layoutDesc>
                   </objectDesc>
-                  <handDesc>
-                     <handNote><!-- Add description of hands, if applicable, otherwise delete the handDesc element. See https://git.io/msdescdoc#handdesc --></handNote>
-                  </handDesc>
+                  <typeDesc>
+                     <typeNote medium="xyl" script="print">Woodcut print (dbu can)</typeNote>
+                  </typeDesc>
                   <additions><!-- Add description additions, if applicable, otherwise delete the additions element. See https://git.io/msdescdoc#additions --></additions>
                </physDesc>
                <history>
                   <origin><!-- Add origin, if applicable, otherwise delete the origin element. See https://git.io/msdescdoc#origin --></origin>
                   <provenance><!-- Add provenance, if applicable, otherwise delete the provenance element. See https://git.io/msdescdoc#provenance --></provenance>
-                  <acquisition when="2016"><persName role="fmo" key="person_286478621">John E. Stapleton Driver</persName> collection, donated by <persName role="dnr" key="person_n2017054713">Prof Felix Driver</persName> to the Bodleian Libraries in 2016</acquisition>
+                  <acquisition when="2016">
+                     <persName role="fmo" key="person_286478621">John E. Stapleton Driver</persName> collection, donated by <persName role="dnr" key="person_n2017054713">Prof Felix Driver</persName> to the Bodleian Libraries in 2016</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -105,10 +109,18 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass/>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term key="subject_sh85100881">Buddhist philosophy</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2020-04-24">Record created.</change>
+         <change when="2020-07-29">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

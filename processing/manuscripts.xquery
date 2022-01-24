@@ -58,6 +58,7 @@ declare option saxon:output "indent=yes";
                     { bod:physForm($x//tei:physDesc/tei:objectDesc, 'ms_physform_sm', 'Not specified') }
                     { bod:languages($x//tei:sourceDesc//tei:textLang, 'lang_sm', 'Not specified') }
                     { bod:centuries($x//tei:origin//tei:origDate, 'ms_date_sm', 'Undated') }
+                    { bod:requesting($x/tei:TEI) }
                     { bod:indexHTML($htmldoc, 'ms_textcontent_tni') }
                     { bod:displayHTML($htmldoc, 'display') }
                 </doc>

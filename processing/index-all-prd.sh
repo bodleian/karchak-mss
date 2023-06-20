@@ -24,4 +24,4 @@ cd "${0%/*}"
 ./generate-solr-document.sh works.xquery works_index.xml work $SERVER $1
 
 # Reindex subjects
-./generate-solr-document.sh subjects.xquery subjects_index.xml subject $SERVER $1l
+./generate-solr-document.sh subjects.xquery subjects_index.xml subject $SERVER $1

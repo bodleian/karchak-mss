@@ -29,6 +29,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. b. 31</idno>
+                  <idno type="crArk">ark:29072/x0z890rr90hb</idno>
+                  <idno type="ieArk">ark:29072/x0z603qw0766</idno>
                </msIdentifier>
                <head><placeName key="subject_n80038365">Sikkim</placeName> edict against animal sacrifices and smoking</head>
                <msContents>

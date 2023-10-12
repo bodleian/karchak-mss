@@ -30,6 +30,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 45, 46</idno>
+                  <idno type="crArk">ark:29072/x0v405s824k9</idno>
+                  <idno type="ieArk">ark:29072/x0v118rc418f</idno>
                </msIdentifier>
                <head><persName key="person_26">Lama Kazi Dawa Samdup</persName>'s translation of <persName key="person_27">Milarepa</persName> biography</head>
                <msContents>

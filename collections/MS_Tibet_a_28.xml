@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 28</idno>
+                  <idno type="crArk">ark:29072/x0qr46qz921q</idno>
+                  <idno type="ieArk">ark:29072/x0qn59q308q2</idno>
                </msIdentifier>
                <head>Dharma in <placeName key="subject_n80125948">India</placeName></head>
                <msContents>

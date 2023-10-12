@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 34</idno>
+                  <idno type="crArk">ark:29072/x0s4655f58c6</idno>
+                  <idno type="ieArk">ark:29072/x0s1784j752b</idno>
                </msIdentifier>
                <head>Life of <persName key="person_85">Nagwang Namgyal</persName>, Bhutan 17thC</head>
                <msContents>

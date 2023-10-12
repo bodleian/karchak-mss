@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 63</idno>
+                  <idno type="crArk">ark:29072/x0fb494810p8</idno>
+                  <idno type="ieArk">ark:29072/x0f7623c27cn</idno>
                </msIdentifier>
                <head><persName key="person_48">6th Dalai Lama</persName> poems</head>
                <msContents class="Poems">

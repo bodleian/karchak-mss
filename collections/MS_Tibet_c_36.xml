@@ -29,6 +29,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 36</idno>
+                  <idno type="crArk">ark:29072/x08c97kq4551</idno>
+                  <idno type="ieArk">ark:29072/x08910jt61vb</idno>
                </msIdentifier>
                <head><persName key="person_10">Padmasambhava</persName> ritual</head>
                <msContents>

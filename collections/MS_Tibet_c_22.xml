@@ -30,6 +30,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 22</idno>
+                  <idno type="crArk">ark:29072/x05712m6797x</idno>
+                  <idno type="ieArk">ark:29072/x05425k995xq</idno>
                </msIdentifier>
                <head>Biography in prose of <persName key="person_10">Padmasambhava</persName></head>
                <msContents>

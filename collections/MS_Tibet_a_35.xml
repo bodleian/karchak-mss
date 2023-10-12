@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 35</idno>
+                  <idno type="crArk">ark:29072/x0sb39772501</idno>
+                  <idno type="ieArk">ark:29072/x0s7526b41px</idno>
                </msIdentifier>
                <head>Life of <persName key="person_62">Nagwang Yontan Thaye Namgyal</persName>, 18thC</head>
                <msContents>

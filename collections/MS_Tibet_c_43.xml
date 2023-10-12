@@ -30,6 +30,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 43</idno>
+                  <idno type="crArk">ark:29072/x09z902z784x</idno>
+                  <idno type="ieArk">ark:29072/x09w032294tc</idno>
                </msIdentifier>
                <head><persName key="person_26">Lama Kazi Dawa Samdup</persName> translation of a Bhutanese History of Dharma's Origin</head>
                <msContents>

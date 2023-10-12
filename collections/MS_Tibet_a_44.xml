@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 44</idno>
+                  <idno type="crArk">ark:29072/x0tq57np91bn</idno>
+                  <idno type="ieArk">ark:29072/x0tm70mt0816</idno>
                </msIdentifier>
                <head>Bon history</head>
                <msContents class="History">

@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 40</idno>
+                  <idno type="crArk">ark:29072/x0sx61dk24vb</idno>
+                  <idno type="ieArk">ark:29072/x0st74cp41jg</idno>
                </msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Tibet_a_40-item1" class="Doctrine" rend="visible">

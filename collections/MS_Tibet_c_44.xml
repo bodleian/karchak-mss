@@ -30,6 +30,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 44</idno>
+                  <idno type="crArk">ark:29072/x0b5644r44rh</idno>
+                  <idno type="ieArk">ark:29072/x0b2773v61fn</idno>
                </msIdentifier>
                <head><persName key="person_2">Evans-Wentz</persName> lecture on re-birth</head>
                <msContents>

@@ -30,6 +30,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 48</idno>
+                  <idno type="crArk">ark:29072/x0bk12897807</idno>
+                  <idno type="ieArk">ark:29072/x0bg257d94p1</idno>
                </msIdentifier>
                <head><persName key="person_26">Lama Kazi Dawa Samdup</persName> translation of Mahamudra text</head>
                <msContents>

@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 36</idno>
+                  <idno type="crArk">ark:29072/x0sj139091mf</idno>
+                  <idno type="ieArk">ark:29072/x0sf2684089w</idno>
                </msIdentifier>
                <head><persName key="person_80">Nagarjuna</persName> collection</head>
                <msContents>

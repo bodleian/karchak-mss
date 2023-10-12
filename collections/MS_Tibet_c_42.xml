@@ -30,6 +30,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. c. 42</idno>
+                  <idno type="crArk">ark:29072/x09s161611hp</idno>
+                  <idno type="ieArk">ark:29072/x09p2909286z</idno>
                </msIdentifier>
                <head>Translated biography of <persName key="person_10">Padmasambhava</persName></head>
                <msContents>

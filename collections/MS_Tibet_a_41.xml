@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 41</idno>
+                  <idno type="crArk">ark:29072/x0t435gb91g3</idno>
+                  <idno type="ieArk">ark:29072/x0t148fg085j</idno>
                </msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Tibet_a_41-item1" class="Namtar" rend="visible">

@@ -2,11 +2,11 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1008">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>MS. Tibet. a. 10 (R)</title>
+            <title>MS. Tibet. b. 23.1 (R)</title>
             <respStmt xml:id="CEM">
                <resp when="2021">Summary description</resp>
                <persName>Charles Manson</persName>
@@ -49,51 +49,48 @@
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
             </availability>
-            <idno type="msID">MS_Tibet_a_10_R</idno>
+            <idno type="msID">MS_Tibet_b_23_1_R</idno>
             <idno type="collection">JESD</idno>
             <idno type="catalogue">Tibetan</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:lang="en" xml:id="MS_Tibet_a_10_R">
+            <msDesc xml:lang="en" xml:id="MS_Tibet_b_23_1_R">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
                   <collection>Younghusband Collection</collection>
-                  <idno type="shelfmark">MS. Tibet. a. 10 (R)</idno>
+                  <idno type="shelfmark">MS. Tibet. b. 23.1 (R)</idno>
                </msIdentifier>
-               <head>The treatise on synonymy by Ngag dbang 'Jig grags</head>
+               <head>A catalogue for the publication of Thos grol chen mo</head>
                <msContents>
-                  <msItem xml:id="MS_Tibet_a_10_R-item1">
-                     <title key="work_26" xml:lang="bo">མངོན་བརྗོད་མཁས་པའི་རྣ་རྒྱན་ཞེས་བྱ་བ</title>
-                     <title key="work_26" xml:lang="bo-Latn-x-EWTS">mngon brjod mkhas pa'i rna rgyan zhes bya ba</title>
-                     <author key="person_35">
-                        <persName xml:lang="bo">ངག་དབང་འཇིག་རྟེན་དབང་ཕྱུག་གྲགས་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">ngag dbang 'jig rten dbang phyug grags pa</persName>)</author>
-                     <note>The name of this author is also spelt Ngag dbang 'Jigs med Grags pa.</note>
-                     <incipit xml:lang="bo">thabs dang shes rab phul byung las 'khrungs bla na med pa'i ye shes kyis//_thams cad mkhyen pa'i mngon shes yon tan rkang pa drug pa bde gshegs pa'i// snying po'i pad+ma kun gyis za ba'i bdud rtsi'i rang bzhin can dbang phyug/_rgyal po'i tog gyur bcom ldan shAkya seng ge'i zhabs dag spyi bos mchod//</incipit>
-                     <explicit xml:lang="bo">de ltar mngon brjod kyi bstan bcos mkhas pa'i rna rgyan zhes pa 'di nyid/ paN+Di ta 'chi ba med pa'i seng ge s mdzad pa'i a ma ra ko Sha/_de'i 'grel pa rab 'byor zla ba s mdzad pa/_slob dpon dpal 'dzin sde s mdzad pa'i sna tshogs gsal ba la sogs rgya gzhung dang / bod kyi gnas lnga rig pa'i paN+Di ta chen po sa skya pa kun dga' rgyal mtshan gyis mdzad pa'i tshig gter/ de'i 'grel pa blo brtan bzhi pa s mdzad pa la sogs mngon brjod rang gzhung gi bstan bcos rnams la legs pa'i cha kun btus shing /_gzhan yang bka' 'gyur dang bstan 'gyur nas bshad pa'i ming gi rnam grangs rang blos gang spobs kyi kha bskang ste/_lha sker rigs kyi snyan ngag mkhan chen po ngag dbang 'jig rten dbang phyug grags pa'i rdo rje s khyu mchog gi lor legs byas kyi sgo 'phar brgya che ba rin po che spungs pa 'i pho brang du bgyis pa'o//_'di yang bstan 'gro la phan pa'i phyir du'o//_mang+ga laM//_1 zhus//</explicit>
+                  <msItem xml:id="MS_Tibet_b_23_1_R-item1">
+                     <title key="work_781" xml:lang="bo">དཀར་ཆབ་མཐོང་བ་དོན་ཡོད</title>
+                     <title key="work_781" xml:lang="bo-Latn-x-EWTS">dkar chab mthong ba don yod</title>
+                     <author key="person_104">
+                        <persName xml:lang="bo-Latn-x-EWTS">lha btsun dpal 'bar</persName>
+                     </author>
+                     <note>This is a long catalogue written by mKhan chen Lha btsun dPal 'bar for the publication of Thos grol chen mo and Bar do gsol 'debs in Ra dkar house in Phu dmar Lung mchog. The scribe for the publication was Bya btang Rig 'dzin Chos dar and it was sponsored by the family of Ra dkar.</note>
+                     <incipit xml:lang="bo">oM sva sti//_do gnyis mthar phyin rdzogs pa'i sangs rgyas dang //_bden gnyis zung 'jug chags bral dam pa'i chos//_rig grol gnyis ldan 'phags pa'i dge 'dun te //_skyabs gnas dkon mchog gsum la phyag 'tshal lo//_'gro ba'i mgon gyur dpal ldan bla ma dang //_dngos grub kun stsol yi dam zhi khro dang //_bar chad kun sel mkha' 'gro chos skyong dang //_dgos 'dod 'char 'bebs nor lha'i tshogs la 'dud//</incipit>
+                     <explicit xml:lang="bo">bstan srog rnam rgyal 'dzin pa'i chos skyong dbang po//_ma rig thogs med gzigs pa'i ye shes spyan ldan//_mi mthun lha mig 'joms pa'i bka' bstod bsrungs ma/ /_dam can rgya mtsho'i tshogs kyi bkra shis gnas 'dir stsol//_bkra shis/_dge legs 'phel//</explicit>
                      <textLang mainLang="bo">Tibetan</textLang>
-                     <listBibl>
-                        <bibl type="tbrc">TBRC: W1597</bibl>
-                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
                      <supportDesc material="chart">
                         <support>Paper</support>
-                        <extent>95 ff <dimensions unit="cm" type="leaf">
-                              <width>500</width>
-                              <height>80</height>
+                        <extent>3 ff <dimensions unit="cm" type="leaf">
+                              <width>320</width>
+                              <height>110</height>
                            </dimensions>
                            <dimensions unit="cm" type="written">
-                              <width>440</width>
-                              <height>50</height>
+                              <width>300</width>
+                              <height>80</height>
                            </dimensions>
                         </extent>
-                        <foliation>The folios 87-91 are missing</foliation>
-                        <condition>good</condition>
+                        <condition>poor</condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout writtenLines="6">
@@ -102,12 +99,11 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote medium="black red" script="cursive">dbu med (black/red ink)</handNote>
-                     <handNote>The main text is in 'bru tsha to which are added khyug annotations in red ink.</handNote>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
                   </handDesc>
                </physDesc>
                <history>
-                  <acquisition>S.C. 33624, 33718. 25 Sept. 1905, donation by the Government of India (listed as 'a book of synonyms').</acquisition>
+                  <acquisition>S.C. 33640, 33734. 25 Sept. 1905, donation by the Government of India.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -124,18 +120,14 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh2010012100">Tibetan language--Dictionaries</term>
+                     <term key="subject_sh85114228">Ritual</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2023-10-30">New version of record created.</change>
-         <change when="2018-07-03"><persName>Andrew Morrison</persName> Various adjustments including adding LCSH terms, linking people and work titles to authority files, tagging people and places, removing empty tags, etc. Scripts used are in the <ref target="https://github.com/bodleian/karchak-mss/tree/master/processing/batch_conversion/">batch_conversion</ref> folder.</change>
-         <change when="2017-07-28"><persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/batch_conversion/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref></change>
-         <change>entry created by <persName>Charles Manson</persName>
-         </change>         
+         <change when="2023-10-30">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

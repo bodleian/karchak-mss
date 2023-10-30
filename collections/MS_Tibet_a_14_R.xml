@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_998">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Tibet. a. 14 (R)</title>
+            <respStmt xml:id="CEM">
+               <resp when="2021">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="AM">
+               <resp when="2023">Markup and encoding</resp>
+               <persName>Andrew Morrison</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MS_Tibet_a_14_R</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="MS_Tibet_a_14_R">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Collection</collection>
+                  <idno type="shelfmark">MS. Tibet. a. 14 (R)</idno>
+               </msIdentifier>
+               <head>The first volume of the Hundred Thousand Verse on the Perfection of Wisdom</head>
+               <msContents>
+                  <msItem xml:id="MS_Tibet_a_14_R-item1">
+                     <title key="work_854" xml:lang="bo">ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་བརྒྱ་པ</title>
+                     <title key="work_854" xml:lang="bo-Latn-x-EWTS">shes rab kyi pha rol tu phyin pa stong phrag brgya pa[śatasāhasrikāprajñāpāramitā]</title>
+                     <note>There is a verse below the regular text, outside the margin, on the verso of the first folio. It reads: kyai / yul gyi mchog gyur lan pa mthong smon mchog / / gsung rabs khyad 'phags rgyas pa 'bum gyi mchog / / yon gyi bdag po dpal ldan 'phel gyi mchog / / maN g+ha laM / There is also a single page colophon with nine lines describing the production to the text. The orthography is very poor and the silver ink is not very legible.</note>
+                     <incipit xml:lang="bo">rgya gar skad du /_sha ta sA ha sri ka pradz+&amp;A pa ra mi ta/_bod skad du/_shes rab kyi pha rol tu phyin pa stong phrag brgya pa/_glegs bam thog ma/_bam po dang po/_'di skad bdag gis thos pa'i dus gcig na/_bcom ldan 'das rgyal po'i khab kyi ri bya rgod 'phungs pa la/</incipit>
+                     <explicit xml:lang="bo">bcom ldan 'das de ni 'di ltar/_'du shes mi rtag pa nyid/_'du shes mi rtag pa nyid kyis stong ste/_'du shes mi rtag pa nyid kyi stong pa nyid gang lags pa de yang /_'du shes mi rtag pa nyid ma lags/_'dus shes mi rtag pa nyid las gud na yang stong pa nyid ma mchis te/_'du shes mi rtag nyid kyang stong pa nyid stong pa nyid kyang 'du shes mi rtag pa nyid do //_bcom ldan 'das rnam grangs des na/_byang chub sems dpa' sems dpa' chen po shes rab kyi pha rol tu phyin pa la spyod pa'i tshe/_'du shes mi rtag zhes bgyi bar gnas par mi bgyi'o//</explicit>
+                     <colophon xml:lang="bo">oM sva sti si d+d+haM/_'phrin las dpag med rab tan sa chen steng //_yon tan chu bo sting mtha' yas pa'i dbus//_... bla ma'i gdan sa sgo mo bsam gling nas//_skyes mchog chos .. dkar rgyud mchog//_'gren pa da ltar bzhugs kyi rin po che//_chos rje'i mchog gyur byang chub seng ge pa//_bsrang sngags rdo rje'i rigs 'dzin shags seng pa //_yabs sras mkhan slob zhabs la gus 'phyag 'tshal/ /_... yang rab bstan pa'i bdag po rgyal ba'i sras//_'dus pa rgya mtsho dge 'dun tshogs kyis skor//_yang dag gnas lugs rtogs pa'i rin po che/ /_blo gros dbang phyug bkra shis rgyal mtshan dpal //_chos rje rin po che la gus phyag 'tshal//_kya'i//_pho rong gnyis pa rgyal chen rtse mo nas//_gong mas dbang skur lung dang lags tags 'dzin//_mi dbang chen po lhar rgyal don grub pa / /_khu dbon yab sras sku tshe stan gyur cig//_bde skyid 'dzom pa smon la lhas sdings nas//_stan la gus zhing stong la rab tu rgyas//_shA kya'i tshul 'dzin shAkya las 'tsho ba//_byams dang snying rjes 'khor 'bangs bde la bkod//_spa ba'i sgra 'dul byams pa'i mi bde kyis// drung chen rgyal ba sku tshe stan gyur cig//_kye phun lha bzang jo bo ban can zhol//_mda' na chab chen dal gyis bab pa'i 'gram//_'bur du dod pa mthong smong bkra shis 'dir//_yab mes rigs bzangs gser g.yu rtsegs pa 'dra//_gdung rus khyad 'phags phe chen sgyer pa'i rgyud//_tshul khrims dad ldan dge shes nam rin pa //_... ding sand mkhas pa dpal mgon bdag gis bris//_khyus rig mu tig ltar la rgyus pa 'di//_'phan yul mkhas sdus rnams kyis bzab//_cha ga glegs shing gser rtsi rgyan pa 'di //_ding sang mkhas pa bsod nams mgon po s ..//_rin chen gser dngul 'od zer 'phro ba 'di//_grogs mched gnyis kyis legs pas bzabs//_zhus dag mkhas pas nor ba'i skyon rnams bsal//_... //</colophon>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                     <listBibl>
+                        <bibl type="derge">Derge: 0008</bibl>
+                        <bibl type="peking">Peking: 0730</bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>369 ff <dimensions unit="cm" type="leaf">
+                              <width>640</width>
+                              <height>210</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width>600</width>
+                              <height>130</height>
+                           </dimensions>
+                        </extent>
+                        <condition>brittle</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="8">
+                           <p>The paper is black in colour</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote script="print">dbu can</handNote>
+                     <handNote>The text is written in gold and silver ink</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>The title page / first folio is on a board much shorter (42.5 cm) than the text. It is perhaps sawn down to this size. There is also a drawing of jewel at bottom right corner. The recto of the second folio has a silk cover.</decoNote>
+                  </decoDesc>
+               </physDesc>
+               <history>
+                  <acquisition>S.C. 33628, 33722. 25 Sept. 1905, donation by the Government of India. (Donated with mss. a.12, a.13 &amp; a.15).</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term key="subject_n84020924">Tripiṭaka. Sūtrapiṭaka. Prajñāpāramitā</term>
+                  </item>
+                  <item>
+                     <term key="subject_sh85147112">Wisdom literature</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2023-10-30">Record created.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

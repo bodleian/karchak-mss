@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_204">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1037">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>MS. Driver. c. 72</title>
+            <title>MS. Tibet. b. 24.8 (R)</title>
             <respStmt xml:id="CEM">
-               <resp when="2020">Summary description</resp>
+               <resp when="2021">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="AM">
-               <resp when="2020">Markup and encoding</resp>
+               <resp when="2023">Markup and encoding</resp>
                <persName>Andrew Morrison</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -48,53 +49,63 @@
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
             </availability>
-            <idno type="msID">MS_Driver_c_72</idno>
+            <idno type="msID">MS_Tibet_b_24_8_R</idno>
             <idno type="collection">JESD</idno>
             <idno type="catalogue">Tibetan</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:lang="en" xml:id="MS_Driver_c_72">
+            <msDesc xml:lang="en" xml:id="MS_Tibet_b_24_8_R">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>John Stapleton Driver Collection</collection>
-                  <idno type="shelfmark">MS. Driver. c. 72</idno>
+                  <collection>Younghusband Expedition Collection</collection>
+                  <idno type="shelfmark">MS. Tibet. b. 24.8 (R)</idno>
+                  <idno type="crArk">ark:29072/x0h989r3519d</idno>
+                  <idno type="ieArk">ark:29072/x0h702q66806</idno>
                </msIdentifier>
+               <head>A manual for the ritual of gZa' deity from the rDor sems snying thig cycle of rDo rje Gling pa</head>
                <msContents>
                   <summary>NOTE: This record has yet to be fully checked.</summary>
-                  <msItem xml:id="MS_Driver_c_72-item1">
-                     <title key="work_577" xml:lang="bo">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པ་བཞུགས་སོ།</title>
-                     <title key="work_577" xml:lang="bo-Latn-x-EWTS">'Phags pa shes rab kyi pha rol tu phyin pa rdo rje gcod pa zhes bya ba theg pa chen po'i mdo</title>
+                  <msItem xml:id="MS_Tibet_b_24_8_R-item1">
+                     <title key="work_842" xml:lang="bo">རྡོ་རྗེ་སེམས་པའི་སྙིང་ཐིག་བཀའ་བསྲུངས་དུག་གི་སྤུ་གྲི་རྒྱུགས་སྡམ་ནམ་མཁའ་ཆོས་ཀྱིས་གློ་གྲོས་ཉམས་ལེན་ཡིན་༔</title>
+                     <title key="work_842" xml:lang="bo-Latn-x-EWTS">rdo rje sems pa'i snying thig bka' bsrungs dug gi spu gri rgyugs sdam nam mkha' chos kyis glo gros nyams len yin :</title>
+                     <author key="person_122">
+                        <persName xml:lang="bo">རྡོ་རྗེ་གླིང་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">rdo rje gling pa</persName>)</author>
+                     <note>A liturgy for the four stage ritual to invoke the gZa' deity. This ritual belongs to the rDo rje sems dpa' snying thig of gTer ston rDo rje Gling pa.</note>
+                     <incipit xml:lang="bo">bdag 'dra pad+ma 'byung gnas kyis : rdo rje sems dpa' snying thig gyis : bka' bsrungs gza'i gsad bsgrubs bshad : 'di la bsnyan bsgrubs las sbyor gsum : dang po snyan pa bya ba ni : tshes grang brgyad la dus bzang la : gza' gshos cig la brgyad kyis bskor :</incipit>
+                     <explicit xml:lang="bo">gtor ma dgra'i sha khrag du bas sam : tsa ka li dang gzugs snang thams cad gza'i dmag dang dpungs bsam la 'bul : mchod pa'i rim pa ni sha khrag 'bru chang chang 'phur phran spos dkar gsum sogs sa gsham mo : rgyal sras rdo rje gling pa 'i gter ma'o : shin tu zab/_kha thaM : snying dang 'dra ba ma rtogs su thos thos la mi gter : sbyin na sdig che ba : gsang rgya : zhus dag dge : brda thim gong tshig thim sar+ba mang+ga lam : bkra shis :</explicit>
                      <textLang mainLang="bo">Tibetan</textLang>
                   </msItem>
                </msContents>
                <physDesc>
-                  <objectDesc form="bp_pothi">
+                  <objectDesc form="roll">
                      <supportDesc material="chart">
                         <support>Paper</support>
-                        <extent>37-440 ff <dimensions unit="cm" type="leaf">
-                              <width>64</width>
-                              <height>17</height>
+                        <extent>6 ff <dimensions unit="cm" type="leaf">
+                              <width>325</width>
+                              <height>70</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width>300</width>
+                              <height>50</height>
                            </dimensions>
                         </extent>
-                        <condition><!-- Add description of condition, if applicable, otherwise delete the condition element. See https://git.io/msdescdoc#condition --></condition>
+                        <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><!-- Add description of layout, if applicable, otherwise delete the layoutDesc element. See https://git.io/msdescdoc#layoutdesc --></layout>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <typeDesc>
-                     <typeNote medium="xyl">Woodcut print</typeNote>
-                  </typeDesc>
-                  <additions><!-- Add description additions, if applicable, otherwise delete the additions element. See https://git.io/msdescdoc#additions --></additions>
+                  <handDesc>
+                     <handNote medium="black" script="cursive">dbu med (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <origin><!-- Add origin, if applicable, otherwise delete the origin element. See https://git.io/msdescdoc#origin --></origin>
-                  <provenance><!-- Add provenance, if applicable, otherwise delete the provenance element. See https://git.io/msdescdoc#provenance --></provenance>
-                  <acquisition when="2016">
-                     <persName role="fmo" key="person_286478621">John E. Stapleton Driver</persName> collection, donated by <persName role="dnr" key="person_n2017054713">Prof Felix Driver</persName> to the Bodleian Libraries in 2016</acquisition>
+                  <acquisition>S.C. 33641, 33735. 25 Sept. 1905, donation by the Government of India.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -111,19 +122,19 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_no2008014576">Tantra</term>
+                     <term key="subject_sh2005003005">Gter ma</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2020-05-22">Record created.</change>
+         <change when="2023-10-30">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

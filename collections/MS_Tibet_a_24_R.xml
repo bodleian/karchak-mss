@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_204">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1000">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>MS. Driver. c. 72</title>
+            <title>MS. Tibet. a. 24 (R)</title>
             <respStmt xml:id="CEM">
-               <resp when="2020">Summary description</resp>
+               <resp when="2021">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="AM">
-               <resp when="2020">Markup and encoding</resp>
+               <resp when="2023">Markup and encoding</resp>
                <persName>Andrew Morrison</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -48,53 +49,65 @@
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
             </availability>
-            <idno type="msID">MS_Driver_c_72</idno>
+            <idno type="msID">MS_Tibet_a_24_R</idno>
             <idno type="collection">JESD</idno>
             <idno type="catalogue">Tibetan</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:lang="en" xml:id="MS_Driver_c_72">
+            <msDesc xml:lang="en" xml:id="MS_Tibet_a_24_R">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>John Stapleton Driver Collection</collection>
-                  <idno type="shelfmark">MS. Driver. c. 72</idno>
+                  <collection>Younghusband Expedition Collection</collection>
+                  <idno type="shelfmark">MS. Tibet. a. 24 (R)</idno>
+                  <idno type="crArk">ark:29072/x08623hz52zr</idno>
+                  <idno type="ieArk">ark:29072/x08336h269n8</idno>
                </msIdentifier>
+               <head>The volume Ka of the rNying ma rgyud 'bum</head>
                <msContents>
                   <summary>NOTE: This record has yet to be fully checked.</summary>
-                  <msItem xml:id="MS_Driver_c_72-item1">
-                     <title key="work_577" xml:lang="bo">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པ་བཞུགས་སོ།</title>
-                     <title key="work_577" xml:lang="bo-Latn-x-EWTS">'Phags pa shes rab kyi pha rol tu phyin pa rdo rje gcod pa zhes bya ba theg pa chen po'i mdo</title>
+                  <msItem xml:id="MS_Tibet_a_24_R-item1">
+                     <title key="work_838" xml:lang="bo">རྒྱུད</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">rgyud</title>
+                     <note>This is the first volume of the rNying ma rGyud 'bum manuscript. The rest of the collection is in the British Library.</note>
+                     <incipit xml:lang="bo">rgya gar skad du /_sar+ba d+harma mahA san ti bo de tsi ta ku la ya rA dza/_bod skad du /_chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po //_bcom ldan 'das byang chub kyi sems kun byed rgyal po la phyag 'tshal lo//_'di skad bshad pa'i dus na/</incipit>
+                     <explicit xml:lang="bo">rgyud 'di 'dzin pa ni sangs rgyas nyid do//_thams cad sangs rgyas pa'i phyir 'khor ba ka dag go//_'di 'dzin pa ni kun tu bzang po'o//_thams cad rang byung ye shes yin pa'i phyir ro//_rin po che gser gling na rdo dang sa mi snang ba ltar 'khor ba da dag ste rang byung ye shes nyid do //_bram ze rgyas pa'i rgyud las rgyud yongs su gtad pa'i le'u ste bcu drug pa'o//_bram ze rgyas pa'i rgyud rdzogs so//_ye d+harmA .. mahA shra ma NaH//_sar+ba mang+ga laM//</explicit>
                      <textLang mainLang="bo">Tibetan</textLang>
                   </msItem>
                </msContents>
                <physDesc>
-                  <objectDesc form="bp_pothi">
+                  <objectDesc form="roll">
                      <supportDesc material="chart">
                         <support>Paper</support>
-                        <extent>37-440 ff <dimensions unit="cm" type="leaf">
-                              <width>64</width>
-                              <height>17</height>
+                        <extent>293 ff [296?] <dimensions unit="cm" type="leaf">
+                              <width>570</width>
+                              <height>125</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width>500</width>
+                              <height>80</height>
                            </dimensions>
                         </extent>
-                        <condition><!-- Add description of condition, if applicable, otherwise delete the condition element. See https://git.io/msdescdoc#condition --></condition>
+                        <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><!-- Add description of layout, if applicable, otherwise delete the layoutDesc element. See https://git.io/msdescdoc#layoutdesc --></layout>
+                        <layout writtenLines="7">
+                           <p/>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <typeDesc>
-                     <typeNote medium="xyl">Woodcut print</typeNote>
-                  </typeDesc>
-                  <additions><!-- Add description additions, if applicable, otherwise delete the additions element. See https://git.io/msdescdoc#additions --></additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                     <handNote>The verso of folio 1 and recto of folio 2 are in gold</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>There are miniature paintings of Rig 'dzin Tshe dbang Nor bu, Padmasambhava, Mandarava and Ye shes mTsho rgyal, Hung chen Ka ra, Samantabhadra and Amitabha</decoNote>
+                  </decoDesc>
                </physDesc>
                <history>
-                  <origin><!-- Add origin, if applicable, otherwise delete the origin element. See https://git.io/msdescdoc#origin --></origin>
-                  <provenance><!-- Add provenance, if applicable, otherwise delete the provenance element. See https://git.io/msdescdoc#provenance --></provenance>
-                  <acquisition when="2016">
-                     <persName role="fmo" key="person_286478621">John E. Stapleton Driver</persName> collection, donated by <persName role="dnr" key="person_n2017054713">Prof Felix Driver</persName> to the Bodleian Libraries in 2016</acquisition>
+                  <acquisition>S.C. 34697. 17 March 1909, purchased from Sotheby's (London), lot 288. </acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -111,19 +124,19 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_no2008014576">Tantra</term>
+                     <term key="subject_n82092755">Rñiṅ ma rgyud ʼbum</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2020-05-22">Record created.</change>
+         <change when="2023-10-30">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

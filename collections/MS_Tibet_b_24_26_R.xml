@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_204">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1031">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>MS. Driver. c. 72</title>
+            <title>MS. Tibet. b. 24.26 (R)</title>
             <respStmt xml:id="CEM">
-               <resp when="2020">Summary description</resp>
+               <resp when="2021">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="AM">
-               <resp when="2020">Markup and encoding</resp>
+               <resp when="2023">Markup and encoding</resp>
                <persName>Andrew Morrison</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -48,53 +49,68 @@
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
             </availability>
-            <idno type="msID">MS_Driver_c_72</idno>
+            <idno type="msID">MS_Tibet_b_24_26_R</idno>
             <idno type="collection">JESD</idno>
             <idno type="catalogue">Tibetan</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:lang="en" xml:id="MS_Driver_c_72">
+            <msDesc xml:lang="en" xml:id="MS_Tibet_b_24_26_R">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>John Stapleton Driver Collection</collection>
-                  <idno type="shelfmark">MS. Driver. c. 72</idno>
+                  <collection>Younghusband Expedition Collection</collection>
+                  <idno type="shelfmark">MS. Tibet. b. 24.26 (R)</idno>
+                  <idno type="crArk">ark:29072/x0fx719m84z1</idno>
+                  <idno type="ieArk">ark:29072/x0ft848r01nb</idno>
                </msIdentifier>
+               <head>The practice of Vajrapani in Garuda form</head>
                <msContents>
                   <summary>NOTE: This record has yet to be fully checked.</summary>
-                  <msItem xml:id="MS_Driver_c_72-item1">
-                     <title key="work_577" xml:lang="bo">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པ་བཞུགས་སོ།</title>
-                     <title key="work_577" xml:lang="bo-Latn-x-EWTS">'Phags pa shes rab kyi pha rol tu phyin pa rdo rje gcod pa zhes bya ba theg pa chen po'i mdo</title>
+                  <msItem xml:id="MS_Tibet_b_24_26_R-item1">
+                     <title key="work_792" xml:lang="bo">དཔལ་རྡོ་རྗེ་གཏུམ་པོ་ཁྱུང་ཤམ་ཅན་གྱི་ཆོ་ག་དྲེགས་པ་ལས་འཁོལ་ཞེས་བྱ་བ</title>
+                     <title key="work_792" xml:lang="bo-Latn-x-EWTS">dpal rdo rje gtum po khyung sham can gyi cho ga dregs pa las 'khol zhes bya ba</title>
+                     <title type="margin" xml:lang="bo">ཁྱུང་ཤམ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">khyung sham</title>
+                     <author key="person_89">
+                        <persName xml:lang="bo">པདྨ་དཀར་པོ</persName> (<persName xml:lang="bo-Latn-x-EWTS">pad+ma dkar po</persName>)</author>
+                     <incipit xml:lang="bo">gnam sngon bskal pa'i me bso bcing 'dra 'jigs su ngar ba kun tshogs pa//_lha chen spyi bor rtag tu rol bar sa gsum bgegs la cher ldang ba//_rgyal ba kun gyi gsang ba'i bdag po phyag na mthu stobs rdo rje dang /_rje btsun bla ma khyed la 'dud do bdag snying nus pas gang bar mdzod//</incipit>
+                     <explicit xml:lang="bo">skye mched dang /_ting 'dzin gyi/_nus pa mi shigs lhar byas la/_zhes pas ye shes sems dpa'/_yi ge lnga 'dus/_yi ge zhes pa ting nge 'dzin gyi sems dpa' bskyed pa bstan no//_go cha'i lha khyung gi byed pa ni bshad rgyud gser mig 'khyil par bshad do/_dpa' bo klu rnams 'dul don du//_phyi nang skye mched thams cad kyang /_khyung gi khro 'dus dbang chen 'dul/ /_zhes sogs kyis so//_sar+ba mang+ga laM//_1 zhus nan tan song / /</explicit>
                      <textLang mainLang="bo">Tibetan</textLang>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W10631</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
-                  <objectDesc form="bp_pothi">
+                  <objectDesc form="roll">
                      <supportDesc material="chart">
                         <support>Paper</support>
-                        <extent>37-440 ff <dimensions unit="cm" type="leaf">
-                              <width>64</width>
-                              <height>17</height>
+                        <extent>28 ff <dimensions unit="cm" type="leaf">
+                              <width>435</width>
+                              <height>65</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width>380</width>
+                              <height>40</height>
                            </dimensions>
                         </extent>
-                        <condition><!-- Add description of condition, if applicable, otherwise delete the condition element. See https://git.io/msdescdoc#condition --></condition>
+                        <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><!-- Add description of layout, if applicable, otherwise delete the layoutDesc element. See https://git.io/msdescdoc#layoutdesc --></layout>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <typeDesc>
-                     <typeNote medium="xyl">Woodcut print</typeNote>
-                  </typeDesc>
-                  <additions><!-- Add description additions, if applicable, otherwise delete the additions element. See https://git.io/msdescdoc#additions --></additions>
+                  <handDesc>
+                     <handNote medium="black" script="cursive">dbu med (black ink)</handNote>
+                     <handNote>red margin lines.</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <origin><!-- Add origin, if applicable, otherwise delete the origin element. See https://git.io/msdescdoc#origin --></origin>
-                  <provenance><!-- Add provenance, if applicable, otherwise delete the provenance element. See https://git.io/msdescdoc#provenance --></provenance>
-                  <acquisition when="2016">
-                     <persName role="fmo" key="person_286478621">John E. Stapleton Driver</persName> collection, donated by <persName role="dnr" key="person_n2017054713">Prof Felix Driver</persName> to the Bodleian Libraries in 2016</acquisition>
+                  <acquisition>S.C. 33641, 33735. 25 Sept. 1905, donation by the Government of India.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -111,19 +127,22 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_no2008014576">Tantra</term>
+                     <term key="subject_sh85114443">Rnying-ma-pa (Sect)</term>
+                  </item>
+                  <item>
+                     <term key="subject_n2017054713">Avalokiteśvara (Buddhist deity)</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2020-05-22">Record created.</change>
+         <change when="2023-10-30">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p/>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

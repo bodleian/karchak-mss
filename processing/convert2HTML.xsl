@@ -26,7 +26,14 @@
     <xsl:template match="msItem/title">
         <div class="tei-title">
             <span class="tei-label">
-                <xsl:copy-of select="bod:standardText('Title:')"/>
+                <xsl:choose>
+                    <xsl:when test="@type = 'margin'">
+                        <xsl:copy-of select="bod:standardText('Margin title:')"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:copy-of select="bod:standardText('Title:')"/>
+                    </xsl:otherwise>
+                </xsl:choose>
                 <xsl:text> </xsl:text>
             </span>
             <xsl:choose>

@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.20 (R)</idno>
                   <idno type="crArk">ark:29072/x0dr26xx857m</idno>
                   <idno type="ieArk">ark:29072/x0dn39x201xt</idno>
                </msIdentifier>
                <head>Liturgy for empowerment</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_20_R-item1">
                      <title key="work_795" xml:lang="bo">དབང་གི་མཚམས་སྦྱོར</title>
                      <title key="work_795" xml:lang="bo-Latn-x-EWTS">dbang gi mtshams sbyor</title>

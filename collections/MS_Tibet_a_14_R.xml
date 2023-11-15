@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. a. 14 (R)</idno>
                   <idno type="crArk">ark:29072/x07s75dd19qn</idno>
                   <idno type="ieArk">ark:29072/x07p88ch36ds</idno>
                </msIdentifier>
                <head>The first volume of the Hundred Thousand Verse on the Perfection of Wisdom</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_a_14_R-item1">
                      <title key="work_854" xml:lang="bo">ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་བརྒྱ་པ</title>
                      <title key="work_854" xml:lang="bo-Latn-x-EWTS">shes rab kyi pha rol tu phyin pa stong phrag brgya pa[śatasāhasrikāprajñāpāramitā]</title>

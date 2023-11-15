@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.22 (R)</idno>
                   <idno type="crArk">ark:29072/x0f4752h18g2</idno>
                   <idno type="ieArk">ark:29072/x0f1881m3556</idno>
                </msIdentifier>
                <head>The liturgy for exorcism through the practice of Gu ru Drag po</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_22_R-item1">
                      <title key="work_823" xml:lang="bo">མ་ཧཱ་གུ་རུ་དྲག་པོར་བསྒྲུབ་པའི་འཕང་བའི་ལས་མཐའ</title>
                      <title key="work_823" xml:lang="bo-Latn-x-EWTS">ma hA gu ru drag por bsgrub pa'i 'phang ba'i las mtha'</title>

@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 23.4 (R)</idno>
                   <idno type="crArk">ark:29072/x0b5644s1954</idno>
                   <idno type="ieArk">ark:29072/x0b2773w35vx</idno>
                </msIdentifier>
                <head>The sūtra of Golden Razor</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_23_4_R-item1">
                      <title key="work_857" xml:lang="bo">སྡིག་བཤགས་གསེར་གྱི་སྤུ་གྲི</title>
                      <title key="work_857" xml:lang="bo-Latn-x-EWTS">sdig bshags gser gyi spu gri</title>

@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.7 (R)</idno>
                   <idno type="crArk">ark:29072/x0h415p984p0</idno>
                   <idno type="ieArk">ark:29072/x0h128nf01c9</idno>
                </msIdentifier>
                <head>The Practice of Mind Training</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_7_R-item1">
                      <title key="work_814" xml:lang="bo">བློ་སྦྱོངས་ཀྱི་ཉམས་ལེན་བཞུགས་སོ</title>
                      <title key="work_814" xml:lang="bo-Latn-x-EWTS">blo sbyongs kyi nyams len bzhugs so</title>

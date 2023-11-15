@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.18 (R)</idno>
                   <idno type="crArk">ark:29072/x0db78tc520g</idno>
                   <idno type="ieArk">ark:29072/x0d791sg68ph</idno>
                </msIdentifier>
                <head>The liturgy for empowerment to invoke blessings from wrathful Padmasambhava</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_18_R-item1">
                      <title key="work_762" xml:lang="bo">གཏེར་གསར་དྲག་པོའི་བྱིན་རླབས་ཀྱི་མཚམས་སྦྱོར་ངག་གིས་དཔལ་བསྐྱེད</title>
                      <title key="work_762" xml:lang="bo-Latn-x-EWTS">gter gsar drag po'i byin rlabs kyi mtshams sbyor ngag gis dpal bskyed</title>

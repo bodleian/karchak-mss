@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 20.4 (R)</idno>
                   <idno type="crArk">ark:29072/x09019s319fm</idno>
                   <idno type="ieArk">ark:29072/x08w32r6364r</idno>
                </msIdentifier>
                <head>The story of a 'Brom ston rGyal ba'i 'Byung gnas as Prince dKon mchog 'bangs</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_20_4_R-item1">
                      <title key="work_764" xml:lang="bo">གྲོང་ཁྱེར་བདེ་ལྡན་དུ་དགེ་བའི་ཤེན་གཉེན་པ་བརྒྱལ་བུ་དཀོན་མཆོགས་འབངས་སུ་བསྐུའི་བསྐྱེ་བ་བཞེས་པའི་ལེའུ</title>
                      <title key="work_764" xml:lang="bo-Latn-x-EWTS">grong khyer bde ldan du dge ba'i shen gnyen pa brgyal bu dkon mchogs 'bangs su bsku'i bskye ba bzhes pa'i le'u</title>

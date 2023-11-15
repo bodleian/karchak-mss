@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 22 (R)</idno>
                   <idno type="crArk">ark:29072/x09c67wn52p6</idno>
                   <idno type="ieArk">ark:29072/x09880vr69ck</idno>
                </msIdentifier>
                <head>The sūtra of Golden Light</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_22_R-item1">
                      <title key="work_829" xml:lang="bo">འཕགས་པ་གསེར་འོད་དམ་པ་མདོ་སྡེའི་དབང་པོའི་རྒྱལ་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ</title>
                      <title key="work_829" xml:lang="bo-Latn-x-EWTS">'phags pa gser 'od dam pa mdo sde'i dbang po'i rgyal po zhes bya ba theg pa chen po'i mdo[āryasuvarṇaprabhāsottamasūtrendrarājanāmamahāyānasūtra]</title>

@@ -63,6 +63,7 @@
                   <idno type="shelfmark">MS. Driver. c. 134</idno>
                </msIdentifier>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Driver_c_134-item1">
                      <title key="work_502" xml:lang="bo">སྤྲུལ་སྐུ་ཀརྨ་གླིང་པའི་གཏེར་བྱོན་བཛྲ་གུ་རུའི་ཕན་ཡོན་དང་འབྲུ་འགྲེལ་བཞུགས་སོ།</title>
                      <title key="work_502" xml:lang="bo-Latn-x-EWTS">Sprul sku Karma gling pa'i gter byon badzra gu ru'i phan yon dang 'bru 'grel bzhugs so</title>

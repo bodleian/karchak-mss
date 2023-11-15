@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.1 (R)</idno>
                   <idno type="crArk">ark:29072/x0dj52w518m6</idno>
                   <idno type="ieArk">ark:29072/x0df65v8359b</idno>
                </msIdentifier>
                <head>The sādhana manual for Wrathful Padmasambhava</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_1_R-item1">
                      <title key="work_824" xml:lang="bo">མ་ཧཱ་གུ་རུ་དྲག་པོར་བསྒྲུབ་པའི་འཕྲིས་ཀྱི་ཁ་བསྐོངས</title>
                      <title key="work_824" xml:lang="bo-Latn-x-EWTS">ma hA gu ru drag por bsgrub pa'i 'phris kyi kha bskongs</title>

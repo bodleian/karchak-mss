@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. a. 11 (R)</idno>
                   <idno type="crArk">ark:29072/x0707958537c</idno>
                   <idno type="ieArk">ark:29072/x06w924c69x9</idno>
                </msIdentifier>
                <head>The biography of Mi la ras pa</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_a_11_R-item1">
                      <title key="work_787" xml:lang="bo">དཔལ་བཞད་པའི་རྡོ་རྗེའི་རྣམ་ཐར</title>
                      <title key="work_787" xml:lang="bo-Latn-x-EWTS">dpal bzhad pa'i rdo rje'i rnam thar</title>

@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.24 (R)</idno>
                   <idno type="crArk">ark:29072/x0fj236251q9</idno>
                   <idno type="ieArk">ark:29072/x0ff365568dk</idno>
                </msIdentifier>
                <head>The historical accounts of the Gu ru Drag po practice</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_24_R-item1">
                      <title key="work_826" xml:lang="bo">མ་ཧཱ་གུ་རུ་དྲག་པོར་སྒྲུབ་པའི་ལོ་བརྒྱུས་བསད་པའི་མན་ངག</title>
                      <title key="work_826" xml:lang="bo-Latn-x-EWTS">ma hA gu ru drag por sgrub pa'i lo brgyus bsad pa'i man ngag</title>

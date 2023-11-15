@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.5 (R)</idno>
                   <idno type="crArk">ark:29072/x0gq67jr51fh</idno>
                   <idno type="ieArk">ark:29072/x0gm80hv684w</idno>
                </msIdentifier>
                <head>The liturgy for praying to four cardinal kings</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_5_R-item1">
                      <title key="work_835" xml:lang="bo">ཡང་བཟློག་རྡོ་རྗེ་ཕ་ལམ་གྱི་རྒྱུན་ཁྱེར</title>
                      <title key="work_835" xml:lang="bo-Latn-x-EWTS">yang bzlog rdo rje pha lam gyi rgyun khyer</title>

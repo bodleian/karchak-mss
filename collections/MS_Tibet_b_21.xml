@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 21</idno>
                   <idno type="crArk">ark:29072/x09593tv862q</idno>
                   <idno type="ieArk">ark:29072/x09306t002rb</idno>
                </msIdentifier>
                <head>The Instruction on Mahāmūdra</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_21-item1">
                      <title key="work_804" xml:lang="bo">ཕྱག་རྒྱ་ཆེན་པོ་ལྷན ༡ སྐྱེས་སྦྱོར་གྱིས་འཁྲིད་ཡིག་གསལ་འདེབས</title>
                      <title key="work_804" xml:lang="bo-Latn-x-EWTS">phyag rgya chen po lhan 1 skyes sbyor gyis 'khrid yig gsal 'debs</title>

@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 27 (R)</idno>
                   <idno type="crArk">ark:29072/x0j3860717s0</idno>
                   <idno type="ieArk">ark:29072/x0j098zb34gx</idno>
                </msIdentifier>
                <head>A short liturgy for making Tshogs offering</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_27_R-item1">
                      <title key="work_827" xml:lang="bo">ཚོགས་མཆོད་བསྡུས་པ</title>
                      <title key="work_827" xml:lang="bo-Latn-x-EWTS">tshogs mchod bsdus pa</title>

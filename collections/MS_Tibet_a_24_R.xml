@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. a. 24 (R)</idno>
                   <idno type="crArk">ark:29072/x08623hz52zr</idno>
                   <idno type="ieArk">ark:29072/x08336h269n8</idno>
                </msIdentifier>
                <head>The volume Ka of the rNying ma rgyud 'bum</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_a_24_R-item1">
                      <title key="work_838" xml:lang="bo">རྒྱུད</title>
                      <title type="margin" xml:lang="bo-Latn-x-EWTS">rgyud</title>

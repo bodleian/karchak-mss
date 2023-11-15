@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 23.3 (R)</idno>
                   <idno type="crArk">ark:29072/x09z903052j9</idno>
                   <idno type="ieArk">ark:29072/x09w03236970</idno>
                </msIdentifier>
                <head>Benefits of The Diamond Sūtra</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_23_3_R-item1">
                      <title key="work_756" xml:lang="bo-Latn-x-EWTS">[āryavajracchedikānāmaprajñāpāramitāgunavodarasūtra]</title>
                      <incipit xml:lang="bo">/</incipit>

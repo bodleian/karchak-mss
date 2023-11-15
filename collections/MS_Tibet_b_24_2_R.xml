@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.2 (R)</idno>
                   <idno type="crArk">ark:29072/x0g445cd51kz</idno>
                   <idno type="ieArk">ark:29072/x0g158bh6887</idno>
                </msIdentifier>
                <head>The manual for the empowerment of Wrathful Padmasambhava</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_2_R-item1">
                      <title key="work_822" xml:lang="bo">མ་ཧཱ་གུ་རུ་དྲག་པོར་བསྒྲུབ་པའི་དབང་ཆོག</title>
                      <title key="work_822" xml:lang="bo-Latn-x-EWTS">ma hA gu ru drag por bsgrub pa'i dbang chog</title>

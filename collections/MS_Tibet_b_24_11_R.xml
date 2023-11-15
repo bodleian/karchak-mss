@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.11 (R)</idno>
                   <idno type="crArk">ark:29072/x0bz60cw85n3</idno>
                   <idno type="ieArk">ark:29072/x0bv73c102bn</idno>
                </msIdentifier>
                <head>A ritual chanting used for prolongating a Bla ma's life</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_11_R-item1">
                      <title key="work_890" xml:lang="bo">སུམ་བུ་པའི་སྦྲིས་པ ༼འགྲེལ་པ༽</title>
                      <title key="work_890" xml:lang="bo-Latn-x-EWTS">sum bu pa'i sbris pa ('grel pa)</title>

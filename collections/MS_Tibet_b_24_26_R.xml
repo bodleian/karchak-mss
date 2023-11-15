@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.26 (R)</idno>
                   <idno type="crArk">ark:29072/x0fx719m84z1</idno>
                   <idno type="ieArk">ark:29072/x0ft848r01nb</idno>
                </msIdentifier>
                <head>The practice of Vajrapani in Garuda form</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_26_R-item1">
                      <title key="work_792" xml:lang="bo">དཔལ་རྡོ་རྗེ་གཏུམ་པོ་ཁྱུང་ཤམ་ཅན་གྱི་ཆོ་ག་དྲེགས་པ་ལས་འཁོལ་ཞེས་བྱ་བ</title>
                      <title key="work_792" xml:lang="bo-Latn-x-EWTS">dpal rdo rje gtum po khyung sham can gyi cho ga dregs pa las 'khol zhes bya ba</title>

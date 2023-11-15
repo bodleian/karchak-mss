@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.6 (R)</idno>
                   <idno type="crArk">ark:29072/x0gx41mj182k</idno>
                   <idno type="ieArk">ark:29072/x0gt54kn34rc</idno>
                </msIdentifier>
                <head>The supplication to the lineage for the Gu ru drag po ritual</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_6_R-item1">
                      <title key="work_761" xml:lang="bo">གཏེར་གསར་གུ་རུ་དྲག་པོའི་བརྒྱུད་འདེབས</title>
                      <title key="work_761" xml:lang="bo-Latn-x-EWTS">gter gsar gu ru drag po'i brgyud 'debs</title>

@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.3 (R)</idno>
                   <idno type="crArk">ark:29072/x0gb19f6186x</idno>
                   <idno type="ieArk">ark:29072/x0g732d934wt</idno>
                </msIdentifier>
                <head>The supplication liturgy for visualization</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_3_R-item1">
                      <title key="work_802" xml:lang="bo">དམིགས་རིམས་སོལ་འདེབས</title>
                      <title key="work_802" xml:lang="bo-Latn-x-EWTS">dmigs rims sol 'debs</title>

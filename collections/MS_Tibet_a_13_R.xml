@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. a. 13 (R)</idno>
                   <idno type="crArk">ark:29072/x07m01bm533f</idno>
                   <idno type="ieArk">ark:29072/x07h149q69sc</idno>
                </msIdentifier>
                <head>The volume Nga of the Sher phyin from Shel dkar bKa' 'gyur</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_a_13_R-item1">
                      <title key="work_852" xml:lang="bo">ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ལྔ་ཤུ་པ</title>
                      <title key="work_852" xml:lang="bo-Latn-x-EWTS">shes rab kyi pha rol tu phyin pa stong phrag nyi lnga shu pa[pañcaviṃśatisāhasrikāprajñāpāramitā]</title>

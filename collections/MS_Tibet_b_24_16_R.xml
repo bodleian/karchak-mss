@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.16 (R)</idno>
                   <idno type="crArk">ark:29072/x0cz30pt18r9</idno>
                   <idno type="ieArk">ark:29072/x0cv43nx35ff</idno>
                </msIdentifier>
                <head>Ritual liturgy for the Khrag 'thung Padma Drag po practice</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_16_R-item1">
                      <title key="work_758" xml:lang="bo">ཁྲག་འཐུང་པདྨ་དྲག་པོའི་ལས་རིམ་དངོས་གྲུབ་ཆར་འབེབས་ཞེས་བྱ་བ</title>
                      <title key="work_758" xml:lang="bo-Latn-x-EWTS">khrag 'thung pad+ma drag po'i las rim dngos grub char 'bebs zhes bya ba</title>

@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.25 (R)</idno>
                   <idno type="crArk">ark:29072/x0fq977v18bm</idno>
                   <idno type="ieArk">ark:29072/x0fn106z3518</idno>
                </msIdentifier>
                <head>The manual for the recitation of mantras of Avalokiteśvara</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_25_R-item1">
                      <title key="work_769" xml:lang="bo">ཐུགས་རྗེ་ཆེན་པོ་འཇིག་རྟེན་དབང་ཕྱུག་གི་བསྙེན་ཡིག་འདོད་དགུའི་ཆར་འབེབས</title>
                      <title key="work_769" xml:lang="bo-Latn-x-EWTS">thugs rje chen po 'jig rten dbang phyug gi bsnyen yig 'dod dgu'i char 'bebs</title>

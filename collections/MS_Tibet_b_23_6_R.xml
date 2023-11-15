@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 23.6 (R)</idno>
                   <idno type="crArk">ark:29072/x0bk128b52dc</idno>
                   <idno type="ieArk">ark:29072/x0bg257f693n</idno>
                </msIdentifier>
                <head>The intermediate state of becoming</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_23_6_R-item1">
                      <title key="work_859" xml:lang="bo">སྲིད་པ་བར་དོའི་གསོལ་འདེབས</title>
                      <title key="work_859" xml:lang="bo-Latn-x-EWTS">srid pa bar do'i gsol 'debs</title>

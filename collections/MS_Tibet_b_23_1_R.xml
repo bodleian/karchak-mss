@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 23.1 (R)</idno>
                   <idno type="crArk">ark:29072/x09k41zf1998</idno>
                   <idno type="ieArk">ark:29072/x09g54xj360d</idno>
                </msIdentifier>
                <head>A catalogue for the publication of Thos grol chen mo</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_23_1_R-item1">
                      <title key="work_781" xml:lang="bo">དཀར་ཆབ་མཐོང་བ་དོན་ཡོད</title>
                      <title key="work_781" xml:lang="bo-Latn-x-EWTS">dkar chab mthong ba don yod</title>

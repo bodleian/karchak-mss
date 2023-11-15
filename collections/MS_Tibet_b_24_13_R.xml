@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.13 (R)</idno>
                   <idno type="crArk">ark:29072/x0cc08hg18wn</idno>
                   <idno type="ieArk">ark:29072/x0c821gk35kw</idno>
                </msIdentifier>
                <head>The quintessential practice manual for Vajrapani Drang song Loktri</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_13_R-item1">
                      <title key="work_767" xml:lang="bo">གསང་བདག་དྲང་སྲོང་ལོཀྟྲི་ཞི་ཁྲོའི་བསྙེན་ཡིག་གཅེས་གནད་མཐར་ཐུག་ཅེས་བྱ་བ</title>
                      <title key="work_767" xml:lang="bo-Latn-x-EWTS">gsang bdag drang srong lok+tri zhi khro'i bsnyen yig gces gnad mthar thug ces bya ba</title>

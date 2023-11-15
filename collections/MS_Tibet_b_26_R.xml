@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 26 (R)</idno>
                   <idno type="crArk">ark:29072/x0hx11xf515g</idno>
                   <idno type="ieArk">ark:29072/x0ht24wj67vd</idno>
                </msIdentifier>
                <head>The writings of Kun spangs Chos kyi Rin chen</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_26_R-item1">
                      <title key="work_757" xml:lang="bo">kun spangs chos kyi rin chen gyi rnam thar</title>
                      <title key="work_757" xml:lang="bo-Latn-x-EWTS">[kun spangs chos kyi rin chen gyi rnam thar]</title>

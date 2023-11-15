@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.17 (R)</idno>
                   <idno type="crArk">ark:29072/x0d504rk85c2</idno>
                   <idno type="ieArk">ark:29072/x0d217qq022c</idno>
                </msIdentifier>
                <head>Liturgy for the gtor ma offering to Dam chen</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_17_R-item1">
                      <title key="work_797" xml:lang="bo">དམ་ཅན་སྤྱིའི་གཏོར་མའི་ཆོ་ག་ཉུང་ངུར་བསྡུས་པ</title>
                      <title key="work_797" xml:lang="bo-Latn-x-EWTS">dam can spyi'i gtor ma'i cho ga nyung ngur bsdus pa</title>

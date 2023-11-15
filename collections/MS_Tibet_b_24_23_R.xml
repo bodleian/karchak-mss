@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.23 (R)</idno>
                   <idno type="crArk">ark:29072/x0fb4948853q</idno>
                   <idno type="ieArk">ark:29072/x0f7623d01ss</idno>
                </msIdentifier>
                <head>The wrathful offering of homa</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_23_R-item1">
                      <title key="work_840" xml:lang="bo">རྡོ་རྗེ་ཁྲོ་བོའི་སྦྱིན་སྲེག་ཅེས་བྱ་བ</title>
                      <title key="work_840" xml:lang="bo-Latn-x-EWTS">rdo rje khro bo'i sbyin sreg ces bya ba</title>

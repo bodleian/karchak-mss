@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. a. 12.1 (R)</idno>
                   <idno type="crArk">ark:29072/x076537219v3</idno>
                   <idno type="ieArk">ark:29072/x073666536j7</idno>
                </msIdentifier>
                <head>The Ka volume of the Sher phyin from Shel dkar bKa' 'gyur</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_a_12_1_R-item1">
                      <title key="work_893" xml:lang="bo">ཨ</title>
                      <title key="work_893" xml:lang="bo-Latn-x-EWTS">a[āryāṣṭasāhasrikāprajñapāramitā]</title>

@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.8 (R)</idno>
                   <idno type="crArk">ark:29072/x0h989r3519d</idno>
                   <idno type="ieArk">ark:29072/x0h702q66806</idno>
                </msIdentifier>
                <head>A manual for the ritual of gZa' deity from the rDor sems snying thig cycle of rDo rje Gling pa</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_8_R-item1">
                      <title key="work_842" xml:lang="bo">རྡོ་རྗེ་སེམས་པའི་སྙིང་ཐིག་བཀའ་བསྲུངས་དུག་གི་སྤུ་གྲི་རྒྱུགས་སྡམ་ནམ་མཁའ་ཆོས་ཀྱིས་གློ་གྲོས་ཉམས་ལེན་ཡིན་༔</title>
                      <title key="work_842" xml:lang="bo-Latn-x-EWTS">rdo rje sems pa'i snying thig bka' bsrungs dug gi spu gri rgyugs sdam nam mkha' chos kyis glo gros nyams len yin :</title>

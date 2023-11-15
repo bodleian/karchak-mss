@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.10 (R)</idno>
                   <idno type="crArk">ark:29072/x0br86b4191x</idno>
                   <idno type="ieArk">ark:29072/x0bn999735qq</idno>
                </msIdentifier>
                <head>A exegetical treatise on the tantric path and practice</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_10_R-item1">
                      <title key="work_841" xml:lang="bo">རྡོ་རྗེ་བདེ་སྐྱིད་ཆེན་མོ་བཞུགས་སོ</title>
                      <title key="work_841" xml:lang="bo-Latn-x-EWTS">rdo rje bde skyid chen mo bzhugs so</title>

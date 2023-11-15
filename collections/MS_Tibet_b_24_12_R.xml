@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.12 (R)</idno>
                   <idno type="crArk">ark:29072/x0c534fp5281</idno>
                   <idno type="ieArk">ark:29072/x0c247ds68zz</idno>
                </msIdentifier>
                <head>A brief liturgy for consecration</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_12_R-item1">
                      <title key="work_843" xml:lang="bo">རབ་གནས་བསྡུས་པ་ཅིག་འདི་ན་བཞུགས</title>
                      <title key="work_843" xml:lang="bo-Latn-x-EWTS">rab gnas bsdus pa cig 'di na bzhugs</title>

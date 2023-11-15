@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 20.3 (R)</idno>
                   <idno type="crArk">ark:29072/x08s45q952tj</idno>
                   <idno type="ieArk">ark:29072/x08p58pd69ht</idno>
                </msIdentifier>
                <head>A gter ma text on subjugation and bondage of enemies and malevolent spirits</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_20_3_R-item1">
                      <title key="work_805" xml:lang="bo">ཕས་སྒོལ་འཇོམས་བྱེད་རྩལ་ཆེན་གྱི་མན་ངག་གྲུ་གུ་ཡང་ཝཾ་གི་སྟེར་སྐོར་ཐོབ་ཚུལ་ཉི་ཟླའི་འོད་ཟེར</title>
                      <title key="work_805" xml:lang="bo-Latn-x-EWTS">phas sgol 'joms byed rtsal chen gyi man ngag gru gu yang waM gi ster skor thob tshul nyi zla'i 'od zer</title>

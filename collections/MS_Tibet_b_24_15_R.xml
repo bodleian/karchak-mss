@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 24.15 (R)</idno>
                   <idno type="crArk">ark:29072/x0cr56n1524t</idno>
                   <idno type="ieArk">ark:29072/x0cn69m468tr</idno>
                </msIdentifier>
                <head>Ritual for subjugation of evil rgyal po spirits through Gu ru Drag po practice</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_24_15_R-item1">
                      <title key="work_819" xml:lang="bo">མ་གུ་རུ་དྲག་པོར་བསྒྲུབ་པའི་རྒྱལ་འགོང་གནད་འབེབས</title>
                      <title key="work_819" xml:lang="bo-Latn-x-EWTS">ma gu ru drag por bsgrub pa'i rgyal 'gong gnad 'bebs</title>

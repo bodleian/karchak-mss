@@ -60,13 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">MS. Tibet. b. 20.1 (R)</idno>
                   <idno type="crArk">ark:29072/x08c97kr19k9</idno>
                   <idno type="ieArk">ark:29072/x08910jv368z</idno>
                </msIdentifier>
                <head>Exposition of stages of the Mahāyāna path (lam rim)</head>
                <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
                   <msItem xml:id="MS_Tibet_b_20_1_R-item1">
                      <title key="work_798" xml:lang="bo">དམ་ཆོས་ཡིད་བཞིན་གྱི་ནོར་བུ་ཐར་པ་རིན་པོ་ཆེའི་རྒྱན་ཞེས་བྱ་བ། ཐེག་པ་ཆེན་པོའི་ལམ་གྱི་རིམ་པ་བཤད་པ</title>
                      <title key="work_798" xml:lang="bo-Latn-x-EWTS">dam chos yid bzhin gyi nor bu thar pa rin po che'i rgyan zhes bya ba / theg pa chen po'i lam gyi rim pa bshad pa</title>

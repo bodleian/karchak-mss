@@ -2,11 +2,11 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1000">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>MS. Tibet. a. 10 (R)</title>
+            <title>MS. Tibet. a. 24 (R)</title>
             <respStmt xml:id="CEM">
                <resp when="2021">Summary description</resp>
                <persName>Charles Manson</persName>
@@ -49,68 +49,65 @@
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
             </availability>
-            <idno type="msID">MS_Tibet_a_10_R</idno>
+            <idno type="msID">MS_Tibet_a_24_R</idno>
             <idno type="collection">JESD</idno>
             <idno type="catalogue">Tibetan</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:lang="en" xml:id="MS_Tibet_a_10_R">
+            <msDesc xml:lang="en" xml:id="MS_Tibet_a_24_R">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
-                  <repository>Bodleian Library</repository>
+                  <repository>Weston Library</repository>
                   <collection>Younghusband Expedition Collection</collection>
-                  <idno type="shelfmark">MS. Tibet. a. 10 (R)</idno>
-                  <idno type="crArk">ark:29072/x0pk02c8929h</idno>
-                  <idno type="ieArk">ark:29072/x0pg15bd090z</idno>
+                  <idno type="shelfmark">MS. Tibet. a. 24 (R)</idno>
+                  <idno type="crArk">ark:29072/x08623hz52zr</idno>
+                  <idno type="ieArk">ark:29072/x08336h269n8</idno>
                </msIdentifier>
-               <head>The treatise on synonymy by Ngag dbang 'Jig grags</head>
+               <head>The volume Ka of the rNying ma rgyud 'bum</head>
                <msContents>
                   <summary>NOTE: This record has yet to be fully checked.</summary>
-                  <msItem xml:id="MS_Tibet_a_10_R-item1">
-                     <title key="work_26" xml:lang="bo">མངོན་བརྗོད་མཁས་པའི་རྣ་རྒྱན་ཞེས་བྱ་བ</title>
-                     <title key="work_26" xml:lang="bo-Latn-x-EWTS">mngon brjod mkhas pa'i rna rgyan zhes bya ba</title>
-                     <author key="person_35">
-                        <persName xml:lang="bo">ངག་དབང་འཇིག་རྟེན་དབང་ཕྱུག་གྲགས་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">ngag dbang 'jig rten dbang phyug grags pa</persName>)</author>
-                     <note>The name of this author is also spelt Ngag dbang 'Jigs med Grags pa.</note>
-                     <incipit xml:lang="bo">thabs dang shes rab phul byung las 'khrungs bla na med pa'i ye shes kyis//_thams cad mkhyen pa'i mngon shes yon tan rkang pa drug pa bde gshegs pa'i// snying po'i pad+ma kun gyis za ba'i bdud rtsi'i rang bzhin can dbang phyug/_rgyal po'i tog gyur bcom ldan shAkya seng ge'i zhabs dag spyi bos mchod//</incipit>
-                     <explicit xml:lang="bo">de ltar mngon brjod kyi bstan bcos mkhas pa'i rna rgyan zhes pa 'di nyid/ paN+Di ta 'chi ba med pa'i seng ge s mdzad pa'i a ma ra ko Sha/_de'i 'grel pa rab 'byor zla ba s mdzad pa/_slob dpon dpal 'dzin sde s mdzad pa'i sna tshogs gsal ba la sogs rgya gzhung dang / bod kyi gnas lnga rig pa'i paN+Di ta chen po sa skya pa kun dga' rgyal mtshan gyis mdzad pa'i tshig gter/ de'i 'grel pa blo brtan bzhi pa s mdzad pa la sogs mngon brjod rang gzhung gi bstan bcos rnams la legs pa'i cha kun btus shing /_gzhan yang bka' 'gyur dang bstan 'gyur nas bshad pa'i ming gi rnam grangs rang blos gang spobs kyi kha bskang ste/_lha sker rigs kyi snyan ngag mkhan chen po ngag dbang 'jig rten dbang phyug grags pa'i rdo rje s khyu mchog gi lor legs byas kyi sgo 'phar brgya che ba rin po che spungs pa 'i pho brang du bgyis pa'o//_'di yang bstan 'gro la phan pa'i phyir du'o//_mang+ga laM//_1 zhus//</explicit>
+                  <msItem xml:id="MS_Tibet_a_24_R-item1">
+                     <title key="work_838" xml:lang="bo">རྒྱུད</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">rgyud</title>
+                     <note>This is the first volume of the rNying ma rGyud 'bum manuscript. The rest of the collection is in the British Library.</note>
+                     <incipit xml:lang="bo">rgya gar skad du /_sar+ba d+harma mahA san ti bo de tsi ta ku la ya rA dza/_bod skad du /_chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po //_bcom ldan 'das byang chub kyi sems kun byed rgyal po la phyag 'tshal lo//_'di skad bshad pa'i dus na/</incipit>
+                     <explicit xml:lang="bo">rgyud 'di 'dzin pa ni sangs rgyas nyid do//_thams cad sangs rgyas pa'i phyir 'khor ba ka dag go//_'di 'dzin pa ni kun tu bzang po'o//_thams cad rang byung ye shes yin pa'i phyir ro//_rin po che gser gling na rdo dang sa mi snang ba ltar 'khor ba da dag ste rang byung ye shes nyid do //_bram ze rgyas pa'i rgyud las rgyud yongs su gtad pa'i le'u ste bcu drug pa'o//_bram ze rgyas pa'i rgyud rdzogs so//_ye d+harmA .. mahA shra ma NaH//_sar+ba mang+ga laM//</explicit>
                      <textLang mainLang="bo">Tibetan</textLang>
-                     <listBibl>
-                        <bibl type="tbrc">TBRC: W1597</bibl>
-                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
                      <supportDesc material="chart">
                         <support>Paper</support>
-                        <extent>95 ff <dimensions unit="cm" type="leaf">
+                        <extent>293 ff [296?] <dimensions unit="cm" type="leaf">
+                              <width>570</width>
+                              <height>125</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>500</width>
                               <height>80</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width>440</width>
-                              <height>50</height>
-                           </dimensions>
                         </extent>
-                        <foliation>The folios 87-91 are missing</foliation>
                         <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout writtenLines="6">
+                        <layout writtenLines="7">
                            <p/>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote medium="black red" script="cursive">dbu med (black/red ink)</handNote>
-                     <handNote>The main text is in 'bru tsha to which are added khyug annotations in red ink.</handNote>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                     <handNote>The verso of folio 1 and recto of folio 2 are in gold</handNote>
                   </handDesc>
+                  <decoDesc>
+                     <decoNote>There are miniature paintings of Rig 'dzin Tshe dbang Nor bu, Padmasambhava, Mandarava and Ye shes mTsho rgyal, Hung chen Ka ra, Samantabhadra and Amitabha</decoNote>
+                  </decoDesc>
                </physDesc>
                <history>
-                  <acquisition>S.C. 33624, 33718. 25 Sept. 1905, donation by the Government of India (listed as 'a book of synonyms').</acquisition>
+                  <acquisition>S.C. 34697. 17 March 1909, purchased from Sotheby's (London), lot 288. </acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -127,18 +124,14 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh2010012100">Tibetan language--Dictionaries</term>
+                     <term key="subject_n82092755">Rñiṅ ma rgyud ʼbum</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2023-10-30">New version of record created.</change>
-         <change when="2018-07-03"><persName>Andrew Morrison</persName> Various adjustments including adding LCSH terms, linking people and work titles to authority files, tagging people and places, removing empty tags, etc. Scripts used are in the <ref target="https://github.com/bodleian/karchak-mss/tree/master/processing/batch_conversion/">batch_conversion</ref> folder.</change>
-         <change when="2017-07-28"><persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/batch_conversion/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref></change>
-         <change>entry created by <persName>Charles Manson</persName>
-         </change>         
+         <change when="2023-10-30">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

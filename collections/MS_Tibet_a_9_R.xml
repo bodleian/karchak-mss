@@ -1,85 +1,601 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_25">
-   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>mkha' 'gro snyan brgyud</title>
-            <principal>
-               <persName>Gillian Evison</persName>
-            </principal>
+            <title>MS. Tibet. a. 9 (R)</title>
+            <respStmt xml:id="CEM">
+               <resp when="2021">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="AM">
+               <resp when="2023">Markup and encoding</resp>
+               <persName>Andrew Morrison</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
          </titleStmt>
-         <publicationStmt><!--First publisher-->
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
             <publisher>Bodleian Libraries</publisher>
-            
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
             <idno>UkOxU</idno>
             <availability status="restricted">
                <p>Special Collections Reading Room, Bodleian.</p>
             </availability>
             <idno type="msID">MS_Tibet_a_9_R</idno>
+            <idno type="collection">JESD</idno>
             <idno type="catalogue">Tibetan</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:id="MS_Tibet_a_9_R" xml:lang="en" rend="all">
+            <msDesc xml:lang="en" xml:id="MS_Tibet_a_9_R">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection>Oriental Manuscripts</collection>
-                  <idno>MS. Tibet. a. 9 (R)</idno>
+                  <collection>Younghusband Expedition Collection</collection>
+                  <idno type="shelfmark">MS. Tibet. a. 9 (R)</idno>
                   <idno type="crArk">ark:29072/x0v979v1916j</idno>
                   <idno type="ieArk">ark:29072/x0v692t507wr</idno>
                   <msName>Dakini Oral Lineage</msName>
                </msIdentifier>
-               <head>Dakini Oral Lineage</head>
+               <head>The collection of 48 titles of works on meditation practice from the mKha' 'gro snyan brgyud cylce belonging to the Cakraśambaratantra</head>
                <msContents>
-                  <msItem xml:id="MS_Tibet_a_9_R-item1" class="Meditation instructions">
-                     <note>Various authors</note>
-                     <title key="work_30" xml:lang="bo">མཁའ་འགྲོ་སྙན་བརྒྱུད</title>
-                     <title key="work_30" xml:lang="bo-Latn-x-EWTS">mkha' 'gro snyan brgyud</title>
-                     <title key="work_30" xml:lang="bo-Latn-x-LC" type="alt">mkhaʾ ʾgro sñan brgyud</title>
-                     
-                     
-                     
-                     
-                     
-                     <textLang mainLang="bo"/>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
+                  <msItem xml:id="MS_Tibet_a_9_R-item1">
+                     <title key="work_818" xml:lang="bo">མཁའ་འགྲོ་སྙན་བརྒྱུད་ཀྱི་དཔེ་ཐོ</title>
+                     <title key="work_818" xml:lang="bo-Latn-x-EWTS">mkha' 'gro snyan brgyud kyi dpe tho</title>
+                     <title type="margin" xml:lang="bo">ཨ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">a</title>
+                     <author key="person_89">
+                        <persName xml:lang="bo">པདྨ་དཀར་པོ</persName> (<persName xml:lang="bo-Latn-x-EWTS">pad+ma dkar po</persName>)</author>
+                     <note>This text is a list of ancient texts on the instructions pertaining to the mKha' 'gro snyan rgyud cycle of teachings in the bKa' brgyud pa tradition</note>
+                     <incipit xml:lang="bo">rje btsun sprul longs chos tshul ke tu'i tog//_mdo rgyud rtogs pa lha mi klu'i gtsos thag//_yid bzhin nor bu gsum gdams ngag bzhin du//_'dod don grub pa'i dgongs ldan ngal bsos dge//_der phan rin chen blun tshig na ku la'i//_khong par 'khyams pa'i bzhed don gegs gzigs nas//_byin rlabs phyag gi mgrin btsir ma god par//_skyugs 'di tho yig gzhong par bzed phyir btud//_'dir mkha' 'gro snyan rgyud yid bzhin nor bu rnam pa gsum par grags pa la/_brgyud pa yid bzhin gyi nor bu dang 'grel pa phyag qrgya chen po gang+ga ma bsam mi kyab kyi do ha brgyad/</incipit>
+                     <explicit xml:lang="bo">des rnam bshad mdzad pa/_bzhi ras chung pa s spyangs/ rnam bshad de'i gsung la ngam rdzong pa 'i zin bris /_bde chen gsung gi rin chen gyi bsnyen pa sgrub pa zhal gdams sbyor chos dang bcas pa/_ro snyoms gsum/_khams kyi rab dbye rdo rje mkha' 'gro'i rgyal 'grel las byung ba/_til+li'i gtad rgya/_mgon po gzhung kam pa las mdzad/_las tshogs ras chung pa s mdzad pa'o//_'di rnams yig rnying gces pa yin pas phyin chad 'di ltar du bris shig/_bkra shis//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item2">
+                     <title key="work_790" xml:lang="bo">དཔལ་འཁོར་ལོ་སྡོམ་པའི་གཏོར་ཆོག་ལག་མཆོད་ཕྱི་མཆོད་གསུམ་གྱི་གཞུང</title>
+                     <title key="work_790" xml:lang="bo-Latn-x-EWTS">dpal 'khor lo sdom pa'i gtor chog lag mchod phyi mchod gsum gyi gzhung</title>
+                     <title type="margin" xml:lang="bo">ཨཻ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">ai</title>
+                     <author key="person_114">
+                        <persName xml:lang="bo">པྲ་ཛཉཱ་རཀསི་ཏ</persName> (<persName xml:lang="bo-Latn-x-EWTS">pra dznyA raksi ta</persName>)</author>
+                     <incipit xml:lang="bo">dpal he ru ka la phyag 'tshal lo//_dngos po thams cad gcig gyur sdom//_bde mchog dpa' bor phyag btsal te//_gtor ma'i de nyid mdor bsdus nas//_lugs ni ji bzhin bshad par bya//_gtor ma brjod par bya ste/_dang po rnal 'byor chen por dmigs pa las blangs te/_dpal 'khor lo sdom pa'i rnal 'byor dang ldan pa'i sngags pas zas la sogs pa mdun du bzhag ste sbyang bar bya ba'o//_de la mdun du yi ge yaM las rlung gi dkyil 'khor ro/ /</incipit>
+                     <explicit xml:lang="bo">de nas snying ga dang lce dang mgo rnams su yi ge huM dang AH dang oM brjod pa sngon du 'gro bas byug cing /_des lag pa de na gnas pa'i lha'i 'khor lo yang bdag nyid la bzhug par bya'o//_de ltar gzhung gsum dpal pra dz+&amp;A rak+Shi ta s mdzad pa rdzogs so// paN+Di ta de nyid dang /_lo tsha ba mar pa chos kyi blo gros kyis bsgyur te gtan la phab pa'o//_shu b+haM/ /</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item3">
+                     <title key="work_820" xml:lang="bo">མཐུན་མོང??་ཡིད་བཞིན་ནོར་བུའི་བསྲེ་བ་སྐོར</title>
+                     <title key="work_820" xml:lang="bo-Latn-x-EWTS">mthun mong?? yid bzhin nor bu'i bsre ba skor</title>
+                     <title type="margin" xml:lang="bo">ཨོ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">o</title>
+                     <author key="person_111">
+                        <persName xml:lang="bo">ནཱ་རོ་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">nA ro pa</persName>)</author>
+                     <incipit xml:lang="bo">na mo gu ru/ mthun mongs yid bzhin nor bu'i skabs su bsre ba skor gsum ni/_smin lam dang sbyar te bsre ba dang /_grol lam bskyed rdzogs dang sbyar te bsre ba dang /_thob bya 'bras bu sku gsum dang sbyar te bsre ba dang /</incipit>
+                     <explicit xml:lang="bo">gzhung 'di min pa la bsre ba'i skor mtshan nyid pa med pas khyad par du gnad che'o// rje btsun chen po nA ro pa s gsungs so/ /_mang+ga laM//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item4">
+                     <title key="work_801" xml:lang="bo">དམ་ཚིག་ཡིད་བཞིན་ནོར་བུའི་བསྲེ་བཨོཨུ</title>
+                     <title key="work_801" xml:lang="bo-Latn-x-EWTS">dam tshig yid bzhin nor bu'i bsre ba</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">ou</title>
+                     <author key="person_111">
+                        <persName xml:lang="bo">ནཱ་རོ་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">nA ro pa</persName>)</author>
+                     <incipit xml:lang="bo">na mo rat+na gu ru/_dam tshig yid bzhin nor bu'i skabs su bsre ba gsum ni/_rgyu'i dam tshig rtsa rlung byangs sems gsum las bsrung ba dang /_lam dus kyi dam tshig bskyed rdzogs sgom zhing dran pa dang shes bzhin gyi bsrung ba yin /</incipit>
+                     <explicit xml:lang="bo">gsang sngags snying po mkha' 'gro rnams kyi gsang //_byin rlabs rgyud pa dpal ldan nA ro 'i lugs//_gzhi lam 'bras bur bcas pa'i bdud rtsi 'di//_ri khrod dgon par rnal 'byor rnams kyis 'thung //_\uF042//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item5">
+                     <title key="work_763" xml:lang="bo">གནས་ལུགས་ཡིད་བཞིན་ནོར་བུའི་བསྲེ་བ</title>
+                     <title key="work_763" xml:lang="bo-Latn-x-EWTS">gnas lugs yid bzhin nor bu'i bsre ba</title>
+                     <title type="margin" xml:lang="bo">ཨཾ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">aM</title>
+                     <author key="person_111">
+                        <persName xml:lang="bo">ནཱ་རོ་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">nA ro pa</persName>)</author>
+                     <incipit xml:lang="bo">dpal 'khor lo sdom pa la phyag 'tshal lo/_gsang sngags gnad kyi gdams pa mthun mongs ma yin pa rgyud sde rnams kyi snying po'i bcud bsdus pa yang snying bde mchog snyan brgyud kyi bsre ba'i gnad 'di dag ni//_dpal nA ro'i gdams pa ste//_gzhan dag la bsre ba'i gnad med pas dge sbyor la bogs mi thon pa dang /_sgom kyang yon tan 'phel du mi btub pa rnams bsre ba'i rten 'brel gyi gnad 'di ma shes pas lan gsung ngo//</incipit>
+                     <explicit xml:lang="bo">gti mug dug gsum gyi rtsa ba yin pas/_chos sku de gzugs sku gnyis kyi rgyu'am rtsa ba lta bu yin pas gti mug rdo rje gang du yang mi rtog par 'dug pas chos sku/_de dbyer med du shes na dbang po yang rab bo//_gal te de ltar ma yin na gti mug gnas gyur pas chos sku thob ces bya'o//_de nyid la'ang ye shes lnga ldan du tshang bas go sla'o//_bkra shis/</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item6">
+                     <title key="work_799" xml:lang="bo">དམ་ཆོས་ཡིད་བཞིན་ནོར་བུའི་མན་ངག</title>
+                     <title key="work_799" xml:lang="bo-Latn-x-EWTS">dam chos yid bzhin nor bu'i man ngag</title>
+                     <title type="margin" xml:lang="bo">ཨ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">a</title>
+                     <author key="person_111">
+                        <persName xml:lang="bo">ནཱ་རོ་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">nA ro pa</persName>)</author>
+                     <incipit xml:lang="bo">na mo gu ru de wa Da ki nI/_dbang bzhi ka mthun mongs du 'brel srung bya gtso bor bton pa dam tshig yid bzhin nor bu la gsum ste/_zab pa'i dam tshig dang /_rgya che ba'i dam tshig dang /_gnyis su med pa'i dam tshig go/_zab pa'i dam tshig la brgyad de bag yod dran pas bzung ba'i dam tshig dang /_sgom zhing ngo sprod pa'i dam tshig dang /_bsten par bya ba'i dam tshig dang /_gsang bar bya ba'i dam tshig dang /_ma bsag par bya ba'i dam tshig dang /</incipit>
+                     <explicit xml:lang="bo">de bzhin du rdo rje spun la khros pa la sogs pa'i rtsa ltung 'phog na tshogs 'khor la brten te dngos su bshags/_gzhan yang sbom po dang nyes byas la sogs pa'i ltung ba byung na/_yan lag tshang ba'i sgo nas bshags/_dam tshig yid bzhin nor bu'i gdams ngag rdzogs so//_bkra shis//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item7">
+                     <title key="work_817" xml:lang="bo">མཁའ་འགྲོ་སྙན་བརྒྱུད་ཀྱི་ཁྲིད་ལུགས་རྒྱས་པའི་ས་བཅད</title>
+                     <title key="work_817" xml:lang="bo-Latn-x-EWTS">mkha' 'gro snyan brgyud kyi khrid lugs rgyas pa'i sa bcad</title>
+                     <title type="margin" xml:lang="bo">ཀ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">ka</title>
+                     <incipit xml:lang="bo">rdo rje'i chags pa bde ba'i ku mut+ta'i//_sems dpa' snying rjer zla gzhon gyis 'phrog pas//_dang po'i dus nas snyags kyang bsam rdzogs pa//_bcu drug cha las 'byung ba der phyag 'tshal//_snyan rgyud rdo rje'i rnal 'byor ma zhes bya ba yid bzhin gyi nor bu rnam pa gsum/_mdo rgyud thams cad kyi snying po las snying por gyur pa dpal 'khor lo sdom pa'i rtsa bshad kyi gzhung chen po rnams kyi legs par sbyangs pa/</incipit>
+                     <explicit xml:lang="bo">gsum pa gtad rgyas de las dgos 'dod kyi bka' bab tshul la/_sngon byung bcu gsum rjes 'jug lung bstan/_ji lta bus gtad pa gsum mo//_de la 'di don byin gyis rlabs pa/_lung sbyin nas snod bcud rdo rje slob dpon mchog gi blo can du bsko ba/_mkha' 'gro chos skyong dpang du gtsugs te gtad/_phris sgrub pa'i chos skyong bsko ba dang bzhi'o//_dge'o//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item8">
+                     <title key="work_847" xml:lang="bo">ལུས་མེད་མཁའ་འགྲོ་མ་ཞེས་བྱ་བའི་སྒྲུབས་ཐབས</title>
+                     <title key="work_847" xml:lang="bo-Latn-x-EWTS">lus med mkha' 'gro ma zhes bya ba'i sgrubs thabs</title>
+                     <title type="margin" xml:lang="bo">ཙ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">tsa</title>
+                     <incipit xml:lang="bo">rgya gar skad du /_Da ki nya a piN+Da no sA d+ha ka na ma/_bod skad du/_lus med mkha' 'gro ma zhes bya ba'i sgrub thabs/_dpal rdo rje rnal 'byor ma la phyag 'tshal lo/_grub pa lus kyi sprul par bzhugs//_rab tu 'bar bas phyogs kun gsal//_sangs rgyas rnams ni bskul bar mdzad//_cir yang mi rtog gsal gyur cig//_rang bzhin dbyings las ma g.yos par//_rnam pa kun gyi mchog dang ldan//</incipit>
+                     <explicit xml:lang="bo">phyogs med ngo mtshar rmad byung gtso//_rang byung grol ba'i ye shes mchog//_sa gsum gnas pa'i 'gro ba rnams//_nam yang khyed dang 'bral ma gyur// lus med mkha' 'gro'i sgrub thabs rdzogs so//_oM ba dz+ra bai ro tsA ni ye huM huM phaT/_nye ba'i snying po'o//_e a e o aM aH/_a ka tsa Ta ta pa sha ya/_'phreng ba'i sngags so//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item9">
+                     <title key="work_855" xml:lang="bo">སྙན་བརྒྱུད་ལྷན་ཅིག་སྐྱེས་མའི་རྩ་བ</title>
+                     <title key="work_855" xml:lang="bo-Latn-x-EWTS">snyan brgyud lhan cig skyes ma'i rtsa ba</title>
+                     <title type="margin" xml:lang="bo">ཚ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">tsha</title>
+                     <incipit xml:lang="bo">rgya gar skad du /_ba dz+ra yo gi nI sA d+ha na na ma/_bod skad du/_rdo rje rnal 'byor ma'i sgrub thabs/_thugs rje chen po la phyag 'tshal lo//_dang po re zhig sems ca thams cad sdug bsngal gyi rgya mtsho las bsgral te/_rdzogs pa'i byang chub kyi bde ba la dgod par bya'o//_zhes pa tshad med pa'i rnal 'byor sngon du bya'o//</incipit>
+                     <explicit xml:lang="bo">zhes lan gsum brjod pa dang /_ljags byin byis rlabs bzhin pas gsol te mnyes par bsam bstod pa bya/_'dod pa'i don la gsol ba btab la/_yi ge brgya pa'i mthar ba dz+ra muH/_zhes gshegs gsol dang /_gtor ma'i cho ga mdor bsdus pa'o //_jo mo lhan cig skyes ma'i gtor ma'i chog ga rdzogs so//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item10">
+                     <title key="work_813" xml:lang="bo">བློན་པོ་རིགས་གསུམ་ལས་བྱེད། འབང་འཕྲིས་མཐུན་སྦྱོར</title>
+                     <title key="work_813" xml:lang="bo-Latn-x-EWTS">blon po rigs gsum las byed/_'bang 'phris mthun sbyor</title>
+                     <title type="margin" xml:lang="bo">ཛ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">dza</title>
+                     <author key="person_116">
+                        <persName xml:lang="bo">མར་པ་ཆོས་ཀྱི་བློ་གྲོས</persName> (<persName xml:lang="bo-Latn-x-EWTS">mar pa chos kyi blo gros</persName>)</author>
+                     <incipit xml:lang="bo">na mo gu ru/ mthun mongs yid bzhin nor bu/_blon po rigs gsum las byed kyi gdams pa la gsum las/_dang po bla ma la gsol ba gdabs pa ni/_rang yi dam du bskyed pa'i thugs ka'i sa bon las 'od 'phros pas bla ma rang bzhin gyi gnas nas spyan drangs te/_rang gi spyi bo'i gtsug du byon pa de'i thugs ka nas huM yod pa las 'od zer 'phros pas bka' brgyud kyi bla ma spyan drangs te/</incipit>
+                     <explicit xml:lang="bo">rangs sems spros pa thams cad bral ba dran med du gnas pa 'od gsal ba'o//_mdor na rmi lam sgu lus 'od gsal gsum lam du byed pa'o//_blon po rigs gsum las byed/_'bangs 'phris mthun sbyor gyi gdams pa mar pa s sbyar ba'o//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item11">
+                     <title key="work_783" xml:lang="bo">དཔལ་བདེ་མཆོག་སྙན་བརྒྱུད་ཀྱི་འཁྲུལ་འཁོར་གསལ་བའི་མེ་ལོང་དང་གཏུམ་མོའི་འཁྲུལ་འཁོར་བཅོ་བརྒྱད་རྣམས</title>
+                     <title key="work_783" xml:lang="bo-Latn-x-EWTS">dpal bde mchog snyan brgyud kyi 'khrul 'khor gsal ba'i me long dang gtum mo'i 'khrul 'khor bco brgyad rnams</title>
+                     <title type="margin" xml:lang="bo">ཉ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">nya</title>
+                     <author key="person_116">
+                        <persName xml:lang="bo">མར་པ་ཆོས་ཀྱི་བློ་གྲོས</persName> (<persName xml:lang="bo-Latn-x-EWTS">mar pa chos kyi blo gros</persName>)</author>
+                     <incipit xml:lang="bo">na mo gu ru de wa DA ki nI/_rtsa mdud 'grol dang gegs sel gnad kyi mchog//_lus kyi nad gdon ma lus sel bar byed//_sems kyi ye shes ngo bo 'phrod par byed// rdzu 'phrul yon tan ma lus ster bar byed//_bde chen thig le'i lus su 'gyur ba'i phyir//_rdo rje'i tshig rkang legs par gsung pa'i don// rtsa ba drug la yan lag so dgu yi//_snyan brgyud 'khrul 'khor gsal ba'i me long 'god//</incipit>
+                     <explicit xml:lang="bo">gzhon nu mdzes ldan lhun stug 'gyur//_nang rtags mkha' 'gro dam can 'du//_'khrul 'khor dngos grub glo bur du byed pa'i gnad//_gtum mo'i 'khrul 'khor bco brgyad pa zhes bya ba/_rje mar pa lo tsa s bdzad pa/_snyan brgyud yid bzhin nor bu'i gdams pa rdzogs so//_zab zab//_bkra shis//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item12">
+                     <title key="work_828" xml:lang="bo">ཟབ་མོའི་དོན་བརྒྱད</title>
+                     <title key="work_828" xml:lang="bo-Latn-x-EWTS">zab mo'i don brgyad</title>
+                     <title type="margin" xml:lang="bo">ཨཱི</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">I</title>
+                     <author key="person_110">
+                        <persName xml:lang="bo">ཏིལླི་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">til+li pa</persName>)</author>
+                     <note>This is collection of eight oral instructions for esoteric practice given by Tilopa at different occasions to Nus ldan Blo gros, Nag po dGe ba dPal, sGyu ma mkhan, Chang 'tshong ma, Glu mkhan dByangs skyong, gShan pa 'dzin na, Mu stegs ston pa Nag po Ma drang ye shes and Nus pa mKhan.</note>
+                     <incipit xml:lang="bo">bla ma rin po che la phyag 'tshal lo/_slob dpon chen po tai lo pa s/_rnal 'byor pa nus ldan blo gros la gdams pa/_rtsa rlung dbang du 'dus rtsa na/_bde la zhen pa med pa'i nyams/_snang ba thogs gdugs med pa byung //_rdzu 'phrul rnam pa rna tshogs bstan//_khams 'dus nyams kyi snang ba la//_lha yi dkyil 'khor zhen med mthong //_don dam gnyug ma'i gnas lugs rtogs//_de ltar rtogs pa'i rnal 'byor pas//_rlung bcing lha yi zhal yang mthong / /</incipit>
+                     <explicit xml:lang="bo">nus pa mkhan na re/_lam mchog bla ma'i byin rlabs kyis//_dug la sngags btab chos kyi sku/_nam mkha'i dkyil nas nor bu shar//_'gro drug 'khor ba'i rang bzhin la//_bdag gi rjes su bzung ba yin//_zhes gsungs nas de ltar byas pas//_kho'i lus rdo rje'i skur gyur nas da lta 'das grong mi mnga' bar dus khrod tsi ka li na bzhugs so//_a mi tsi ka li'i snyan rgyud do//_phyag rgya chen po brgyad ces bya ba rnal 'byor pa gsung bcad nyi ma'i sgra sgrogs zab don brgyad kyi gdams gdams pa rdzogs so//_mang+ga laM//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item13">
+                     <title key="work_846" xml:lang="bo">ལུས་མེད་མཁའ་འགྲོ་ཆོས་སྐོར་ལས་རྒྱ་གཞུང་རྡོ་རྗེའི་ཚིག་རྐང</title>
+                     <title key="work_846" xml:lang="bo-Latn-x-EWTS">lus med mkha' 'gro chos skor las rgya gzhung rdo rje'i tshig rkang</title>
+                     <title type="margin" xml:lang="bo">ཌ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">Da??</title>
+                     <author key="person_116">
+                        <persName xml:lang="bo">མར་པ་ཆོས་ཀྱི་བློ་གྲོས</persName> (<persName xml:lang="bo-Latn-x-EWTS">mar pa chos kyi blo gros</persName>)</author>
+                     <incipit xml:lang="bo">rgya gar skad du /_shrI ba dz+ra dA ki nI kA ya ni d+har ma nA ma/_bod skad du/_dpal rdo rje mkha' 'gro lus med pa'i chos zhes bya ba/_ye shes kyi mkha' 'gro ma la phyag 'tshal lo//_gang zhig 'jigs rung dur khrod chen por phaT phaT rngams pa'i sgra sgrogs shing //_mkha' 'gro za byed mun pa'i nang na zla shar lta bur rab tu 'bar//</incipit>
+                     <explicit xml:lang="bo">zab chos man ngag nA ro bdag la gnang //_lnga brgya'i tha mar gyur tshe sa steng du//_snod ldan rnams kyi pad+mo dam pa de//_kha ba can ljongs kyod kyis slob ma yi//_'dul bar 'gyur zhes bla ma'i gsung las thos//_'gro rnams bde mchog 'bras bu rgyal gyur cig //_dpal rdo rje mkha' 'gro ma lus med pa'i chos zhes bya ba \uF042/ dge'o//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item14">
+                     <title key="work_850" xml:lang="bo">ལུས་མེད་མཁའ་འགྲོའི་ཆོས་སྡེ་ལྔའི་འགྲེལ་པ་རྗེ་མར་པས་མཛད</title>
+                     <title key="work_850" xml:lang="bo-Latn-x-EWTS">lus med mkha' 'gro'i chos sde lnga'i 'grel pa rje mar pas mdzad pa</title>
+                     <title type="margin" xml:lang="bo">པཌྷ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">D+ha</title>
+                     <author key="person_116">
+                        <persName xml:lang="bo">མར་པ་ཆོས་ཀྱི་བློ་གྲོས</persName> (<persName xml:lang="bo-Latn-x-EWTS">mar pa chos kyi blo gros</persName>)</author>
+                     <incipit xml:lang="bo">dpal 'khor lo sdom pa la phyag 'tshal lo//_'dir brda' dang 'brel pa ngo sprod kyi gdams pa la skal ldan yid ches par bya ba'i phyir brgyud pa'i lo rgyus bstan pa dang /_gdams pa dngos bstan pa'o//_de'i gdams pa dngos la sgro 'dogs gcod byed gsum ste/_dang po lta ba gtan la dbab pa thabs kyi nyams su blangs pa'i gdams ngag rtogs pa'i don la sgro 'dogs gcod pa dang /_rdo rje'i tshig don bkrel ba'i sgo nas zab mo'i don rnam par phye ste snyan brgyud brda'i gdams ngag gi nyams myong rtogs pa'i sgro 'dogs gcod pa dang /</incipit>
+                     <explicit xml:lang="bo">de dag ni lam 'khrigs chags su skye ba la dgongs nas rje btsun til+li pa 'i gzhung gi don man ngag du bshad pa/ rje nA ro pa 'i gsung ji lta ba bzhin du mar pa chos kyi blo gros kyis sbyar ba'o//_bkra shis//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item15">
+                     <title key="work_793" xml:lang="bo">དཔལ་ལྷན་ཅིག་སྐྱེས་པའི་སྒྲུབས་ཐབས་བདག་བྱིན་རླབས</title>
+                     <title key="work_793" xml:lang="bo-Latn-x-EWTS">dpal lhan cig skyes pa'i sgrubs thabs bdag byin rlabs</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">[kha]??</title>
+                     <author key="person_116">
+                        <persName xml:lang="bo">མར་པ་ཆོས་ཀྱི་བློ་གྲོས</persName> (<persName xml:lang="bo-Latn-x-EWTS">mar pa chos kyi blo gros</persName>)</author>
+                     <incipit xml:lang="bo">rgya gar skad du /_shrI sa ha dza sam ba ra sa d+ha nA na/_bod skad du/_dpal lhan cig skyes pa'i bde ba'i mchog/_bdag byin rlams pa zhes bya ba/_he ru ka la phyag 'tshal lo//_rnal 'byor rnam gsum shes bya ste/_bying gyis rlabs dang rab btags dang /_rdzogs pa gzugs brnyan gsal med do//</incipit>
+                     <explicit xml:lang="bo">thabs bdag byin gyis rlabs pa zhes bya ba/_slob dpon chen po tai lo pa s mdzad pa/_ nA ro paN+Di ta'i spyan sngar mar pa chos kyi blo gros kyis bsgyur cing zhus te gtan la phab pa'o/ /</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item16">
+                     <title key="work_892" xml:lang="bo">སེམས་ཀྱི་སྐྱོན་སེལ་མི་ལྡོག་པར་བྱེད་པའི་གནད་ཀྱི་གཟེར་གསུམ</title>
+                     <title key="work_892" xml:lang="bo-Latn-x-EWTS">sems kyi skyon sel mi ldog par byed pa'i gnad kyi gzer gsum</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">[nga]??</title>
+                     <author key="person_116">
+                        <persName xml:lang="bo">མར་པ་ཆོས་ཀྱི་བློ་གྲོས</persName> (<persName xml:lang="bo-Latn-x-EWTS">mar pa chos kyi blo gros</persName>)</author>
+                     <incipit xml:lang="bo">dpal ldan bde chen rkang gnyis gtso//_yang dag gnyis med lam ston pa//_rgyal ba'i phris gtsug phud can/_bla ma mgon pa btud bya ste//_bsdu thabs mthar thug skyon sel bcas//_bla ma mkha' 'gro'i gsung bzhin bgod/ /</incipit>
+                     <explicit xml:lang="bo">rang bzhin shes pas sgrub bya'i rtsol ba bral//_ngo bo rtogs pas rnam grangs spros pa chod//_rang mtshan shes pas 'khrul pa'i sgrog las grol//_rang snang 'khu 'phrig dpung las rgyal bar shog//_sems kyi skyon sel mi ldog par byed pa gnad kyi gszer gsum zhes bya ba/_ong co'i ngor bkrol ba \uF042 /_shu b+haM//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item17">
+                     <title key="work_856" xml:lang="bo">སྙན་རྒྱུད་གཞུང་ཆུང</title>
+                     <title key="work_856" xml:lang="bo-Latn-x-EWTS">snyan rgyud gzhung chung</title>
+                     <title type="margin" xml:lang="bo">ཚ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">tsha</title>
+                     <author key="person_111">
+                        <persName xml:lang="bo">ནཱ་རོ་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">nA ro pa</persName>)</author>
+                     <incipit xml:lang="bo">rgya gar skad du /_shrI sam+ba ra u pa de sha mu kar+Na pa ri saM ru cin+ta ma Ni na ma/ bod skad du/_dpal 'khor lo sdom pa'i mang ngag zhal nas snyan du brgyud pa yid bzhin gyi nor bu zhes bya ba dpal rdo rje sems dpa' la phyag 'tshal lo//_sku gsum bdag nyid dgos byung bla ma dam pa'i zhabs pad ze 'bru dri med 'od zer la phyag 'tshal/</incipit>
+                     <explicit xml:lang="bo">rtsibs kyi rgya mdud dang bcas pa/_ nA ro paN+Di ta'i zhal snga nas lo ts+tsha ba mar pa chos kyi blo gros kyis/_pU la ha rir bsgyur ba'o//_shu b+haM//_rdo rje'i gzhung chung gting dpag dka' gyur pa//_gzhung don gdams pa gsal byed sgron me'i mchan//_rgyal song bskul nas rjes 'jug rnams kyi ngor //_rdo rje'i ming can bdag gi gsal bar bkod//_dge des mkha' mnyam 'gro ba ma lus pa//_mi shes blo yi rab rib phyir bsal te//_mkhyen pa gnyis ldan rkang gnyis gtso mchog tu//_gyur nas mdzad pa rgyun mi chad par shog//_dge'o//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item18">
+                     <title key="work_821" xml:lang="bo">མན་གྱི??་འཆི་ལྟས</title>
+                     <title key="work_821" xml:lang="bo-Latn-x-EWTS">man ngagi?? gyi 'chi ltas</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">[ta]??</title>
+                     <author key="person_116">
+                        <persName xml:lang="bo">མར་པ་ཆོས་ཀྱི་བློ་གྲོས</persName> (<persName xml:lang="bo-Latn-x-EWTS">mar pa chos kyi blo gros</persName>)</author>
+                     <incipit xml:lang="bo">bla ma dam pa rnams la phyag 'tshal lo//_'chi rtags kyi 'chi dus bzung ba la gsum ste/_phyi dang /_nang dang //_gdams ngag gis so//_de yang phyi'i 'chi ltas spyod lam la sogs pa dang /_nang gi 'chi ltas rlung log pa dang /</incipit>
+                     <explicit xml:lang="bo">snyan rgyud rnal 'byor pa 'pho ba'i dus shes pa gnad kyi lag khrid gdams pa'i smar khrid /_'chi ltas kyi be bum lags so//_bug ba'i skor lugs chos kyi ltar yin gsung ngo//_bkra shis//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item19">
+                     <title key="work_809" xml:lang="bo">བདུད་རྩི་རིལ་བུའི་དྷེ་ཤ</title>
+                     <title key="work_809" xml:lang="bo-Latn-x-EWTS">bdud rtsi ril bu'i d+he sha</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">[tha]??</title>
+                     <author key="person_116">
+                        <persName xml:lang="bo">མར་པ་ཆོས་ཀྱི་བློ་གྲོས</persName> (<persName xml:lang="bo-Latn-x-EWTS">mar pa chos kyi blo gros</persName>)</author>
+                     <incipit xml:lang="bo">ba dz+ra d+ha ra hi na ma/_du ma'i bdag nyid byin rlabs ldan//_cig car sgrubs pa smin pa gnyis//_mi khyi glang po rta dang ba//_byang sems dkar dmar che chung gnyis//_ngar rnabs dag gi klad pa la//_mkhas pas pad ma'i snod du byug//</incipit>
+                     <explicit xml:lang="bo">kha dog ni mtshal gyi dmar por bsgyur//_dri ni dza ti dang gla rtsi ka ko las bsgyur//_ro ni mngar gsum dag gis bsgyur//_tshad ni mon sran tsa na ka//_snod ni za ma tog gi nang //_'di la shin tu gces par bya'o// ces gsungs so//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item20">
+                     <title key="work_800" xml:lang="bo">དམ་ཚིག་ཡིད་བཞིན་གྱི་ནོར་བུ</title>
+                     <title key="work_800" xml:lang="bo-Latn-x-EWTS">dam tshig yid bzhin gyi nor bu</title>
+                     <title type="margin" xml:lang="bo">ད</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">da</title>
+                     <author key="person_116">
+                        <persName xml:lang="bo">མར་པ་ཆོས་ཀྱི་བློ་གྲོས</persName> (<persName xml:lang="bo-Latn-x-EWTS">mar pa chos kyi blo gros</persName>)</author>
+                     <incipit xml:lang="bo">dpal 'khor lo sdom pa la phyag 'tshal lo//_bde mchog rtsa ba'i rgyud nas gsungs pa'i /_mthun mong ma yin pa'i dam tshig rnam pa brgyad la don rnam pa lnga ste//_dam tshig nyams pa'i skyon dang /_bsrung ba'i phan yon dang / ltung ba rdzogs pa'i tshad dang //_dam tshig dbye ba dang /_dam tshig nyams na phyir bcos pa'i thabs so//</incipit>
+                     <explicit xml:lang="bo">'bras bu mchog dang mthun mongs thob par byed pa'i grogs bde mchog rtsa ba'i rgyud kyi le'u nyi shu rtsa drug nas gsungs pa/_ mar pa blo gros kyi nye bar mkho ba'i ched du gro bo lung gi dgon pa r bkod pa'o//_\uF042</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item21">
+                     <title key="work_845" xml:lang="bo">ལམ་བློ་ནས་གཅོད་པ་བར་དོའི་ངོ་སྤྲོད་ཀྱི་གདམས་ངག་ཟབ་མོ</title>
+                     <title key="work_845" xml:lang="bo-Latn-x-EWTS">lam blo nas gcod pa bar do'i ngo sprod kyi gdams ngag zab mo</title>
+                     <title type="margin" xml:lang="bo">ན</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">na</title>
+                     <author key="person_116">
+                        <persName xml:lang="bo">མར་པ་ཆོས་ཀྱི་བློ་གྲོས</persName> (<persName xml:lang="bo-Latn-x-EWTS">mar pa chos kyi blo gros</persName>)</author>
+                     <incipit xml:lang="bo">na mo gu ru de wa DA ki ni/_lam blo nas gcod pa bar do ngo sprod kyi gdams ngag la gsum ste/_lus ldan bzhi'i bar do dang /_nges shes rtags kyi bar do dang / ngo sprod 'bras bu'i bar do'o//_dang po gsum ste/</incipit>
+                     <explicit xml:lang="bo">yid kyi lus chags sdang gi sems sgyu ma lta bu dang bsre zhing ro mnyam/_blang byar 'dod pa'i dge ba sdig pa dang bsre zhing ro mnyam pa'o//_ngo sprod bar do'i gdams pa 'di tshig dang tha snyad ma brjed pa tsam gyis 'od gsal mngon du byed do//_ngo sprod bar do'i gdams pa rdzogs so//_mang+ga laM/</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item22">
+                     <title key="work_811" xml:lang="bo">བར་དོ་ལམ་ཁྱེར་འཁོར་འདས་རྒྱུན་གཅོད་ཀྱི་གདམས་ངག</title>
+                     <title key="work_811" xml:lang="bo-Latn-x-EWTS">bar do lam khyer 'khor 'das rgyun gcod kyi gdams ngag</title>
+                     <title type="margin" xml:lang="bo">པ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">pa</title>
+                     <author key="person_116">
+                        <persName xml:lang="bo">མར་པ་ཆོས་ཀྱི་བློ་གྲོས</persName> (<persName xml:lang="bo-Latn-x-EWTS">mar pa chos kyi blo gros</persName>)</author>
+                     <incipit xml:lang="bo">na mo rat+na gu ru/_bar do lam khyer 'khor ba rgyun gcod kyi gdams ngag/_de la rten 'brel lugs su 'byung ba 'khor ba rgyun gcod kyi bar do dang /_rten 'brel lugs las ldog pa myang 'das rgyun gcod gnyis so//</incipit>
+                     <explicit xml:lang="bo">chos sku la yul dang yul can tha dad du gzigs pa med pas/_rnam par mi rtog pa brjod du med pa'i ye shes mtha' bral yin pa'i phyir ro//_'khor 'das rgyun gcod kyi gdams ngag go//_shu b+haM//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item23">
+                     <title key="work_796" xml:lang="bo">དབང་མདུད་འགྲོལ་གྱི་གདམས་པ། སློབ་དཔོན་ཆེན་པོ་ཏེ་ལོ་པས་གསུངས་པའི་ཆོས་ཉིད་གཉུག་མའི་མགུར་གཉིས</title>
+                     <title key="work_796" xml:lang="bo-Latn-x-EWTS">dbang mdud 'grol gyi gdams pa/_slob dpon chen po te lo pas gsungs pa'i chos nyid gnyug ma'i mgur gnyis</title>
+                     <title type="margin" xml:lang="bo">ཨུ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">u</title>
+                     <author key="person_110">
+                        <persName xml:lang="bo">ཏིལླི་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">til+li pa</persName>)</author>
+                     <note>This text contains instruction given by Tilopa to Naropa, some of them put in very abstruse metaphors.</note>
+                     <incipit xml:lang="bo">kye ma bla ma e sangs rgyas//_e ma ngo mtshar can gyi dbang //_dang po bskur nas bar du sgoms//_tha ma dbang don rnam bzhir rtogs//_rtsa ba dbang bzhi'i gdams ngag la//_yan lag bzhi gsum bcu gnyis la//_dang po dbang gi bka' bzhi ni//_brgyud pa brgyud ldan bya ma 'phur//_byin rlabs chu bo rgyun ma chad//_lag len the tshom sgrog ma tshud//_dbang bka' dbang gi bka' ma gtor//_bar du ngo sprod lag len bzhi//_chos nyid rang byung dbang dang ni//_rkyen gyis dbang gis bskur tshul dang / nyams su blang ba'i thabs tshul dang //_nyams blang rtogs pa'i 'char tshul lo//</incipit>
+                     <explicit xml:lang="bo">'phyo na spre'u ded la gsod//_rgud na gzhon nu'i khyim du 'gro//_rdib na rgyal mtshan rtse la 'phyor//_zhen na du khrod nang du skyod//_'jigs na ma dang bsres la bzhag//_re na yi ge med pa brtag//_dogs na grag cha sgra la brjod//_'gyod na snga phyi me yis thong //_phag pa gtsang dog med par zo//_bu chung shes pa gar dgar thong //_bya rgod dur khrod sha la rol//_seng+ge ri dwags zil gyis mnan//_bung bas me tog nyams mi byed//_pad+ma chu yis gos pa min//_dus khrod chen po dog pa'i dbyings//_slob dpon chen po til+li pa s//_ nA ro pa la chos nyid gnyug ma'i mgur du gdams pa \uF042/_dbang mdud 'grol dang chos nyid gnyug ma'i mgur gyis dbang gong ma gsum po gsal gdab so/ /</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item24">
+                     <title key="work_834" xml:lang="bo">འོག་སྒོ་མཁའ་འགྲོའི་གསང་བ་བདེ་བ་ཆེན་པོའི་ལས་ཀྱི་འོད་རིག་བདེ་ཆེན་གྱི་གདམས་པ</title>
+                     <title key="work_834" xml:lang="bo-Latn-x-EWTS">'og sgo mkha' 'gro'i gsang ba bde ba chen po'i las kyi 'od rig bde chen gyi gdams pa</title>
+                     <title type="margin" xml:lang="bo">ཕ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">pha</title>
+                     <author key="person_118">
+                        <persName xml:lang="bo">ཞང་ལོ་ཚ་བ</persName> (<persName xml:lang="bo-Latn-x-EWTS">zhang lo tsha ba</persName>)</author>
+                     <incipit xml:lang="bo">shes rab ye shes kyi dbang dang 'brel ba/_mkha' 'gro'i gsang ba sgrogs pa bde ba chen po la/_chags lam las rgya la brten pa dang /_grol lam 'od rig la bsten pa gnyis te/_las rgya gsang sngags gsar rnying gnyis nas bshad kyang / nyams su len pa nyung ste/_gsang sngags pa phal cher bud med kyi 'dam du tshud pa'o//</incipit>
+                     <explicit xml:lang="bo">dbang phyug chen po mi la ras pa s mkha' 'gro'i gsang sgrogs pa bde ba chen po'oi yig cha mdzad pa 'di la/_las rgya dang 'od rig rigs gnyis las/_bla ma dang mkha' 'gro la gsol ba btab nas/ tshangs spyod 'dzin pa'i snod ldan 'ga' la phan phyir/_'od rigs bde chen gyi gdams pa 'di legs par phye zhing zur du bkol ba'o//_dpe 'di la shin tu dam par bya/_gsang bar bya/_sba bar bya/_ zhang lo tsha ba 'i zin bris las phyungs ba'o/ /</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item25">
+                     <title key="work_833" xml:lang="bo">འོག་སྒོ་བདེ་ཆེན་མཁའ་འགྲོའི་སྙིང་ཁྲག་བཞུགས་པ</title>
+                     <title key="work_833" xml:lang="bo-Latn-x-EWTS">'og sgo bde chen mkha' 'gro'i snying khrag bzhugs pa</title>
+                     <title type="margin" xml:lang="bo">བ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">ba</title>
+                     <author key="person_118">
+                        <persName xml:lang="bo">ཞང་ལོ་ཚ་བ</persName> (<persName xml:lang="bo-Latn-x-EWTS">zhang lo tsha ba</persName>)</author>
+                     <incipit xml:lang="bo">na mo gu ru de wa Da ki nI/_dri med rnam dag chos kyi sku//_bde stong dbyer med lhan cig skyes//_yid bzhin nor 'dra dgos 'dod 'byung //_bde chen bde ba'i 'byung gnas kyi//_bla ma yi dam mkha' 'gro la//_sgo gsum dangs bas phyag 'tshal lo//</incipit>
+                     <explicit xml:lang="bo">yang snying bde chen lam khyer ba'i//_snyan rgyud dri med bdud rtsi'i rgyud// nor 'khrul med par bkod pa yis//_pha mar gyur pa'i 'gro ba rnams// bde ba chen po'i don rtogs nas//_sku bzhi sangs rgyas thobs par shog/ /_snyan rgyud yid bzhin nor bu yi//_shes rab ye shes kyi dbang dang 'brel ba//_'og sgo bde ba chen po'i gdams ngag//_mkha' 'gro ma rnams kyi snying khrag lta bu rdzogs so//_rnal 'byor dbang phyug zhang lo tsh+tsa ba s/_rba ban d+he d+ha ra shrI la gdams pa'i tshig brgyud rnams rdzogs so//_\uF042/_dge legs 'phel//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item26">
+                     <title key="work_816" xml:lang="bo">མཁའ་འགྲོའི་མཚན་བརྟགས</title>
+                     <title key="work_816" xml:lang="bo-Latn-x-EWTS">mkha' 'gro'i mtshan brtags</title>
+                     <title type="margin" xml:lang="bo">བྷ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">b+ha</title>
+                     <incipit xml:lang="bo">bde ba'i khams gshegs bde chen mgon po la//_bde ba'i sems kyi bde legs btud byas te/ /_bde bas mtshon byed bde ba rigs kyi yum//_brtag pa'i mtshan nyid bde ster dbye bar bya/</incipit>
+                     <explicit xml:lang="bo">de dang 'grogs na duH kha skye zhing dam tshig nyams pa'o//_de yang 'du shes rags shing rtsod la dga'//_dad ldan sdig la mi 'dzem dang //_skad cig tsam yang 'grogs mi bya//_zhes so//_de rab gsum mchog tu blangs// 'bring gsum rjes su bzung //_tha ma gsum spangs bar bya//_bkra shis par gyur cig//_dge'o//_bkra shis par gyur cig//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item27">
+                     <title key="work_858" xml:lang="bo">སྦྱོར་ཐབས་བཞིའི་མན་ངག</title>
+                     <title key="work_858" xml:lang="bo-Latn-x-EWTS">sbyor thabs bzhi'i man ngag</title>
+                     <title type="margin" xml:lang="bo">ཡ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">ya</title>
+                     <incipit xml:lang="bo">gdong gcig ma bya ba rdo rje dang mi 'phrad par ting du nub pa dang gcig/_rtsa glang po can blugs ma'i rigs zhes pa dang /_dung can ma shin tu 'byed dka' ba dang /_bzhi pa pad+ma can 'jam pa 'dred nas nang du mi 'phrad pa'o/ /</incipit>
+                     <explicit xml:lang="bo">bzhi pa pad+ma can la rlabs lta bu'i sbyor ba bya ste/_shes rab ma la zur nas char sgroms su zhugs te bsrubs pas rtsa nang du 'phrad par 'gyur ro//_dang po'i dus su rlung gi ngad langs pas bde ba cher skyes te chun dang yur ba 'phrad pa bzhin du bde ba skye bar 'gyur ro//_sbyor thabs bzhi'i gdams ngag rje btsun pu la ha ri nas brgyud pa'o/ /_dge'o//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item28">
+                     <title key="work_766" xml:lang="bo">གསང་ཁྲིད་སྒྲུབ་པ</title>
+                     <title key="work_766" xml:lang="bo-Latn-x-EWTS">gsang khrid sgrub pa</title>
+                     <title type="margin" xml:lang="bo">ར</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">ra</title>
+                     <incipit xml:lang="bo">bla ma dam pa rnams la phyag 'tshal lo//_de la pho nya'i lam thabs shes rab 'dzoms pa gcig gis sgrub dgos ste/_de la skyon yon tan du bya na 'ching ba cig /_mi 'ching ba tsam dang gnyis/_grol ba dang gsum mo//_de la lha so so'i dag pa dang de bzhin nyid kyi dag pa dang /_rang rig gi dag pa dang gsum mo//</incipit>
+                     <explicit xml:lang="bo">ye shes mthong ba yin no//_sangs rgyas mthong ba yin no//_bde bar gshegs pa nyams su myong ba yin no//_sdig pa thams cad dang bral ba yin no//_sar+ba mang ga laM//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item29">
+                     <title key="work_784" xml:lang="bo">དཔལ་བདེ་མཆོག་སྙན་རྒྱུད་ཀྱི་འོག་སྒོ་ལས་ཟབ་མོ་གདམས་པའི་ཐོ་ཡིག</title>
+                     <title key="work_784" xml:lang="bo-Latn-x-EWTS">dpal bde mchog snyan rgyud kyi 'og sgo las zab mo gdams pa'i tho yig</title>
+                     <title type="margin" xml:lang="bo">ལ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">la</title>
+                     <author key="person_107">
+                        <persName xml:lang="bo-Latn-x-EWTS">rje btsun ras pa</persName>
+                     </author>
+                     <incipit xml:lang="bo">na mo dz+&amp;A na DA ki nI ye/_bud med chags pa che ba dang //_de bzhin skyes bu dar la babs//_lang tsho bde ba phun sum tshogs//_gsang ba thabs kyi snod mchog yin//_'dod chags bral dang ma ning dang //_ma smin pa dang dka' thub dang //_log par 'khyams shing mi 'jug pa//_gsang sngags thabs las 'das pa yin//</incipit>
+                     <explicit xml:lang="bo">bde chen 'dren pa'i lam gyi mchog//_dus gsum sangs rgyas thams cad kyi//_bgrod pa gcig pa zab mo'i don//_phye 'di dngos po'i bdud 'joms shog// rje btsun ras pa 'i tho yig rdzogs so//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item30">
+                     <title key="work_765" xml:lang="bo">གསང་ཁྲིད་ཀྱི་བསྙེན་པ་ལྷན་ཅིག་སྐྱེས་པའི་ཐེམ་སྐས</title>
+                     <title key="work_765" xml:lang="bo-Latn-x-EWTS">gsang khrid kyi bsnyen pa lhan cig skyes pa'i them skas</title>
+                     <title type="margin" xml:lang="bo">ཝ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">wa</title>
+                     <incipit xml:lang="bo">bla ma grub thob rnams la phyag 'tshal lo//_gnas gsum mkha' 'gro'i tshogs la phyag 'tshal lo//_byang chub sems las su bkol bas bde ba chen po'i lam du 'gro ba gsung gi gnad thugs kyi rin po che 'chang ba gsang khrid 'di la gnyis te/_bde ba rang rig gsal ba ste zhes pa/_bsnyen pa dang /_sgrub pa'o//</incipit>
+                     <explicit xml:lang="bo">spyir phyag rgya rab 'bring gsum du gsungs te rtsa rlung gis bye brag gis/_rab kyis thig le byung a tshor cing ldog shes pa/_'bring gi byung ba tshor ldog mi shes/_tha mas byung ba yang mi tshor bzlog kyang mi shes so//_dang po de dang rtsa 'phrad na lan gcig gi rtsol ba med par 'grub la/_phyis gzhan la spyod pa thams cad lam du slong bar 'gyur ro//_shu b+haM/ /</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item31">
+                     <title key="work_849" xml:lang="bo">ལུས་མེད་མཁའ་འགྲོའི་ཆོས་སྐོར་དགུ་བརྡར་བསྟན་པ</title>
+                     <title key="work_849" xml:lang="bo-Latn-x-EWTS">lus med mkha' 'gro'i chos skor dgu brdar bstan pa</title>
+                     <title type="margin" xml:lang="bo">ཤ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">sha</title>
+                     <incipit xml:lang="bo">dpal rdo rje mkha' 'gro mas/_blta sgom spyod pa gsum gyi brdar bstan pa/_pad+ma seng ge glang chen gsum spyod pa'i brdar bstan pa'o//_pad ma 'dam gyi skyon gyis ma gos ltar sems yid la 'khor ba'i dri mas ma gos pa'o/ /</incipit>
+                     <explicit xml:lang="bo">rang bzhin chos nyid dbyings nas nyid gnas pa/_snang ba dag par 'char ba/_sems 'od gsal du song ba/_sku gsum lhun gyis grub pa/_ngo bo spros pa dang bral ba/_skye med yin pas rtsal du med pa'o//_rdo rje tshig rkang yin no/ /_dpal rdo rje mkha' 'gro ma lus med mkha' 'gro'i chos skor dgu zhes bya ba brdar bstan pa dang bcas pa'o//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item32">
+                     <title key="work_815" xml:lang="bo">བསམ་མི་ཁྱབ་དོན་བཞི་པ</title>
+                     <title key="work_815" xml:lang="bo-Latn-x-EWTS">bsam mi khyab don bzhi pa</title>
+                     <title type="margin" xml:lang="bo">ཧ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">ha</title>
+                     <incipit xml:lang="bo">spro ba bskyed pa'i grogs mdzad pa'i//_grub thob rnams la phyag 'tshal lo/_bsam gyis mi khyab don bshad pa//_rnam pa bzhi ru shes par bya//_thabs dang spyod lam rang bzhin dang //_thams cad 'dus pa'i lung dang bzhi/ /</incipit>
+                     <explicit xml:lang="bo">bsam gyis mi khyab don bzhi pa//_ gling ka ras pa s dbu mdzad pa'i//_skal ldan rnams kyi zhu phul nas//_rnal 'byor bdag gi bstan pa in//_bka' lung rin po che dang 'dra//_mos dang gus pas gces par mdzod//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item33">
+                     <title key="work_760" xml:lang="bo">ག་གདར་གྱི་དོན་བསྡུ་བའི་མན་ངག</title>
+                     <title key="work_760" xml:lang="bo-Latn-x-EWTS">ga gdar gyi don bsdu ba'i man ngag</title>
+                     <title type="margin" xml:lang="bo">ཀྵ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">kSa</title>
+                     <incipit xml:lang="bo">na mo gu ru de wa DA ki nI/_ga dar gyi don bsdu ba ni/_theg pa chen po'i chos thams cad mdor bsdu na gnyis ste/_rgyu sa dang pha rol tu phyin pa'i theg pa dang /_'bras bu gsang sngags rdo rje theg pa'o//_dang po lam lnga sa bcu /</incipit>
+                     <explicit xml:lang="bo">snyan brgyud gting mtha' dpag par dka' ba'i rgya mtsho las//_zla 'dra bla ma'i gsung gi 'od zer 'phog pa las//_legs bshad bdud rtsi'i chu rgyun byung las 'gro ba yi//_'ching byed srid pa'i mngon zhen gdung ba zhi bar shog//_dpal bde mchog 'khor lo'i man ngag snyan brgyud yid bzhin nor bu zhes bya ba las ga gdar gyi don bsdu ba'i gdams ngag rdzogs so// bkra shis///</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item34">
+                     <title key="work_794" xml:lang="bo">དབང་གི་བྱ་བ་མདོར་བསྡུས</title>
+                     <title key="work_794" xml:lang="bo-Latn-x-EWTS">dbang gi bya ba mdor bsdus</title>
+                     <title type="margin" xml:lang="bo">ཨཱུ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">U</title>
+                     <author key="person_111">
+                        <persName xml:lang="bo">ནཱ་རོ་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">nA ro pa</persName>)</author>
+                     <incipit xml:lang="bo">rgya gar skad du /_Se ka ka Ta paN kShi pa ta/_bod skad du/_dbang gi bya ba mdor bsdus /_dpal rdo rje sems dpa' la phyag 'tshal lo//_gang gi drin gyi bde chen nyid//_skad cig nyid la 'char ba gang //_bla ma rin chen lta bu'i sku//_rdo rje can zhabs pad la 'dud//_dang po'i las can rnams dga' ba'i//_dkyil 'khor cho ga bzhad par bya//_gsol ba 'debs dang bsnyen pa dang //_sa dang sta gon thig dang mtshon/_dal sgrub dang mchod pa dang //_bdag nyid 'jug dang dbang bskur dang //_yon 'bul ba dang bcu gcig go//</incipit>
+                     <explicit xml:lang="bo">gang zhig rtag du 'dod gyur pa//_lha dang lha min mi rnams te//_'di dag zil gyis mnon par 'gyur//_rgyud 'di ru ni dbang bskur bas//_thams cad kyis ni sgrub pa po//_gang gi bla ma mnyes byed pa//_de yi don kun 'grub pa'i phyir//_bdag gi srog kyang 'bul rigs na//_dngos po gzhan dag lta ci smos//_dpal nA ro pa s mdzad pa rdzogs so//_ mar pa chos kyi blo gros kyis de nyid kyi spyan sngar zhus te bsgyur ba'o//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item35">
+                     <title key="work_848" xml:lang="bo">ལུས་མེད་མཁའ་འགྲོ་མའི་གདམས་པ་ཕྱི་མ་གཞུང་གསུམ་གྱི་འགྲེལ་པ</title>
+                     <title key="work_848" xml:lang="bo-Latn-x-EWTS">lus med mkha' 'gro ma'i gdams pa phyi ma gzhung gsum gyi 'grel pa</title>
+                     <title type="margin" xml:lang="bo">ཨོཾ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">oM</title>
+                     <incipit xml:lang="bo">dpal 'khor lo sdom pa la phyag 'tshal lo//_dpal rdo rje mkha' 'gro lus med pa'i chos kyi don bshad par bya ste//_de rtsa rlung dra mig 'khor lo bskor zhes 'byung bas de la dang po rtsa'i don rgyas par bshad na/_rtsa ni lus la gnas pa ste/</incipit>
+                     <explicit xml:lang="bo">'byung ba rlung shas che na shes pa 'phyo/_'gro snying 'dod/_ting nge 'dzin gtad mi zug/_de'i bcos thabs ni/_snying gar sa'i dal gru bzhi ser po dbus su btab pa'o//_rje ras chung pa 'i gsung ci zin pa bris so//_'di la bde chen gsung gi rin chen ma gtogs tshang ngo//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item36">
+                     <title key="work_782" xml:lang="bo">དཔལ་ནཱ་རོ་པའི་ཕྱི་ནང་གསང་གསུམ་གྱི་རོ་སྙོམས</title>
+                     <title key="work_782" xml:lang="bo-Latn-x-EWTS">dpal nA ro pa'i phyi nang gsang gsum gyi ro snyoms</title>
+                     <title type="margin" xml:lang="bo">མ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">ma</title>
+                     <incipit xml:lang="bo">bla ma dam pa rnams la phyag 'tshal lo//_bla ma nA ro pa chen po 'i gdams ngag ro snyoms rnams gsum las/_phyi 'byung ba ro snyoms dang /_nang shes pa ro snyoms dang /_gsang ba ting nge 'dzin gyi ro snyoms dang gsum/</incipit>
+                     <explicit xml:lang="bo">gsum pa ting nge 'dzin ro snyoms la stong pa shas che na las rgyu 'bras sgom/_dngos po dang mtshan mar 'dzin pa shas che na chos thams cad kyi gnas lugs phyag rgya chen bsgom/_bla ma rin po che'i zhal nas gsungs pa'i gdams ngag rdzogs so//_dge'o//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item37">
+                     <title key="work_844" xml:lang="bo">རོ་སྙོམས་ཕྱིའི་མེ་ལོང་ལས་བཤད་པའི་གེགས་སེལ</title>
+                     <title key="work_844" xml:lang="bo-Latn-x-EWTS">ro snyoms phyi'i me long las bshad pa'i gegs sel</title>
+                     <title type="margin" xml:lang="bo">ཎི</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">Ni</title>
+                     <incipit xml:lang="bo">khams kyi rab tu dbye ba yi//_ro snyoms phyi'i me long lta//_zhes pa'i khams kyi dbye ba ni bcu drug/_de dag gi mtshan nyid ni gang ba dang /_gzhom pa dang / bzung ba dang /_bskyed pa dang /_'bud pa rnams pa lnga ni mtshan nyid /</incipit>
+                     <explicit xml:lang="bo">ro drug dag ni bzlog bsten pas//_shin tu stobs ldan nad rnams kyi//_nyes pa ji ltar 'khrugs gyur kyang //_des ni zhi bar nges par 'gro//_rdo rje mkha' 'gro'i tshogs bcad phyed kyi rgya 'grel nas cung zad bsdus te bzhag pa'o //_bkra shis par gyur cig//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item38">
+                     <title key="work_807" xml:lang="bo">བདུད་དང་བགེགས་ཕྱིར་བཟློག་པའི་མན་ངག་གི་འགྲེལ་པ</title>
+                     <title key="work_807" xml:lang="bo-Latn-x-EWTS">bdud dang bgegs phyir bzlog pa'i man ngag gi 'grel pa</title>
+                     <title type="margin" xml:lang="bo">ཧུཾ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">huM</title>
+                     <incipit xml:lang="bo">'dir bla ma'i man ngag 'di yin te/_dang por sgrub pa pos 'khor ba 'di na bdag gi ma ma yin pa gzhan med pa ni/_mdo sde las gsungs pas/_bdag gi ma rnams ni shes rab kyi mig dang thabs kyi rkang pa dang bral la/</incipit>
+                     <explicit xml:lang="bo">de bas na sgrub pa pos bla ma dam pa kho na la bsten par bya'o//_de lta bu de bsten pa la de mi 'byung la/_gal te byung na yang myur du bzlog pa yin no gsung bas na rtag tu rang gi sems la lta/_de'i don du bla ma ni nor bu rin po che'i nor can gyis sgrubs pa'o//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item39">
+                     <title key="work_808" xml:lang="bo">བདུད་དང་བགེགས་ཕྱིར་བཟློག་པའི་མན་ངག་བླ་མའི་ཞལ་གྱི་བདུད་རྩི</title>
+                     <title key="work_808" xml:lang="bo-Latn-x-EWTS">bdud dang bgegs phyir bzlog pa'i man ngag bla ma'i zhal gyi bdud rtsi</title>
+                     <title type="margin" xml:lang="bo">མེ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">me</title>
+                     <incipit xml:lang="bo">nye pa ma lus skyobs byed bla ma dang //_dpal ldan he ru ka dang phag mor bcas/ mkha' 'gro'i tshogs la'ang gus par btud byas te//_bdud bzlog man ngag ces pa bri bar bya//_gang zhig shin tu khro dang 'dod chags che dang lhag par ni//_gnyid 'byung ba dang shes pa rgod dang de bzhin rab tu ngu bar 'dod//</incipit>
+                     <explicit xml:lang="bo">bdud dang bgegs phyir bzlog pa'i man ngag bla ma dam pa'i zhal gyi bdud rtsi dri ma med pa yi ger bkod pa rdzogs so//_bkra shis//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item40">
+                     <title key="work_810" xml:lang="bo">བྱ་སྤྱོད་ཚོགས་བསྒྱུར་གསང་སྔགས་ལམ་གྱི་གདམས་པ</title>
+                     <title key="work_810" xml:lang="bo-Latn-x-EWTS">bya spyod tshogs bsgyur gsang sngags lam gyi gdams pa</title>
+                     <title type="margin" xml:lang="bo">ཧྲི</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">hri</title>
+                     <incipit xml:lang="bo">na mo gu ru de wa DA ki nI/_bya spyod tshogs bsgyur gsang sngags lam gyi gdams pa la gsum ste/_lam nyams su blang ba dang /_gdams pa spyi'i gegs bsal ba dang / ga dar gyi don bsdu ba'o/</incipit>
+                     <explicit xml:lang="bo">da lta myong na /_sngar gyi las ngan mdzad pas dga' sgoms la/_de nyid kyi ngo bo blta/ phyis 'byung ba'i sdug bsngal gyis bshags sdom bya'o//_phris dus la bya ba ni bskyed rdzogs bstan/_drod thob pa'i dus su zhi rgyas dbang drag rim pas bya'o//_bya spyod tshogs bsgyur lam gyi gdams pa rdzogs so//_dge legs 'phel bar shog//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item41">
+                     <title key="work_768" xml:lang="bo">ཏིལླི་པའི་པྲ་ཁྲིད་ལུང་བསྟན་གཏད་རྒྱ</title>
+                     <title key="work_768" xml:lang="bo-Latn-x-EWTS">til+li pa'i pra khrid lung bstan gtad rgya</title>
+                     <title type="margin" xml:lang="bo">རཿ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">raH</title>
+                     <author key="person_89">
+                        <persName xml:lang="bo">པདྨ་དཀར་པོ</persName> (<persName xml:lang="bo-Latn-x-EWTS">pad+ma dkar po</persName>)</author>
+                     <incipit xml:lang="bo">rang rig lhan cig skyes kyi sku//_bde mchog 'khor lo bde ba'i mchog//_o rgyan mkha' 'gro sku gsum bdag//_dpa' bo chen pos bstan pa yi//_srog 'chang de yis phris las mdzod//_nga yi dgongs pa ji lta ba rdo rje 'dzin pa'i thugs yin te/</incipit>
+                     <explicit xml:lang="bo">des na snod dang mi ldan par//_'di ni gtad pa'i gnas min pas//_pra khrid tshul ldan shes par mdzod//_pra khrid lung bstan tai lo dus gsum mkhyen pa'i gsung yongs su rdzogs so//_de ltar gtad rgya go 'byed mchan du btab pa 'di yang bla tsang bla mas bskul ba'i ngor pad+ma dkar po s sbyar ba'o/ /</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item42">
+                     <title key="work_839" xml:lang="bo">རྗེ་མི་ལའི་གཏད་རྒྱ</title>
+                     <title key="work_839" xml:lang="bo-Latn-x-EWTS">rje mi la'i gtad rgya</title>
+                     <title type="margin" xml:lang="bo">ཨ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">a</title>
+                     <author key="person_117">
+                        <persName xml:lang="bo">མི་ལ་རས་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">mi la ras pa</persName>)</author>
+                     <incipit xml:lang="bo">e ma ho/_byin rlabs brgyud pa'i rtsal dang ldan//_nyams myong brgyud pa'i snod dang ldan//_mos gus rtogs pa mchog dang ldan//_bu cig ras chung rdo rje grags //_nga yi gdams ngag khyad 'phags 'di//_mkha' 'gro'i lung bstan byung ba dang //_dad gus snod dang ldan pa'i phyir//</incipit>
+                     <explicit xml:lang="bo">bla ma mkha' 'gro'i gsung bzhin du//_snyan nas grod phug dgon pa ru//_ rdo rje rgyal mtshan brtse ba bris//_phyogs dus bde legs ldan gyur cig//_ rje mi la ra s pas ras chung rdo rje grags pa la gtad pa rdzogs so//_dge'o mang+ga laM//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item43">
+                     <title key="work_788" xml:lang="bo">དཔལ་མགོན་པོའི་ལས་ཚོགས</title>
+                     <title key="work_788" xml:lang="bo-Latn-x-EWTS">dpal mgon po'i las tshogs</title>
+                     <title type="margin" xml:lang="bo">ཝཾ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">waM</title>
+                     <incipit xml:lang="bo">rgya gar skad du /_ma hA kA la na sa ka/_bod skad du/_nag po chen po'i sgrubs thabs/ dpal he ru ka la phyag 'tshal lo//_rgyal ba'i bstan pa rgyas mdzad pas //_drag cing gtum rngams 'khrugs pa yis//_gdug pa'i tshogs rnams brlag mdzad pa//_nag po 'jig byed la btud nas/</incipit>
+                     <explicit xml:lang="bo">bi spa to ya/ bi spa to ya/_ma ma yak+Sa kar ma ku ru huM phaT/_bsad sngags dam pa'o //_gu gul nag po dang sha chen dang /_yungs dkar gyi dzaM baM gi sngags dang bcas pas tsher ma dang sbyin bsreg bya'o//_sar+ba dza ga taM shu b+ham stu//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item44">
+                     <title key="work_785" xml:lang="bo">དཔལ་བདེ་མཆོག་སྙན་རྒྱུད་ཀྱི་སྨིན་ལམ་ཆེན་མོ་ཕྱི་རྡུལ་ཚོན་ལ་བརྟེན་པ་བུམ་པའི་དབང་བསྐུར་རིན་པོ་ཆེ་གསལ་བའི་སྒྲོན་མེ་ཞེས་བྱ་བ་ཞང་ལོ་ཙྪ་བའི་མཛད་པའི་དཀྱིལ་ཆོག</title>
+                     <title key="work_785" xml:lang="bo-Latn-x-EWTS">dpal bde mchog snyan rgyud kyi smin?? lam chen mo phyi rdul tshon la brten pa bum pa'i dbang bskur rin po che gsal ba'i sgron me zhes bya ba zhang lo ts+tsha ba'i mdzad pa'i dkyil chog</title>
+                     <title type="margin" xml:lang="bo">རི</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">ri</title>
+                     <author key="person_111">
+                        <persName xml:lang="bo">ནཱ་རོ་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">nA ro pa</persName>)</author>
+                     <incipit xml:lang="bo">na mo gu ru de wa Da ki ni/_sa ma ya nya sma ra sid d+ham tu mo/_thams cad mkhyen gnyis nor bu rin chen gtsug gi rgyan//_dpal ldan dpal gyis 'byung gnas byang chub lam gyi sgron//_rnam grol chos kyi spyan ldan bla ma la btud nas //_gsung gi bdud rtsi mkha' 'gro'i gsang tshig spro bar bya//_jo bo chen po til+li pa dka' ba chen pos rtsal bas rnyed nas dka' ba bcu gnyis spyad/_de nas dbang gis thong dbye ba las/_rnal 'byor gyi dbang phyug til+li pa des/_dus khrod cig nas lus spangs la be phur btab pa bzhin 'gyur med du bzhugs/</incipit>
+                     <explicit xml:lang="bo">dus gsum rgyal ba'i dgongs pa mkha' 'gro'i gsang tshig/_rdo rje theg pa'i snying po yid bzhin nor//_snod bcud mtshan ldan brda' yis de nyid mtshon// skal ldan rdo rje theg la sbyor thabs mchog//_tshul lugs bzang po bdag gi spro ba yis//_'gro rnams dbang gi don mthong de grol nas//_nyi shu rtsa bzhi'i yul gyi bdag por shog//_phyi rdul tshon la brten nas bum pa'i dbang bskur rin po che gsal ba'i sgron me zhes bya ba/_dpal ldan nA ro pa 'i phyag bzhes la sgro bkur gyi mtha' spangs ste//_ chu khyir gro ba lung du mar pa bu ti s mdzad pa'i phyag bzhes rdo rje theg pa'i dbang bskur mchog thob shog//_oM hriH ha ha huM huM phaT ://</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item45">
+                     <title key="work_786" xml:lang="bo">དཔལ་བདེ་མཆོག་སྙན་རྒྱུད་ཀྱི་སྨིན་ལམ་ལས་དབང་གོང་མ་གསུམ་གྱི་ཆོ་ག་རྒྱས་པར་བཞུགས</title>
+                     <title key="work_786" xml:lang="bo-Latn-x-EWTS">dpal bde mchog snyan rgyud kyi smin?? lam las dbang gong ma gsum gyi cho ga rgyas par bzhugs</title>
+                     <title type="margin" xml:lang="bo">རཱི</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">rI</title>
+                     <author key="person_111">
+                        <persName xml:lang="bo">ནཱ་རོ་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">nA ro pa</persName>)</author>
+                     <incipit xml:lang="bo">na mo gu ru/ dbang gong ma dngos bka' dang /_grol bka'o//_de la gnyis las/_spro ba dri ba dang /_dbang bskur ba'i//_spro ba dri ba ni/_kye ma bla ma/ kye ma sangs rgyas/_kye ma ngo mtshar rmad kyi chos/_zab pa chos 'byung dkyil 'khor du//_rang byung ye shes lta 'dod dam//_zhes brjod do//_slob mas kyang 'tshal zhes brjod//_lho nub tu ro snol ba'i steng du sdad par bsam mo//_gnyis pa dbang la gsum ste/_gsang ba'i dbang dang shes rab ye shes kyi dbang dang /_tshig dbang rin po che'i dbang ngo//</incipit>
+                     <explicit xml:lang="bo">nyams rtags kyi 'char tshul ni//_gsang dbang gis/_'od gsal stong pa'i nyams rtags 'char/_shes rab ye shes kyi zag pa med pa'i bde ba'i nyams rtags 'char /_bzhi pa zung 'jug spros bral gyi nyams rtags 'char ro//_lnga pa mchod cing nye bar bsdu ba la gnyis te/_gtor ma mchod pa 'bul tshul dang /_bkra shis yi ge'i 'don tshul lo//_dang po la gsum las/_bla ma yi dam mchod pas mchod//_mkha' 'gro chos skyong gtor mas mchod//_rdo rje spun grogs tshogs kyis mchod//_gnyis pa bkra shis yi ge'i 'don tshul gong bzhin no//_rje btsun mar pa lo tsa ba 'i phyag bzhes zhang lo tsa ba s zin bris mdzad pa'o//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item46">
+                     <title key="work_791" xml:lang="bo">དཔལ་འཁོར་ལོ་སྡོམ་པའི་སྒྲུབས་ཐབས་ཡིད་བཞིན་ནོར་བུ</title>
+                     <title key="work_791" xml:lang="bo-Latn-x-EWTS">dpal 'khor lo sdom pa'i sgrubs thabs yid bzhin nor bu</title>
+                     <title type="margin" xml:lang="bo">ལི</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">li</title>
+                     <author key="person_111">
+                        <persName xml:lang="bo">ནཱ་རོ་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">nA ro pa ; translated by Mar pa</persName>)</author>
+                     <incipit xml:lang="bo">rgya gar skad du /_shrI gu hya rat+na tsin+ta ma Ni ma/_bod skad du/_dpal gsang ba rin po che yid bzhin nor bu zhes bya ba/_dpal 'khor lo sdom pa la phyag 'tshal lo//_mkha' mnyam sprin phung 'ja' tshon 'brug sgra sgrogs mtshungs dang //_nyi zla rin chen dra ba char rgyur glog 'gyu ba// rgya mtsho las ni yid bzhin nor bu 'o ma'i mtsho//_'khor los bsrubs dang bsrubs pa'i sbyor bas gnas 'dir rgyal//</incipit>
+                     <explicit xml:lang="bo">dpal 'khor lo bde mchog gsang ba rin po che yid bzhin gyi nor bu/_dpal o rgyan gan+d+ho la'i gtsug lag khang nas dri med ye shes mkha' 'gro mas rje btsun tai lo pa la gdams pa/_dpal bde mchog 'khor lo'i sgrubs thabs snyan nas snyan du brgyud pa'i snying po dpal nA ro pa s mdzad pa rdzogs so/ /</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item47">
+                     <title key="work_789" xml:lang="bo">དཔལ་འཁོར་ལོ་བདེ་མཆོག་གི་སྒྲུབ་ཐབས་པཎྜི་ཏ་ནཱ་རོ་པས་མཛད་པ</title>
+                     <title key="work_789" xml:lang="bo-Latn-x-EWTS">dpal 'khor lo bde mchog gi sgrub thabs paN+Di ta nA ro pas mdzad pa</title>
+                     <title type="margin" xml:lang="bo">ལཱི</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">lI</title>
+                     <author key="person_121">
+                        <persName xml:lang="bo">འཇིགས་མེད་གྲགས་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">'jigs med grags pa</persName>)</author>
+                     <incipit xml:lang="bo">rgya gar skad du /_b+ha ga wAn shrI tsa kra sam+ba ra sU d+ha na/_bod skad du/_bcom ldan 'das dpal 'khor lo sdom pa'i sgrubs thabs zhes bya ba//_dpal he ru ka la phyag 'tshal lo//_dang por phyag rgya chen po la 'dun pa'i rnal 'byor pas//_bla ma'i rnal 'byor byas nas//_rnal 'byor gyi dbang phyug sgrub par bya ste//_de la gnas 'di dur khrod du mos la/_gdan ro'i steng du skra shig/_gcer bu kha lhor bltas te/_bdud rtsi ril bu khar bcug la/_sems can thams cad la phan pa dang bde ba'i don du /</incipit>
+                     <explicit xml:lang="bo">zhal nas snyan du brgyud pa'i gdams pa/_yab dang 'brel ba'i dkyil 'khor rgyas par sgom pa'i lam thun mong ma yin pa mkha' 'gro'i gsung bzhin bla ma'i bka' lung ma nyams par kha che'i paN+Di ta mkhas pa chen po 'jigs med grags pa s mdzad pa yid bzhin nor bu zhes bya ba dkyil 'khor rgyas pa'i sgrubs thabs rdzogs so/_rgya gar gyi paN+Di ta mkhas pa nA ro pa nyid kyi zhal mnga' nas/_bod kyi lo ts+tsha ba mar pa chos kyi blo gros kyis puS+pa ha ri'i dgon pa r bsgyur cing zhus te gtan la phab pa'o//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Tibet_a_9_R-item48">
+                     <title key="work_836" xml:lang="bo">ཡིད་བཞིན་ནོར་བུའི་མངོན་རྟོགས</title>
+                     <title key="work_836" xml:lang="bo-Latn-x-EWTS">yid bzhin nor bu'i mngon rtogs</title>
+                     <title type="margin" xml:lang="bo">ཨེ</title>
+                     <title type="margin" xml:lang="bo-Latn-x-EWTS">e</title>
+                     <author key="person_111">
+                        <persName xml:lang="bo">ནཱ་རོ་པ</persName> (<persName xml:lang="bo-Latn-x-EWTS">nA ro pa ; translated by Mar pa</persName>)</author>
+                     <incipit xml:lang="bo">dpal bde mchog 'khor lo la phyag 'tshal lo//_de la dpal 'khor lo sdom pa'i rgyid kyi dkyil 'khor du dbang thob cing dam tshig rjes us skyong ba'i rnal 'byor pas thog mar 'khor ba la skyo zhing tshe 'di nyid la mngon par rdzogs par sangs rgya bar 'dod pas/_ri bo nags chen la sogs par mchod pa'i yo byad/_ras bris dang lugs ma la sogs pa'i rten bkram nas stan bde ba la 'dug par bya'o/_de la lus bsam gtan gyi yan lag bzhi dang /_ngag rlung 'jug g.yo ba bcad de gnas pa/</incipit>
+                     <explicit xml:lang="bo">mi khyab pa 'char ba ni dngos po'i gnas lugs yin no//_dpal bde mchog gsang ba rin po che yid bzhin nor bu'i mngon rtogs rgyas pa rje nA ro pa 'i gsung ji lta ba bzhin du mar pa bdag gis yongs su zhus te bsgyur ba'o// dge'o//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
                   </msItem>
                </msContents>
                <physDesc>
-                  <objectDesc form="ms_pothi">
+                  <objectDesc form="roll">
                      <supportDesc material="chart">
-                        <extent>247 ff. <dimensions unit="cm" type="leaf">
-                              <height>51.3</height>
-                              <width>8.1</width>
+                        <support>Paper</support>
+                        <extent>247 ff <dimensions unit="cm" type="leaf">
+                              <width>500</width>
+                              <height>80</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width>420</width>
+                              <height>55</height>
                            </dimensions>
                         </extent>
+                        <condition>good</condition>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote script="dbu_med" scope="sole"/>
+                     <handNote medium="black red" script="cursive">dbu med (black/red ink)</handNote>
                   </handDesc>
                </physDesc>
                <history>
-                  <provenance>
-                     <p>Donated by the <orgName role="dnr fmo">Government of India</orgName>, <date when="1905-09-25" calendar="#Gregorian">25 Sept 1905</date></p>
-                     <p>S.C. 33623, 33717</p>
-                  </provenance>
-                  <acquisition>
-                     <date when="1905" calendar="#Gregorian">1905</date>
-                     <p>donated by <orgName role="dnr fmo">Government of India</orgName></p>
-                  </acquisition>
+                  <acquisition>S.C. 33623, 33717. 25 Sept. 1905, donation by the Government of India.</acquisition>
                </history>
                <additional>
                   <adminInfo>
-                     <recordHist>
-                        <source>JESD-DB</source>
-                     </recordHist>
-                     <custodialHist>
-                        <custEvent type="other"/>
-                     </custodialHist>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
                   </adminInfo>
                </additional>
             </msDesc>
@@ -90,24 +606,23 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85083210" target="https://id.loc.gov/authorities/subjects/sh85083210">Meditation</term>
+                     <term key="subject_no2008014576">Tantra</term>
+                  </item>
+                  <item>
+                     <term key="subject_sh85018729">Cakrasamvara (Buddhist deity)</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-07-03">
-            <persName>Andrew Morrison</persName> Various adjustments including adding LCSH terms, linking people and work titles to authority files, tagging people and places, removing empty tags, etc. Scripts used are in the <ref target="https://github.com/bodleian/karchak-mss/tree/master/processing/batch_conversion/">batch_conversion</ref> folder.
-         </change>
-         <change when="2017-07-28">
-            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/batch_conversion/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref>
-         </change>
-         <change>entry created by <persName>Charles Manson</persName>
-         </change>
+         <change when="2023-10-30">New version of record created.</change>
+         <change when="2018-07-03"><persName>Andrew Morrison</persName> Various adjustments including adding LCSH terms, linking people and work titles to authority files, tagging people and places, removing empty tags, etc. Scripts used are in the <ref target="https://github.com/bodleian/karchak-mss/tree/master/processing/batch_conversion/">batch_conversion</ref> folder.</change>
+         <change when="2017-07-28"><persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/tibetan-mss/tree/master/processing/batch_conversion/convertTibetan2Bodley.xsl">https://github.com/bodleian/tibetan-mss/tree/master/processing/convertTibetan2Bodley.xsl</ref></change>
+         <change>entry created by <persName>Charles Manson</persName></change>
       </revisionDesc>
    </teiHeader>
-   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>
       </body>

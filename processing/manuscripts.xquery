@@ -1,4 +1,4 @@
-import module namespace bod = "http://www.bodleian.ox.ac.uk/bdlss" at "https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc2solr.xquery";
+import module namespace bod = "http://www.bodleian.ox.ac.uk/bdlss" at "lib/msdesc2solr.xquery";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare option saxon:output "indent=yes";
 
@@ -20,7 +20,11 @@ declare option saxon:output "indent=yes";
                 let $subfolders := string-join(tokenize(substring-after(base-uri($x), 'collections/'), '/')[position() lt last()], '/')
                 let $htmlfilename := concat($msid, '.html')
                 let $htmldoc := doc(concat("html/", $subfolders, '/', $htmlfilename))
-                
+                let $shelfmarkidno := (
+                        $x//tei:msDesc/tei:msIdentifier/tei:idno[@type="shelfmark"], 
+                        $x//tei:msDesc/tei:msIdentifier/tei:idno[not(@type)],
+                        $x//tei:msDesc/tei:msIdentifier/tei:idno
+                    )[1]
                 let $languages2index := ('en','ar','ka','ka-Latn-x-lc','en-Latn-x-lc')
                 (:
                     Guide to Solr field naming conventions:
@@ -39,9 +43,9 @@ declare option saxon:output "indent=yes";
                     <field name="id">{ $msid }</field>
                     <field name="filename_sni">{ base-uri($x) }</field>
                     { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:collection, 'ms_collection_s', 'Not specified') }
-                    { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno[@type="shelfmark"], 'ms_shelfmark_s') }
-                    { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno[@type="shelfmark"], 'ms_shelfmark_sort') }
-                    { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno, 'title', 'error') }
+                    { bod:one2one($shelfmarkidno, 'ms_shelfmark_s') }
+                    { bod:one2one($shelfmarkidno, 'ms_shelfmark_sort') }
+                    { bod:one2one($shelfmarkidno, 'title', 'error') }
                     { bod:many2one($x//tei:msDesc/tei:msIdentifier/tei:repository, 'ms_repository_s') }
                     { bod:many2many($x//tei:msContents/tei:msItem/tei:author/tei:persName, 'ms_authors_sm') }
                     { bod:many2many($x//tei:sourceDesc//tei:name[@type="corporate"]/tei:persName, 'ms_corpnames_sm') }

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1006">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Tibet. b. 21</title>
+            <respStmt xml:id="CEM">
+               <resp when="2021">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="AM">
+               <resp when="2023">Markup and encoding</resp>
+               <persName>Andrew Morrison</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">MS_Tibet_b_21</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="MS_Tibet_b_21">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Expedition Collection</collection>
+                  <idno type="shelfmark">MS. Tibet. b. 21</idno>
+                  <idno type="crArk">ark:29072/x09593tv862q</idno>
+                  <idno type="ieArk">ark:29072/x09306t002rb</idno>
+               </msIdentifier>
+               <head>The Instruction on Mahāmūdra</head>
+               <msContents>
+                  <summary>NOTE: This record has yet to be fully checked.</summary>
+                  <msItem xml:id="MS_Tibet_b_21-item1">
+                     <title key="work_804" xml:lang="bo">ཕྱག་རྒྱ་ཆེན་པོ་ལྷན ༡ སྐྱེས་སྦྱོར་གྱིས་འཁྲིད་ཡིག་གསལ་འདེབས</title>
+                     <title key="work_804" xml:lang="bo-Latn-x-EWTS">phyag rgya chen po lhan 1 skyes sbyor gyis 'khrid yig gsal 'debs</title>
+                     <author key="person_106">
+                        <persName xml:lang="bo-Latn-x-EWTS">'phrin las bkra shis rgya mtsho</persName>
+                     </author>
+                     <note>This may be by Padma dKar po but it is not clear. It is a bKa' brgyud pa meditation instruction on Mahāmūdra practice written (perhaps as a scribe) by 'Phrin las bKra shis rGya mtsho in 'Brug Ra lung, in presence or probably for 'Brug pa rin po che Ngag gi dBang phyug and Ngag dbang Nor bu.</note>
+                     <incipit xml:lang="bo">na mo gu ru/_na mo ma hA mu tra ya/_de yang phyag rgya chen po'i 'khrid kyis skabs su/ mthun mong gis mngon 'gro la/_'khrid kyis mngon 'gro dang /_thun kyi mngon 'gro 2 su yod pa las/_logs su gsal bar byas la/_mthun mong ma yin pa'i sngon 'gro la mi yo 3 ldan zhes pa'o//_dbyen 3 zhes pa'o// rang babs rnams 3 zhes 'byung ba ltar/</incipit>
+                     <explicit xml:lang="bo">bka' rgyud gong ma'i gsung gis bdud rtsi'i rgyun rang bab bzhugs/_ma'i rang zhal mngon byed pa'i/_zab mo'i zhal gyis gdams par yod pa'i tshe/_mi dbang yum sras gzhed pa bskang phyir phul/_zhes lcags pho stag gis lo/_dol bkra shis rnam rgyal du phyag rgya chen po'i lhan 1 skyes sbyor gyis 'khrid rtsug pa'i tshe/_ngag rgyun 'khyer bde ba 1 dgos gsung pa 4in/_thugs kyis dran pa gso ba'i phyir du bris pa shu b+haM//_ces pa 'di dpal ra lung gis yang dben spos skya bzim khang du/ 'brug pa rin po che ngag gi dbang phyug dang /_dpal ngag dbang nor bu zhes pa/ dpal ldan na ro paN chen gyis zhabs drung du/_bdag 'phrin las bkra shi rgyam mtsho 'i thebs pa lags so//_dge'o//_bkra shis so//</explicit>
+                     <textLang mainLang="bo">Tibetan</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="ms_pothi"><!-- Only shelfmark in Younghusband batch without (R) so not a roll? -->
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>4 ff <dimensions unit="cm" type="leaf">
+                              <width>480</width>
+                              <height>80</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width>460</width>
+                              <height>55</height>
+                           </dimensions>
+                        </extent>
+                        <condition>good</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote medium="black" script="cursive">dbu med (black ink)</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>There is yellow cloth label on the left end of title page with the label, phyag rgya chen po'i khrid yig bzhugs so / 3 /</decoNote>
+                  </decoDesc>
+               </physDesc>
+               <history>
+                  <acquisition>S.C. 33638, 33732. 25 Sept. 1905, donation by the Government of India.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term key="subject_sh85079831">Mahāmudrā (Tantric rite)</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2023-10-30">Record created.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

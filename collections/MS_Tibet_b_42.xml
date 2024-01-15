@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. b. 42</idno>
+                  <idno type="crArk">ark:29072/x012579s806w</idno>
+                  <idno type="ieArk">ark:29072/x00z708w96wt</idno>
                </msIdentifier>
                <head>Ris-med history</head>
                <msContents class="History">

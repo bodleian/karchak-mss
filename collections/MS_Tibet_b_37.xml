@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. b. 37</idno>
+                  <idno type="crArk">ark:29072/x0zw12z390cj</idno>
+                  <idno type="ieArk">ark:29072/x0zs25x70720</idno>
                </msIdentifier>
                <head>Biographies of Karmapas 1-14</head>
                <msContents class="Biographies">

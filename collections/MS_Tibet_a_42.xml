@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. a. 42</idno>
+                  <idno type="crArk">ark:29072/x0tb09j45832</idno>
+                  <idno type="ieArk">ark:29072/x0t722h774sz</idno>
                </msIdentifier>
                <head>Bka'-brgyud songs of realization</head>
                <msContents class="Songs">

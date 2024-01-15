@@ -64,6 +64,8 @@
                   <repository>Weston Library</repository>
                   <collection>John Stapleton Driver Collection</collection>
                   <idno type="shelfmark">MS. Driver. a. 71</idno>
+                  <idno type="crArk">ark:29072/x01v53jx46jn</idno>
+                  <idno type="ieArk">ark:29072/x01r66j16371</idno>
                </msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Driver_a_71-item1">

@@ -29,6 +29,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. b. 11</idno>
+                  <idno type="crArk">ark:29072/x0vx021c912t</idno>
+                  <idno type="ieArk">ark:29072/x0vt150h07rx</idno>
                </msIdentifier>
                <head>Praise of <placeName key="subject_n80038365">Sikkim</placeName>, and Nyingma prayers</head>
                <msContents>

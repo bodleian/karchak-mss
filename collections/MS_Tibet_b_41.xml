@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. b. 41</idno>
+                  <idno type="crArk">ark:29072/x00v838113kc</idno>
+                  <idno type="ieArk">ark:29072/x00r9674308h</idno>
                </msIdentifier>
                <head>Dge-lugs ritual</head>
                <msContents class="Ritual">

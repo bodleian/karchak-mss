@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. b. 40</idno>
+                  <idno type="crArk">ark:29072/x00p096746zv</idno>
+                  <idno type="ieArk">ark:29072/x00k225b63n3</idno>
                </msIdentifier>
                <head><orgName>Sras-mkhar-dgu-thog</orgName> guide</head>
                <msContents class="Place guide">

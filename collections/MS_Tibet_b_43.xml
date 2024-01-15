@@ -45,6 +45,8 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oriental Manuscripts</collection>
                   <idno>MS. Tibet. b. 43</idno>
+                  <idno type="crArk">ark:29072/x01831ck46tm</idno>
+                  <idno type="ieArk">ark:29072/x01544bp63hr</idno>
                </msIdentifier>
                <head>Red Annals pt.1 (Gangtok)</head>
                <msContents class="History">

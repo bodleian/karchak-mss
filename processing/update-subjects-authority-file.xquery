@@ -15,26 +15,6 @@ declare function local:logging($level, $msg, $values)
     substring(trace('', concat(upper-case($level), '	', $msg, '	', string-join($values, '	'), '	')), 0, 0)
 };
 
-declare function local:normalize4Crossrefing($name as xs:string) as xs:string
-{
-    let $normalized1 := replace(normalize-unicode($name, 'NFKD'), '^(the|al-|el-) ', '', 'i')
-    let $normalized2 := 
-        translate(
-            translate(
-                replace(
-                    replace(
-                        replace(
-                            lower-case($normalized1), 
-                            '[^\p{L}\d]', ''
-                        ),
-                    'æ', 'ae'),
-                'œ', 'oe'),
-            'ạĀāàáâḅÇçČḌḍḏèéëēĞğĠġǦǧḢḣḤḥḪḫẖĪīĭİıÎÏìíîïḲḳḴṇōóÖṛŕśṢṣŞşŠšṬṭṯúûüŪūżẒẓẔẕ', 'aaaaaabcccdddeeeegggggghhhhhhhiiiiiiiiiiikkknooorrssssssstttuuuuuzzzzz'),
-        'ʼ', '')
-    let $normalized3 := replace(replace(replace(replace(replace($normalized2, "[ʻ’'ʻ‘ʺʹ]" ,""), 'ʻ̐', ''), 'ʹ̨', ''), 'ʻ̨', ''), '"', '')
-    return $normalized3
-};
-
 declare function local:percentEncode($str as xs:string) as xs:string
 {
     string-join(for $s in tokenize($str, '%') return encode-for-uri($s), '%')
@@ -61,9 +41,9 @@ processing-instruction xml-model {'href="authority-schematron.sch" type="applica
         <body>
             <list>
 {
-    let $newlcsh := (      
-        for $s in $collection//(tei:term|tei:placeName)[matches(@key, 'subject_(sh|n)\d+') and not(@key = $currentkeys)]
-            return 
+     let $newlcsh := (      
+        for $s in $collection/tei:TEI[@xml:id]//(tei:term|tei:placeName)[matches(@key, 'subject_(sh|n|no)\d+') and not(tokenize(@key, '\s+') = $currentkeys) and string-length(normalize-space(string())) gt 1]
+            return
             <item xml:id="{ $s/@key }">
                 <term type="display">{ normalize-space(string-join($s//text(), ' ')) }</term>
                 {
@@ -116,7 +96,7 @@ processing-instruction xml-model {'href="authority-schematron.sch" type="applica
         <item>{ comment{' Dummy subject, just so this file validates, do not delete '} }<term type="display"/></item>,
         $linebreak,
         $linebreak,
-        comment{' TODO: Review the following entries, update their key attributes in the TEI files, then cut and paste them into subjects_base.xml '},
+        comment{' TODO: Review the following entries, update their key attributes in the TEI files, then cut and paste them into subjects.xml '},
         $linebreak,
         for $e in ($dedupednewlcsh, $lcshfrompreviousrun) order by $e/term[@type='display']/text() return ($e, $linebreak),
         $linebreak,

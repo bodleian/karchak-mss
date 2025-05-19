@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.22.9</title>
+            <respStmt xml:id="CEM">
+               <resp when="2025">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2025">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_22_9</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_22_9">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.22.9</idno>
+               </msIdentifier>
+               <head>1</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_22_9-item1">
+                     <title key="work_903" xml:lang="bo">nges 'grel</title>
+                     <title key="work_903" xml:lang="515 x 100">འཕགས་པ་དགོངས་པ་ངེས་པར་འགྲེལ་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་བཞུགས་སོ༎</title>
+                     <title type="margin" xml:lang="bo">/rgya gar skad du/ Ar+ya san d+hi nir mo tsa na nA ma ma hA yA na sUtra/ bod skad du/ 'phags pa dgongs pa nges par 'grel pa zhes bya ba theg pa chen po'i mdo/ /sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo/ /'di skad bdag gis thos pa dus gcig na/ bcom ldan 'das gzhal med khang chen po rin po che'i sna bdun mchog tu 'bar ba bkod pa /</title>
+                     <title type="margin" xml:lang="515 x 100">ངེས་འགྲེལ</title>
+                     <author key="person_2017054722">
+                        <persName xml:lang="bo">_'phags pa dgongs pa nges par 'grel pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryasandhinirmocananāmamahāyānasūtra</persName>
+                     </author>
+                     <note>"Derge: 0106 Peking: 0074" "Derge: 0106 Peking: 0074"</note>
+                     <incipit xml:lang="bo">*de bzhin gshegs pa'i bya ba bsgrub pa ngas pa'i don bstan pa 'di bshad pa na/ byang chub sems dpa' bdun khri lnga stong gis chos kyi sku yongs su rdzogs pa/ so so yang dag pa rig pa thob par gyur to/ bcom ldan 'das kyis de skad ces bka' stsal nas/ 'jam dpal gzhon nur gyur pa dang/ thams cad dang ldan pa'i 'khor de dang / lha dang mi dang / lha ma yin dang bcas pa'i 'jig rten yid rangs te/ bcom ldan 'das kyis gsungs pa la mngon par bstod do/ 'phags pa dgongs pa ngas par 'grel ba zhes bya ba theg pa chen po'i mdo las / yon tan gyi tshogs kyi le'u zhes bya ba rdzogs so / / gcig zhus dag /</incipit>
+                  </msItem>
+                  <msItem xml:id="Tib_blockbooks_a_22_9-item2"/>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="black">
+                        <support>black</support>
+                        <extent>67ff <dimensions unit="cm" type="leaf">
+                              <width>420</width>
+                              <height>70</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width/>
+                              <height/>
+                           </dimensions>
+                        </extent>
+                        <condition>7</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>"folio 1 verso, 2 line drawings: Buddha on the left and Maitreya on the right"</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>good</decoNote>
+                  </decoDesc>
+               </physDesc>
+               <history>
+                  <acquisition>The Sūtra of Interpreting the Intent</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term key="subject_no93038393">Maitreya</term>
+                  </item>
+                  <item>
+                     <term>chart</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2025-05-19">Record created.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1049">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.22.4</title>
+            <respStmt xml:id="CEM">
+               <resp when="2025">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2025">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_22_4</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_22_4">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.22.4</idno>
+               </msIdentifier>
+               <head>1</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_22_4-item1">
+                     <title key="work_898" xml:lang="bo">lnga rgya pa</title>
+                     <title key="work_898" xml:lang="515 x 100">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལྔ་་བརྒྱ་པ་བཞུགས་སོ༎</title>
+                     <title type="margin" xml:lang="bo">rgya gar skad du / Ar+ya pany+tsa sha tI ka pradz+nyA pA ra mi tA / bod skad du / 'phags pa shes rab kyi pha rol tu phyin pa lnga brgya pa / sangs rgyas dang / byang chub sems dpa' thams cad la phyag 'tshal lo / / 'di skad bdag gis thos pa dus gcig na / bcom ldan 'das rgyal po'i khab na / bya rgod kyi phung po'i ri la / dge slong gi dge 'dun chen po dang / byang chub sems dpa'i tshogs chen po dang thabs gcig du bzhugs te /</title>
+                     <title type="margin" xml:lang="515 x 100">ལྔ་རྒྱ་པ</title>
+                     <author key="person_2017054718">
+                        <persName xml:lang="bo">_'phags pa shes rab kyi pha rol tu phyin pa lnga rgya pa bzhugs so// Āryapañcaśatīkaprajñāpāramitā</persName>
+                     </author>
+                     <note>"Derge: 0015 Peking: 0738"</note>
+                     <incipit xml:lang="bo">rab 'byor byang chub sems dpas / tshor ba dang / 'du shes dang / 'du byed rnams dang / rnam par shes pa la / rnam par shes pa dngos po med pa shin tu zhi ba'i don dang / de ltar dngos po zhi ba'i don dang / rang bzhin gyis rnam par dag pa zhi ba'i don dang / don gsum gyis mya ngan las 'das pa zhi ba nyid yongs su shes par bya'o / / bcom ldan 'das kyis de skad ces bka' stsal nas / gnas brtan rab 'byor dang / dge slong dang / dge slong ma dang / dge bsnyen dang / dge bsnyen ma de dag dang / lha dang mi dang / lha ma yin dang / dri zar bcas pa'i 'jig rten yid rang ste / bcom ldan 'das kyis gsungs pa la mngon par bstod do / / 'phags pa shes rab kyi pha rol tu phyin pa lnga brgya pa rdzogs s+ho / / zhus dag /</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="black">
+                        <support>black</support>
+                        <extent>22ff <dimensions unit="cm" type="leaf">
+                              <width>420</width>
+                              <height>70</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width/>
+                              <height/>
+                           </dimensions>
+                        </extent>
+                        <condition>7</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>"folio 1 verso, 2 line drawings: Buddha with the teaching gesture on the left ; Subhuti with the anjali gesture on the right."</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>good</decoNote>
+                  </decoDesc>
+               </physDesc>
+               <history>
+                  <acquisition>The Perfection of Wisdom in Five Hundred Verses</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term>chart</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2025-05-19">Record created.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

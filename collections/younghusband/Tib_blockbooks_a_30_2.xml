@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1089">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.30.2</title>
+            <respStmt xml:id="CEM">
+               <resp when="2025">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2025">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_30_2</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_30_2">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.30.2</idno>
+               </msIdentifier>
+               <head>1</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_30_2-item1">
+                     <title key="work_912" xml:lang="bo">rnam thar</title>
+                     <title key="work_912" xml:lang="585 x 105">རྣལ་འབྱོར་གྱི་དབང་ཕྱུག་མི་ལ་རས་པའི་རྣམ་ཐར་ཐར་པ་དང་ཐམས་ཅད་མཁྱེན་པའི་ལམ་སྟོན་</title>
+                     <title type="margin" xml:lang="bo">shes thigs dang dad sogs nor bus bdag blo rmig rjes rab gang nyon mongs tshad gdung dbul phongs kun bsal bas/ /sred ldan skye bos rgyan spras bzang mo dben par btus tshe tshangs spyod smon yang lang tsho'i dpal gzis bgrod pa phyir bsnur tsam la'ang bzod glags bral phyir 'phral du dga' bas dga' ba ltar//</title>
+                     <title type="margin" xml:lang="585 x 105">རྣམ་ཐར</title>
+                     <author key="person_2017054732">
+                        <persName xml:lang="bo">rnal 'byor gyi dbang phyug mi la ras pa'i rnam thar thar pa dang thams cad mkhyen pa'i lam ston</persName> (<persName xml:lang="585 x 105">རུས་པའི་རྒྱན་ཅན</persName>)</author>
+                     <incipit xml:lang="bo">rnal 'byor gyi dbang phyug dam pa rje btsun mi la ras pa 'i rnam par thar pa/ thar pa dang thams cad mkhyen pa'i lam ston mgur chings dang bcas pa 'di nyid/ rje btsun gyi rnam thar du ma mthong na'ang / thun mong ma yin pa'i slob dpon gyi zhal nas byung ba ji ltar bar bzhin dur khrod myul ba'i rnal 'byor pa rus pa'i rus pa'i rgyan can gyis phur bu'i lo ston zla 'bring po'i yar tshe brgyad la/ ma dang mkha' 'gro 'du ba'i gnas chen 'brog la phyi gangs kyi ra bar dag cing rdzogs par yi ger bkod pa 'dis kyang bstan pa dang sems can la phan bde rgya chen po 'khor pa ma stongs kyi bar du 'byung bar gyur cig//</incipit>
+                     <explicit xml:lang="bo">oM swasti/ phan bde'i 'byung gnas rgyal bstan yongs 'du'i ljon/ /rab rgyas 'gro kun thar mchog 'bras bzang la/ /spyod phyir bkra shis lhun grub chos grwa cher/ /chos sbyin mdzad med dal 'gro'i rgyun 'di spel/ /sar+ba mang+ga laM// //</explicit>
+                     <colophon xml:lang="bo">There are versions/copies of this text in Cambridge under shelfmarks Tibetan 278 and 282.</colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="black">
+                        <support>black</support>
+                        <extent>120ff <dimensions unit="cm" type="leaf">
+                              <width>490</width>
+                              <height>65</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width/>
+                              <height>1040</height>
+                           </dimensions>
+                        </extent>
+                        <condition>6</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>Has line drawings of four-armed Mahākāla on the left and Rematī on the right</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>good</decoNote>
+                  </decoDesc>
+               </physDesc>
+               <history>
+                  <acquisition>The biography of Milarepa</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term>chart</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2025-05-19">Record created.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

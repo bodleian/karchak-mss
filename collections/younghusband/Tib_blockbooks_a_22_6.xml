@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1051">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.22.6</title>
+            <respStmt xml:id="CEM">
+               <resp when="2025">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2025">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_22_6</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_22_6">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.22.6</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_22_6-item1">
+                     <title key="work_899" xml:lang="bo">བྱམས་ཞུས</title>
+                     <title key="work_899" xml:lang="420 x 70">byams zhus</title>
+                     <title type="margin" xml:lang="bo">byang chub sems dpa' rnams kyi bslab pa ni ngo mtshar rmad du byung ba ste / rigs kyi bu'am / rigs kyi bu mo ngo mtshar rmad du byung ba'i byang chub sems dpa'i chos thob par 'tshal bas / bla na ma mchis pa yang dag par rdzogs pa'i byang chub tu sems bskyed par bgyi'o / / byang chub sems dpa'i bslab pa rab tu dbye ba'i le'u ste bdun cu gnyis pa / byang chub sems dpa' byams pas zhus pa theg pa chen po'i mdo rdzogs so / / dge'o / / gcig zhus /</title>
+                     <title type="margin" xml:lang="420 x 70">rgya gar skad du / Ar+ya pradz+nya pA ra mi tA mai trI ya prIts+tshe ta nA ma ma hA yA na sU tra / bod skad du / 'phags pa shes rab kyi pha rol du phyin pa byams pas zhus pa zhes bya ba theg pa chen po'i mdo / / sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo / / de nas yang bcom ldan 'das la byang chub sems dpa' sems dpa' chen po byams pas zhus pa /</title>
+                     <author key="person_2017054719">
+                        <persName xml:lang="bo">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བྱམས་པས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་བཞུགས་སོ༎</persName> (<persName xml:lang="420 x 70">_'phags pa shes rab kyi pha rol tu phyin pa byams pas zhus pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryaprajñāpāramitāmaitrīyapṛcchatanāmamahāyānasūtra</persName>)</author>
+                     <colophon xml:lang="bo">"Derge: 0149 Peking: 0816"</colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="dbu can">
+                        <support>dbu can</support>
+                        <extent>124ff <dimensions unit="cm" type="leaf">
+                              <width/>
+                              <height/>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width/>
+                              <height/>
+                           </dimensions>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>"folio 1 verso, 2 line drawings: Buddha on the left and Maitreya on the right."</handNote>
+                     <handNote>good</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>7</decoNote>
+                  </decoDesc>
+                  <additions>The Perfection of Wisdom Requested by Maitreya</additions>
+               </physDesc>
+               <history>
+                  <acquisition>1</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term>chart</term>
+                  </item>
+                  <item>
+                     <term>black</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2025-05-19">Record created.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

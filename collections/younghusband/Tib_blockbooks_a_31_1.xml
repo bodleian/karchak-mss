@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1091">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.31.1</title>
+            <respStmt xml:id="CEM">
+               <resp when="2025">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2025">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_31_1</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_31_1">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.31.1</idno>
+               </msIdentifier>
+               <head>1</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_31_1-item1">
+                     <title key="work_914" xml:lang="bo">shre ya pad phreng</title>
+                     <title key="work_914" xml:lang="600 x 100">བྱང་ཆུབ་ལམ་གྱི་རིམ་པའི་བླ་མ་བརྒྱུད་པའི་རྣམ་པར་ཐར་པ་པདྨ་དཀར་པོའི་འཕྲེང་བ་བཞུགས་སོ༎</title>
+                     <title type="margin" xml:lang="bo">bla ma dang lhag pa'i lha dbyer med pa la dus thams cad du gus pas skyabs su 'chi/ gang gi thugs rje'i bdud rtsi'i cha shas tsam/ /snying la reg pa'i gdung ba kun sel cing / /gsol ba btab na dngos grub kun stsol ba'i/ /rtsa brgyud bla ma rnams la gus pas 'dud/ /de la 'dir rang gzhan dad pa 'phel ba'i gsos 'debs su/ byang chub lam gyi rim pa'i bla ma rnams kyi rnam par thar pa mdor bsdus tsam zhig brjod pa la/</title>
+                     <title type="margin" xml:lang="600 x 100">བཤྲེ་ཡ་པད་ཕྲེང</title>
+                     <author key="person_2017054725">
+                        <persName xml:lang="bo">byang chub lam gyi rim pa'i bla ma brgyud pa'i rnam par thar pa pad+ma dkar po'i 'phreng ba bzhugs so//</persName> (                        <persName xml:lang="600 x 100">བློ་བཟང་ཡེ་ཤེས</persName>)
+                     </author>
+                     <incipit xml:lang="bo">thun mong min pa'i nye brgyud kyi dbang du byas na/ rje bla ma ston pa sangs rgyas dang thugs rgyud gcig pa yin no zhes dbon sa yab sras kyi gsung las 'byung bas shes so/ zhes pa 'di ni ri khrod 'dzin pa'i dge slong dka' bcu blo bzang bzang pos nan tan chen pos bskul ba'i ngo ma chogs par yongs kyi dge ba'i bshes gnyen bsod nams grags pa'i gsung bgros bzhin chos smra ba'i btsun pa blo bzang ye shes kyis smras pa dge legs su gyur cig / mang+ga laM/ /</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="black">
+                        <support>black</support>
+                        <extent>61ff <dimensions unit="cm" type="leaf">
+                           <width>490</width>
+                           <height>70</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width/>
+                           <height/>
+                        </dimensions>
+                     </extent>
+                     <condition>6</condition>
+                  </supportDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote>"f. 1v, line drawings of Maitreya (Rgyal tshab dam pa brtse ba'i gter), Buddha (Rgyal ba'i dbang po shAkya'i gtso), Mañjuśrī (Rgyal sras thu bo mkhyen pa'i gter) ; f. 2r, Asaṅga (Ma pham thugs sras thogs med 'phags) and Nāgārjuna ('Dzam gling rgyan gcig klu sgrub mgon) ; f. 61r, Vaiśravana (Gsang bdag bka' srong rnam thos sras), Six-armed Mahākāla ('Dud dgu myur stsal phyag drug mgon)and Chos kyi rgyal ('Jam dpal bka' sdod chos kyi rgyal)."</handNote>
+               </handDesc>
+               <decoDesc>
+                  <decoNote>good</decoNote>
+               </decoDesc>
+               <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+            </physDesc>
+            <history>
+               <acquisition>The biographies of masters in the Lam rim lineage</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n83129960">"Blo-bzang-ye-shes, Panchen Lama V, 1663-1737"</term>
+               </item>
+               <item>
+                  <term>chart</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2025-05-19">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
+</TEI>

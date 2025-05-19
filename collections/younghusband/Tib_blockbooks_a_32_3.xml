@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1102">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.32.3</title>
+            <respStmt xml:id="CEM">
+               <resp when="2025">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2025">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_32_3</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_32_3">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.32.3</idno>
+               </msIdentifier>
+               <head>1</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_32_3-item1">
+                     <title key="" xml:lang="bo">oM</title>
+                     <title key="" xml:lang="560 x 100">བསངས་ཀྱི་ཆོ་ག་དངོས་གྲུབ་ཀྱི་གཟི་འོད་འབར་བ་ངོ་མཚར་རིན་པོ་ཆེའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས༎</title>
+                     <title type="margin" xml:lang="bo">na mo gu ru manya+dzu g+ho ShA ya/ bsangs kyi cho ga dngos grub kyi gzi 'od 'bar ba ngo mtshar rin po che'i phreng ba zhes bya ba/ dregs ldan kun gyi ral pa'i me tog rtser/ /zhabs sen 'char ga'i 'od ris ngal gso zhing / /rig sngags 'chang sogs mkha' dbyings mdzes ma'i rgyan/ /grub dbang pad+ma 'byung gnas rgyal gyur cig</title>
+                     <title type="margin" xml:lang="560 x 100">ཨོཾ</title>
+                     <author key="person_115">
+                        <persName xml:lang="bo">bsangs kyi cho ga dngos grub kyi gzi 'od 'bar ba ngo mtshar rin po che'i phreng ba zhes bya ba bzhugs//</persName> (<persName xml:lang="560 x 100">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName>)</author>
+                     <note>TBRC: W9845</note>
+                     <incipit xml:lang="bo">/ces jo bo ne ser ba'i bstod pa 'phrin las myur 'grub 'di ni/ dad can 'phrin las dpal 'byor gyis nan gyis bskul ba'i ngor/ bka' bdams kyi btsun pa blo bzang chos kyi rgyal mtshan gyis/ chos grwa chen po dpal ldan 'bras spungs kyi gzims khang dga' ldan pho brang du sbyar ba'o// //sar+ba mang+ga laM//</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="black">
+                        <support>black</support>
+                        <extent>14ff <dimensions unit="cm" type="leaf">
+                              <width>480</width>
+                              <height>65</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width/>
+                              <height/>
+                           </dimensions>
+                        </extent>
+                        <condition>6</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout/>
+                     </layoutDesc>
+                  </objectDesc>
+                  <decoDesc>
+                     <decoNote>good</decoNote>
+                  </decoDesc>
+               </physDesc>
+               <history>
+                  <acquisition>A manual for the ritual of smoke offering</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
+                  </item>
+                  <item>
+                     <term>chart</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2025-05-19">Record created.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

@@ -3042,7 +3042,7 @@
                     <!-- ../collections/MS_Driver_c_366.xml -->
                     <!-- ../collections/MS_Tibet_c_38.xml -->
                 </item>
-                
+
                 <item xml:id="subject_sh2010012100" corresp="#subject_sh2013001938 #subject_sh2008112892">
                     <term type="display">Tibetan language--Dictionaries</term>
                     <note type="links">
@@ -3229,6 +3229,188 @@
                     </note>
                     <!-- ../collections/MS_Driver_c_417.xml -->
                 </item>
+
+                <item xml:id="subject_n2018244378">
+                    <term type="display">Amitābha</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n2018244378.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_10.xml -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_11.xml -->
+                </item>
+
+                <item xml:id="subject_sh93005260">
+                    <term type="display">Buddhist dhāraṇī</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/subjects/sh93005260.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_7.xml -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_8.xml -->
+                </item>
+
+                <item xml:id="subject_sh2009008455">
+                    <term type="display">Emptiness (Philosophy)</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/subjects/sh2009008455.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_1.xml -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_2.xml -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_3.xml -->
+                </item>
+
+                <item xml:id="subject_no93038393">
+                    <term type="display">Maitreya</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/no93038393.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_5.xml -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_9.xml -->
+                </item>
+
+                <item xml:id="subject_n88629037">
+                    <term type="display">Tāranātha</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n88629037.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_10.xml -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_6.xml -->
+                </item>
+
+                <item xml:id="subject_n2024241890">
+                    <term type="display">Tripiṭaka. Sūtrapiṭaka. Saṃdhinirmocanasūtra. Tibetan</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n2024241890.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_9.xml -->
+                </item>
+
+                <item xml:id="subject_n84073848">
+                    <term type="display">Tripiṭaka.Sūtrapiṭaka.Avataṃsakasūtra.Daśabhūmikasūtra</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n84073848.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_6.xml -->
+                </item>
+
+                <item xml:id="subject_n85102857">
+                    <term type="display">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n85102857.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_32_1.xml -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_32_2.xml -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_32_3.xml -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_32_4.xml -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_32_5.xml -->
+                </item>
+
+                <item xml:id="subject_sh85037431">
+                    <term type="display">Dge-lugs-pa (Sect) Doctrines</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/subjects/sh85037431.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_26.xml -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_27.xml -->
+                </item>
+
+                <item xml:id="subject_n82237548">
+                    <term type="display">Ma ṇi bkaʼ ʼbum</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n82237548.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_24.xml -->
+                </item>
+
+                <item xml:id="subject_n83129960">
+                    <term type="display">"Blo-bzang-ye-shes, Panchen Lama V, 1663-1737"</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n83129960.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_31_1.xml -->
+                </item>
+
+                <item xml:id="subject_n82009530">
+                    <term type="display">"O-rgyan-gling-pa, Gter-ston, 1323-"</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n82009530.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_28.xml -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_29.xml -->
+                </item>
+
+
             </list>
         </body>
     </text>

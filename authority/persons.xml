@@ -2443,9 +2443,136 @@
                     <persName type="variant">o rgyan padma</persName>
                     <!-- ../collections/MS_Tibet_b_6.xml -->
                 </person>
-                
-                
-                
+
+                <person xml:id="person_2017054715">
+                    <persName type="display">_'phags pa de bzhin gshegs pa 'od dpag med kyi bkod pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryāmitābhavyūhanāmamahāyānasūtra</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_10.xml#Tib_blockbooks_a_22_10%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054722">
+                    <persName type="display">_'phags pa dgongs pa nges par 'grel pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryasandhinirmocananāmamahāyānasūtra</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_9.xml#Tib_blockbooks_a_22_9%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054723">
+                    <persName type="display">_'phags pa gser 'od dam pa mdo sde'i dbang po'i rgyal po zhes bya ba theg pa chen po'i mdo/ Āryasuvarṇaprabhāsottamasūtrendrarājanāmamahāyānasūtra</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_23.xml#Tib_blockbooks_a_23%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054719">
+                    <persName type="display">_'phags pa shes rab kyi pha rol tu phyin pa byams pas zhus pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryaprajñāpāramitāmaitrīyapṛcchatanāmamahāyānasūtra</persName>
+                    <persName type="variant">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བྱམས་པས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་བཞུགས་སོ༎</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_5.xml#Tib_blockbooks_a_22_5%2Ditem1 -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_6.xml#Tib_blockbooks_a_22_6%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054718">
+                    <persName type="display">_'phags pa shes rab kyi pha rol tu phyin pa lnga rgya pa bzhugs so// Āryapañcaśatīkaprajñāpāramitā</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_4.xml#Tib_blockbooks_a_22_4%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054717">
+                    <persName type="display">chen po stong pa nyid zhes bya ba'i mdo chen po bzhugs so// Mahāśūnyatānāmamahāsūtra</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_2.xml#Tib_blockbooks_a_22_2%2Ditem1 -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_3.xml#Tib_blockbooks_a_22_3%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054724">
+                    <persName type="display">chos skyong ba'i rgyal po bsrong btsan sgam po'i bka' 'bum las stod kyi cha thog mar bla ma rgyud pa'i gsol 'debs lo rgyus sogs bzhugs stsol mang+ga laM/</persName>
+                    <persName type="variant">སྲོང་བཙན་སྒམ་པོ</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_24.xml#Tib_blockbooks_a_24%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054731">
+                    <persName type="display">gangs can grub pa'i gtso bo'i ngo mtshar gtam/ /thos na ya mtshan dad pa'i mig 'byed pa'i/ /mthong na ngo mtshar 'od phreng 'gyed pa 'dis/ /skal ldan dad gus can gyi dga' ston mdzod//</persName>
+                    <persName type="variant">ནམ་མཁའ་བསམ་གྲུབ་རྒྱལ་མཚན</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_30_1.xml#Tib_blockbooks_a_30_1%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054714">
+                    <persName type="display">mdo chen po stong pa nyid ces bya ba bzhugs so// Śūnyatānāmahāsūtra</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_1.xml#Tib_blockbooks_a_22_1%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054720">
+                    <persName type="display">rgyal mtshan rtse mo la sogs pa'i gzungs sngags 'gar bzhugs//</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_7.xml#Tib_blockbooks_a_22_7%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054733">
+                    <persName type="display">rje btsun mi la ras pa'i rnam thar rgyas par phye ba</persName>
+                    <persName type="variant">མི་ལ་རས་པ་རུས་པའི་རྒྱན་ཅན</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_30_3.xml#Tib_blockbooks_a_30_3%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054732">
+                    <persName type="display">rnal 'byor gyi dbang phyug mi la ras pa'i rnam thar thar pa dang thams cad mkhyen pa'i lam ston</persName>
+                    <persName type="variant">རུས་པའི་རྒྱན་ཅན</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_30_2.xml#Tib_blockbooks_a_30_2%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054721">
+                    <persName type="display">sangs rgyas bcom ldan 'das kyi mtshan brgya rtsa brgyad pa gzungs sngags dang bcas pa sogs mtshan brgya'i rigs bzhugs//</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_8.xml#Tib_blockbooks_a_22_8%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054716">
+                    <persName type="display">so so thar pa'i mdo bzhugs so// Pratimokṣasūtra</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_11.xml#Tib_blockbooks_a_22_11%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054726">
+                    <persName type="display">thugs rje chen po rgyal ba rgya mtsho lha dgu'i bla brgyud gsol 'debs dang shis brjod bzhugs//</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_27_1.xml#Tib_blockbooks_a_27_1%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054728">
+                    <persName type="display">thugs rje chen po rgyal ba rgya mtsho lha dgu'i dkyil 'khor gyi cho ga bzhugs//</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_27_3.xml#Tib_blockbooks_a_27_3%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054727">
+                    <persName type="display">thugs rje chen po rgyal ba rgya mtsho lha dgu'i sgrub thabs bzhugs//</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_27_2.xml#Tib_blockbooks_a_27_2%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054729">
+                    <persName type="display">thugs rje chen po rgyal ba rgya mtsho lha dgu'i zhi rgyas kyi sbyin sreg gi cho ga bzhugs//</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_27_4.xml#Tib_blockbooks_a_27_4%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054730">
+                    <persName type="display">u rgyan g+hu ru pad+ma 'byung gnas kyi skyes rabs rnam par thar pa rgyas par bkod pa pad+ma bka'i thang yig ces bya ba</persName>
+                    <persName type="variant">ཨུ་རྒྱན་གླིང་པ</persName>
+                    <persName type="variant">u rgyan g+hu ru pad+ma 'byung gnas kyi skyes rabs rnam par thar pa rgyas par bkod pa pad+ma bka'i thang yig ces bya ba bzhugs so:</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_28.xml#Tib_blockbooks_a_28%2Ditem1 -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_29.xml#Tib_blockbooks_a_29%2Ditem1 -->
+                </person>
+
+                <person xml:id="person_2017054725">
+                    <persName type="display">བློ་བཟང་ཡེ་ཤེས</persName>
+                    <persName type="variant">byang chub lam gyi rim pa'i bla ma brgyud pa'i rnam par thar pa pad+ma dkar po'i 'phreng ba bzhugs so//</persName>
+                    <persName type="variant">paN chen blo bzang chos kyi rgyal mtshan gyi rnam thar gsal bar ston pa nor bu'i 'phreng ba'i smad cha bzhugs//</persName>
+                    <persName type="variant">rje drung sprul pa'i sku dge 'dun chos rgyal dbang phyug gi rnam par thar pa grub dbang dgyes pa'i rol mtsho zhes bya ba bzhugs so//</persName>
+                    <persName type="variant">bla ma'i rnal 'byor gyi 'grel ba dang bka' drin gsol 'debs bzhugs//</persName>
+                    <persName type="variant">rgyud kyi rgyal po gsang ba 'dus pa'i bshad pa rdzogs pa'i 'og tu/ rdo rje slob dpon la gtang rag gi mchod pa sogs bya tshul bzhugs so//</persName>
+                    <persName type="variant">_'phags pa gdugs dkar can gyi sgrub thabs mchog thun dngos grub char 'bebs bzhugs//</persName>
+                    <persName type="variant">ye shes kyi mgon po gri gug dang tsher gseb chos skyong bstan ma gsum gyi gtor chog bzhugs so//</persName>
+                    <persName type="variant">dge 'dun gyi dbyen bsdums pa'i chos ku'i rten mchog mthong ba don ldan gyi dkar chag bzhugs//</persName>
+                    <persName type="variant">chos smra ba'i btsun pa blo bzang ye shes kyi ngag thor bu ba rnams chabs gcig tu bsgrigs pa bzhugs so//</persName>
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_27.xml#Tib_blockbooks_a_27%2Ditem1 -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_31_1.xml#Tib_blockbooks_a_31_1%2Ditem1 -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_31_2.xml#Tib_blockbooks_a_31_2%2Ditem1 -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_31_3.xml#Tib_blockbooks_a_31_3%2Ditem1 -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_31_4.xml#Tib_blockbooks_a_31_4%2Ditem1 -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_31_5.xml#Tib_blockbooks_a_31_5%2Ditem1 -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_31_6.xml#Tib_blockbooks_a_31_6%2Ditem1 -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_31_7.xml#Tib_blockbooks_a_31_7%2Ditem1 -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_31_8.xml#Tib_blockbooks_a_31_8%2Ditem1 -->
+                    <!-- ../collections/younghusband%2FTib_blockbooks_a_31_9.xml#Tib_blockbooks_a_31_9%2Ditem1 -->
+                </person>
+
+
             </listPerson>
         </body>
     </text>

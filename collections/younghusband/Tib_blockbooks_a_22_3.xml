@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1048">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.22.3</title>
+            <respStmt xml:id="CEM">
+               <resp when="2025">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2025">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_22_3</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_22_3">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.22.3</idno>
+               </msIdentifier>
+               <head>1</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_22_3-item1">
+                     <title key="work_897" xml:lang="bo">chen po</title>
+                     <title key="work_897" xml:lang="510 x 100">ཆེན་པོ་སྟོང་པ་ཉིད་ཞེས་བྱ་བའི་མདོ་ཆེན་པོ་བཞུགས་སོ༎</title>
+                     <title type="margin" xml:lang="bo">rgya gar skad du / mahA shUnya tA nA ma ma hA sU tra / bod skad du / mdo chen po stong pa nyid chen po zhes bya ba / dkon mchog gsum la phyag 'tshal lo / 'di skad bdag gis thos pa dus gcig na / bcom ldan 'das ser skya'i gnas kyi nags tshal na / shing nya gro d+ha'i kun dga' ra ba na bzhugs so / de nas bcom ldan 'das snga dro sham thabs dang / chos gos gsol te / lhung bzed bsnams nas / bsod snyoms kyi phyir ser skya'i gnas su bzhugs so /</title>
+                     <title type="margin" xml:lang="510 x 100">ཆེན་པོ</title>
+                     <author key="person_2017054717">
+                        <persName xml:lang="bo">chen po stong pa nyid zhes bya ba'i mdo chen po bzhugs so// Mahāśūnyatānāmamahāsūtra</persName>
+                     </author>
+                     <note>"Derge: 0291 Peking: 0957"</note>
+                     <incipit xml:lang="bo">_'phags pa'i bde dang dus sbyor dang / gzags dang mchog dgar dge slong dang / khrus ril phyi stong nyid sogs dang / ting nge 'dzin la sems gzhol dang / / 'chag pa dang ni 'dug pa dang / / rnam par gtam dang 'dod yon gtam / / phung po gcig dkar nyan thos dang / / gnod dang mdza' bshes tshar bcad pa'o / / mdo chen po stong pa nyid chen po zhes bya ba rdzogs s+ho / /</incipit>
+                     <explicit xml:lang="bo">rgya gar gyi mkhan po dzi na mi tra dang pradz+nyA bar ma dang / zhu chen gyi lo tsA ba ban de ye shes sde la sogs pas bsgyur cing zhus te / gtan la phab pa / bka' dang por gtogs / / dge legs su gyur cig / / zhus dag /</explicit>
+                     <colophon xml:lang="bo">Identical copy under Tib. blockbooks a.22.2</colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="black">
+                        <support>black</support>
+                        <extent>12ff <dimensions unit="cm" type="leaf">
+                              <width>430</width>
+                              <height>80</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width/>
+                              <height/>
+                           </dimensions>
+                        </extent>
+                        <condition>7</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <decoDesc>
+                     <decoNote>good</decoNote>
+                  </decoDesc>
+               </physDesc>
+               <history>
+                  <acquisition>The Large Sūtra on Great Emptiness</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term key="subject_sh2009008455">Emptiness (Philosophy)</term>
+                  </item>
+                  <item>
+                     <term>chart</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2025-05-19">Record created.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

@@ -128,12 +128,12 @@
                                     <xsl:value-of select="$shelfmark"/>
                                 </title>
                                 <respStmt xml:id="CEM">
-                                    <resp when="2021">Summary description</resp>
+                                    <resp when="2025">Summary description</resp>
                                     <persName>Charles Manson</persName>
                                 </respStmt>
-                                <respStmt xml:id="AM">
-                                    <resp when="2023">Markup and encoding</resp>
-                                    <persName>Andrew Morrison</persName>
+                                <respStmt xml:id="CD">
+                                    <resp when="2025">Markup and encoding</resp>
+                                    <persName>C Day</persName>
                                     <note>Conversion from spreadsheet to TEI</note>
                                 </respStmt>
                             </titleStmt>

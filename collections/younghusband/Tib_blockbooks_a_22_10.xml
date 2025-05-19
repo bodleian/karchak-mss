@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1045">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.22.10</title>
+            <respStmt xml:id="CEM">
+               <resp when="2025">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2025">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_22_10</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_22_10">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.22.10</idno>
+               </msIdentifier>
+               <head>1</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_22_10-item1">
+                     <title key="work_895" xml:lang="bo">bde can</title>
+                     <title key="work_895" xml:lang="515 x 100">འཕགས་པ་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་ཀྱི་བཀོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་བཞུགས་སོ༎</title>
+                     <title type="margin" xml:lang="bo">rgya gar skad du / Ar+ya a mi tA b+ha b+yU ha nA ma ma hA yA na sU tra / bod skad du / 'phags pa dkon mchog brtsegs pa chen po'i chos kyi rnam grangs stong phrag brgya pa las / 'phags pa de bzhin gshegs pa 'od dpag med kyi bkod pa zhes bya ba theg pa chen po'i mdo / sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo / 'di skad bdag gis thos pa dus gcig na /</title>
+                     <title type="margin" xml:lang="515 x 100">བདེ་ཅན</title>
+                     <author key="person_2017054715">
+                        <persName xml:lang="bo">_'phags pa de bzhin gshegs pa 'od dpag med kyi bkod pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryāmitābhavyūhanāmamahāyānasūtra</persName>
+                     </author>
+                     <note>"ff. 42 verso and 43 recto have prayer for rebirth in Bde ba can, arranged by Dol po pa shes rab rgyal mtshan"</note>
+                     <incipit xml:lang="bo">bcom ldan 'das kyis de skad ces bka' stsal nas/ byang chub sems dpa' sems dpa' chen po mi 'pham pa dang / tshe dang ldan pa kun dga' bo dang / thams cad dang ldan pa'i 'khor de dang / lha dang mi dang / lha ma yin dang / dri zar bcas pa'i 'jig rten yi rangs te / bcom ldan 'das kyi gsungs pa la mngon par bstod do / / 'phags pa dkon mchog brtsegs pa chen po'i chos kyi rnam grangs le'u stong phrag brgya pa las / 'phags pa de bzhin gshegs pa 'od dpag med kyi bkod pa zhes bya ba'i le'u ste lnga pa rdzogs so // // bam po gsum / sh+lO ka dgu brgya /</incipit>
+                     <explicit xml:lang="bo">rgya gar gyi mkhan po dzi na mi tra dang dA na shI la dang / zhu chen gyi lo tsA ba ban d+he ye shes sde s bsgyur cing zhus te / skad gsar bcad gyis bcos nas gtan la phab la phab pa / / 'dir 'bad dge bas bde ba can / / skyes nas sems can don gyi phyir / / byang chub spyod pa kun spyad nas / / rgyal ba nyid dang mtshungs par shog / / zhus dag / mang+ga laM // na mo lo ke sh+va rA ya / bcom ldan de bzhin gshegs pa dgra bcom pa / / yang dag rdzogs pa'i sangs rgyas bla na med / / ... 'od dpag med pa'i byin rlabs chen po'i mthus / / bde x / dge ba gang bsags kun gyi nus mthu dang / / 'od gsal phyag rgya chen po'i byin rlabs dang / dkon mchog gsum gyi bden pa'i byin rlabs kyis / / smon lam 'di dag ji bzhin 'grub par shog / / mi gtsang lus 'di bor bar 'gyur ma thag / / bde x / skyes ma thag du sa bcu rab rdzogs te / / sprul pas phyogs bcur gzhan don byed par shog / / ces pa yang dol po pa shes rab rgyal mtshan dpal bzang pos bkod pa'o / / zhus dag shu b+ham / /</explicit>
+                     <colophon xml:lang="bo">"ff. 42 verso and 43 recto have prayer for rebirth in Bde ba can, arranged by Dol po pa shes rab rgyal mtshan"</colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="black">
+                        <support>black</support>
+                        <extent>43ff <dimensions unit="cm" type="leaf">
+                              <width>420</width>
+                              <height>70</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width/>
+                              <height/>
+                           </dimensions>
+                        </extent>
+                        <condition>7</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>"folio 1 verso, 2 line drawings: Amitābha on the left and Tāranātha (sTā ra nā thā) on the right."</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>good</decoNote>
+                  </decoDesc>
+               </physDesc>
+               <history>
+                  <acquisition>The Sūtra on the Array of the Buddha Amitābha</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term key="subject_n88629037">Tāranātha</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2025-05-19">Record created.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

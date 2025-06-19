@@ -73,10 +73,9 @@
                      <author key="person_2017054722">
                         <persName xml:lang="bo">_'phags pa dgongs pa nges par 'grel pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryasandhinirmocananāmamahāyānasūtra</persName>
                      </author>
-                     <note>"Derge: 0106 Peking: 0074" "Derge: 0106 Peking: 0074"</note>
+                     <note>"Derge: 0106 Peking: 0074"</note>
                      <incipit xml:lang="bo">*de bzhin gshegs pa'i bya ba bsgrub pa ngas pa'i don bstan pa 'di bshad pa na/ byang chub sems dpa' bdun khri lnga stong gis chos kyi sku yongs su rdzogs pa/ so so yang dag pa rig pa thob par gyur to/ bcom ldan 'das kyis de skad ces bka' stsal nas/ 'jam dpal gzhon nur gyur pa dang/ thams cad dang ldan pa'i 'khor de dang / lha dang mi dang / lha ma yin dang bcas pa'i 'jig rten yid rangs te/ bcom ldan 'das kyis gsungs pa la mngon par bstod do/ 'phags pa dgongs pa ngas par 'grel ba zhes bya ba theg pa chen po'i mdo las / yon tan gyi tshogs kyi le'u zhes bya ba rdzogs so / / gcig zhus dag /</incipit>
                   </msItem>
-                  <msItem xml:id="Tib_blockbooks_a_22_9-item2"/>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
@@ -129,7 +128,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-05-19">Record created.</change>
+         <change when="2025-06-19">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

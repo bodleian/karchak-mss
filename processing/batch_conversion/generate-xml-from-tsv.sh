@@ -42,11 +42,14 @@ while IFS= read -r file; do
     # Exclude anything not a .tsv file
     if [[ "$file" == $pattern ]]; then
 
+        echo "------ $counter: $file ------" >> $LOGFILE
         echo "$counter: $file"  
         echo "next id: $msid" 
 
         # Count the rows in file that will use an msid (exclude header row) - used for incrementing the nextmsid
         rows=$(wc -l < $file)
+        # Option to count only the number of non-empty lines in a file
+        # rows=$(grep -E '[^[:space:]]' "$file" | wc -l)
         ((rows--))
         echo "number of rows" = $rows
       

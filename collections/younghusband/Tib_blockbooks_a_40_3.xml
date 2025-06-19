@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1117">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.40.3</title>
+            <respStmt xml:id="CEM">
+               <resp when="2025">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2025">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_40_3</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_40_3">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.40.3</idno>
+               </msIdentifier>
+               <head>1</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_40_3-item1">
+                     <title key="work_958" xml:lang="bo">gtsug tor</title>
+                     <title key="work_958" xml:lang="570 x 90">གཙུག་ཏོར་བཟློག་ཆེན་གྱི་ལག་ལེན་སྙིང་པོར་དྲིལ་བའི་ཆོ་ག་རྒྱས་འབྲིང་བསྡུས་གསུམ་བར་ཆད་ཀུན་སེལ་ཞེས་བྱ་བ་བཞུགས་སོ། །</title>
+                     <title type="margin" xml:lang="bo">na mo gu ru mu ni in+tra ya / rgyal ba'i gtsug tor las 'khrungs bcom ldan ma'i / / zhabs kyi pad mor gus pas phyag byas te / / de yi 'phrin las nad rims gdon bgegs sogs / / ma lus bzlog pa'i rim pa deng 'dir bshad / /</title>
+                     <title type="margin" xml:lang="570 x 90">གཙུག་ཏོར</title>
+                     <author key="person_115">
+                        <persName xml:lang="bo">gtsug tor bzlog chen gyi lag len snying por dril ba'i cho ga rgyas 'bring bsdus gsum bar chad kun sel zhes bya ba bzhugs so/ /</persName> (<persName xml:lang="570 x 90">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName>)</author>
+                     <note>TBRC: W9833</note>
+                     <incipit xml:lang="bo">de lha'i dpal ldan dpa' mo yi/ /'phrin las bzlog chen go cha 'di/ /dam pa'i skye bo mang po yis/ /lan gcig min par bskul ba'i ngor/ /'phags mas rjes gzungs dge bsnyen mchog /tsan+tra go mi'i gzhung bzhin du/ /paṇ chen bzang po bkra shis kyi/ /legs par phye ba'i srol ji bzhin/ /rgyas 'bring bsdus pa ci rigs par/ /lag tu blang chog rim pa 'di/ /byed po blo bzang chos rgyan te/ /dge bas 'gro kun bde gyur cig /ces pa 'di yang chos grwa chen po bkra shis lhun po'i gzims khang du sbyar ba'i yi ge pa ni dge tshul blo bzang phun tshogs so// zhuso//</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="black">
+                        <support>black</support>
+                        <extent>7ff <dimensions unit="cm" type="leaf">
+                              <width>470</width>
+                              <height>70</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width/>
+                              <height>1570</height>
+                           </dimensions>
+                        </extent>
+                        <condition>7</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout/>
+                     </layoutDesc>
+                  </objectDesc>
+                  <decoDesc>
+                     <decoNote>good</decoNote>
+                  </decoDesc>
+                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+               </physDesc>
+               <history>
+                  <acquisition>The ritual for exorcism based on Uniṣya Vijaya</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term>Exorcism</term>
+                  </item>
+                  <item>
+                     <term>chart</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2025-06-19">Record created.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

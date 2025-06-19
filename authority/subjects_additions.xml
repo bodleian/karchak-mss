@@ -20,18 +20,17 @@
       <body>
          <list>
 
-            <item>               <!-- Dummy subject, just so this file validates, do not delete -->
+            <item><!-- Dummy subject, just so this file validates, do not delete -->
                <term type="display"/>
             </item>
 
-
+ 
 
             <!-- TODO: Review the following entries, update their key attributes in the TEI files, then cut and paste them into subjects.xml -->
 
+ 
 
-
-
-
+ 
 
          </list>
       </body>

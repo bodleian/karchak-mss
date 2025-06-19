@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1088">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1063">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -71,8 +71,7 @@
                      <title type="margin" xml:lang="bo">na mo shrI gu ru mahA badz+ra d+hA ra ha sa badz+ra ya/ rnal 'byor dbang phyug rje btsun chen po bzhad pa'i rdo rje la gsol ba 'debs pa'i tshigs su bcad pa dad pa'i mig 'byed ngo mtshar 'od kyi phreng ba zhes bya ba/ rje btsun bla ma nyid dang / bka' brgyud rin po che sprul pa'i skyes mchog thams cad la sgo gsum gus pas phyag 'tshal zhing skyabs su 'chi'o//</title>
                      <title type="margin" xml:lang="585 x 100">གསོལ་འདེབས</title>
                      <author key="person_2017054731">
-                        <persName xml:lang="bo">gangs can grub pa'i gtso bo'i ngo mtshar gtam/ /thos na ya mtshan dad pa'i mig 'byed pa'i/ /mthong na ngo mtshar 'od phreng 'gyed pa 'dis/ /skal ldan dad gus can gyi dga' ston mdzod//</persName> (                        <persName xml:lang="585 x 100">ནམ་མཁའ་བསམ་གྲུབ་རྒྱལ་མཚན</persName>)
-                     </author>
+                        <persName xml:lang="bo">gangs can grub pa'i gtso bo'i ngo mtshar gtam/ /thos na ya mtshan dad pa'i mig 'byed pa'i/ /mthong na ngo mtshar 'od phreng 'gyed pa 'dis/ /skal ldan dad gus can gyi dga' ston mdzod//</persName> (<persName xml:lang="585 x 100">ནམ་མཁའ་བསམ་གྲུབ་རྒྱལ་མཚན</persName>)</author>
                      <incipit xml:lang="bo">rje btsun chen po bzhad pa'i rdo rje la gsol ba 'debs pa'i tshigs su bcad pa dad pa'i mig 'byed ngo mtshar 'od kyi phreng ba zhes bya ba 'di nyid/ yid dad gus 'ba' zhig gis kun nas bslangs te/ rje btsun chen po de nyid kyi sku 'tshal las bzhengs shing phyag nas bzhugs par grags pa'i sku lder gyi drung du yun ring gsol ba btab nas/ grub pa'i bsti gnas 'gran zla med pa 'brog la phyi gangs kyi rwa bar/ chos med snyoms las can gyi sprang po nam mkha' bsam grub rgyal mtshan zhes bya bas/ rje btsun chen po mya ngan las 'das nas lo sum brgya dang bcu bzi pa/ sa pho 'brug gi lo cho 'phrul gyi zla ba'i yar tshes bcu la grub par sbyar ba'o//</incipit>
                      <explicit xml:lang="bo">oM swasti/ phan bde'i 'byung gnas rgyal bstan yongs 'du'i ljon/ /rab rgyas 'gro kun thar mchog 'bras bzang la/ /spyod phyir bkra shis lhun grub chos grwa cher/ /chos sbyin 'dzad med dal 'gro'i rgyun 'di spel/ /sar+ba mang+ga laM//</explicit>
                      <colophon xml:lang="bo">"This is an interesting supplication to an eulogy of Milarepa by Nam mkha' bSam grub rGyal tshan narrating Milerepa's life in four line verses. As the author wrote this text either in 1338 or more probably in 1448, this Nam mkha' rGyal mtshan is probably the Shang pa Grub chen Nam mkha' rGyal mtshan or the Sa skya pa Nam mkha' rGyal mtshan (1398-1472). It was written by the author in La phyi gang on the 10th of 4th Tibetan month, Earth Dragon year, 314 years after Milarepa's death, and printed in Tashi Lhunpo monastery. There is a copy of this eulogy in Cambridge under shelfmark Tibetan 111 and another version under Tibetan 281. In this volume, there are three copies of the first folio, one being perhaps the missing first folio of a Cambridge copy."</colophon>
@@ -83,56 +82,56 @@
                      <supportDesc material="black">
                         <support>black</support>
                         <extent>7ff <dimensions unit="cm" type="leaf">
-                           <width>495</width>
-                           <height>68</height>
-                        </dimensions>
-                        <dimensions unit="cm" type="written">
-                           <width/>
-                           <height/>
-                        </dimensions>
-                     </extent>
-                     <condition>6</condition>
-                  </supportDesc>
-               </objectDesc>
-               <decoDesc>
-                  <decoNote>good</decoNote>
-               </decoDesc>
-               <additions>"25 Sept. 1905, donation by the Government of India."</additions>
-            </physDesc>
-            <history>
-               <acquisition>A biographical eulogy to Milarepa</acquisition>
-            </history>
-            <additional>
-               <adminInfo>
-                  <availability status="restricted">
-                     <p>Bodleian: Special Collections Reading Room.</p>
-                  </availability>
-               </adminInfo>
-            </additional>
-         </msDesc>
-      </sourceDesc>
-   </fileDesc>
-   <profileDesc>
-      <textClass>
-         <keywords scheme="#LCSH">
-            <list>
-               <item>
-                  <term key="subject_n80034328">"Mi-la-ras-pa, 1040-1123"</term>
-               </item>
-               <item>
-                  <term>chart</term>
-               </item>
-            </list>
-         </keywords>
-      </textClass>
-   </profileDesc>
-   <revisionDesc>
-      <change when="2025-05-19">Record created.</change>
-   </revisionDesc>
-</teiHeader>
-<text>
-   <body>
-      <p>         <!--Body paragraph provided for validation and future transcription--></p>
-   </body>
-</text>
+                              <width>495</width>
+                              <height>68</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
+                              <width/>
+                              <height/>
+                           </dimensions>
+                        </extent>
+                        <condition>6</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <decoDesc>
+                     <decoNote>good</decoNote>
+                  </decoDesc>
+                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+               </physDesc>
+               <history>
+                  <acquisition>A biographical eulogy to Milarepa</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term>"Mi-la-ras-pa, 1040-1123"</term>
+                  </item>
+                  <item>
+                     <term>chart</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2025-06-19">Record created.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

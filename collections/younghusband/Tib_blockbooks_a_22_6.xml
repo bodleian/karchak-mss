@@ -63,43 +63,45 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.22.6</idno>
                </msIdentifier>
+               <head>1</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_22_6-item1">
-                     <title key="work_899" xml:lang="bo">བྱམས་ཞུས</title>
-                     <title key="work_899" xml:lang="420 x 70">byams zhus</title>
-                     <title type="margin" xml:lang="bo">byang chub sems dpa' rnams kyi bslab pa ni ngo mtshar rmad du byung ba ste / rigs kyi bu'am / rigs kyi bu mo ngo mtshar rmad du byung ba'i byang chub sems dpa'i chos thob par 'tshal bas / bla na ma mchis pa yang dag par rdzogs pa'i byang chub tu sems bskyed par bgyi'o / / byang chub sems dpa'i bslab pa rab tu dbye ba'i le'u ste bdun cu gnyis pa / byang chub sems dpa' byams pas zhus pa theg pa chen po'i mdo rdzogs so / / dge'o / / gcig zhus /</title>
-                     <title type="margin" xml:lang="420 x 70">rgya gar skad du / Ar+ya pradz+nya pA ra mi tA mai trI ya prIts+tshe ta nA ma ma hA yA na sU tra / bod skad du / 'phags pa shes rab kyi pha rol du phyin pa byams pas zhus pa zhes bya ba theg pa chen po'i mdo / / sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo / / de nas yang bcom ldan 'das la byang chub sems dpa' sems dpa' chen po byams pas zhus pa /</title>
+                     <title key="" xml:lang="bo">byams zhus</title>
+                     <title key="">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བྱམས་པས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་བཞུགས་སོ༎</title>
+                     <title type="margin" xml:lang="bo">rgya gar skad du / Ar+ya pradz+nya pA ra mi tA mai trI ya prIts+tshe ta nA ma ma hA yA na sU tra / bod skad du / 'phags pa shes rab kyi pha rol du phyin pa byams pas zhus pa zhes bya ba theg pa chen po'i mdo / / sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo / / de nas yang bcom ldan 'das la byang chub sems dpa' sems dpa' chen po byams pas zhus pa /</title>
+                     <title type="margin">བྱམས་ཞུས</title>
                      <author key="person_2017054719">
-                        <persName xml:lang="bo">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བྱམས་པས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་བཞུགས་སོ༎</persName> (<persName xml:lang="420 x 70">_'phags pa shes rab kyi pha rol tu phyin pa byams pas zhus pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryaprajñāpāramitāmaitrīyapṛcchatanāmamahāyānasūtra</persName>)</author>
-                     <colophon xml:lang="bo">"Derge: 0149 Peking: 0816"</colophon>
+                        <persName xml:lang="bo">_'phags pa shes rab kyi pha rol tu phyin pa byams pas zhus pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryaprajñāpāramitāmaitrīyapṛcchatanāmamahāyānasūtra</persName>
+                     </author>
+                     <note>"Derge: 0149 Peking: 0816"</note>
+                     <incipit xml:lang="bo">byang chub sems dpa' rnams kyi bslab pa ni ngo mtshar rmad du byung ba ste / rigs kyi bu'am / rigs kyi bu mo ngo mtshar rmad du byung ba'i byang chub sems dpa'i chos thob par 'tshal bas / bla na ma mchis pa yang dag par rdzogs pa'i byang chub tu sems bskyed par bgyi'o / / byang chub sems dpa'i bslab pa rab tu dbye ba'i le'u ste bdun cu gnyis pa / byang chub sems dpa' byams pas zhus pa theg pa chen po'i mdo rdzogs so / / dge'o / / gcig zhus /</incipit>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="dbu can">
-                        <support>dbu can</support>
-                        <extent>124ff <dimensions unit="cm" type="leaf">
-                              <width/>
-                              <height/>
+                     <supportDesc material="black">
+                        <support>black</support>
+                        <extent>124ff<dimensions unit="cm" type="leaf">
+                              <width>420</width>
+                              <height>70</height>
                            </dimensions>
                            <dimensions unit="cm" type="written">
                               <width/>
                               <height/>
                            </dimensions>
                         </extent>
+                        <condition>7</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <handNote>"folio 1 verso, 2 line drawings: Buddha on the left and Maitreya on the right."</handNote>
-                     <handNote>good</handNote>
                   </handDesc>
                   <decoDesc>
-                     <decoNote>7</decoNote>
+                     <decoNote>good</decoNote>
                   </decoDesc>
-                  <additions>The Perfection of Wisdom Requested by Maitreya</additions>
                </physDesc>
                <history>
-                  <acquisition>1</acquisition>
+                  <acquisition>The Perfection of Wisdom Requested by Maitreya</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -116,17 +118,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>chart</term>
+                     <term key="subject_no93038393">Maitreya</term>
                   </item>
                   <item>
-                     <term>black</term>
+                     <term>chart</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

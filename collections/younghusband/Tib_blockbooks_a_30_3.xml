@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1065">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1088">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,46 +63,50 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.30.3</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The songs of Milarepa</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_30_3-item1">
-                     <title key="work_913" xml:lang="bo">mgur 'bum</title>
-                     <title key="work_913" xml:lang="585 x 105">རྗེ་བཙུན་མི་ལ་རས་པའི་རྣམ་ཐར་རྒྱས་པར་ཕྱེ་བ་</title>
-                     <title type="margin" xml:lang="bo">na mo gu ru/ rnal 'byor gyi dbang phyug rje btsun mi la ras pa de nyid/ mchong lung khyung gi rdzong na 'od gsal phyag rgya chen po'i ngang la bzhugs pa'i dus nam zhig gi tshe/ 'tsho ba'i sta gon la bzhengs pas/ phye tshwa chu rdor dag pa ni smos te/ go kha na shing yang mi 'dug/ thab kha na me yang mi 'dug pas/</title>
-                     <title type="margin" xml:lang="585 x 105">མགུར་འབུམ</title>
+                     <title key="" xml:lang="bo">རྗེ་བཙུན་མི་ལ་རས་པའི་རྣམ་ཐར་རྒྱས་པར་ཕྱེ་བ་</title>
+                     <title key="">rje btsun mi la ras pa'i rnam thar rgyas par phye ba</title>
+                     <title type="margin" xml:lang="bo">མགུར་འབུམ</title>
+                     <title type="margin">mgur 'bum</title>
                      <author key="person_2017054733">
-                        <persName xml:lang="bo">rje btsun mi la ras pa'i rnam thar rgyas par phye ba</persName> (<persName xml:lang="585 x 105">མི་ལ་རས་པ་རུས་པའི་རྒྱན་ཅན</persName>)</author>
-                     <incipit xml:lang="bo">rnal 'byor gyi dbang phyug/ mi la ras pa de nyid kyis/ mnyam rjes dang snang sems 'dres te/ sems can gyi don du grub rtags bstan zhing mgur gsungs pa/ thugs sras rnams kyis mi brjed pa'i gzungs su bzung zhing yi ger bkod pa mi yul na yongs su grags pa phal cher 'dir 'dus pa yin zhing / mtha' dag ni brjed par nus pa ma yin no/ /bu slob rnams spro ba bskyed pa bkod pa sku'i rdzu 'phrul bstan pa'i skor te/ kha 'thor sna tshogs kyi skor ro// de ltar skor tsho gsum gyis/ sgrub 'bras kyi bstan pa dang sems can la phan btags pa'i mdzad pa brgyad pa rgyas par phye ba'o//</incipit>
-                     <explicit xml:lang="bo">oM swasti/ phan bde 'byung gnas rgyal bstan yongs 'du'i ljon/ /rab rgyas 'gro kun thar mchog 'bras bzang la/ /spyod phyir bkra shis lhun grub chos grwa cher/ /chos sbyin 'dzad med dal 'gro'i rgyun 'di spel/ /sar+ba mang+ga laM//</explicit>
-                     <colophon xml:lang="bo">There is another version of this text in Cambridge under shelfmark Tibetan 283.</colophon>
+                        <persName xml:lang="bo">མི་ལ་རས་པ་རུས་པའི་རྒྱན་ཅན</persName> (<persName>mi la ras pa rus pa'i rgyan can</persName>)</author>
+                     <note>There is another version of this text in Cambridge under shelfmark Tibetan 283.</note>
+                     <incipit xml:lang="bo">na mo gu ru/ rnal 'byor gyi dbang phyug rje btsun mi la ras pa de nyid/ mchong lung khyung gi rdzong na 'od gsal phyag rgya chen po'i ngang la bzhugs pa'i dus nam zhig gi tshe/ 'tsho ba'i sta gon la bzhengs pas/ phye tshwa chu rdor dag pa ni smos te/ go kha na shing yang mi 'dug/ thab kha na me yang mi 'dug pas/</incipit>
+                     <explicit xml:lang="bo">rnal 'byor gyi dbang phyug/ mi la ras pa de nyid kyis/ mnyam rjes dang snang sems 'dres te/ sems can gyi don du grub rtags bstan zhing mgur gsungs pa/ thugs sras rnams kyis mi brjed pa'i gzungs su bzung zhing yi ger bkod pa mi yul na yongs su grags pa phal cher 'dir 'dus pa yin zhing / mtha' dag ni brjed par nus pa ma yin no/ /bu slob rnams spro ba bskyed pa bkod pa sku'i rdzu 'phrul bstan pa'i skor te/ kha 'thor sna tshogs kyi skor ro// de ltar skor tsho gsum gyis/ sgrub 'bras kyi bstan pa dang sems can la phan btags pa'i mdzad pa brgyad pa rgyas par phye ba'o//</explicit>
+                     <colophon xml:lang="bo">oM swasti/ phan bde 'byung gnas rgyal bstan yongs 'du'i ljon/ /rab rgyas 'gro kun thar mchog 'bras bzang la/ /spyod phyir bkra shis lhun grub chos grwa cher/ /chos sbyin 'dzad med dal 'gro'i rgyun 'di spel/ /sar+ba mang+ga laM//</colophon>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>292ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>292ff<dimensions unit="cm" type="leaf">
+                              <width>585</width>
+                              <height>105</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>490</width>
                               <height>65</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height>1040</height>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <condition>good</condition>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>"Has line drawings of Milarepa and sGam po pa and of Ngan rdzong pa, Sha ra rab 'byams, gTsang smyon and Tsering ma on 291v and 292r."</handNote>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
                   </handDesc>
                   <decoDesc>
-                     <decoNote>good</decoNote>
+                     <decoNote>"Has line drawings of Milarepa and sGam po pa and of Ngan rdzong pa, Sha ra rab 'byams, gTsang smyon and Tsering ma on 291v and 292r."</decoNote>
                   </decoDesc>
                </physDesc>
-               <history>
-                  <acquisition>The songs of Milarepa</acquisition>
-               </history>
+               <history/>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
@@ -118,14 +122,14 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>chart</term>
+                     <term>"Mi-la-ras-pa, 1040-1123"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

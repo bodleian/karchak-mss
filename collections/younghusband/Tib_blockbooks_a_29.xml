@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1062">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1085">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,44 +63,49 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.29</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The Biography of Padmasambhava from U rgyan Gling pa's cycle</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_29-item1">
-                     <title key="work_910" xml:lang="510 x 80">ཨུ་རྒྱན་གྷུ་རུ་པདྨ་འབྱུང་གནས་ཀྱི་སྐྱེས་རབས་རྣམ་པར་ཐར་པ་རྒྱས་པར་བཀོད་པ་པདྨ་བཀའི་ཐང་ཡིག་ཅེས་བྱ་བ་བཞུགས་སོ༔</title>
-                     <title type="margin" xml:lang="bo">"[2 lines in Lentsa script], u rgyan skad du: ru a k+Sha sha ka ra Na: bod skad du: g+hu ru pad+ma 'byung gnas kyi skyes rabs rnam par thar pa zhes bya ba: bden pa rang byung sangs rgyas sku lnga 'chang : sna tshogs thabs kyis sems can bde la bkod: gdul bya'i bsam pa yongs su rdzogs mdzad pa'i: skye shi mi mnga' rdo rje'i sku la 'dud:"</title>
+                     <title key="" xml:lang="bo">ཨུ་རྒྱན་གྷུ་རུ་པདྨ་འབྱུང་གནས་ཀྱི་སྐྱེས་རབས་རྣམ་པར་ཐར་པ་རྒྱས་པར་བཀོད་པ་པདྨ་བཀའི་ཐང་ཡིག་ཅེས་བྱ་བ་བཞུགས་སོ༔</title>
+                     <title key="">u rgyan g+hu ru pad+ma 'byung gnas kyi skyes rabs rnam par thar pa rgyas par bkod pa pad+ma bka'i thang yig ces bya ba bzhugs so:</title>
                      <author key="person_2017054730">
-                        <persName xml:lang="bo">u rgyan g+hu ru pad+ma 'byung gnas kyi skyes rabs rnam par thar pa rgyas par bkod pa pad+ma bka'i thang yig ces bya ba bzhugs so:</persName> (<persName xml:lang="510 x 80">ཨུ་རྒྱན་གླིང་པ</persName>)</author>
-                     <incipit xml:lang="bo">chu 'brug zla ba bzhi pa'i tshes brgyad gza' zla ba dang skar ma dbo 'dzom pa'i nyin yar klung shel gyi brag rdzong pad+ma brtsegs pa'i ngos pad+ma shel phug gi sgo srungs khyab 'jug chen po'i thugs ka nas g+hu ru u rgyan gling pas/ las ldan gyi grogs gzhu kun ra ba hor pa sgom shAk dang bcas gter nas spyan drangs pa'o/ /... phyi mo'i rigs ji snyed pa bsags/ khyad par du gter ston gyi phyag bris las bshus zer ba zhig dang / yig rnying bal ris kyi dbu lha yod pa zhig dang / u rgyan gling pa 'i gdung brgyud kyis bzhengs pa e'i par ma gsum cung zad dag par 'dug pas ga bstun/ brda rnying dang yul gru tha dad pa'i skad bag tsam snang ba rang sor bzhag/ skabs 'gar go ba phyin ci log ci rigs 'dug pas/ mnga' bdag nyang gi gter ma rnam thar zangs gling mar grags pa sogs dang yang bstun nas gya tshoms su ma brgal bar nan gyis zhus te dag par byas yod pas rnam dpyod kyi blo gros dang ldan pa rnams kyis yid ches pa'i gnas su rig par bya'o//</incipit>
-                     <explicit xml:lang="bo">sangs rgyas kun 'dus pad+ma 'byung gnas la phyag 'tshal lo/ /ye nas ka dag ngo bo kun bzang 'od mtha' yas pa chos kyi sku/ /lhun grub rang bzhin rigs brgya'i rang snang spyan ras gzigs mgon longs spyod rdzogs/ /... ces dpal sangs rgyas gnyis pa o+oD+Di ya na'i slob dpon chen po pad+ma 'byung gnas kyi rnam par thar pa gter kha gong 'og ba khal smug po sogs gter byon mang por rgyas bsdus dang / gdul bya'i blo dang bstun pa'i rigs mi gcig pa sna tshogs snang zhing pad+ma bka'i thang yig la yang rdo rje gling pa sangs rgyas gling pa sogs gter kha 'ga' yar 'dug pa'i rgyal sras lha rje gter ston rkyang ba'i skye ba bcu gsum blangs pa yar rje o+yan gling pas bka' 'dus chos kyi rgya mtshos thog drangs chos bka' mtha' klas pa bton pas gter smyon du grags shing pad+ma bka'i thang yid 'di nyid chu 'brug zla ba bzhi pa'i tshe brgyad gza' zla ba dang skar ma dbo 'dzom pa'i nyin yar klungs shel gyi brag rdzong pad+ma brtsegs pa'i ngos pad+ma shel phug gi sgo srung khyab 'jug chen po'i thugs ka nas gu ru o+yan gling pas las ldan gyi grogs gzhu kun ra ba hor pa sgom shAkwa dang bcas gter nas spyan drangs pa la yi ger lhad zhugs pa'i dpe sna tshogs shig 'dug pa lo chen bai ro 'i rnam 'phrul gter ston shes rab 'od zer kyi dgongs pa skong slad/ rgya gar gyi rgyal rigs sA la pa chen po / bod yul 'dir gnam gyis bskos pa'i rgyal po dpal phag mo gru pa'i mdun na 'don/ hor mi dbang bsod nams stobs rgyal gyis sbyin bdag mdzad/ gter ston gyi phyag bris ma'i bu yig sogs yi ge rnying pa khungs btsun pa rnams la brten nas paN chen r-i zangs tog pas zhus dag pa'i 'phyong rgyas dpal ri'i par zhes tshad thub tu byed na'ang 'phrin las ha cang ches pa'i yig 'bru thor ba dang mi gsal ba kha yar 'dug pa lho brag sprul pa'i sku'i chos 'byung dang sog bzlod pa blo gros rgyal mtshan zhes pa rnam dpyod dang ldan pa des brtsams pa'i o+yan chen po'i rnam thar ltar gter ston rdo rje gro lod kyi lung bstan dpe rnying pa lcags smyug ma nas rnyed pa mchog sprul legs ldan rdo rje'-i dus rtags sogs gsal por snang bas gsar du bcug pa tsam las bcos med 'di dpal o+yan chen po'i zab gter nas lung gis zin pa grong smad pa sangs rgyas rgya mtshos par gsar pa zhig brkos na zhes bskul bas rkyen byas/ rang nyid kyang mi phyed pa'i dad pas yid drangs te kha ba ri pa rnams la gcig tu phan pa'i chos sbyin mi zad pa'i par za hor gyi rigs las sngags pa rgan po che mchog 'dus pa rtsal pad+mas ming btags rdo rje thogs med rtsal du 'bod pas par byang dang bcas te 'du gyis nas shing yos dga' ldan phun tshogs gling du brko rgyur bsrings pa/ par zhus dang do dam pa yar 'brog pa dge slong blo gros brtan pa/ rtse skor ba dge slong blo gsal mkhas pa/ bkra gling dge slong smra ba'i dbang phyug gsum dang / yig mkhan blo bzang dam chos/ ... dbu bla 'dri mi bzhad pa tha' yas rnams kyis byas te me 'brug khyu mchog zla ba'i nyer bzhi'i rgyal phur gyi 'grub sbyor thog legs par grub pa'i par byang gi yi ge pa rigs 'dzin gyi btsun pa 'jam dbyangs grags pas bgyis pa can gyis par nyid la 'bru len du byas te slar yang me pho spre'u'i lor gsar du bskrun pa 'dis kyang stod smad bar gsum gyi 'dre ngan sogs nag po bdud kyi dpung tshogs rmed med du 'joms shing bde skyid rdzogs ldan gyi dpal la 'gran pa'i dga' ston la spyod pa'i bsams don ma lus pa lhun gyis grub par gyur cig/ mang+gA laM/</explicit>
-                     <colophon xml:lang="bo">"This is a biography of Padmasambhava, printed in 1675 in Dga' 'dan Phun tshogs gling. The Vth Dalai Lama edited the text using various sources. There is a copy under shelfmark Tib. blockbooks a.28"</colophon>
+                        <persName xml:lang="bo">ཨུ་རྒྱན་གླིང་པ</persName> (<persName>u rgyan gling pa</persName>)</author>
+                     <note>"This is a biography of Padmasambhava, printed in 1675 in Dga' 'dan Phun tshogs gling. The Vth Dalai Lama edited the text using various sources. There is a copy under shelfmark Tib. blockbooks a.28"</note>
+                     <incipit xml:lang="bo">"[2 lines in Lentsa script], u rgyan skad du: ru a k+Sha sha ka ra Na: bod skad du: g+hu ru pad+ma 'byung gnas kyi skyes rabs rnam par thar pa zhes bya ba: bden pa rang byung sangs rgyas sku lnga 'chang : sna tshogs thabs kyis sems can bde la bkod: gdul bya'i bsam pa yongs su rdzogs mdzad pa'i: skye shi mi mnga' rdo rje'i sku la 'dud:"</incipit>
+                     <explicit xml:lang="bo">chu 'brug zla ba bzhi pa'i tshes brgyad gza' zla ba dang skar ma dbo 'dzom pa'i nyin yar klung shel gyi brag rdzong pad+ma brtsegs pa'i ngos pad+ma shel phug gi sgo srungs khyab 'jug chen po'i thugs ka nas g+hu ru u rgyan gling pas/ las ldan gyi grogs gzhu kun ra ba hor pa sgom shAk dang bcas gter nas spyan drangs pa'o/ /... phyi mo'i rigs ji snyed pa bsags/ khyad par du gter ston gyi phyag bris las bshus zer ba zhig dang / yig rnying bal ris kyi dbu lha yod pa zhig dang / u rgyan gling pa 'i gdung brgyud kyis bzhengs pa e'i par ma gsum cung zad dag par 'dug pas ga bstun/ brda rnying dang yul gru tha dad pa'i skad bag tsam snang ba rang sor bzhag/ skabs 'gar go ba phyin ci log ci rigs 'dug pas/ mnga' bdag nyang gi gter ma rnam thar zangs gling mar grags pa sogs dang yang bstun nas gya tshoms su ma brgal bar nan gyis zhus te dag par byas yod pas rnam dpyod kyi blo gros dang ldan pa rnams kyis yid ches pa'i gnas su rig par bya'o//</explicit>
+                     <colophon xml:lang="bo">sangs rgyas kun 'dus pad+ma 'byung gnas la phyag 'tshal lo/ /ye nas ka dag ngo bo kun bzang 'od mtha' yas pa chos kyi sku/ /lhun grub rang bzhin rigs brgya'i rang snang spyan ras gzigs mgon longs spyod rdzogs/ /... ces dpal sangs rgyas gnyis pa o+oD+Di ya na'i slob dpon chen po pad+ma 'byung gnas kyi rnam par thar pa gter kha gong 'og ba khal smug po sogs gter byon mang por rgyas bsdus dang / gdul bya'i blo dang bstun pa'i rigs mi gcig pa sna tshogs snang zhing pad+ma bka'i thang yig la yang rdo rje gling pa sangs rgyas gling pa sogs gter kha 'ga' yar 'dug pa'i rgyal sras lha rje gter ston rkyang ba'i skye ba bcu gsum blangs pa yar rje o+yan gling pas bka' 'dus chos kyi rgya mtshos thog drangs chos bka' mtha' klas pa bton pas gter smyon du grags shing pad+ma bka'i thang yid 'di nyid chu 'brug zla ba bzhi pa'i tshe brgyad gza' zla ba dang skar ma dbo 'dzom pa'i nyin yar klungs shel gyi brag rdzong pad+ma brtsegs pa'i ngos pad+ma shel phug gi sgo srung khyab 'jug chen po'i thugs ka nas gu ru o+yan gling pas las ldan gyi grogs gzhu kun ra ba hor pa sgom shAkwa dang bcas gter nas spyan drangs pa la yi ger lhad zhugs pa'i dpe sna tshogs shig 'dug pa lo chen bai ro 'i rnam 'phrul gter ston shes rab 'od zer kyi dgongs pa skong slad/ rgya gar gyi rgyal rigs sA la pa chen po / bod yul 'dir gnam gyis bskos pa'i rgyal po dpal phag mo gru pa'i mdun na 'don/ hor mi dbang bsod nams stobs rgyal gyis sbyin bdag mdzad/ gter ston gyi phyag bris ma'i bu yig sogs yi ge rnying pa khungs btsun pa rnams la brten nas paN chen r-i zangs tog pas zhus dag pa'i 'phyong rgyas dpal ri'i par zhes tshad thub tu byed na'ang 'phrin las ha cang ches pa'i yig 'bru thor ba dang mi gsal ba kha yar 'dug pa lho brag sprul pa'i sku'i chos 'byung dang sog bzlod pa blo gros rgyal mtshan zhes pa rnam dpyod dang ldan pa des brtsams pa'i o+yan chen po'i rnam thar ltar gter ston rdo rje gro lod kyi lung bstan dpe rnying pa lcags smyug ma nas rnyed pa mchog sprul legs ldan rdo rje'-i dus rtags sogs gsal por snang bas gsar du bcug pa tsam las bcos med 'di dpal o+yan chen po'i zab gter nas lung gis zin pa grong smad pa sangs rgyas rgya mtshos par gsar pa zhig brkos na zhes bskul bas rkyen byas/ rang nyid kyang mi phyed pa'i dad pas yid drangs te kha ba ri pa rnams la gcig tu phan pa'i chos sbyin mi zad pa'i par za hor gyi rigs las sngags pa rgan po che mchog 'dus pa rtsal pad+mas ming btags rdo rje thogs med rtsal du 'bod pas par byang dang bcas te 'du gyis nas shing yos dga' ldan phun tshogs gling du brko rgyur bsrings pa/ par zhus dang do dam pa yar 'brog pa dge slong blo gros brtan pa/ rtse skor ba dge slong blo gsal mkhas pa/ bkra gling dge slong smra ba'i dbang phyug gsum dang / yig mkhan blo bzang dam chos/ ... dbu bla 'dri mi bzhad pa tha' yas rnams kyis byas te me 'brug khyu mchog zla ba'i nyer bzhi'i rgyal phur gyi 'grub sbyor thog legs par grub pa'i par byang gi yi ge pa rigs 'dzin gyi btsun pa 'jam dbyangs grags pas bgyis pa can gyis par nyid la 'bru len du byas te slar yang me pho spre'u'i lor gsar du bskrun pa 'dis kyang stod smad bar gsum gyi 'dre ngan sogs nag po bdud kyi dpung tshogs rmed med du 'joms shing bde skyid rdzogs ldan gyi dpal la 'gran pa'i dga' ston la spyod pa'i bsams don ma lus pa lhun gyis grub par gyur cig/ mang+gA laM/</colophon>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>"1, 235 ff." <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>"1, 235 ff."<dimensions unit="cm" type="leaf">
+                              <width>510</width>
+                              <height>80</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>490</width>
                               <height>60</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height>717</height>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <condition>poor</condition>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>"Folio 1 verso has 3 lines drawings, of Ye shes mtsho rgyal (Mkha' 'gro'i gtso mo mkha' chen bza'), Padmasambhava (Sangs rgyas gnyis pa Oyan rje), O rgya Gling pa (Zab gter 'byed mdzad Oyan gling pa) ; f.2r, 2 illustrations, of Gter ston Legs ldan rdo rje (Mnga' ris Gter chen legs ldan rje), Chos rgyal Rin chen Phun tshogs ; f. 2v, 2 illustrations of Bkra shis stobs rgyal (Bkra shis stobs rgyal dbang po'i sde) ; Rigs 'dzin Kun dga' tshe mchog ; f.3r, 2 illustrations, of Sngags 'chang Gzhon nu don grub, Kun mkhyen Chos dbyings rang sar grol ; f.235r, 2 illustrations, of Sde brgyad Dmag dpon RU"</handNote>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
                   </handDesc>
                   <decoDesc>
-                     <decoNote>poor</decoNote>
+                     <decoNote>"Folio 1 verso has 3 lines drawings, of Ye shes mtsho rgyal (Mkha' 'gro'i gtso mo mkha' chen bza'), Padmasambhava (Sangs rgyas gnyis pa Oyan rje), O rgya Gling pa (Zab gter 'byed mdzad Oyan gling pa) ; f.2r, 2 illustrations, of Gter ston Legs ldan rdo rje (Mnga' ris Gter chen legs ldan rje), Chos rgyal Rin chen Phun tshogs ; f. 2v, 2 illustrations of Bkra shis stobs rgyal (Bkra shis stobs rgyal dbang po'i sde) ; Rigs 'dzin Kun dga' tshe mchog ; f.3r, 2 illustrations, of Sngags 'chang Gzhon nu don grub, Kun mkhyen Chos dbyings rang sar grol ; f.235r, 2 illustrations, of Sde brgyad Dmag dpon RU"</decoNote>
                   </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
                </physDesc>
                <history>
-                  <acquisition>The Biography of Padmasambhava from U rgyan Gling pa's cycle</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -117,17 +122,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_n82009530">"O-rgyan-gling-pa, Gter-ston, 1323-"</term>
+                     <term>"Padma Sambhava, approximately 717-approximately 762"</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term key="subject_n82009530">"O-rgyan-gling-pa, Gter-ston, 1323-"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

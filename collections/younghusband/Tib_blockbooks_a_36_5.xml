@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1094">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1117">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,42 +63,49 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.36.5</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The ritual for longevity</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_36_5-item1">
-                     <title key="work_938" xml:lang="bo">sgra snyan</title>
-                     <title key="work_938" xml:lang="560 x 100">སྒྲ་མི་སྙན་གྱི་ཚེ་སྒྲུབ་བཞུགས་སོ། །</title>
-                     <title type="margin" xml:lang="bo">rtsa brgyud bla ma'i zhabs btud nas/ /tshe yi rig 'dzin sgrub pa'i thabs/ /kun mkhyen bla ma'i gdams pa bzhin/ /'dir ni gsal bar 'dri bar bya/</title>
-                     <title type="margin" xml:lang="560 x 100">སྒྲ་སྙན</title>
+                     <title key="" xml:lang="bo">སྒྲ་མི་སྙན་གྱི་ཚེ་སྒྲུབ་བཞུགས་སོ། །</title>
+                     <title key="">sgra mi snyan gyi tshe sgrub bzhugs so/ /</title>
+                     <title type="margin" xml:lang="bo">སྒྲ་སྙན</title>
+                     <title type="margin">sgra snyan</title>
                      <author key="person_2017054734">
-                        <persName xml:lang="bo">sgra mi snyan gyi tshe sgrub bzhugs so/ /</persName> (<persName xml:lang="560 x 100">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName>)</author>
-                     <note>TBRC: W489</note>
-                     <incipit xml:lang="bo">zhal gdams yi ger bris pa la/ /ma yis bu gcig pa la bzhin/ /chos bdag rnams kyis bzod par mdzod/ /dge bas 'gro ba ma lus pa/ /'chi bdag bdud las rab rgyal te/ /rdo rje'i tshe ni thob par shog /'di yang mkhas btsun bla ma'i gsung bzhin bkod pa'o// //shu b+ha mastu/ sar+ba mang+ga laM// //</incipit>
+                        <persName xml:lang="bo">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName> (<persName>tsong kha pa blo bzang grags pa</persName>)</author>
+                     <incipit xml:lang="bo">rtsa brgyud bla ma'i zhabs btud nas/ /tshe yi rig 'dzin sgrub pa'i thabs/ /kun mkhyen bla ma'i gdams pa bzhin/ /'dir ni gsal bar 'dri bar bya/</incipit>
+                     <explicit xml:lang="bo">zhal gdams yi ger bris pa la/ /ma yis bu gcig pa la bzhin/ /chos bdag rnams kyis bzod par mdzod/ /dge bas 'gro ba ma lus pa/ /'chi bdag bdud las rab rgyal te/ /rdo rje'i tshe ni thob par shog /'di yang mkhas btsun bla ma'i gsung bzhin bkod pa'o// //shu b+ha mastu/ sar+ba mang+ga laM// //</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W489</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>5ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>5ff<dimensions unit="cm" type="leaf">
+                              <width>560</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>500</width>
                               <height>70</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height/>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <condition>good</condition>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>The ritual for longevity</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -115,17 +122,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>"Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419"</term>
+                     <term>Āyuḥsādhana (Buddhist rite)</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term>"Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

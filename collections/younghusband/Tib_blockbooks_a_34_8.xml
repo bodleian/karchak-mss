@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1088">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1111">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,39 +63,40 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.34.8</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The list of book titles in volume Ca of Tsong kha pa's writings</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_34_8-item1">
-                     <title key="work_933" xml:lang="bo">dkar chag</title>
-                     <title type="margin" xml:lang="bo">ca par sgron gsal rgya cher bshad pas 'chad pa'i sa bcad bsdus don la/ 32 rgyud kyi rgyal po dpal gsang ba 'dus pa'i rgya cher bshad pa sgrol ma gsal ba'i dka' ba'i gnas kyi mtha' gcod rin chen myu gu la/ 143</title>
-                     <title type="margin" xml:lang="560 x 100">དཀར་ཆག</title>
+                     <title key="">[ no title ]</title>
+                     <title type="margin" xml:lang="bo">དཀར་ཆག</title>
+                     <title type="margin">dkar chag</title>
                      <author key="person_2017054734">
-                        <persName xml:lang="bo">[ no title ]</persName> (<persName xml:lang="560 x 100">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName>)</author>
-                     <incipit xml:lang="bo">ba' ser dka' bcu pas rje la gsan pa'i gsang 'dus bskyed rim zin bris la/ 40 gsang 'dus dka' gnas zin bris la/ 25 khyon/ 435</incipit>
+                        <persName xml:lang="bo">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName> (<persName>tsong kha pa blo bzang grags pa</persName>)</author>
+                     <incipit xml:lang="bo">ca par sgron gsal rgya cher bshad pas 'chad pa'i sa bcad bsdus don la/ 32 rgyud kyi rgyal po dpal gsang ba 'dus pa'i rgya cher bshad pa sgrol ma gsal ba'i dka' ba'i gnas kyi mtha' gcod rin chen myu gu la/ 143</incipit>
+                     <explicit xml:lang="bo">ba' ser dka' bcu pas rje la gsan pa'i gsang 'dus bskyed rim zin bris la/ 40 gsang 'dus dka' gnas zin bris la/ 25 khyon/ 435</explicit>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>1ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>1ff<dimensions unit="cm" type="leaf">
+                              <width>560</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>490</width>
                               <height>70</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height>1357</height>
-                           </dimensions>
                         </extent>
+                        <condition>good</condition>
                      </supportDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>The list of book titles in volume Ca of Tsong kha pa's writings</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -112,14 +113,14 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>chart</term>
+                     <term>"Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

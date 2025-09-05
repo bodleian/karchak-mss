@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1106">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1129">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,46 +63,51 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.40.1</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The liturgy for a consecration ritual</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_40_1-item1">
-                     <title key="work_947" xml:lang="bo">rab gnas</title>
-                     <title key="work_947" xml:lang="560 x 95">རབ་ཏུ་གནས་པའི་ཆོ་ག་ལག་ལེན་དུ་དྲིལ་བ་དགེ་ལེགས་རྒྱ་མཚོའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས༎</title>
-                     <title type="margin" xml:lang="bo">na mo gu ru manya+dzu g+ho ShA ya / 'dir sku gsung thugs kyi rten la rab tu gnas pa ji ltar bya ba'i cho ga lag len du dril ba dge legs rgya mtsho'i char 'bebs zhes bya ba/ rje btsun bla ma dam pa rnams kyi zhabs la gus pas phyag 'tshal lo/</title>
-                     <title type="margin" xml:lang="560 x 95">རབ་གནས</title>
+                     <title key="" xml:lang="bo">རབ་ཏུ་གནས་པའི་ཆོ་ག་ལག་ལེན་དུ་དྲིལ་བ་དགེ་ལེགས་རྒྱ་མཚོའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས༎</title>
+                     <title key="">rab tu gnas pa'i cho ga lag len du dril ba dge legs rgya mtsho'i char 'bebs zhes bya ba bzhugs//</title>
+                     <title type="margin" xml:lang="bo">རབ་གནས</title>
+                     <title type="margin">rab gnas</title>
                      <author key="person_115">
-                        <persName xml:lang="bo">rab tu gnas pa'i cho ga lag len du dril ba dge legs rgya mtsho'i char 'bebs zhes bya ba bzhugs//</persName> (<persName xml:lang="560 x 95">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName>)</author>
-                     <note>TBRC: W9832</note>
-                     <incipit xml:lang="bo">dgos ces nan gyis bskul ba la brten nas/ rgya bod kyi rab gnas kyi cho ga mang po'i don khong du chud par byas te 'thad cing legs pa'i cha thams cad rgyas 'bring bsdus pa'i tshul du chos smra ba blo bzang chos kyi rgyal mtshan gyis/ chos grwa chen po bkra shis lhun po'i gtsug lag khang du sbyar ba'i yi ge pa ni dge slong blo bzang phun tshogs kyis bgyis pa 'dis kyang rgyal ba'i bstan pa rin po che dar zhing rgyas la yun ring du gnas par gyur cig /</incipit>
-                     <explicit xml:lang="bo">di yi mthun rkyen bkra shis rtse ba dang / /dpon yig dge slong shes rab rgyal mtshan dang / /spar mkhan 'brug rgyal grogs mched rnams kyis bsgrubs/ /dge bas bsam don chos bzhin myur 'grub shog //dge'o/ /</explicit>
+                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (<persName>blo bzang chos kyi rgyal mtshan</persName>)</author>
+                     <incipit xml:lang="bo">na mo gu ru manya+dzu g+ho ShA ya / 'dir sku gsung thugs kyi rten la rab tu gnas pa ji ltar bya ba'i cho ga lag len du dril ba dge legs rgya mtsho'i char 'bebs zhes bya ba/ rje btsun bla ma dam pa rnams kyi zhabs la gus pas phyag 'tshal lo/</incipit>
+                     <explicit xml:lang="bo">dgos ces nan gyis bskul ba la brten nas/ rgya bod kyi rab gnas kyi cho ga mang po'i don khong du chud par byas te 'thad cing legs pa'i cha thams cad rgyas 'bring bsdus pa'i tshul du chos smra ba blo bzang chos kyi rgyal mtshan gyis/ chos grwa chen po bkra shis lhun po'i gtsug lag khang du sbyar ba'i yi ge pa ni dge slong blo bzang phun tshogs kyis bgyis pa 'dis kyang rgyal ba'i bstan pa rin po che dar zhing rgyas la yun ring du gnas par gyur cig /</explicit>
+                     <colophon xml:lang="bo">di yi mthun rkyen bkra shis rtse ba dang / /dpon yig dge slong shes rab rgyal mtshan dang / /spar mkhan 'brug rgyal grogs mched rnams kyis bsgrubs/ /dge bas bsam don chos bzhin myur 'grub shog //dge'o/ /</colophon>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W9832</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>24ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>24ff<dimensions unit="cm" type="leaf">
+                              <width>560</width>
+                              <height>95</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>470</width>
                               <height>70</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height>1570</height>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <foliation>The book has the volume marker kha</foliation>
+                        <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout/>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>The liturgy for a consecration ritual</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -119,17 +124,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>"Consecration, Buddhism"</term>
+                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term>"Consecration, Buddhism"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

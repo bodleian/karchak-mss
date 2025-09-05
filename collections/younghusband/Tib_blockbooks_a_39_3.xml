@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1102">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1125">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,43 +63,50 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.39.3</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The commentary on the Three Principal Paths</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_39_3-item1">
-                     <title key="work_943" xml:lang="bo">lam gtso</title>
-                     <title key="work_943" xml:lang="555 x 100">ལམ་གྱི་གཙོ་བོ་རྣམ་གསུམ་གྱི་རྣམ་བཤད་གསུང་རབ་ཀུན་གྱི་གནས་བསྡུས་པ་ལེགས་བཤད་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ༎ ༎</title>
-                     <title type="margin" xml:lang="bo">bla ma dang rje btsun 'jam pa'i dbyangs dbyer ma mchis pa'i zhabs la gus pas phyag 'tshal lo/ /brtse ba chen pos rjes su bzung du gsol/ /gang sngon bskal pa du ma'i snga rol nas/ /rgyal ba dbang po'i tog tu sangs rgyas kyang /</title>
-                     <title type="margin" xml:lang="555 x 100">ལམ་གཙོ</title>
+                     <title key="" xml:lang="bo">ལམ་གྱི་གཙོ་བོ་རྣམ་གསུམ་གྱི་རྣམ་བཤད་གསུང་རབ་ཀུན་གྱི་གནས་བསྡུས་པ་ལེགས་བཤད་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ༎ ༎</title>
+                     <title key="">lam gyi gtso bo rnam gsum gyi rnam bshad gsung rab kun gyi gnad bsdus pa legs bshad snying po zhes bya ba bzhugs so// //</title>
+                     <title type="margin" xml:lang="bo">ལམ་གཙོ</title>
+                     <title type="margin">lam gtso</title>
                      <author key="person_2017054725">
-                        <persName xml:lang="bo">lam gyi gtso bo rnam gsum gyi rnam bshad gsung rab kun gyi gnad bsdus pa legs bshad snying po zhes bya ba bzhugs so// //</persName> (<persName xml:lang="555 x 100">བློ་བཟང་ཡེ་ཤེས</persName>)</author>
-                     <note>TBRC: W1154</note>
-                     <incipit xml:lang="bo">thub bstan gling bzhi'i dbus su rab brjid shog/ ces lam gyi gtso bo rnam gsum gyi rnam bshad gsung rab kun gyi gnad bsdus pa legs bshad snying po zhes bya ba 'di ni/ thos bsam gling pa'i slob dpon pa lung rigs smra ba 'jam dbyangs chos 'phel gyis nan tan chen pos bskul ba la brten nas/ chos smra ba'i btsun pa blo bzang ye shes kyis bka' gdams pho brang du sbyar ba'o/ /dge legs 'phel// //</incipit>
-                     <colophon xml:lang="bo">Folios 34 and 45 are missing</colophon>
+                        <persName xml:lang="bo">བློ་བཟང་ཡེ་ཤེས</persName> (<persName>blo bzang ye shes</persName>)</author>
+                     <note>Folios 34 and 45 are missing</note>
+                     <incipit xml:lang="bo">bla ma dang rje btsun 'jam pa'i dbyangs dbyer ma mchis pa'i zhabs la gus pas phyag 'tshal lo/ /brtse ba chen pos rjes su bzung du gsol/ /gang sngon bskal pa du ma'i snga rol nas/ /rgyal ba dbang po'i tog tu sangs rgyas kyang /</incipit>
+                     <explicit xml:lang="bo">thub bstan gling bzhi'i dbus su rab brjid shog/ ces lam gyi gtso bo rnam gsum gyi rnam bshad gsung rab kun gyi gnad bsdus pa legs bshad snying po zhes bya ba 'di ni/ thos bsam gling pa'i slob dpon pa lung rigs smra ba 'jam dbyangs chos 'phel gyis nan tan chen pos bskul ba la brten nas/ chos smra ba'i btsun pa blo bzang ye shes kyis bka' gdams pho brang du sbyar ba'o/ /dge legs 'phel// //</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W1154</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>57ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>57ff<dimensions unit="cm" type="leaf">
+                              <width>555</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>485</width>
                               <height>65</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height>1570</height>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <condition>good</condition>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>The commentary on the Three Principal Paths</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -116,14 +123,14 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>chart</term>
+                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

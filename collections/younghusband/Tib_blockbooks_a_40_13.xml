@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1110">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1133">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,42 +63,49 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.40.13</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>Funerary rituals based on Sarvavid</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_40_13-item1">
-                     <title key="work_951" xml:lang="bo">kun rig</title>
-                     <title key="work_951" xml:lang="590 x 100">ཀུན་རིག་གིས་སྒོ་ནས་ཚེ་འདས་རྗེས་སུ་འཛིན་ཚུལ་བཞུགས་སོ༎</title>
-                     <title type="margin" xml:lang="bo">kun rig rnam par snang mdzad kyi cho ga'i zur 'debs tshe las 'das pa rjes su 'dzin pa'i tshul brjod pa ni/ ming byang la sogs pa mdun du bzhag la/ las bum gyi chu dang las thams cad pas bsangs la/</title>
-                     <title type="margin" xml:lang="590 x 100">ཀུན་རིག</title>
+                     <title key="" xml:lang="bo">ཀུན་རིག་གིས་སྒོ་ནས་ཚེ་འདས་རྗེས་སུ་འཛིན་ཚུལ་བཞུགས་སོ༎</title>
+                     <title key="">kun rig gi sgo nas tshe 'das rjes su 'dzin tshul bzhugs so//</title>
+                     <title type="margin" xml:lang="bo">ཀུན་རིག</title>
+                     <title type="margin">kun rig</title>
                      <author key="person_115">
-                        <persName xml:lang="bo">kun rig gi sgo nas tshe 'das rjes su 'dzin tshul bzhugs so//</persName> (<persName xml:lang="590 x 100">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName>)</author>
-                     <note>TBRC: W9789</note>
-                     <incipit xml:lang="bo">ces brjod cing bsre la/ de dag ni gshin po'i cho ga'i khyad par ro// mang+ga laM //</incipit>
+                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (<persName>blo bzang chos kyi rgyal mtshan</persName>)</author>
+                     <incipit xml:lang="bo">kun rig rnam par snang mdzad kyi cho ga'i zur 'debs tshe las 'das pa rjes su 'dzin pa'i tshul brjod pa ni/ ming byang la sogs pa mdun du bzhag la/ las bum gyi chu dang las thams cad pas bsangs la/</incipit>
+                     <explicit xml:lang="bo">ces brjod cing bsre la/ de dag ni gshin po'i cho ga'i khyad par ro// mang+ga laM //</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W9789</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>6ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>6ff<dimensions unit="cm" type="leaf">
+                              <width>590</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>490</width>
                               <height>70</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height>1570</height>
-                           </dimensions>
                         </extent>
-                        <condition>7</condition>
+                        <condition>good</condition>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="7">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>Funerary rituals based on Sarvavid</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -115,17 +122,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>Buddhist funeral rites and ceremonies</term>
+                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term>Buddhist funeral rites and ceremonies</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1061">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1084">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,36 +63,29 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.27.4</idno>
                </msIdentifier>
-               <head>5</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_27_4-item1">
-                     <title key="work_908" xml:lang="bo">sbyin sreg</title>
-                     <title key="work_908" xml:lang="">ཐུགས་རྗེ་ཆེན་པོ་རྒྱལ་བ་རྒྱ་མཚོ་ལྷ་དགུའི་ཞི་རྒྱས་ཀྱི་སྦྱིན་སྲེག་གི་ཆོ་ག་བཞུགས༎</title>
-                     <title type="margin" xml:lang="bo">na mo gu ru lo ke shwa rā ya/ tshad med thabs mkhas thugs rje'i lcags skyu yis/ /bdag 'dzin rmongs pa'i bud shing rab bkug nas/ /yin lugs legs 'byed shes rab me thab tu/ /bsreg mkhas dpal ldan bla ma'i zhabs la 'dud//</title>
-                     <title type="margin" xml:lang="">སྦྱིན་སྲེག</title>
-                     <author key="person_2017054729">
-                        <persName xml:lang="bo">thugs rje chen po rgyal ba rgya mtsho lha dgu'i zhi rgyas kyi sbyin sreg gi cho ga bzhugs//</persName>
-                     </author>
-                     <note>TBRC: W1165</note>
-                     <incipit xml:lang="bo">zhes thugs rje chen po gsang sgrub lha dgu'i zhi rgyas kyi sbyin bsreg ji ltar bya ba'i cho ga 'di yang dpon er te ni sbo shog thus bskul ba ltar shākya'i btsun pa blo bzang ye shes kyis grub chen nyid kyis mdzad pa'i sbyin sreg gi cho ga 'phrin las 'phreng ba dang rje yab sras rnams kyi gsung la brtags nas bgyis pa dge legs 'phel// pa ri br-its+tsha//</incipit>
+                     <title key="" xml:lang="bo">ཐུགས་རྗེ་ཆེན་པོ་རྒྱལ་བ་རྒྱ་མཚོ་ལྷ་དགུའི་ཞི་རྒྱས་ཀྱི་སྦྱིན་སྲེག་གི་ཆོ་ག་བཞུགས༎</title>
+                     <title key="">thugs rje chen po rgyal ba rgya mtsho lha dgu'i zhi rgyas kyi sbyin sreg gi cho ga bzhugs//</title>
+                     <title type="margin" xml:lang="bo">སྦྱིན་སྲེག</title>
+                     <title type="margin">sbyin sreg</title>
+                     <incipit xml:lang="bo">na mo gu ru lo ke shwa rā ya/ tshad med thabs mkhas thugs rje'i lcags skyu yis/ /bdag 'dzin rmongs pa'i bud shing rab bkug nas/ /yin lugs legs 'byed shes rab me thab tu/ /bsreg mkhas dpal ldan bla ma'i zhabs la 'dud//</incipit>
+                     <explicit xml:lang="bo">zhes thugs rje chen po gsang sgrub lha dgu'i zhi rgyas kyi sbyin bsreg ji ltar bya ba'i cho ga 'di yang dpon er te ni sbo shog thus bskul ba ltar shākya'i btsun pa blo bzang ye shes kyis grub chen nyid kyis mdzad pa'i sbyin sreg gi cho ga 'phrin las 'phreng ba dang rje yab sras rnams kyi gsung la brtags nas bgyis pa dge legs 'phel// pa ri br-its+tsha//</explicit>
                      <listBibl>
-                        <bibl>W1174 v.3</bibl>
+                        <bibl type="tbrc">TBRC: W1165</bibl>
                      </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
                      <supportDesc>
-                        <extent>14 ff. <dimensions unit="cm" type="written">
-                              <width/>
-                              <height>1663</height>
-                           </dimensions>
-                        </extent>
+                        <extent>14 ff.</extent>
                      </supportDesc>
                   </objectDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
                </physDesc>
-               <history/>
+               <history>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+               </history>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
@@ -108,6 +101,9 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
+                     <term key="subject_n83129960">"Blo-bzang-ye-shes, Panchen Lama V, 1663-1737"</term>
+                  </item>
+                  <item>
                      <term key="subject_sh85037431">Dge-lugs-pa (Sect) Doctrines</term>
                   </item>
                </list>
@@ -115,7 +111,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

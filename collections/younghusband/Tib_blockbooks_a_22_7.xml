@@ -63,45 +63,46 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.22.7</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>Some dhāraṇis and mantras such a Dhvajāgrakeyure</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_22_7-item1">
-                     <title key="work_901" xml:lang="bo">rig</title>
-                     <title key="work_901" xml:lang="515 x 100">རྒྱལ་མཚན་རྩེ་མོ་ལ་སོགས་པའི་གཟུངས་སྔགས་འགར་བཞུགས༎</title>
-                     <title type="margin" xml:lang="bo">rgya gar skad du / Ar+ya d+hwa dzA gra ye nA ma d+ha ra Ni/ bod skad du / 'phags pa rgyal mtshan gyi rtse mo'i dpung rgyan zhes bya ba'i gzungs/ sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo / 'di skad bdag gis thos pa dus gcig na / bcom ldan 'das sum cu rtsa gsum pa'i lha'i nang na lwa pa dkar po lta bu'i rdo leb bzhugs te/</title>
-                     <title type="margin" xml:lang="515 x 100">རིག</title>
-                     <author key="person_2017054720">
-                        <persName xml:lang="bo">rgyal mtshan rtse mo la sogs pa'i gzungs sngags 'gar bzhugs//</persName>
-                     </author>
-                     <incipit xml:lang="bo">phyir zlog pa rnam par rgyal ba'i gzungs rdzogs so//</incipit>
-                     <explicit xml:lang="bo">zhus dag/ //dge zhing bkra shis par gyur cig/</explicit>
+                     <title key="" xml:lang="bo">རྒྱལ་མཚན་རྩེ་མོ་ལ་སོགས་པའི་གཟུངས་སྔགས་འགར་བཞུགས༎</title>
+                     <title key="">rgyal mtshan rtse mo la sogs pa'i gzungs sngags 'gar bzhugs//</title>
+                     <title type="margin" xml:lang="bo">རིག</title>
+                     <title type="margin">rig</title>
+                     <note>zhus dag/ //dge zhing bkra shis par gyur cig/</note>
+                     <incipit xml:lang="bo">rgya gar skad du / Ar+ya d+hwa dzA gra ye nA ma d+ha ra Ni/ bod skad du / 'phags pa rgyal mtshan gyi rtse mo'i dpung rgyan zhes bya ba'i gzungs/ sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo / 'di skad bdag gis thos pa dus gcig na / bcom ldan 'das sum cu rtsa gsum pa'i lha'i nang na lwa pa dkar po lta bu'i rdo leb bzhugs te/</incipit>
+                     <explicit xml:lang="bo">phyir zlog pa rnam par rgyal ba'i gzungs rdzogs so//</explicit>
                      <colophon xml:lang="bo">zhus dag/ //dge zhing bkra shis par gyur cig/</colophon>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent> 
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>
                            <dimensions unit="cm" type="leaf">
+                              <width>515</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>420</width>
                               <height>70</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height/>
-                           </dimensions>
                         </extent>
-                        <condition>7</condition>
+                        <condition>good</condition>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="7">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
-               <history>
-                  <acquisition>Some dhāraṇis and mantras such a Dhvajāgrakeyure</acquisition>
-               </history>
+               <history/>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
@@ -117,17 +118,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh93005260">Buddhist dhāraṇī</term>
+                     <term key="subject_sh85017565">Buddhist mantras</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term key="subject_sh93005260">Buddhist dhāraṇī</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1114">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1137">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,42 +63,44 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.40.17</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>A supplementary supplication</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_40_17-item1">
-                     <title key="work_955" xml:lang="bo">gsang mngon kha skong</title>
-                     <title type="margin" xml:lang="bo">gsol gdab kyi rim pa ni/ las kyi rdo rjes phyag gsum 'tshal/ thal mo sbyar nas/ rdor dril byin brlab mdzad par zhu zhes pa dang /</title>
-                     <title type="margin" xml:lang="580 x 100">གསང་མངོན་ཁ་སྐོང</title>
-                     <author key="person_2017054739">
-                        <persName xml:lang="bo">[no title] gsol gdab kyi rim pa ni/</persName>
-                     </author>
-                     <incipit xml:lang="bo">gtso bos bshags pa dang bsdam pa sngon du 'gro ba can gyi lha'i rnal 'byor la gnas par zhu/ zhes brjod nas/ yid kyi rol pa dri med zla 'dras bsgrubs/ /zhes pa nas 'jug go/ mang+ga laM//</incipit>
-                     <colophon xml:lang="bo">There are two copies of this single page supplication manual</colophon>
+                     <title key="work_913">[no title] gsol gdab kyi rim pa ni/</title>
+                     <title type="margin" xml:lang="bo">གསང་མངོན་ཁ་སྐོང</title>
+                     <title type="margin">gsang mngon kha skong</title>
+                     <note>There are two copies of this single page supplication manual</note>
+                     <incipit xml:lang="bo">gsol gdab kyi rim pa ni/ las kyi rdo rjes phyag gsum 'tshal/ thal mo sbyar nas/ rdor dril byin brlab mdzad par zhu zhes pa dang /</incipit>
+                     <explicit xml:lang="bo">gtso bos bshags pa dang bsdam pa sngon du 'gro ba can gyi lha'i rnal 'byor la gnas par zhu/ zhes brjod nas/ yid kyi rol pa dri med zla 'dras bsgrubs/ /zhes pa nas 'jug go/ mang+ga laM//</explicit>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>1ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>1ff<dimensions unit="cm" type="leaf">
+                              <width>580</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>490</width>
                               <height>70</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height>1570</height>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <condition>good</condition>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>A supplementary supplication</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -115,17 +117,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>Tripiṭaka. Sūtrapiṭaka. Tantra. Guhyasamājatantra</term>
+                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term>Tripiṭaka. Sūtrapiṭaka. Tantra. Guhyasamājatantra</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

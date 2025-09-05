@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1096">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1119">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,46 +63,51 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.36.7</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The ritual of Hundred gTor ma offering</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_36_7-item1">
-                     <title key="work_940" xml:lang="bo">gtor ma</title>
-                     <title key="work_940" xml:lang="560 x 100">གཏོར་མ་བརྒྱ་རྩའི་རིམ་པ་མཚུངས་མེད་ཆོས་ཀྱི་རྗེ་བློ་བཟང་གྲགས་པའི་ཕྱག་ལེན་བཞུགས་སོ༎</title>
-                     <title type="margin" xml:lang="bo">bla ma dam pa rnams la phyag 'tshal lo/ /gtor ma brgya rtsa gtong ba'i tshul 'di la/ sngon 'gro'i rim pa/ dngos gzhi'i cho ga /mjug gi bya ba gsum gyi/ dang po ni/ gtor ma'i snod bsham pa'i tshul/</title>
-                     <title type="margin" xml:lang="560 x 100">གཏོར་མ</title>
+                     <title key="" xml:lang="bo">གཏོར་མ་བརྒྱ་རྩའི་རིམ་པ་མཚུངས་མེད་ཆོས་ཀྱི་རྗེ་བློ་བཟང་གྲགས་པའི་ཕྱག་ལེན་བཞུགས་སོ༎</title>
+                     <title key="">gtor ma brgya rtsa'i rim pa mtshungs med chos kyi rje blo bzang grags pa'i phyag len bzhugs so//</title>
+                     <title type="margin" xml:lang="bo">གཏོར་མ</title>
+                     <title type="margin">gtor ma</title>
                      <author key="person_2017054734">
-                        <persName xml:lang="bo">gtor ma brgya rtsa'i rim pa mtshungs med chos kyi rje blo bzang grags pa'i phyag len bzhugs so//</persName> (<persName xml:lang="560 x 100">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName>)</author>
-                     <note>TBRC: W491</note>
-                     <incipit xml:lang="bo">rab tu byung ba rnams kyis rgyu chung la 'bras bu che ba sbyin pa rnam pa gsum ldan gyi ngo bo gtor ma brgya rtsa la brtson par bya'o//</incipit>
-                     <explicit xml:lang="bo">oM swasti/ phan bde'i 'byung gnas rgyal bstan yong 'du'i ljon/ /rab rgyas 'gro kun thar mchog 'bras bzang la/ /spyod phyir bkra shis lhun grub chos grwa cher/ /chos sbyin 'dzad med dal 'gro'i rgyun 'di spel// sar+ba mang+ga laM/ bkra shis/ /</explicit>
+                        <persName xml:lang="bo">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName> (<persName>tsong kha pa blo bzang grags pa</persName>)</author>
+                     <incipit xml:lang="bo">bla ma dam pa rnams la phyag 'tshal lo/ /gtor ma brgya rtsa gtong ba'i tshul 'di la/ sngon 'gro'i rim pa/ dngos gzhi'i cho ga /mjug gi bya ba gsum gyi/ dang po ni/ gtor ma'i snod bsham pa'i tshul/</incipit>
+                     <explicit xml:lang="bo">rab tu byung ba rnams kyis rgyu chung la 'bras bu che ba sbyin pa rnam pa gsum ldan gyi ngo bo gtor ma brgya rtsa la brtson par bya'o//</explicit>
+                     <colophon xml:lang="bo">oM swasti/ phan bde'i 'byung gnas rgyal bstan yong 'du'i ljon/ /rab rgyas 'gro kun thar mchog 'bras bzang la/ /spyod phyir bkra shis lhun grub chos grwa cher/ /chos sbyin 'dzad med dal 'gro'i rgyun 'di spel// sar+ba mang+ga laM/ bkra shis/ /</colophon>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W491</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>10ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>10ff<dimensions unit="cm" type="leaf">
+                              <width>560</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>500</width>
                               <height>70</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height>1357</height>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <foliation>The book has the volume marker khar</foliation>
+                        <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout/>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>The ritual of Hundred gTor ma offering</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -119,17 +124,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85057561">Gtor-ma (Buddhist liturgical object)</term>
+                     <term>"Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419"</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term key="subject_sh85057561">Gtor-ma (Buddhist liturgical object)</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

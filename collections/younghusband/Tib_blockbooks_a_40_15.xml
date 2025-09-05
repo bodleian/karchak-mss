@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1112">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1135">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,42 +63,49 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.40.15</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The manual for practice of Cakraśaṃvara</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_40_15-item1">
-                     <title key="work_953" xml:lang="bo">bde dkyil</title>
-                     <title key="work_953" xml:lang="590 x 100">བཅོམ་ལྡན་འདས་དཔལ་འཁོར་ལོ་བདེ་མཆོག་ལཱུ་ཨི་པའི་ལུགས་ཀྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་བདེ་ཆེན་རོལ་མཚོ་ཞེས་བྱ་བ་མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་པོས་མཛད་པ་བཞུགས་སྷོ། །</title>
-                     <title type="margin" xml:lang="bo">bcom ldan 'das dpal 'khor lo bde mchog lo i pa'i lugs kyi dkyil 'khor gyi cho ga bde chen rol mtsho zhes bya ba he ru ka dang dbyer ma mchis pa'i dpal ldan bla ma dam pa'i zhabs la gus pa chen pos phyag 'tshal lo/ /bde chen dpa' bo 'jig pa'i bskal pa ston pa'i 'od can thod pa'i rgyan gyis rnam par sgeg</title>
-                     <title type="margin" xml:lang="590 x 100">བདེ་དཀྱིལ</title>
+                     <title key="" xml:lang="bo">བཅོམ་ལྡན་འདས་དཔལ་འཁོར་ལོ་བདེ་མཆོག་ལཱུ་ཨི་པའི་ལུགས་ཀྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་བདེ་ཆེན་རོལ་མཚོ་ཞེས་བྱ་བ་མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་པོས་མཛད་པ་བཞུགས་སྷོ། །</title>
+                     <title key="">bcom ldan 'das dpal 'khor lo bde mchog lU i pa'i lugs kyi dkyil 'khor gyi cho ga bde chen rol mtsho zhes bya ba mkhas grub dge legs dpal bzang pos mdzad pa bzhugs so+ha/ /</title>
+                     <title type="margin" xml:lang="bo">བདེ་དཀྱིལ</title>
+                     <title type="margin">bde dkyil</title>
                      <author key="person_2017054737">
-                        <persName xml:lang="bo">bcom ldan 'das dpal 'khor lo bde mchog lU i pa'i lugs kyi dkyil 'khor gyi cho ga bde chen rol mtsho zhes bya ba mkhas grub dge legs dpal bzang pos mdzad pa bzhugs so+ha/ /</persName> (<persName xml:lang="590 x 100">དགེ་ལེགས་དཔལ་བཟང</persName>)</author>
-                     <note>TBRC: W373</note>
-                     <incipit xml:lang="bo">rdo rje 'chang dang dbyer ma mchis pa'i rje btsun bla ma/ tsong kha pa chen po nyid kyi zhabs kyi pad+mo la spyi bos reg pa'i rdo rje 'dzin pa dge legs dpal bzang pos/ gtsang nyang stod rig pa'i 'byung gnas kyi sa cha/ dpal ri bo mdangs can gyi dgon par sbyar ba'o// //mang+ga laM//</incipit>
+                        <persName xml:lang="bo">དགེ་ལེགས་དཔལ་བཟང</persName> (<persName>dge legs dpal bzang</persName>)</author>
+                     <incipit xml:lang="bo">bcom ldan 'das dpal 'khor lo bde mchog lo i pa'i lugs kyi dkyil 'khor gyi cho ga bde chen rol mtsho zhes bya ba he ru ka dang dbyer ma mchis pa'i dpal ldan bla ma dam pa'i zhabs la gus pa chen pos phyag 'tshal lo/ /bde chen dpa' bo 'jig pa'i bskal pa ston pa'i 'od can thod pa'i rgyan gyis rnam par sgeg</incipit>
+                     <explicit xml:lang="bo">rdo rje 'chang dang dbyer ma mchis pa'i rje btsun bla ma/ tsong kha pa chen po nyid kyi zhabs kyi pad+mo la spyi bos reg pa'i rdo rje 'dzin pa dge legs dpal bzang pos/ gtsang nyang stod rig pa'i 'byung gnas kyi sa cha/ dpal ri bo mdangs can gyi dgon par sbyar ba'o// //mang+ga laM//</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W373</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>46ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>46ff<dimensions unit="cm" type="leaf">
+                              <width>590</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>490</width>
                               <height>70</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height>1570</height>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <condition>good</condition>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>The manual for practice of Cakraśaṃvara</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -115,17 +122,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_sh85018729">Cakrasamvara (Buddhist deity)</term>
+                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term key="subject_sh85018729">Cakrasamvara (Buddhist deity)</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

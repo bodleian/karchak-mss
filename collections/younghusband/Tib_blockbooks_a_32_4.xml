@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1078">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1101">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,45 +63,49 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.32.4</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>A manual for the ritual of smoke offering</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_32_4-item1">
-                     <title key="" xml:lang="bo">aH</title>
-                     <title key="" xml:lang="560 x 100">བསངས་ཀྱི་ཆོ་ག་དངོས་གྲུབ་ཀྱི་གཟི་འོད་འབར་བ་ཞེས་བྱ་བ་རྒྱས་འབྲིང་བསྡུས་གསུམ་ལས་འདི་ཉིད་འབྲིང་པོའོ༎</title>
-                     <title type="margin" xml:lang="bo">kyai/ lhun grub bde stong nam mkha'i rol pa las/ /sna tshogs sgyu 'phrul dra ba'i zlos gar mkhan/ /rab 'byams rgyal ba'i dngos gyur blo bzang grags/ /tshad med thugs rje'i dbang gis gnas 'dir gshegs/</title>
-                     <title type="margin" xml:lang="560 x 100">ཨཿ</title>
+                     <title key="work_909" xml:lang="bo">བསངས་ཀྱི་ཆོ་ག་དངོས་གྲུབ་ཀྱི་གཟི་འོད་འབར་བ་ཞེས་བྱ་བ་རྒྱས་འབྲིང་བསྡུས་གསུམ་ལས་འདི་ཉིད་འབྲིང་པོའོ༎</title>
+                     <title key="work_909">bsangs kyi cho ga dngos grub kyi gzi 'od 'bar ba zhes bya ba rgyas 'bring bsdus gsum las 'di nyid 'bring po'o//</title>
+                     <title type="margin" xml:lang="bo">ཨཿ</title>
+                     <title type="margin">aH</title>
                      <author key="person_115">
-                        <persName xml:lang="bo">bsangs kyi cho ga dngos grub kyi gzi 'od 'bar ba zhes bya ba rgyas 'bring bsdus gsum las 'di nyid 'bring po'o//</persName> (<persName xml:lang="560 x 100">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName>)</author>
-                     <note>TBRC: W9844</note>
-                     <incipit xml:lang="bo">ces pa 'di ni bsangs kyi cho ga sngar rgyas par bkod pa las/ 'jug pa bde ba'i phyir/ dge slong blo bzang chos kyi rgyal mtshan gyis slar mdor bsdus te bkod pa'o/ //sar+ba mang+ga laM//</incipit>
+                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (<persName>blo bzang chos kyi rgyal mtshan</persName>)</author>
+                     <incipit xml:lang="bo">kyai/ lhun grub bde stong nam mkha'i rol pa las/ /sna tshogs sgyu 'phrul dra ba'i zlos gar mkhan/ /rab 'byams rgyal ba'i dngos gyur blo bzang grags/ /tshad med thugs rje'i dbang gis gnas 'dir gshegs/</incipit>
+                     <explicit xml:lang="bo">ces pa 'di ni bsangs kyi cho ga sngar rgyas par bkod pa las/ 'jug pa bde ba'i phyir/ dge slong blo bzang chos kyi rgyal mtshan gyis slar mdor bsdus te bkod pa'o/ //sar+ba mang+ga laM//</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W9844</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>9ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>9ff<dimensions unit="cm" type="leaf">
+                              <width>560</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>480</width>
                               <height>65</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height/>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <foliation>The text has the volume marker ca</foliation>
+                        <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout/>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
-               <history>
-                  <acquisition>A manual for the ritual of smoke offering</acquisition>
-               </history>
+               <history/>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
@@ -117,17 +121,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
+                     <term key="subject_sh90001125">Bsaṅs offering (Buddhist rite)</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

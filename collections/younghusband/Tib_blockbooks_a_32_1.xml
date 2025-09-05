@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1075">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1098">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,49 +63,54 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.32.1</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The collection of the miscellaneous writings of Paṇchen Blo bzang Chos kyi rGyal mtshan</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_32_1-item1">
-                     <title key="work_923" xml:lang="bo">e waM</title>
-                     <title key="work_923" xml:lang="560 x 100">པཎ་ཆེན་ཐམས་ཅད་མཁྱེན་པ་ཆེན་པོའི་གསུང་ཐོར་བུ་པ་ཕྱོགས་གཅིག་ཏུ་བསྡེབས་པ་རྣམས་བཞུགས་སོ༎</title>
-                     <title type="margin" xml:lang="bo">na mo gu ru manya+dzu g+ho ShA ya/ zhing phyogs bcu'i rgyal ba ma lus pa'i/ /thugs brtse ba'i ye shes gcig bsdus nas/ /deng ngur smrig 'dzin pa'i skur ston pa/ /rje blo bzang rgyal ba gnyis pa'i zhabs/ /lam rim gnyis zab mo lta ba'i gnad/ /rgyud ma dag zhing du rgyas bya zhes/ /</title>
-                     <title type="margin" xml:lang="560 x 100">ཨེ་ཝཾ</title>
+                     <title key="" xml:lang="bo">པཎ་ཆེན་ཐམས་ཅད་མཁྱེན་པ་ཆེན་པོའི་གསུང་ཐོར་བུ་པ་ཕྱོགས་གཅིག་ཏུ་བསྡེབས་པ་རྣམས་བཞུགས་སོ༎</title>
+                     <title key="">paN chen thams cad mkhyen pa chen po'i gsung thor bu pa phyogs gcig tu bsdebs pa rnams bzhugs so//</title>
+                     <title type="margin" xml:lang="bo">ཨེ་ཝཾ</title>
+                     <title type="margin">e waM</title>
                      <author key="person_115">
-                        <persName xml:lang="bo">paN chen thams cad mkhyen pa chen po'i gsung thor bu pa phyogs gcig tu bsdebs pa rnams bzhugs so//</persName> (<persName xml:lang="560 x 100">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName>)</author>
-                     <note>TBRC: W9847</note>
-                     <incipit xml:lang="bo">//thub dbang gnyis pa blo bzang grags pa yi/ /mdo sngags chos kyi rgyal mtshan 'od 'bar bas/ /mtha' yas gdul bya'i rmongs pa kun sel zhing / /phan bde 'dab brgya'i dga' tshal rgyas gyur cig/ //ces pa 'di yang chos grwa chen po bkra shis lhun po'i zur bzhi'i slob dpon rnams dang / chos khrims pas bskul ba'i ngor/ dge slong blo bzang chos kyi rgyal mtshan gyis sbyar ba'o/ //sar+ba mang+ga la//</incipit>
-                     <colophon xml:lang="bo">The text is incomplete with 15 folios missing.</colophon>
+                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (<persName>blo bzang chos kyi rgyal mtshan</persName>)</author>
+                     <note>The text is incomplete with 15 folios missing.</note>
+                     <incipit xml:lang="bo">na mo gu ru manya+dzu g+ho ShA ya/ zhing phyogs bcu'i rgyal ba ma lus pa'i/ /thugs brtse ba'i ye shes gcig bsdus nas/ /deng ngur smrig 'dzin pa'i skur ston pa/ /rje blo bzang rgyal ba gnyis pa'i zhabs/ /lam rim gnyis zab mo lta ba'i gnad/ /rgyud ma dag zhing du rgyas bya zhes/ /</incipit>
+                     <explicit xml:lang="bo">//thub dbang gnyis pa blo bzang grags pa yi/ /mdo sngags chos kyi rgyal mtshan 'od 'bar bas/ /mtha' yas gdul bya'i rmongs pa kun sel zhing / /phan bde 'dab brgya'i dga' tshal rgyas gyur cig/ //ces pa 'di yang chos grwa chen po bkra shis lhun po'i zur bzhi'i slob dpon rnams dang / chos khrims pas bskul ba'i ngor/ dge slong blo bzang chos kyi rgyal mtshan gyis sbyar ba'o/ //sar+ba mang+ga la//</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W9847</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>"374ff [358ff present, 15 missing]" <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>"374ff [358ff present, 15 missing]"<dimensions unit="cm" type="leaf">
+                              <width>560</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>480</width>
                               <height>65</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height/>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <foliation>The book has the volume marker ca</foliation>
+                        <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout/>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>"folio 1v, line drawings of Phyogs glang (Bslob gsum rnam ngag phyogs glang) and Blo bzang Don grub."</handNote>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
                   </handDesc>
                   <decoDesc>
-                     <decoNote>good</decoNote>
+                     <decoNote>"folio 1v, line drawings of Phyogs glang (Bslob gsum rnam ngag phyogs glang) and Blo bzang Don grub."</decoNote>
                   </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
                </physDesc>
                <history>
-                  <acquisition>The collection of the miscellaneous writings of Paṇchen Blo bzang Chos kyi rGyal mtshan</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -122,17 +127,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
+                     <term>Dge-lugs-pa (Sect)</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

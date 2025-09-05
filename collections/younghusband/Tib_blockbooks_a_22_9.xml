@@ -63,46 +63,51 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.22.9</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The Sūtra of Interpreting the Intent</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_22_9-item1">
-                     <title key="work_903" xml:lang="bo">nges 'grel</title>
-                     <title key="work_903" xml:lang="515 x 100">འཕགས་པ་དགོངས་པ་ངེས་པར་འགྲེལ་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་བཞུགས་སོ༎</title>
-                     <title type="margin" xml:lang="bo">/rgya gar skad du/ Ar+ya san d+hi nir mo tsa na nA ma ma hA yA na sUtra/ bod skad du/ 'phags pa dgongs pa nges par 'grel pa zhes bya ba theg pa chen po'i mdo/ /sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo/ /'di skad bdag gis thos pa dus gcig na/ bcom ldan 'das gzhal med khang chen po rin po che'i sna bdun mchog tu 'bar ba bkod pa /</title>
-                     <title type="margin" xml:lang="515 x 100">ངེས་འགྲེལ</title>
-                     <author key="person_2017054722">
-                        <persName xml:lang="bo">_'phags pa dgongs pa nges par 'grel pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryasandhinirmocananāmamahāyānasūtra</persName>
-                     </author>
-                     <note>"Derge: 0106 Peking: 0074"</note>
-                     <incipit xml:lang="bo">*de bzhin gshegs pa'i bya ba bsgrub pa ngas pa'i don bstan pa 'di bshad pa na/ byang chub sems dpa' bdun khri lnga stong gis chos kyi sku yongs su rdzogs pa/ so so yang dag pa rig pa thob par gyur to/ bcom ldan 'das kyis de skad ces bka' stsal nas/ 'jam dpal gzhon nur gyur pa dang/ thams cad dang ldan pa'i 'khor de dang / lha dang mi dang / lha ma yin dang bcas pa'i 'jig rten yid rangs te/ bcom ldan 'das kyis gsungs pa la mngon par bstod do/ 'phags pa dgongs pa ngas par 'grel ba zhes bya ba theg pa chen po'i mdo las / yon tan gyi tshogs kyi le'u zhes bya ba rdzogs so / / gcig zhus dag /</incipit>
+                     <title key="" xml:lang="bo">འཕགས་པ་དགོངས་པ་ངེས་པར་འགྲེལ་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་བཞུགས་སོ༎</title>
+                     <title key="">_'phags pa dgongs pa nges par 'grel pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryasandhinirmocananāmamahāyānasūtra</title>
+                     <title type="margin" xml:lang="bo">ངེས་འགྲེལ</title>
+                     <title type="margin">nges 'grel</title>
+                     <incipit xml:lang="bo">/rgya gar skad du/ Ar+ya san d+hi nir mo tsa na nA ma ma hA yA na sUtra/ bod skad du/ 'phags pa dgongs pa nges par 'grel pa zhes bya ba theg pa chen po'i mdo/ /sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo/ /'di skad bdag gis thos pa dus gcig na/ bcom ldan 'das gzhal med khang chen po rin po che'i sna bdun mchog tu 'bar ba bkod pa /</incipit>
+                     <explicit xml:lang="bo">*de bzhin gshegs pa'i bya ba bsgrub pa ngas pa'i don bstan pa 'di bshad pa na/ byang chub sems dpa' bdun khri lnga stong gis chos kyi sku yongs su rdzogs pa/ so so yang dag pa rig pa thob par gyur to/ bcom ldan 'das kyis de skad ces bka' stsal nas/ 'jam dpal gzhon nur gyur pa dang/ thams cad dang ldan pa'i 'khor de dang / lha dang mi dang / lha ma yin dang bcas pa'i 'jig rten yid rangs te/ bcom ldan 'das kyis gsungs pa la mngon par bstod do/ 'phags pa dgongs pa ngas par 'grel ba zhes bya ba theg pa chen po'i mdo las / yon tan gyi tshogs kyi le'u zhes bya ba rdzogs so / / gcig zhus dag /</explicit>
+                     <listBibl>
+                        <bibl type="&#34;derge">"Derge: 0106</bibl>
+                        <bibl type="peking">Peking: 0074"</bibl>
+                     </listBibl>
                   </msItem>
+                  <msItem xml:id="Tib_blockbooks_a_22_9-item2"/>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>67ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>67ff<dimensions unit="cm" type="leaf">
+                              <width>515</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>420</width>
                               <height>70</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height/>
-                           </dimensions>
                         </extent>
-                        <condition>7</condition>
+                        <condition>good</condition>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="7">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>"folio 1 verso, 2 line drawings: Buddha on the left and Maitreya on the right"</handNote>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
                   </handDesc>
                   <decoDesc>
-                     <decoNote>good</decoNote>
+                     <decoNote>"folio 1 verso, 2 line drawings: Buddha on the left and Maitreya on the right"</decoNote>
                   </decoDesc>
                </physDesc>
-               <history>
-                  <acquisition>The Sūtra of Interpreting the Intent</acquisition>
-               </history>
+               <history/>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
@@ -118,17 +123,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_no93038393">Maitreya</term>
+                     <term key="subject_n2024241890">Tripiṭaka. Sūtrapiṭaka. Saṃdhinirmocanasūtra. Tibetan</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term key="subject_no93038393">Maitreya</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

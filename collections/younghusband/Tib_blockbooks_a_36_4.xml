@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1093">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1116">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,45 +63,50 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.36.4</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>"Liturgies for Sādhana of jñānaḍakini, for transference of consciousness and for exorcism"</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_36_4-item1">
-                     <title key="work_906" xml:lang="bo">sgrub thabs</title>
-                     <title key="work_906" xml:lang="560 x 100">ཡེ་ཤེས་མཁའ་འགྲོའི་སྒྲུབ་ཐབས་། འཕོ་བ་། བཀའ་བསྒོ་བཅས་བཞུགས་སོ༎</title>
-                     <title type="margin" xml:lang="bo">bla ma dang ye shes mkha' 'gro'i zhabs la gus pas phyag 'tshal lo/ /rang nyid skad cig gis ye shes mkha' 'gror gsal ba'i ngang nas sngon 'gro gtor ma mkha' 'gro spyi gtor gyis btang /</title>
-                     <title type="margin" xml:lang="560 x 100">སྒྲུབ་ཐབས</title>
+                     <title key="work_912" xml:lang="bo">ཡེ་ཤེས་མཁའ་འགྲོའི་སྒྲུབ་ཐབས་། འཕོ་བ་། བཀའ་བསྒོ་བཅས་བཞུགས་སོ༎</title>
+                     <title key="work_912">ye shes mkha' 'gro'i sgrub thabs/ 'pho ba/ bka' bsgo bcas bzhugs so//</title>
+                     <title type="margin" xml:lang="bo">སྒྲུབ་ཐབས</title>
+                     <title type="margin">sgrub thabs</title>
                      <author key="person_2017054734">
-                        <persName xml:lang="bo">ye shes mkha' 'gro'i sgrub thabs/ 'pho ba/ bka' bsgo bcas bzhugs so//</persName> (<persName xml:lang="560 x 100">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName>)</author>
-                     <note>TBRC: W488</note>
-                     <incipit xml:lang="bo">skyon bral tshul khrims lhur len shAkya'i sras/ /ngur smrig 'dzin pa'i sdom brtson sha stag gis/ /yongs su gang zhing rab 'byams gzhung lugs la/ /chos brgyad rnam rtog mtshan mas mi g.yo bar/ /bstan dang sems can khur chen khyer ba yis/ /mkhas pa'i bya ba rnam gsum mthar phyin shog/ // //</incipit>
+                        <persName xml:lang="bo">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName> (<persName>tsong kha pa blo bzang grags pa</persName>)</author>
+                     <incipit xml:lang="bo">bla ma dang ye shes mkha' 'gro'i zhabs la gus pas phyag 'tshal lo/ /rang nyid skad cig gis ye shes mkha' 'gror gsal ba'i ngang nas sngon 'gro gtor ma mkha' 'gro spyi gtor gyis btang /</incipit>
+                     <explicit xml:lang="bo">skyon bral tshul khrims lhur len shAkya'i sras/ /ngur smrig 'dzin pa'i sdom brtson sha stag gis/ /yongs su gang zhing rab 'byams gzhung lugs la/ /chos brgyad rnam rtog mtshan mas mi g.yo bar/ /bstan dang sems can khur chen khyer ba yis/ /mkhas pa'i bya ba rnam gsum mthar phyin shog/ // //</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W488</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>5ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>5ff<dimensions unit="cm" type="leaf">
+                              <width>560</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>500</width>
                               <height>70</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height/>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <foliation>The book has the volume marker kha</foliation>
+                        <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout/>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>"Liturgies for Sādhana of jñānaḍakini, for transference of consciousness and for exorcism"</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -118,17 +123,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>"Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419"</term>
+                     <term>Ḍākinī (Buddhist deity)</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term>"Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

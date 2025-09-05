@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1086">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1109">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,45 +63,50 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.34.6</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>Notes on the generation stage of Guhyasamāja</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_34_6-item1">
-                     <title key="work_931" xml:lang="bo">gsang bskyed</title>
-                     <title key="work_931" xml:lang="560 x 100">གསང་འདུས་བསྐྱེད་རིམ་གྱི་ཟིན་བྲིས་བཞུགས་སོ།།</title>
-                     <title type="margin" xml:lang="bo">bla ma dang dpal rdo rje sems dpa' la phyag 'tshal lo/ /'dus pa'i sgrub thabs rnal 'byor dag pa'i rim pa la mchod par brjod cing rtsom par dam bca' ba/ gzhung gi don dngos gtan la dbab pa/ yongs su rdzogs pa mjug gi don dang gsum/</title>
-                     <title type="margin" xml:lang="560 x 100">གསང་བསྐྱེད</title>
+                     <title key="" xml:lang="bo">གསང་འདུས་བསྐྱེད་རིམ་གྱི་ཟིན་བྲིས་བཞུགས་སོ།།</title>
+                     <title key="">gsang 'dus bskyed rim gyi zin bris bzhugs so//</title>
+                     <title type="margin" xml:lang="bo">གསང་བསྐྱེད</title>
+                     <title type="margin">gsang bskyed</title>
                      <author key="person_2017054734">
-                        <persName xml:lang="bo">gsang 'dus bskyed rim gyi zin bris bzhugs so//</persName> (<persName xml:lang="560 x 100">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName>)</author>
-                     <note>TBRC: W498</note>
-                     <incipit xml:lang="bo">di 'ba' ser dka' bcu pa zhes pas rim pa dang po'i man ngag di gnad rnams dang rje'i gsung bgros gzhan du mi gsal ba rnams brjed tho tsam du bkod pa yin no// mang+ga laM/ /</incipit>
+                        <persName xml:lang="bo">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName> (<persName>tsong kha pa blo bzang grags pa</persName>)</author>
+                     <incipit xml:lang="bo">bla ma dang dpal rdo rje sems dpa' la phyag 'tshal lo/ /'dus pa'i sgrub thabs rnal 'byor dag pa'i rim pa la mchod par brjod cing rtsom par dam bca' ba/ gzhung gi don dngos gtan la dbab pa/ yongs su rdzogs pa mjug gi don dang gsum/</incipit>
+                     <explicit xml:lang="bo">di 'ba' ser dka' bcu pa zhes pas rim pa dang po'i man ngag di gnad rnams dang rje'i gsung bgros gzhan du mi gsal ba rnams brjed tho tsam du bkod pa yin no// mang+ga laM/ /</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W498</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>40ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>40ff<dimensions unit="cm" type="leaf">
+                              <width>560</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>490</width>
                               <height>65</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height/>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <foliation>The book has the volume marker ca</foliation>
+                        <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout/>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>Notes on the generation stage of Guhyasamāja</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -118,17 +123,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>"Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419"</term>
+                     <term>Tripiṭaka. Sūtrapiṭaka. Tantra. Guhyasamājatantra</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term>"Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

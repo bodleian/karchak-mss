@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1090">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1113">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,46 +63,51 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.36.1</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>Notes on the Vinayasūtra</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_36_1-item1">
-                     <title key="work_935" xml:lang="bo">mdo zin</title>
-                     <title key="work_935" xml:lang="560 x 100">འདུལ་བ་མདོ་རྩ་བའི་ཟིན་བྲིས་བཞུགས། །</title>
-                     <title type="margin" xml:lang="bo">rten gyi gang zag bstan nas des bslab par bya ba la gnyis las/ ldog pa'i tshul khrims ston no// de la so so ba dang / spyir bstan pa gnyis las/ so so ba la yang rnam 'byed gnyis las/ dang po ston pa la/ bslab pa 'bul ba'i cho ga dang /</title>
-                     <title type="margin" xml:lang="560 x 100">མདོ་ཟིན</title>
+                     <title key="" xml:lang="bo">འདུལ་བ་མདོ་རྩ་བའི་ཟིན་བྲིས་བཞུགས། །</title>
+                     <title key="">dul ba mdo rtsa ba'i zin bris bzhugs/ /</title>
+                     <title type="margin" xml:lang="bo">མདོ་ཟིན</title>
+                     <title type="margin">mdo zin</title>
                      <author key="person_2017054734">
-                        <persName xml:lang="bo">dul ba mdo rtsa ba'i zin bris bzhugs/ /</persName> (<persName xml:lang="560 x 100">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName>)</author>
-                     <note>TBRC: W485</note>
-                     <incipit xml:lang="bo">zhes pa rnams kyi dgongs pa btsal bar bya'o// rje thams cad mkhyen pas 'dul ba mdo rtsa ba'i TIk+ka mdzad bzhed pa las zin bris su 'ol khar bkod pa'o// yi ge pa ni ma gcig dbon po nam mkha' dpal lo/ /bstan pa dang sems can la phan pa rgya chen po 'byung bar gyur cig/ sar+ba mang+ga laM//</incipit>
-                     <colophon xml:lang="bo">"On title page added pencilled mark ""Tib.a.106"". Also in box: cloth index tab. On wooden top: ""Oxford 27"""</colophon>
+                        <persName xml:lang="bo">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName> (<persName>tsong kha pa blo bzang grags pa</persName>)</author>
+                     <note>"On title page added pencilled mark ""Tib.a.106"". Also in box: cloth index tab. On wooden top: ""Oxford 27"""</note>
+                     <incipit xml:lang="bo">rten gyi gang zag bstan nas des bslab par bya ba la gnyis las/ ldog pa'i tshul khrims ston no// de la so so ba dang / spyir bstan pa gnyis las/ so so ba la yang rnam 'byed gnyis las/ dang po ston pa la/ bslab pa 'bul ba'i cho ga dang /</incipit>
+                     <explicit xml:lang="bo">zhes pa rnams kyi dgongs pa btsal bar bya'o// rje thams cad mkhyen pas 'dul ba mdo rtsa ba'i TIk+ka mdzad bzhed pa las zin bris su 'ol khar bkod pa'o// yi ge pa ni ma gcig dbon po nam mkha' dpal lo/ /bstan pa dang sems can la phan pa rgya chen po 'byung bar gyur cig/ sar+ba mang+ga laM//</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W485</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>106ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>106ff<dimensions unit="cm" type="leaf">
+                              <width>560</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>500</width>
                               <height>70</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height/>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <foliation>The book has the volume marker kha</foliation>
+                        <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout/>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>Notes on the Vinayasūtra</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -119,17 +124,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>"Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419"</term>
+                     <term>Tripiṭaka. Vinayapiṭaka. Pratimokṣasūtra</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term>"Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1091">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1114">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,45 +63,50 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.36.2</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The miscellaneous writings of Tsong kha pa</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_36_2-item1">
-                     <title key="work_936" xml:lang="bo">thor bu</title>
-                     <title key="work_936" xml:lang="560 x 100">རྗེ་ཐམས་ཅད་མཁྱེན་པ་ཙོང་ཁ་པ་ཆེན་པོའི་བཀའ་འབུམ་ཐོར་བུ་བཞུགས༎</title>
-                     <title type="margin" xml:lang="bo">na mo gu ru many+ju g+ho ShA ya/ rje btsun dam pa thugs rje chen po dang ldan pa rnams la phyag 'tshal lo/ /byang chub lam gyi rim pa'i rgya chen spyod pa'i brgyud pa la gsol ba gdab pa ni/ 'dren pa mnyam med ston pa bcom ldan 'das/ /rgyal tshab dam pa rje btsun mi pham mgon/</title>
-                     <title type="margin" xml:lang="560 x 100">ཐོར་བུ</title>
+                     <title key="" xml:lang="bo">རྗེ་ཐམས་ཅད་མཁྱེན་པ་ཙོང་ཁ་པ་ཆེན་པོའི་བཀའ་འབུམ་ཐོར་བུ་བཞུགས༎</title>
+                     <title key="">rje thams cad mkhyen pa tsong kha pa chen po'i bka' 'bum thor bu bzhugs so//</title>
+                     <title type="margin" xml:lang="bo">ཐོར་བུ</title>
+                     <title type="margin">thor bu</title>
                      <author key="person_2017054734">
-                        <persName xml:lang="bo">rje thams cad mkhyen pa tsong kha pa chen po'i bka' 'bum thor bu bzhugs so//</persName> (<persName xml:lang="560 x 100">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName>)</author>
-                     <note>TBRC: W486</note>
-                     <incipit xml:lang="bo">ces rang la bskul ba'i tshigs su bcad pa 'khor ba las skyo ba'i gtam zhes bya ba 'di mkhas pa du ma'i zhabs rdul spyi bos len pa rgyal khams pa shar tsong kha pa blo bzang grags pas gzhan la phrag dog dang 'gran sems kyis ma yin par rang nyid thar lam la bskul ba'i don du ltos 'gro'i rgyu skar gyi dbang po mda'i dkar phyogs kyi tshes la mkhas pa du ma'i 'byung gnas yul dbus kyi sa'i cha chos grwa chen po bde ba can du sbyar ba re zhig rdzogs so// //</incipit>
+                        <persName xml:lang="bo">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName> (<persName>tsong kha pa blo bzang grags pa</persName>)</author>
+                     <incipit xml:lang="bo">na mo gu ru many+ju g+ho ShA ya/ rje btsun dam pa thugs rje chen po dang ldan pa rnams la phyag 'tshal lo/ /byang chub lam gyi rim pa'i rgya chen spyod pa'i brgyud pa la gsol ba gdab pa ni/ 'dren pa mnyam med ston pa bcom ldan 'das/ /rgyal tshab dam pa rje btsun mi pham mgon/</incipit>
+                     <explicit xml:lang="bo">ces rang la bskul ba'i tshigs su bcad pa 'khor ba las skyo ba'i gtam zhes bya ba 'di mkhas pa du ma'i zhabs rdul spyi bos len pa rgyal khams pa shar tsong kha pa blo bzang grags pas gzhan la phrag dog dang 'gran sems kyis ma yin par rang nyid thar lam la bskul ba'i don du ltos 'gro'i rgyu skar gyi dbang po mda'i dkar phyogs kyi tshes la mkhas pa du ma'i 'byung gnas yul dbus kyi sa'i cha chos grwa chen po bde ba can du sbyar ba re zhig rdzogs so// //</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W486</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>329ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>329ff<dimensions unit="cm" type="leaf">
+                              <width>560</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>500</width>
                               <height>70</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height>1357</height>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <foliation>The book has the volume marker kha</foliation>
+                        <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout/>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>The miscellaneous writings of Tsong kha pa</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -118,14 +123,14 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>chart</term>
+                     <term>"Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

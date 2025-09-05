@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1076">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1099">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,45 +63,49 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.32.2</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The compilation of advices given to Nang so Blo bzang dBang rgyal</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_32_2-item1">
-                     <title key="work_924" xml:lang="bo">hriH</title>
-                     <title key="work_924" xml:lang="560 x 100">བཀྲ་ཤིས་རྩེ་པ་ནང་སོ་བློ་བཟང་དབང་རྒྱལ་ལ་གདམས་པ་རྣམས་ཆབས་གཅིག་ཏུ་བསྒྲིགས་པ་བཞུགས༎</title>
-                     <title type="margin" xml:lang="bo">swasti/ blo mchog rnams kyi bzang po'i mdzad pa'i phul/ /chos kyi rgyal srid skyong ba'i dge mtshan gyis/ /mtha' dag 'gro la phan bde'i mchog stsol ba/ /bdag snying pad+mo'i ze'u 'brur rtag tu gzims/ /blo bzang bstan pa dga' ba'i tshal/ /lung rig chos kyi rgyal ba'i sku/ /mtshan dpes brgyan pa bzhin mdzes pa/ /mchog gsum ngo bo la phyag 'tshal//</title>
-                     <title type="margin" xml:lang="560 x 100">ཧྲིཿ</title>
+                     <title key="" xml:lang="bo">བཀྲ་ཤིས་རྩེ་པ་ནང་སོ་བློ་བཟང་དབང་རྒྱལ་ལ་གདམས་པ་རྣམས་ཆབས་གཅིག་ཏུ་བསྒྲིགས་པ་བཞུགས༎</title>
+                     <title key="">bkra shis rtse pa nang so blo bzang dbang rgyal la gdams pa rnams chabs gcig tu bsgrigs pa bzhugs//</title>
+                     <title type="margin" xml:lang="bo">ཧྲིཿ</title>
+                     <title type="margin">hriH</title>
                      <author key="person_115">
-                        <persName xml:lang="bo">bkra shis rtse pa nang so blo bzang dbang rgyal la gdams pa rnams chabs gcig tu bsgrigs pa bzhugs//</persName> (<persName xml:lang="560 x 100">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName>)</author>
-                     <note>TBRC: W9846</note>
-                     <incipit xml:lang="bo">ces pa 'di yang dad pa dang rnam dpyod phul du byung ba sogs dam pas bsngags pa'i yon tan du ma dang ldan pa/ nang so mgon po dbang rgyal gyis nan gyis bskul ba la brten nas/ btsun pa blo bzang chos kyi rgyal mtshan gyis sbyar ba'o//</incipit>
+                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (<persName>blo bzang chos kyi rgyal mtshan</persName>)</author>
+                     <incipit xml:lang="bo">swasti/ blo mchog rnams kyi bzang po'i mdzad pa'i phul/ /chos kyi rgyal srid skyong ba'i dge mtshan gyis/ /mtha' dag 'gro la phan bde'i mchog stsol ba/ /bdag snying pad+mo'i ze'u 'brur rtag tu gzims/ /blo bzang bstan pa dga' ba'i tshal/ /lung rig chos kyi rgyal ba'i sku/ /mtshan dpes brgyan pa bzhin mdzes pa/ /mchog gsum ngo bo la phyag 'tshal//</incipit>
+                     <explicit xml:lang="bo">ces pa 'di yang dad pa dang rnam dpyod phul du byung ba sogs dam pas bsngags pa'i yon tan du ma dang ldan pa/ nang so mgon po dbang rgyal gyis nan gyis bskul ba la brten nas/ btsun pa blo bzang chos kyi rgyal mtshan gyis sbyar ba'o//</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W9846</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>16ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>16ff<dimensions unit="cm" type="leaf">
+                              <width>560</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>480</width>
                               <height>65</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height/>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <foliation>The text has the volume marker ca</foliation>
+                        <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout/>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
-               <history>
-                  <acquisition>The compilation of advices given to Nang so Blo bzang dBang rgyal</acquisition>
-               </history>
+               <history/>
                <additional>
                   <adminInfo>
                      <availability status="restricted">
@@ -117,17 +121,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
+                     <term>Spiritual life Buddhism</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

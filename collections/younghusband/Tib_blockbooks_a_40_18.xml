@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1115">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1138">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,40 +63,42 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.40.18</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The liturgy for consecration based on Guhyasamaja tantra</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_40_18-item1">
-                     <title key="work_956" xml:lang="410 x 80">དཔལ་གསང་བ་འདུས་པའི་སྒོ་ནས་རབ་ཏུ་གནས་པ་བྱེད་པའི་ཆོ་ག་རྒྱས་འབྲིང་བསྡུས་གསུམ་ལས༎</title>
-                     <title type="margin" xml:lang="bo">rab gsal li khri'i mdog can rin chen brgyan// rab mdzes lha brgya'i cod pan 'jam dpal la// rab tu gus pa'i yid kyi phyag 'tshal nas// rab gnas mdor sdus mkhas pa'i gsung bzhin bri//</title>
-                     <author key="person_2017054740">
-                        <persName xml:lang="bo">[no title page] dpal gsang ba 'dus pa'i sgo nas rab tu gnas pa byed pa'i cho ga rgyas 'bring bsdus gsum las//</persName>
-                     </author>
-                     <incipit xml:lang="bo">sems can thams cad bdag la dgongs su gsol// ji srid nam mkha'i mtha' dang mnyam pa'i sems can gyi khams na mi gnas pa'i mya ngan las 'das pa'i sa la ma bzhag pa de srid du may ngan las mi 'da' bar rtan par bzhugs su gsol//</incipit>
+                     <title key="" xml:lang="bo">དཔལ་གསང་བ་འདུས་པའི་སྒོ་ནས་རབ་ཏུ་གནས་པ་བྱེད་པའི་ཆོ་ག་རྒྱས་འབྲིང་བསྡུས་གསུམ་ལས༎</title>
+                     <title key="">[no title page] dpal gsang ba 'dus pa'i sgo nas rab tu gnas pa byed pa'i cho ga rgyas 'bring bsdus gsum las//</title>
+                     <incipit xml:lang="bo">rab gsal li khri'i mdog can rin chen brgyan// rab mdzes lha brgya'i cod pan 'jam dpal la// rab tu gus pa'i yid kyi phyag 'tshal nas// rab gnas mdor sdus mkhas pa'i gsung bzhin bri//</incipit>
+                     <explicit xml:lang="bo">sems can thams cad bdag la dgongs su gsol// ji srid nam mkha'i mtha' dang mnyam pa'i sems can gyi khams na mi gnas pa'i mya ngan las 'das pa'i sa la ma bzhag pa de srid du may ngan las mi 'da' bar rtan par bzhugs su gsol//</explicit>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>9ff <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>9ff<dimensions unit="cm" type="leaf">
+                              <width>410</width>
+                              <height>80</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>350</width>
                               <height>65</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height>1570</height>
-                           </dimensions>
                         </extent>
-                        <condition>8</condition>
+                        <condition>good</condition>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="8">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black">other (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>The liturgy for consecration based on Guhyasamaja tantra</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -113,17 +115,17 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>"Consecration, Buddhism"</term>
+                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
                   </item>
                   <item>
-                     <term>chart</term>
+                     <term>"Consecration, Buddhism"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

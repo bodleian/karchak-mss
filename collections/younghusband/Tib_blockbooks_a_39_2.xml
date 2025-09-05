@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1101">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1124">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,46 +63,51 @@
                   <collection>Younghusband Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.39.2</idno>
                </msIdentifier>
-               <head>1</head>
+               <head>The direct instructions for Stages on the Path to Enlightenment</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_39_2-item1">
-                     <title key="work_942" xml:lang="bo">lam rim</title>
-                     <title key="work_942" xml:lang="555 x 100">བྱང་ཆུབ་ལམ་གྱི་རིམ་པའི་དམར་ཁྲིད་ཐམས་ཅད་མཁྱེན་པར་བགྲོད་པའི་བདེ་ལམ་ཞེས་བྱ་བ་བཞུགས༎</title>
-                     <title type="margin" xml:lang="bo">rje btsun bla ma dam pa thub dbang rdo rje 'chang dang dbyer ma mchis pa'i zhabs la dus thams cad du phyag 'tshal lo/ /brtse ba chen pos rjes su gzung du gsol/ /'dir skal ldan gyi skyes bu sangs rgyas kyi sar bgrod par byed pa'i thabs zab mo byang chub lam gyi rim pa'i 'khrid la gnyis/</title>
-                     <title type="margin" xml:lang="555 x 100">ལམ་རིམ</title>
+                     <title key="" xml:lang="bo">བྱང་ཆུབ་ལམ་གྱི་རིམ་པའི་དམར་ཁྲིད་ཐམས་ཅད་མཁྱེན་པར་བགྲོད་པའི་བདེ་ལམ་ཞེས་བྱ་བ་བཞུགས༎</title>
+                     <title key="">byang chub lam gyi rim pa'i dmar khrid thams cad mkhyen par bgrod pa'i bde lam zhes bya ba bzhugs//</title>
+                     <title type="margin" xml:lang="bo">ལམ་རིམ</title>
+                     <title type="margin">lam rim</title>
                      <author key="person_115">
-                        <persName xml:lang="bo">byang chub lam gyi rim pa'i dmar khrid thams cad mkhyen par bgrod pa'i bde lam zhes bya ba bzhugs//</persName> (<persName xml:lang="555 x 100">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName>)</author>
-                     <note>TBRC: W9810</note>
-                     <incipit xml:lang="bo">de ltar lam thun mong bas rgyud sbyangs nas nges par rdo rje theg pa la 'jug dgos te/ lam de la brten na bskal pa grangs med gsum la mi ltos par tshogs gnyis bde blag du rdzogs par 'gyur bas so// de yang bshes gnyen bsten tshul nas zhi gnas dang lhag mthong ... /</incipit>
-                     <colophon xml:lang="bo">The text is incomplete.</colophon>
+                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (<persName>blo bzang chos kyi rgyal mtshan</persName>)</author>
+                     <note>The text is incomplete.</note>
+                     <incipit xml:lang="bo">rje btsun bla ma dam pa thub dbang rdo rje 'chang dang dbyer ma mchis pa'i zhabs la dus thams cad du phyag 'tshal lo/ /brtse ba chen pos rjes su gzung du gsol/ /'dir skal ldan gyi skyes bu sangs rgyas kyi sar bgrod par byed pa'i thabs zab mo byang chub lam gyi rim pa'i 'khrid la gnyis/</incipit>
+                     <explicit xml:lang="bo">de ltar lam thun mong bas rgyud sbyangs nas nges par rdo rje theg pa la 'jug dgos te/ lam de la brten na bskal pa grangs med gsum la mi ltos par tshogs gnyis bde blag du rdzogs par 'gyur bas so// de yang bshes gnyen bsten tshul nas zhi gnas dang lhag mthong ... /</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W9810</bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="roll">
-                     <supportDesc material="black">
-                        <support>black</support>
-                        <extent>24ff (incomplete) <dimensions unit="cm" type="leaf">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>24ff (incomplete)<dimensions unit="cm" type="leaf">
+                              <width>555</width>
+                              <height>100</height>
+                           </dimensions>
+                           <dimensions unit="cm" type="written">
                               <width>485</width>
                               <height>70</height>
                            </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width/>
-                              <height>1570</height>
-                           </dimensions>
                         </extent>
-                        <condition>6</condition>
+                        <foliation>The book has the volume marker nga</foliation>
+                        <condition>good</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout/>
+                        <layout writtenLines="6">
+                           <p/>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>good</decoNote>
-                  </decoDesc>
-                  <additions>"25 Sept. 1905, donation by the Government of India."</additions>
+                  <handDesc>
+                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
+                  </handDesc>
                </physDesc>
                <history>
-                  <acquisition>The direct instructions for Stages on the Path to Enlightenment</acquisition>
+                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -119,14 +124,14 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term>chart</term>
+                     <term>"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662. Byang chub lam gyi rim paʼi dmar khrid thams cad mkhyen par bgrod paʼi bde lam"</term>
                   </item>
                </list>
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-06-19">Record created.</change>
+         <change when="2025-08-06">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>

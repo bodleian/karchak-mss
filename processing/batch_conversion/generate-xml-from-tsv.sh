@@ -3,11 +3,15 @@
 ##
 # Script for processing all files in the tsv folder and running the XSL to XML transofrmation.
 # The next available ID is read from the nextmsid.txt file and incremented after each file is processed
-# The tsv files are not stored in Github - remove once processed to avoid processing again. 
+# The tsv files are not stored in Github - remove, or move to 'processed' folder, after processing to avoid processing again. 
+# 
+# To run the script pass in the XSL filename to process:
+#                  ./generate-xml-from-tsv.sh tei-from-spreadsheet.xsl
 ##
 
 echo
 echo "Generating XML from tsv..."
+
 
 # Change directory to the location of this script
 cd "${0%/*}"
@@ -28,13 +32,13 @@ fi
 
 # Start log file
 LOGFILE="tsv/tsv.log"
-echo "Transforming TSV files in tsv folder using tei-from-spreadsheet.xsl on $(date +"%Y-%m-%d %H:%M:%S") to create collection XML files." > $LOGFILE
+echo "Transforming TSV files in tsv folder using $1 on $(date +"%Y-%m-%d %H:%M:%S") to create collection XML files." > $LOGFILE
 
 
 # Run XSLT on all TSV files in tsv path
 
 msid=$nextmsid
-directory_path="tsv"
+directory_path="tsv/to_process"
 pattern="*.tsv"
 files=$(find "$directory_path" -type f)
 counter=1
@@ -54,7 +58,7 @@ while IFS= read -r file; do
         echo "number of rows" = $rows
       
         # Transform file using the next available ID
-        java -Xmx1G -Xms1G -cp ../saxon/saxon9he.jar net.sf.saxon.Transform -it:Main -xsl:tei-from-spreadsheet.xsl infile=$file nextmsid=$msid 2>> $LOGFILE
+        java -Xmx1G -Xms1G -cp ../saxon/saxon9he.jar net.sf.saxon.Transform -it:Main -xsl:$1 infile=$file nextmsid=$msid 2>> $LOGFILE
         ((counter++))
         msid=$(($msid + $rows))
     fi

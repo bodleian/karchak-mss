@@ -90,22 +90,28 @@
         <xsl:variable name="writtensize" as="xs:string" select="$fields[5]"/>
         <xsl:variable name="writtenwidth" as="xs:string" select="(tokenize($writtensize, '\D+')[1], '')[1]"/>
         <xsl:variable name="writtenheight" as="xs:string" select="(tokenize($writtensize, '\D+')[2], '')[1]"/>
+
         <xsl:variable name="subject1" as="xs:string" select="replace($fields[6], '\.\s*$', '')"/>
-        <xsl:variable name="subject2" as="xs:string" select="replace($fields[7], '\.\s*$', '')"/>
-        <xsl:variable name="material" as="xs:string" select="$fields[8]"/>
-        <xsl:variable name="medium" as="xs:string" select="$fields[9]"/>
+        <xsl:variable name="link1" as="xs:string" select="substring-after($fields[7], 'lccn.loc.gov/')"/>
+        <xsl:variable name="subjectlink1" as="xs:string" select="if ($subject1[not(. eq '')]) then concat($subject1, '%', $link1) else ''"/>
+        <xsl:variable name="subject2" as="xs:string" select="replace($fields[8], '\.\s*$', '')"/>
+        <xsl:variable name="link2" as="xs:string" select="substring-after($fields[9], 'lccn.loc.gov/')"/>
+        <xsl:variable name="subjectlink2" as="xs:string" select="if ($subject2[not(. eq '')]) then concat($subject2, '%', $link2) else ''"/>
+
+        <xsl:variable name="material" as="xs:string" select="$fields[10]"/>
+        <xsl:variable name="medium" as="xs:string" select="$fields[11]"/>
         <xsl:variable name="mediumattr" as="xs:string" select="normalize-space(replace($medium, '[^A-Za-z0-0]', ' '))"/>
         <xsl:variable name="mediumtext" as="xs:string" select="concat(translate($mediumattr, ' ', '/'), ' ink')"/>
-        <xsl:variable name="script" as="xs:string" select="$fields[10]"/>
-        <xsl:variable name="hands" as="xs:string" select="$fields[11]"/>
-        <xsl:variable name="decoration" as="xs:string" select="$fields[12]"/>
-        <xsl:variable name="condition" as="xs:string" select="$fields[13]"/>
-        <xsl:variable name="writtenlines" as="xs:string" select="$fields[14]"/>
-        <xsl:variable name="layout" as="xs:string" select="$fields[15]"/>
-        <xsl:variable name="foliation" as="xs:string" select="$fields[16]"/>
-        <xsl:variable name="additions" as="xs:string" select="$fields[17]"/>
-        <xsl:variable name="acquisition" as="xs:string" select="$fields[18]"/>
-        <xsl:variable name="summary" as="xs:string" select="$fields[19]"/>
+        <xsl:variable name="script" as="xs:string" select="$fields[12]"/>
+        <xsl:variable name="hands" as="xs:string" select="$fields[13]"/>
+        <xsl:variable name="decoration" as="xs:string" select="$fields[14]"/>
+        <xsl:variable name="condition" as="xs:string" select="$fields[15]"/>
+        <xsl:variable name="writtenlines" as="xs:string" select="$fields[16]"/>
+        <xsl:variable name="layout" as="xs:string" select="$fields[17]"/>
+        <xsl:variable name="foliation" as="xs:string" select="$fields[18]"/>
+        <xsl:variable name="additions" as="xs:string" select="$fields[19]"/>
+        <xsl:variable name="acquisition" as="xs:string" select="$fields[20]"/>
+        <xsl:variable name="summary" as="xs:string" select="$fields[21]"/>
         <xsl:variable name="types" as="xs:string*" select="('roll')"/>
         <!-- The types column isn't used in this batch, but all seem to be all rolls -->
         <xsl:variable name="idprefix" as="xs:string" select="substring-before($newfilename, '.')"/>
@@ -125,11 +131,11 @@
                                 <xsl:value-of select="$shelfmark"/>
                             </title>
                             <respStmt xml:id="CEM">
-                                <resp when="2025">Summary description</resp>
+                                <resp when="2026">Summary description</resp>
                                 <persName>Charles Manson</persName>
                             </respStmt>
                             <respStmt xml:id="CD">
-                                <resp when="2025">Markup and encoding</resp>
+                                <resp when="2026">Markup and encoding</resp>
                                 <persName>C Day</persName>
                                 <note>Conversion from spreadsheet to TEI</note>
                             </respStmt>
@@ -179,7 +185,7 @@
                                     <settlement>Oxford</settlement>
                                     <institution>Oxford University</institution>
                                     <repository>Weston Library</repository>
-                                    <collection>Younghusband Collection</collection>
+                                    <collection>Younghusband Expedition Collection</collection>
                                     <idno type="shelfmark">
                                         <xsl:value-of select="$shelfmark"/>
                                     </idno>
@@ -192,17 +198,17 @@
                                 <msContents>
                                     <xsl:for-each select="($line, $moreworks)">
                                         <xsl:variable name="workfields" as="xs:string*" select="for $f in tokenize(., '\t') return normalize-space($f)"/>
-                                        <xsl:variable name="romanizedauthor" as="xs:string" select="$workfields[21]"/>
-                                        <xsl:variable name="tibetanauthor" as="xs:string" select="$workfields[22]"/>
-                                        <xsl:variable name="romanizedtitle" as="xs:string" select="$workfields[23]"/>
-                                        <xsl:variable name="tibetantitle" as="xs:string" select="$workfields[24]"/>
-                                        <xsl:variable name="romanizedmargintitle" as="xs:string" select="$workfields[25]"/>
-                                        <xsl:variable name="tibetanmargintitle" as="xs:string" select="$workfields[26]"/>
-                                        <xsl:variable name="incipit" as="xs:string" select="$workfields[27]"/>
-                                        <xsl:variable name="explicit" as="xs:string" select="$workfields[28]"/>
-                                        <xsl:variable name="colophon" as="xs:string" select="$workfields[29]"/>
-                                        <xsl:variable name="notes" as="xs:string" select="$workfields[30]"/>
-                                        <xsl:variable name="bibrefs" as="xs:string*" select="tokenize($workfields[31], '\|')"/>
+                                        <xsl:variable name="romanizedauthor" as="xs:string" select="$workfields[23]"/>
+                                        <xsl:variable name="tibetanauthor" as="xs:string" select="$workfields[24]"/>
+                                        <xsl:variable name="romanizedtitle" as="xs:string" select="$workfields[25]"/>
+                                        <xsl:variable name="tibetantitle" as="xs:string" select="$workfields[26]"/>
+                                        <xsl:variable name="romanizedmargintitle" as="xs:string" select="$workfields[27]"/>
+                                        <xsl:variable name="tibetanmargintitle" as="xs:string" select="$workfields[28]"/>
+                                        <xsl:variable name="incipit" as="xs:string" select="$workfields[29]"/>
+                                        <xsl:variable name="explicit" as="xs:string" select="$workfields[30]"/>
+                                        <xsl:variable name="colophon" as="xs:string" select="$workfields[31]"/>
+                                        <xsl:variable name="notes" as="xs:string" select="$workfields[32]"/>
+                                        <xsl:variable name="bibrefs" as="xs:string*" select="tokenize($workfields[33], '\|')"/>
                                         <msItem xml:id="{ $idprefix }-item{ position()}">
                                             <xsl:variable name="matchedworkids" as="xs:string*" select="local:lookupAuthority(($tibetantitle, $romanizedtitle)[not(. eq '')], $authorityworks, 'works')"/>
                                             <xsl:if test="string-length($tibetantitle) gt 0">
@@ -482,27 +488,63 @@
                             </msDesc>
                         </sourceDesc>
                     </fileDesc>
+
                     <profileDesc>
                         <textClass>
                             <xsl:if test="count(($subject1, $subject2)[not(. eq '')]) gt 0">
                                 <keywords scheme="#LCSH">
                                     <list>
                                         <xsl:for-each select="distinct-values(($subject1, $subject2)[not(. eq '')])">
-                                            <xsl:variable name="matchedsubjectids" as="xs:string*" select="local:lookupAuthority(., $authoritysubjects, 'subjects')"/>
+                                            <!--<xsl:variable name="subjectterm" as="xs:string" select="."/>-->
+                                            <xsl:variable name="subjectterm" as="xs:string">
+                                                <xsl:choose>
+                                                    <xsl:when test="
+                                                            substring(.,1,1) = '&quot;' and
+                                                            substring(.,string-length(.),1) = '&quot;'">
+                                                        <xsl:value-of select="substring(.,2,string-length(.)-2)"/>
+                                                    </xsl:when>
+                                                    <xsl:otherwise>
+                                                        <xsl:value-of select="."/>
+                                                    </xsl:otherwise>
+                                                </xsl:choose>
+                                            </xsl:variable>
+
+                                            <xsl:variable name="matchedsubjectids" as="xs:string*" select="local:lookupAuthority($subjectterm, $authoritysubjects, 'subjects')"/>
+
                                             <xsl:choose>
-                                                <xsl:when test="count($matchedsubjectids) gt 0">
+                                                <xsl:when test="$matchedsubjectids[1]">
                                                     <item>
                                                         <term key="{ $matchedsubjectids[1] }">
-                                                            <xsl:value-of select="."/>
+                                                            <xsl:value-of select="$subjectterm"/>
                                                         </term>
                                                     </item>
                                                 </xsl:when>
                                                 <xsl:otherwise>
-                                                    <item>
-                                                        <term>
-                                                            <xsl:value-of select="."/>
-                                                        </term>
-                                                    </item>
+                                                    <xsl:for-each select="distinct-values(($subjectlink1, $subjectlink2)[not(. eq '')][contains(., $subjectterm)])">
+                                                        <xsl:variable name="newterm" as="xs:string" select="if (contains(., $subjectterm)) then substring-before(., '%') else ''"/>
+                                                        <xsl:variable name="newkey" as="xs:string" select="if (contains(., $subjectterm)) then substring-after(., '%') else ''"/>
+                                                        <xsl:choose>
+                                                            <!-- Check if both are empty, and if so fall back to not found -->
+                                                            <xsl:when test="$newterm[not(. eq '')] and $newkey[not(. eq '')]">
+                                                                <item>
+                                                                    <term key="{ concat('subject_', $newkey) }">
+                                                                        <!-- Use subjectterm as this has quotes stripped out -->
+                                                                        <xsl:value-of select="$subjectterm"/>
+                                                                    </term>
+                                                                </item>
+                                                            </xsl:when>
+                                                            <xsl:otherwise>
+                                                                <xsl:message>Cannot find authority entry for <xsl:value-of select="$subjectterm"/>
+                                                                </xsl:message>
+                                                                <item>
+                                                                    <term>
+                                                                        <xsl:value-of select="$subjectterm"/>
+                                                                    </term>
+                                                                </item>
+                                                            </xsl:otherwise>
+
+                                                        </xsl:choose>
+                                                    </xsl:for-each>
                                                 </xsl:otherwise>
                                             </xsl:choose>
                                         </xsl:for-each>
@@ -511,6 +553,7 @@
                             </xsl:if>
                         </textClass>
                     </profileDesc>
+
                     <revisionDesc>
                         <change when="{ substring(string(current-date()), 0, 11) }">Record created.</change>
                     </revisionDesc>

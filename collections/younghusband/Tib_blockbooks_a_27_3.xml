@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1083">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1143">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.27.3</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,13 +60,13 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.27.3</idno>
                </msIdentifier>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_27_3-item1">
-                     <title key="" xml:lang="bo">ཐུགས་རྗེ་ཆེན་པོ་རྒྱལ་བ་རྒྱ་མཚོ་ལྷ་དགུའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་བཞུགས༎</title>
-                     <title key="">thugs rje chen po rgyal ba rgya mtsho lha dgu'i dkyil 'khor gyi cho ga bzhugs//</title>
+                     <title key="work_977" xml:lang="bo">ཐུགས་རྗེ་ཆེན་པོ་རྒྱལ་བ་རྒྱ་མཚོ་ལྷ་དགུའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་བཞུགས༎</title>
+                     <title key="work_977">thugs rje chen po rgyal ba rgya mtsho lha dgu'i dkyil 'khor gyi cho ga bzhugs//</title>
                      <title type="margin" xml:lang="bo">དཀྱིལ་ཆོག</title>
                      <title type="margin">dkyil chog</title>
                      <incipit xml:lang="bo">bla ma dang thugs rje chen po'i lha tshogs la phyag 'tshal lo/ /'dir grub pa'i dbang phyug mi tra dzo ki'i thugs dam brgya rtsa'i nang tshan thugs rje chen po rgyal ba rgya mtsho'i dkyil 'khor du dbang bskur ba'i cho ga la gsum /</incipit>
@@ -101,7 +101,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_n83129960">"Blo-bzang-ye-shes, Panchen Lama V, 1663-1737"</term>
+                     <term key="subject_n83129960">Blo-bzang-ye-shes, Panchen Lama V, 1663-1737</term>
                   </item>
                   <item>
                      <term key="subject_sh85037431">Dge-lugs-pa (Sect) Doctrines</term>
@@ -111,12 +111,12 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
+         <change when="2026-02-10">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
+         <p>            <!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1131">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1191">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.40.11</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,18 +60,19 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.40.11</idno>
                </msIdentifier>
                <head>The manual for practice of Eleven Faced Avalokiteśvara and sMyung gnas</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_40_11-item1">
-                     <title key="" xml:lang="bo">འཕགས་པ་ཞལ་བཅུ་གཅིག་པའི་སྒྲུབ་ཐབས་སྨྱུང་བར་གནས་པའི་ཆོ་ག་ནོར་བུའི་འཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས༎</title>
-                     <title key="">_'phags pa zhal bcu gcig pa'i sgrub thabs smyung bar gnas pa'i cho ga nor bu'i 'phreng ba bzhugs//</title>
+                     <title key="work_1015" xml:lang="bo">འཕགས་པ་ཞལ་བཅུ་གཅིག་པའི་སྒྲུབ་ཐབས་སྨྱུང་བར་གནས་པའི་ཆོ་ག་ནོར་བུའི་འཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས༎</title>
+                     <title key="work_1015">_'phags pa zhal bcu gcig pa'i sgrub thabs smyung bar gnas pa'i cho ga nor bu'i 'phreng ba bzhugs//</title>
                      <title type="margin" xml:lang="bo">སྨྱུང་གནས</title>
                      <title type="margin">smyung gnas</title>
                      <author key="person_115">
-                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (<persName>blo bzang chos kyi rgyal mtshan</persName>)</author>
+                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (                        <persName>blo bzang chos kyi rgyal mtshan</persName>)
+                     </author>
                      <incipit xml:lang="bo">na mo gu ru Ar+ya lo ke shwa rA ya/ dus gsum rgyal ba kun gyi thugs rje la/ /spyan ras gzigs zhes mtshan gsol de nyid kyang / /ngur smrig gar gyis bdag la sangs rgyas kyi/ /ye shes mchog stsol bla ma'i zhabs btud nas/</incipit>
                      <explicit xml:lang="bo">ces 'phags pa zhal bcu gcig pa'i sgrub thabs smyung bar gnas pa ji ltar bya ba'i tshul 'di yang do gnyen can mang pos bskul ba'i ngor bya ba'i rgyud don yod zhags pa dang/ zhal bcu gcig pa'i rgyud nas gsungs pa dang / lugs 'di'i thog ma'i srol 'byed dge slong ma dpal mo'i rgya gzhung rnams tshad mar byas/ rdo rje 'chang chen po'i lam gyi rim pa nas ji ltar 'byung ba'i legs par bshad pas mdzes par byas te/ chos smra ba blo bzang chos kyi rgyal mtshan gyis nag pa zla ba'i dkar tshes bco lnga'i nyin dpal ldan 'bras spungs kyi gzims chung nyi 'od 'khyil par sbyar ba'i yi ge pa ni dge slong blo bzang phun tshogs so// bslu med dkon mchog gsum gyi thugs rje dang / /'di bsgrubs las byung rab dkar dge ba des/ /sde pa bsod nams dbang rgyal tshe rabs kun/ /ngan 'gror mi ltung byang chub myur thob shog / //mang+ga laM//</explicit>
                      <listBibl>
@@ -84,61 +85,61 @@
                      <supportDesc material="chart">
                         <support>Paper</support>
                         <extent>10ff<dimensions unit="cm" type="leaf">
-                              <width>530</width>
-                              <height>100</height>
-                           </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width>470</width>
-                              <height>70</height>
-                           </dimensions>
-                        </extent>
-                        <foliation>The book has the volume marker ga</foliation>
-                        <condition>good</condition>
-                     </supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="6">
-                           <p/>
-                        </layout>
-                     </layoutDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
-                  </handDesc>
-               </physDesc>
-               <history>
-                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
-               </history>
-               <additional>
-                  <adminInfo>
-                     <availability status="restricted">
-                        <p>Bodleian: Special Collections Reading Room.</p>
-                     </availability>
-                  </adminInfo>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
-                  </item>
-                  <item>
-                     <term key="subject_n2017054713">Avalokiteśvara (Buddhist deity)</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
-      </body>
-   </text>
+                           <width>530</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>470</width>
+                           <height>70</height>
+                        </dimensions>
+                     </extent>
+                     <foliation>The book has the volume marker ga</foliation>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+            </physDesc>
+            <history>
+               <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n85102857">Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662</term>
+               </item>
+               <item>
+                  <term key="subject_n2017054713">Avalokiteśvara (Buddhist deity)</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
 </TEI>

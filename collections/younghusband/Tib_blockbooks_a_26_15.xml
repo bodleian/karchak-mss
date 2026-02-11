@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1073">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1133">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.26.15</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,12 +60,12 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.26.15</idno>
                </msIdentifier>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_26_15-item1">
-                     <title key="work_900" xml:lang="bo">མྱུང་གནས</title>
+                     <title key="work_963" xml:lang="bo">མྱུང་གནས</title>
                      <title type="margin">myung gnas</title>
                      <note>"* ff. 3-8 only ; the beginning and concluding folios are missing ; cataloguer has pencilled ""279 - 284"" folio nos (repeated in 26.16) ; dbu med handwriting on f. 8"</note>
                      <incipit xml:lang="bo">rnam dag gi gzungs nyer gcig bzlas/ de nas bdag bskyed bya ba la thog mar tshogs zhing mchod pa ni/ rang gi mdun du rin po che du ma las byas pa'i sa gzhi gser gyi bye ma bda' bar gyur/</incipit>
@@ -94,12 +94,12 @@
          <textClass/>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
+         <change when="2026-02-10">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
+         <p>            <!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

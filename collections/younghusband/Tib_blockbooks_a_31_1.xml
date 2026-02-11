@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1089">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1149">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.31.1</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,18 +60,19 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.31.1</idno>
                </msIdentifier>
                <head>The biographies of masters in the Lam rim lineage</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_31_1-item1">
-                     <title key="" xml:lang="bo">བྱང་ཆུབ་ལམ་གྱི་རིམ་པའི་བླ་མ་བརྒྱུད་པའི་རྣམ་པར་ཐར་པ་པདྨ་དཀར་པོའི་འཕྲེང་བ་བཞུགས་སོ༎</title>
-                     <title key="">byang chub lam gyi rim pa'i bla ma brgyud pa'i rnam par thar pa pad+ma dkar po'i 'phreng ba bzhugs so//</title>
+                     <title key="work_982" xml:lang="bo">བྱང་ཆུབ་ལམ་གྱི་རིམ་པའི་བླ་མ་བརྒྱུད་པའི་རྣམ་པར་ཐར་པ་པདྨ་དཀར་པོའི་འཕྲེང་བ་བཞུགས་སོ༎</title>
+                     <title key="work_982">byang chub lam gyi rim pa'i bla ma brgyud pa'i rnam par thar pa pad+ma dkar po'i 'phreng ba bzhugs so//</title>
                      <title type="margin" xml:lang="bo">བཤྲེ་ཡ་པད་ཕྲེང</title>
                      <title type="margin">shre ya pad phreng</title>
-                     <author key="person_2017054725">
-                        <persName xml:lang="bo">བློ་བཟང་ཡེ་ཤེས</persName> (<persName>blo bzang ye shes</persName>)</author>
+                     <author key="person_2017054716">
+                        <persName xml:lang="bo">བློ་བཟང་ཡེ་ཤེས</persName> (                        <persName>blo bzang ye shes</persName>)
+                     </author>
                      <incipit xml:lang="bo">bla ma dang lhag pa'i lha dbyer med pa la dus thams cad du gus pas skyabs su 'chi/ gang gi thugs rje'i bdud rtsi'i cha shas tsam/ /snying la reg pa'i gdung ba kun sel cing / /gsol ba btab na dngos grub kun stsol ba'i/ /rtsa brgyud bla ma rnams la gus pas 'dud/ /de la 'dir rang gzhan dad pa 'phel ba'i gsos 'debs su/ byang chub lam gyi rim pa'i bla ma rnams kyi rnam par thar pa mdor bsdus tsam zhig brjod pa la/</incipit>
                      <explicit xml:lang="bo">thun mong min pa'i nye brgyud kyi dbang du byas na/ rje bla ma ston pa sangs rgyas dang thugs rgyud gcig pa yin no zhes dbon sa yab sras kyi gsung las 'byung bas shes so/ zhes pa 'di ni ri khrod 'dzin pa'i dge slong dka' bcu blo bzang bzang pos nan tan chen pos bskul ba'i ngo ma chogs par yongs kyi dge ba'i bshes gnyen bsod nams grags pa'i gsung bgros bzhin chos smra ba'i btsun pa blo bzang ye shes kyis smras pa dge legs su gyur cig / mang+ga laM/ /</explicit>
                   </msItem>
@@ -81,63 +82,63 @@
                      <supportDesc material="chart">
                         <support>Paper</support>
                         <extent>61ff<dimensions unit="cm" type="leaf">
-                              <width>600</width>
-                              <height>100</height>
-                           </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width>490</width>
-                              <height>70</height>
-                           </dimensions>
-                        </extent>
-                        <condition>good</condition>
-                     </supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="6">
-                           <p/>
-                        </layout>
-                     </layoutDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
-                  </handDesc>
-                  <decoDesc>
-                     <decoNote>"f. 1v, line drawings of Maitreya (Rgyal tshab dam pa brtse ba'i gter), Buddha (Rgyal ba'i dbang po shAkya'i gtso), Mañjuśrī (Rgyal sras thu bo mkhyen pa'i gter) ; f. 2r, Asaṅga (Ma pham thugs sras thogs med 'phags) and Nāgārjuna ('Dzam gling rgyan gcig klu sgrub mgon) ; f. 61r, Vaiśravana (Gsang bdag bka' srong rnam thos sras), Six-armed Mahākāla ('Dud dgu myur stsal phyag drug mgon)and Chos kyi rgyal ('Jam dpal bka' sdod chos kyi rgyal)."</decoNote>
-                  </decoDesc>
-               </physDesc>
-               <history>
-                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
-               </history>
-               <additional>
-                  <adminInfo>
-                     <availability status="restricted">
-                        <p>Bodleian: Special Collections Reading Room.</p>
-                     </availability>
-                  </adminInfo>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term>Dge-lugs-pa (Sect)</term>
-                  </item>
-                  <item>
-                     <term key="subject_n83129960">"Blo-bzang-ye-shes, Panchen Lama V, 1663-1737"</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
-      </body>
-   </text>
+                           <width>600</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>490</width>
+                           <height>70</height>
+                        </dimensions>
+                     </extent>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+               <decoDesc>
+                  <decoNote>"f. 1v, line drawings of Maitreya (Rgyal tshab dam pa brtse ba'i gter), Buddha (Rgyal ba'i dbang po shAkya'i gtso), Mañjuśrī (Rgyal sras thu bo mkhyen pa'i gter) ; f. 2r, Asaṅga (Ma pham thugs sras thogs med 'phags) and Nāgārjuna ('Dzam gling rgyan gcig klu sgrub mgon) ; f. 61r, Vaiśravana (Gsang bdag bka' srong rnam thos sras), Six-armed Mahākāla ('Dud dgu myur stsal phyag drug mgon)and Chos kyi rgyal ('Jam dpal bka' sdod chos kyi rgyal)."</decoNote>
+               </decoDesc>
+            </physDesc>
+            <history>
+               <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_sh85037430">Dge-lugs-pa (Sect)</term>
+               </item>
+               <item>
+                  <term key="subject_n83129960">Blo-bzang-ye-shes, Panchen Lama V, 1663-1737</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
 </TEI>

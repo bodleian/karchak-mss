@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1064">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1124">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.26.6</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,13 +60,13 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.26.6</idno>
                </msIdentifier>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_26_6-item1">
-                     <title key="work_908" xml:lang="bo">དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ཀྱི་དབང་དྲག་གི་སྦྱིན་སྲེག་བྱ་ཚུལ་ལག་ལེན་དུ་དྲིལ་བ་རྣམ་བཤད་དངོས་གྲུབ་རྒྱ་མཚོ་</title>
-                     <title key="work_908">dpal rdo rje 'jigs byed kyi dbang drag gi sbyin sreg bya tshul lag len du dril ba rnam bshad dngos grub rgya mtsho</title>
+                     <title key="work_971" xml:lang="bo">དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ཀྱི་དབང་དྲག་གི་སྦྱིན་སྲེག་བྱ་ཚུལ་ལག་ལེན་དུ་དྲིལ་བ་རྣམ་བཤད་དངོས་གྲུབ་རྒྱ་མཚོ་</title>
+                     <title key="work_971">dpal rdo rje 'jigs byed kyi dbang drag gi sbyin sreg bya tshul lag len du dril ba rnam bshad dngos grub rgya mtsho</title>
                      <title type="margin">sbyin sreg</title>
                      <incipit xml:lang="bo">na mo gu ru many+ju g+ho ShA ya/ bla ma mchog dang 'jam dpal gshin rje'i gshed/ /dbyer med zhabs kyi pad+mor phyag byas te/ /dbang drag sbyin sreg rgyud dang rgya gzung gi/ /dgongs don rje btsun bla ma'i gsung bzhin bri/ /...</incipit>
                      <explicit xml:lang="bo">tshul 'di yang / bkra shis lhun po'i rgyud pa grwa tshang dpon slob rnams kyis/ dbang dang drag po'i sbyin sreg ji ltar bya ba'i tshul sbyin sreg rnam bshad chen mo las phyung ba'i lag len du dril ba zhig gyis zhes nan gyis bskul ba la brten nas/ gshin rje'i gshed kyi rnal 'byor pa/ shAkya'i dge slong blo bzang chos kyi rgyal mtshan gyis/ chos grwa chen po bkra shis lhun po 'i gzims khang chung yid dga' chos 'dzin du bris pa'i yi ge pa ni/ shAkya'i dge tshul rnam dpyod dang ldan pa blo bzang dbang gi rgyal po 'o/ /bkra shis//</explicit>
@@ -97,12 +97,12 @@
          <textClass/>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
+         <change when="2026-02-10">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
+         <p>            <!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

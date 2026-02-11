@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1080">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1140">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.27</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,14 +60,15 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.27</idno>
                </msIdentifier>
                <head>The Collected Writings of Paṇ chen Blo bzang Ye shes: Vol. Ga</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_27-item1">
-                     <author key="person_2017054725">
-                        <persName xml:lang="bo">བློ་བཟང་ཡེ་ཤེས</persName> (<persName>Blo bzang ye shes</persName>)</author>
+                     <author key="person_2017054716">
+                        <persName xml:lang="bo">བློ་བཟང་ཡེ་ཤེས</persName> (                        <persName>Blo bzang ye shes</persName>)
+                     </author>
                   </msItem>
                </msContents>
                <physDesc>
@@ -114,7 +115,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_n83129960">"Blo-bzang-ye-shes, Panchen Lama V, 1663-1737"</term>
+                     <term key="subject_n83129960">Blo-bzang-ye-shes, Panchen Lama V, 1663-1737</term>
                   </item>
                   <item>
                      <term key="subject_sh85037431">Dge-lugs-pa (Sect) Doctrines</term>
@@ -124,12 +125,12 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
+         <change when="2026-02-10">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
+         <p>            <!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

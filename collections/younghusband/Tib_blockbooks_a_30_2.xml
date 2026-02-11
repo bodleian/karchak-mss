@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1087">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1147">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.30.2</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,18 +60,19 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.30.2</idno>
                </msIdentifier>
                <head>The biography of Milarepa</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_30_2-item1">
-                     <title key="" xml:lang="bo">རྣལ་འབྱོར་གྱི་དབང་ཕྱུག་མི་ལ་རས་པའི་རྣམ་ཐར་ཐར་པ་དང་ཐམས་ཅད་མཁྱེན་པའི་ལམ་སྟོན་</title>
-                     <title key="">rnal 'byor gyi dbang phyug mi la ras pa'i rnam thar thar pa dang thams cad mkhyen pa'i lam ston</title>
+                     <title key="work_980" xml:lang="bo">རྣལ་འབྱོར་གྱི་དབང་ཕྱུག་མི་ལ་རས་པའི་རྣམ་ཐར་ཐར་པ་དང་ཐམས་ཅད་མཁྱེན་པའི་ལམ་སྟོན་</title>
+                     <title key="work_980">rnal 'byor gyi dbang phyug mi la ras pa'i rnam thar thar pa dang thams cad mkhyen pa'i lam ston</title>
                      <title type="margin" xml:lang="bo">རྣམ་ཐར</title>
                      <title type="margin">rnam thar</title>
-                     <author key="person_2017054732">
-                        <persName xml:lang="bo">རུས་པའི་རྒྱན་ཅན</persName> (<persName>rus pa'i rgyan can</persName>)</author>
+                     <author key="person_2017054719">
+                        <persName xml:lang="bo">རུས་པའི་རྒྱན་ཅན</persName> (                        <persName>rus pa'i rgyan can</persName>)
+                     </author>
                      <note>There are versions/copies of this text in Cambridge under shelfmarks Tibetan 278 and 282.</note>
                      <incipit xml:lang="bo">shes thigs dang dad sogs nor bus bdag blo rmig rjes rab gang nyon mongs tshad gdung dbul phongs kun bsal bas/ /sred ldan skye bos rgyan spras bzang mo dben par btus tshe tshangs spyod smon yang lang tsho'i dpal gzis bgrod pa phyir bsnur tsam la'ang bzod glags bral phyir 'phral du dga' bas dga' ba ltar//</incipit>
                      <explicit xml:lang="bo">rnal 'byor gyi dbang phyug dam pa rje btsun mi la ras pa 'i rnam par thar pa/ thar pa dang thams cad mkhyen pa'i lam ston mgur chings dang bcas pa 'di nyid/ rje btsun gyi rnam thar du ma mthong na'ang / thun mong ma yin pa'i slob dpon gyi zhal nas byung ba ji ltar bar bzhin dur khrod myul ba'i rnal 'byor pa rus pa'i rus pa'i rgyan can gyis phur bu'i lo ston zla 'bring po'i yar tshe brgyad la/ ma dang mkha' 'gro 'du ba'i gnas chen 'brog la phyi gangs kyi ra bar dag cing rdzogs par yi ger bkod pa 'dis kyang bstan pa dang sems can la phan bde rgya chen po 'khor pa ma stongs kyi bar du 'byung bar gyur cig//</explicit>
@@ -83,58 +84,58 @@
                      <supportDesc material="chart">
                         <support>Paper</support>
                         <extent>120ff<dimensions unit="cm" type="leaf">
-                              <width>585</width>
-                              <height>105</height>
-                           </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width>490</width>
-                              <height>65</height>
-                           </dimensions>
-                        </extent>
-                        <condition>good</condition>
-                     </supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="6">
-                           <p/>
-                        </layout>
-                     </layoutDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
-                  </handDesc>
-                  <decoDesc>
-                     <decoNote>Has line drawings of four-armed Mahākāla on the left and Rematī on the right</decoNote>
-                  </decoDesc>
-               </physDesc>
-               <history/>
-               <additional>
-                  <adminInfo>
-                     <availability status="restricted">
-                        <p>Bodleian: Special Collections Reading Room.</p>
-                     </availability>
-                  </adminInfo>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term>"Mi-la-ras-pa, 1040-1123"</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
-      </body>
-   </text>
+                           <width>585</width>
+                           <height>105</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>490</width>
+                           <height>65</height>
+                        </dimensions>
+                     </extent>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+               <decoDesc>
+                  <decoNote>Has line drawings of four-armed Mahākāla on the left and Rematī on the right</decoNote>
+               </decoDesc>
+            </physDesc>
+            <history/>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n80034328">Mi-la-ras-pa, 1040-1123</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
 </TEI>

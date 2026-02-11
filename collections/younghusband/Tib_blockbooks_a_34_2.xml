@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1105">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1165">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.34.2</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,18 +60,19 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.34.2</idno>
                </msIdentifier>
                <head>A decisive exegesis of the difficult points in the great commentary on Guhyasamāja tantra</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_34_2-item1">
-                     <title key="" xml:lang="bo">རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་གསང་བ་འདུས་པའི་རྒྱ་ཆེར་བཤད་པ་སྒྲོན་མ་གསལ་བའི་དཀའ་བའི་གནས་ཀྱི་མཐའ་གཅོད་རིན་ཆེན་མྱུ་གུ་བཞུགས། །</title>
-                     <title key="">rgyud kyi rgyal po dpal gsang ba 'dus pa'i rgya cher bshad pa sgron ma gsal ba'i dka' ba'i gnas kyi mtha' gcod rin chen myu gu bzhugs/ /</title>
+                     <title key="work_995" xml:lang="bo">རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་གསང་བ་འདུས་པའི་རྒྱ་ཆེར་བཤད་པ་སྒྲོན་མ་གསལ་བའི་དཀའ་བའི་གནས་ཀྱི་མཐའ་གཅོད་རིན་ཆེན་མྱུ་གུ་བཞུགས། །</title>
+                     <title key="work_995">rgyud kyi rgyal po dpal gsang ba 'dus pa'i rgya cher bshad pa sgron ma gsal ba'i dka' ba'i gnas kyi mtha' gcod rin chen myu gu bzhugs/ /</title>
                      <title type="margin" xml:lang="bo">མཐའ་གཅོད</title>
                      <title type="margin">mtha' gcod</title>
-                     <author key="person_2017054734">
-                        <persName xml:lang="bo">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName> (<persName>tsong kha pa blo bzang grags pa</persName>)</author>
+                     <author key="person_2017054721">
+                        <persName xml:lang="bo">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName> (                        <persName>tsong kha pa blo bzang grags pa</persName>)
+                     </author>
                      <incipit xml:lang="bo">rgyud kyi rgyal po dpal gsang ba 'dus pa'i rgya cher bshad pa/ sgron me gsal ba'i dka' ba'i gnas kyi mtha' gcod rin po che'i myu gu zhes bya ba/ bcom ldan 'das byang chub kyi sems rdo rje la phyag 'tshal lo/</incipit>
                      <explicit xml:lang="bo">rgyud kyi rgyal po dpal gsang ba 'dus pa'i rgya cher bshad pa sgron ma gsal ba'i dka' ba'i gnas kyi mtha' gcod rin po che'i myu gu zhes bya ba 'di ni/ dpal gsang ba 'dus pa'i rnal 'byor pa mang du thos pa'i dge slong shar tsong kha pa blo bzang grags pa'i dpal gyis/ 'phags pa yab sras lnga'i sngags dang pha rol tu phyin pa'i gzhung kun la ring du legs par sbyangs shing / khyad par du gsang ba 'dus pa 'phags pa'i skor bod du 'gyur ro cog dang / mar 'gos lugs kyi bshad pa dang gdams ngag rnams la'ang 'dris par byas nas/ rtsa ba dang bshad pa'i rgyud rnams legs par sbyor ba'i tshul la mi 'jigs pa'i spobs pa rnyed pa'i tshe/ 'brog ri bo che dga' ldan rnam par rgyal ba'i gling du sbyar ba'o / /</explicit>
                      <listBibl>
@@ -84,61 +85,61 @@
                      <supportDesc material="chart">
                         <support>Paper</support>
                         <extent>143ff<dimensions unit="cm" type="leaf">
-                              <width>560</width>
-                              <height>100</height>
-                           </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width>490</width>
-                              <height>70</height>
-                           </dimensions>
-                        </extent>
-                        <foliation>The book has the volume marker ca</foliation>
-                        <condition>good</condition>
-                     </supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="6">
-                           <p/>
-                        </layout>
-                     </layoutDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
-                  </handDesc>
-               </physDesc>
-               <history>
-                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
-               </history>
-               <additional>
-                  <adminInfo>
-                     <availability status="restricted">
-                        <p>Bodleian: Special Collections Reading Room.</p>
-                     </availability>
-                  </adminInfo>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term>Tripiṭaka. Sūtrapiṭaka. Tantra. Guhyasamājatantra</term>
-                  </item>
-                  <item>
-                     <term>"Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419"</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
-      </body>
-   </text>
+                           <width>560</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>490</width>
+                           <height>70</height>
+                        </dimensions>
+                     </extent>
+                     <foliation>The book has the volume marker ca</foliation>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+            </physDesc>
+            <history>
+               <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n81075607">Tripiṭaka. Sūtrapiṭaka. Tantra. Guhyasamājatantra</term>
+               </item>
+               <item>
+                  <term key="subject_n80017690">Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
 </TEI>

@@ -5489,6 +5489,714 @@
                <!-- ../collections/driver%2FMS_Driver_b_12.xml#MS_Driver_b_12%2Ditem1 -->
             </bibl>
 
+              <bibl xml:id="work_1032">
+               <title type="uniform">*དབུ་མ་རྒྱན་གྱི་ཟིན་བྲིས་རྗེ་རང་གིས་གནང་བ་བཞུགས་སོ༎</title>
+               <title type="variant">*dbu ma rgyan gyi zin bris rje rang gis gnang ba bzhugs so//</title>
+               <title type="variant">dbu ma rgyan</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_41_8.xml#Tib_blockbooks_a_41_8%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1027">
+               <title type="uniform">*དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ་ཅེས་བྱ་བའི་རྣམ་བཤད་རིགས་པའི་རྒྱ་མཚོརྩ་ཊཱིཀ</title>
+               <title type="variant">*dbu ma rtsa ba'i tshig le'ur byas pa shes rab ces bya ba'i rnam bshad rigs pa'i rgya mtsho zhes bya ba bzhugs so//</title>
+               <title type="variant">rtsa TIk</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_41_2.xml#Tib_blockbooks_a_41_2%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1030">
+               <title type="uniform">*དབུ་མ་ལྟ་བའི་ཁྲིད་ཡིགལྟ་བའི་ཁྲིད་ཡིག་བཞུགས་སོ༎</title>
+               <title type="variant">*dbu ma lta ba'i khrid yig bzhugs so//</title>
+               <title type="variant">lta ba'i khrid</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_41_6.xml#Tib_blockbooks_a_41_6%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1031">
+               <title type="uniform">*ཚིག་སྦྱོར་ཕུན་སུམ་ཚོགས་པའི་སྙན་ངག་གི་ལམ་ནས་དྲངས་པའི་བློ་སྦྱོངབློ་སྦྱོང་བཞུགས་སོ༎</title>
+               <title type="variant">*tshig sbyor phun sum tshogs pa'i snyan ngag gi lam nas drangs pa'i blo sbyong bzhugs so//</title>
+               <title type="variant">blo sbyong</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_41_7.xml#Tib_blockbooks_a_41_7%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1028">
+               <title type="uniform">*རིགས་པ་དྲུག་ཅུ་པའི་ཟིན་བྲིས་རྗེའི་གསུང་བཞིན་རྒྱལ་ཚབ་ཆོས་རྗེས་བཀོད་པ་བཞུགས་སོ༎</title>
+               <title type="variant">*rigs pa drug cu pa'i zin bris rje'i gsung bzhin rgyal tshab chos rjes bkod pa bzhugs so//</title>
+               <title type="variant">rigs zin</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_41_4.xml#Tib_blockbooks_a_41_4%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1029">
+               <title type="uniform">*རྒྱལ་ཚབ་ཆོས་རྗེས་རྗེའི་དྲུང་དུ་གསན་པའི་མངོན་སུམ་ལེའུའི་བརྗེད་བྱ་བཞུགས་སོ༎</title>
+               <title type="variant">*rgyal tshab chos rjes rje'i drung du gsan pa'i mngon sum le'u'i brjed byang bzhugs so//</title>
+               <title type="variant">mngon le'i</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_41_5.xml#Tib_blockbooks_a_41_5%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_949">
+               <title type="uniform">*སོ་སོ་ཐར་པའི་མདོ་བཞུགས་སོ༎</title>
+               <title type="variant">so so thar pa'i mdo bzhugs so// Pratimokṣasūtra</title>
+               <title type="variant">སོ་ཐར</title>
+               <title type="variant">so thar</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_22_11.xml#Tib_blockbooks_a_22_11%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1001">
+               <title type="uniform">[ no title ]</title>
+               <title type="variant">དཀར་ཆག</title>
+               <title type="variant">dkar chag</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_34_8.xml#Tib_blockbooks_a_34_8%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_36_8.xml#Tib_blockbooks_a_36_8%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_41_1.xml#Tib_blockbooks_a_41_1%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1019">
+               <title type="uniform">[no title] gsol gdab kyi rim pa ni/</title>
+               <title type="variant">གསང་མངོན་ཁ་སྐོང</title>
+               <title type="variant">gsang mngon kha skong</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_17.xml#Tib_blockbooks_a_40_17%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_952">
+               <title type="uniform">_'phags pa shes rab kyi pha rol tu phyin pa byams pas zhus pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryaprajñāpāramitāmaitrīyapṛcchatanāmamahāyānasūtra</title>
+               <title type="variant">byams zhus</title>
+               <title type="variant">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བྱམས་པས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་བཞུགས་སོ༎</title>
+               <title type="variant">rgya gar skad du / Ar+ya pradz+nya pA ra mi tA mai trI ya prIts+tshe ta nA ma ma hA yA na sU tra / bod skad du / 'phags pa shes rab kyi pha rol du phyin pa byams pas zhus pa zhes bya ba theg pa chen po'i mdo / / sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo / / de nas yang bcom ldan 'das la byang chub sems dpa' sems dpa' chen po byams pas zhus pa /</title>
+               <title type="variant">བྱམས་ཞུས</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_22_5.xml#Tib_blockbooks_a_22_5%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_22_6.xml#Tib_blockbooks_a_22_6%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_974">
+               <title type="uniform">ཀུན་རིག་གི་སྒོ་ནས་ཚེ་འདས་རྗེས་སུ་འཛིན་ཚུལ་</title>
+               <title type="variant">kun rig gi sgo nas tshe 'das rjes su 'dzin tshul</title>
+               <title type="variant">kun rig</title>
+               <title type="variant">ཀུན་རིག་གིས་སྒོ་ནས་ཚེ་འདས་རྗེས་སུ་འཛིན་ཚུལ་བཞུགས་སོ༎</title>
+               <title type="variant">kun rig gi sgo nas tshe 'das rjes su 'dzin tshul bzhugs so//</title>
+               <title type="variant">ཀུན་རིག</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_9.xml#Tib_blockbooks_a_26_9%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_13.xml#Tib_blockbooks_a_40_13%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_966">
+               <title type="uniform">ཁྲོ་བོ་སྨེ་བ་བརྩེགས་པའི་སྒྲུབ་ཐབས་བདུད་རྩིའི་ཆུ་རྒྱུན་</title>
+               <title type="variant">khro bo sme ba brtsegs pa'i sgrub thabs bdud rtsi'i chu rgyun</title>
+               <title type="variant">སྨེ་བཙེགས</title>
+               <title type="variant">sme btsegs</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_18.xml#Tib_blockbooks_a_26_18%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_979">
+               <title type="uniform">གངས་ཅན་གྲུབ་པའི་གཙོ་བོའི་ངོ་མཚར་གཏམ། །ཐོས་ན་ཡ་མཚན་དད་པའི་མིག་འབྱེད་པའི། །མཐོང་ན་ངོ་མཚར་འོད་ཕྲེང་འགྱེད་པ་འདིས། །སྐལ་ལྡན་དད་གུས་ཅན་གྱི་དགའ་སྟོན་མཛོད།།</title>
+               <title type="variant">gangs can grub pa'i gtso bo'i ngo mtshar gtam/ /thos na ya mtshan dad pa'i mig 'byed pa'i/ /mthong na ngo mtshar 'od phreng 'gyed pa 'dis/ /skal ldan dad gus can gyi dga' ston mdzod//</title>
+               <title type="variant">གསོལ་འདེབས</title>
+               <title type="variant">gsol 'debs</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_30_1.xml#Tib_blockbooks_a_30_1%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1008">
+               <title type="uniform">གཏོར་མ་བརྒྱ་རྩའི་རིམ་པ་མཚུངས་མེད་ཆོས་ཀྱི་རྗེ་བློ་བཟང་གྲགས་པའི་ཕྱག་ལེན་བཞུགས་སོ༎</title>
+               <title type="variant">gtor ma brgya rtsa'i rim pa mtshungs med chos kyi rje blo bzang grags pa'i phyag len bzhugs so//</title>
+               <title type="variant">གཏོར་མ</title>
+               <title type="variant">gtor ma</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_36_7.xml#Tib_blockbooks_a_36_7%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1022">
+               <title type="uniform">གཙུག་ཏོར་བཟློག་ཆེན་གྱི་ལག་ལེན་སྙིང་པོར་དྲིལ་བའི་ཆོ་ག་རྒྱས་འབྲིང་བསྡུས་གསུམ་བར་ཆད་ཀུན་སེལ་ཞེས་བྱ་བ་བཞུགས་སོ། །</title>
+               <title type="variant">gtsug tor bzlog chen gyi lag len snying por dril ba'i cho ga rgyas 'bring bsdus gsum bar chad kun sel zhes bya ba bzhugs so/ /</title>
+               <title type="variant">གཙུག་ཏོར</title>
+               <title type="variant">gtsug tor</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_3.xml#Tib_blockbooks_a_40_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1000">
+               <title type="uniform">གསང་འདུས་དཀའ་གནད་ཟིན་བྲིས་་བཞུགས་སོ།།</title>
+               <title type="variant">gsang 'dus dka' gnad zin bris bzhugs so//</title>
+               <title type="variant">དཀའ་གནད</title>
+               <title type="variant">dka' gnad</title>
+               <title type="variant">*དཀའ་གནད་བརྒྱད་ཀྱི་ཟིན་བྲིས་རྗེའི་གསུང་བཞིན་བརྗེད་བྱང་དུ་བཀོད་པ་བཞུགས་སོ༎</title>
+               <title type="variant">*dka' gnad brgyad kyi zin bris rje'i gsung bzhin brjed byang du bkod pa bzhugs so//</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_34_7.xml#Tib_blockbooks_a_34_7%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_41_3.xml#Tib_blockbooks_a_41_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_999">
+               <title type="uniform">གསང་འདུས་བསྐྱེད་རིམ་གྱི་ཟིན་བྲིས་བཞུགས་སོ།།</title>
+               <title type="variant">gsang 'dus bskyed rim gyi zin bris bzhugs so//</title>
+               <title type="variant">གསང་བསྐྱེད</title>
+               <title type="variant">gsang bskyed</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_34_6.xml#Tib_blockbooks_a_34_6%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1026">
+               <title type="uniform">གསུང་བུམ་པོད་བ</title>
+               <title type="variant">gsung bum pod ba</title>
+               <title type="variant">\\\</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_41.xml#Tib_blockbooks_a_41%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_950">
+               <title type="uniform">ཆེན་པོ་སྟོང་པ་ཉིད་ཞེས་བྱ་བའི་མདོ་ཆེན་པོ་བཞུགས་སོ༎</title>
+               <title type="variant">chen po stong pa nyid zhes bya ba'i mdo chen po bzhugs so// Mahāśūnyatānāmamahāsūtra</title>
+               <title type="variant">ཆེན་པོ</title>
+               <title type="variant">chen po</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_22_2.xml#Tib_blockbooks_a_22_2%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_22_3.xml#Tib_blockbooks_a_22_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1013">
+               <title type="uniform">ཆོས་མངོན་པ་མཛོད་གསལ་བར་བྱེད་པ་ཆོས་མངོན་པ་རིན་ཆེན་འདྲེན་པའི་ཤིང་རྟམཛོད</title>
+               <title type="variant">chos mngon pa mdzod gsal bar byed pa chos mngon pa rin chen 'dren pa'i shing rta</title>
+               <title type="variant">མཛོད</title>
+               <title type="variant">mdzod</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_39_6.xml#Tib_blockbooks_a_39_6%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_967">
+               <title type="uniform">ཆོས་རྒྱལ་གྱི་བཤགས་པ་བསྐང་བཟློག་མངའ་གསོལ་ཚོམ་གཅིག་གཏོར་རྟེན་འཛུགསཉེར་མཁོ</title>
+               <title type="variant">chos rgyal gyi bshags pa bskang bzlog mnga' gsol tshom gcig gtor rten 'dzugs</title>
+               <title type="variant">ཉེར་མཁོ</title>
+               <title type="variant">nyer mkho</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_20.xml#Tib_blockbooks_a_26_20%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_956">
+               <title type="uniform">ཆོས་སྐྱོང་བའི་རྒྱལ་པོ་བསྲོང་བཙན་སྒམ་པོའི་བཀའ་འབུམ་ལས་སྟོད་ཀྱི་ཆ་ཐོག་མར་བླ་མ་རྒྱུད་པའི་གསོལ་འདེབས་ལོ་རྒྱུས་སོགས་བཞུགས་སྩོལ་མངྒ་ལཾ།</title>
+               <title type="variant">chos skyong ba'i rgyal po bsrong btsan sgam po'i bka' 'bum las stod kyi cha thog mar bla ma rgyud pa'i gsol 'debs lo rgyus sogs bzhugs stsol mang+ga laM/</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_24.xml#Tib_blockbooks_a_24%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_990">
+               <title type="uniform">ཆོས་སྨྲ་བའི་བཙུན་པ་བློ་བཟང་ཡེ་ཤེས་ཀྱི་ངག་ཐོར་བུ་བ་རྣམས་ཆབས་གཅིག་ཏུ་བསྒྲིགས་པ་བཞུགས་སོ༎</title>
+               <title type="variant">chos smra ba'i btsun pa blo bzang ye shes kyi ngag thor bu ba rnams chabs gcig tu bsgrigs pa bzhugs so//</title>
+               <title type="variant">པཤྲེ་ཡ</title>
+               <title type="variant">shre ya</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_31_9.xml#Tib_blockbooks_a_31_9%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_965">
+               <title type="uniform">ཇོ་བོ་རྗེའི་ལུགས་ཀྱི་སྒྲོལ་མ་ཉེར་གཅིག་གི་སྒྲུབ་ཐབས་ལས་ཚོགས་དངོས་གྲུབ་རྣམ་གཉིས་ཀྱི་བང་མཛོད་</title>
+               <title type="variant">jo bo rje'i lugs kyi sgrol ma nyer gcig gi sgrub thabs las tshogs dngos grub rnam gnyis kyi bang mdzod</title>
+               <title type="variant">སྒྲོལ་མ</title>
+               <title type="variant">sgrol ma</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_17.xml#Tib_blockbooks_a_26_17%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_977">
+               <title type="uniform">ཐུགས་རྗེ་ཆེན་པོ་རྒྱལ་བ་རྒྱ་མཚོ་ལྷ་དགུའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་བཞུགས༎</title>
+               <title type="variant">thugs rje chen po rgyal ba rgya mtsho lha dgu'i dkyil 'khor gyi cho ga bzhugs//</title>
+               <title type="variant">དཀྱིལ་ཆོག</title>
+               <title type="variant">dkyil chog</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_27_3.xml#Tib_blockbooks_a_27_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_975">
+               <title type="uniform">ཐུགས་རྗེ་ཆེན་པོ་རྒྱལ་བ་རྒྱ་མཚོ་ལྷ་དགུའི་བླ་བརྒྱུད་གསོལ་འདེབས་དང་ཤིས་བརྗོད་བཞུགས༎</title>
+               <title type="variant">thugs rje chen po rgyal ba rgya mtsho lha dgu'i bla brgyud gsol 'debs dang shis brjod bzhugs//</title>
+               <title type="variant">བརྒྱུད་འདེབས</title>
+               <title type="variant">brgyud 'debs</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_27_1.xml#Tib_blockbooks_a_27_1%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_976">
+               <title type="uniform">ཐུགས་རྗེ་ཆེན་པོ་རྒྱལ་བ་རྒྱ་མཚོ་ལྷ་དགུའི་སྒྲུབ་ཐབས་བཞུགས༎</title>
+               <title type="variant">thugs rje chen po rgyal ba rgya mtsho lha dgu'i sgrub thabs bzhugs//</title>
+               <title type="variant">སྒྲུབ་ཐབས</title>
+               <title type="variant">sgrub thabs</title>
+               <title type="variant">ཡེ་ཤེས་མཁའ་འགྲོའི་སྒྲུབ་ཐབས་། འཕོ་བ་། བཀའ་བསྒོ་བཅས་བཞུགས་སོ༎</title>
+               <title type="variant">ye shes mkha' 'gro'i sgrub thabs/ 'pho ba/ bka' bsgo bcas bzhugs so//</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_27_2.xml#Tib_blockbooks_a_27_2%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_36_4.xml#Tib_blockbooks_a_36_4%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_989">
+               <title type="uniform">དགེ་འདུན་གྱི་དབྱེན་བསྡུམས་པའི་ཆོས་ཀུའི་རྟེན་མཆོག་མཐོང་བ་དོན་ལྡན་གྱི་དཀར་ཆག་བཞུགས༎</title>
+               <title type="variant">dge 'dun gyi dbyen bsdums pa'i chos ku'i rten mchog mthong ba don ldan gyi dkar chag bzhugs//</title>
+               <title type="variant">ཤྲེ་ཡ་མཆོད་རྟེན</title>
+               <title type="variant">shre ya mchod rten</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_31_8.xml#Tib_blockbooks_a_31_8%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1011">
+               <title type="uniform">དགེ་སློང་གི་ཁྲིམས་ཉིས་བརྒྱ་ལྔ་བཅུ་རྩ་གསུམ་གྱི་བླང་དོར་ཕྱིན་ཅི་མ་ལོག་པར་ཉམས་སུ་ལེན་ཚུལ་གྱི་བསླབ་བྱ་གནམ་རྩེ་ལྡེང་མར་གྲགས་པ་བཞུགས་སོ༎</title>
+               <title type="variant">dge slong gi khrims nyis brgya lnga bcu rtsa gsum gyi blang dor phyin ci ma log par nyams su len tshul gyi bslab bya gnam rtse ldeng mar grags pa bzhugs so//</title>
+               <title type="variant">གནམ</title>
+               <title type="variant">gnam</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_39_4.xml#Tib_blockbooks_a_39_4%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_998">
+               <title type="uniform">དཔལ་གསང་བ་འདུས་པ་མི་བསྐྱོད་རྡོ་རྗེའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་དབང་གི་དོན་གྱི་དེ་ཉིད་རབ་ཏུ་གསལ་བ་བཞུགས་སོ༎</title>
+               <title type="variant">dpal gsang ba 'dus pa mi bskyod rdo rje'i dkyil 'khor gyi cho ga dbang gi don gyi de nyid rab tu gsal ba bzhugs so//</title>
+               <title type="variant">དབང་དོན</title>
+               <title type="variant">dbang don</title>
+               <title type="variant">དཔལ་གསང་བ་འདུས་པ་མི་བསྐྱོད་རྡོ་རྗེའི་དཀྱིལ་འཁོར་གྱི་ཆོ་གའི་རྣམ་པར་བཤད་པ་དབང་དོན་དེ་ཉིད་ཡང་གསལ་སྣང་བ་རྡོ་རྗེ་སེམས་དཔའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ༎ ༎</title>
+               <title type="variant">dpal gsang ba 'dus pa mi bskyod rdo rje'i dkyil 'khor gyi cho ga'i rnam par bshad pa dbang don de nyid yang gsal snang ba rdo rje sems dpa'i zhal lung zhes bya ba bzhugs so// //</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_34_5.xml#Tib_blockbooks_a_34_5%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_37.xml#Tib_blockbooks_a_37%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1018">
+               <title type="uniform">དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ལས་ཐིག་དང་ཚོན་དགྱེ་བའི་རིམ་པ་དཀྱིལ་ཆོག་ནས་ཕྱུང་བ་བཞུགས་སོ།།</title>
+               <title type="variant">dpal gsang ba 'dus pa'i dkyil 'khor gyi las thig dang tshon dgye ba'i rim pa dkyil chog nas phyung ba bzhugs so//</title>
+               <title type="variant">ཐིག་ཚོན</title>
+               <title type="variant">thig tshon</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_16.xml#Tib_blockbooks_a_40_16%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_997">
+               <title type="uniform">དཔལ་གསང་བ་འདུས་པའི་བཤད་པའི་རྒྱུད་ཡེ་ཤེས་རྡོ་རྗེ་ཀུན་ལས་བཏུས་པའི་ཊཱིཀྐ་བཞུགས་སོ༎</title>
+               <title type="variant">dpal gsang ba 'dus pa'i bshad pa'i rgyud ye shes rdo rje kun las btus pa'i TIk+ka bzhugs so//</title>
+               <title type="variant">ཡེ་རྡོར</title>
+               <title type="variant">ye rdor</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_34_4.xml#Tib_blockbooks_a_34_4%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1020">
+               <title type="uniform">དཔལ་གསང་བ་འདུས་པའི་སྒོ་ནས་རབ་ཏུ་གནས་པ་བྱེད་པའི་ཆོ་ག་རྒྱས་འབྲིང་བསྡུས་གསུམ་ལས༎</title>
+               <title type="variant">[no title page] dpal gsang ba 'dus pa'i sgo nas rab tu gnas pa byed pa'i cho ga rgyas 'bring bsdus gsum las//</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_18.xml#Tib_blockbooks_a_40_18%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1024">
+               <title type="uniform">དཔལ་དུས་ཀྱི་འཁོར་ལོའི་སྒྲུབ་ཐབས་མདོར་བསྡུས་འཇམ་དཔལ་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས༎</title>
+               <title type="variant">dpal dus kyi 'khor lo'i sgrub thabs mdor bsdus 'jam dpal dgongs rgyan zhes bya ba bzhugs//</title>
+               <title type="variant">དུས་འཁོར་སྒྲུབ་ཐབས</title>
+               <title type="variant">dus 'khor sgrub thabs</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_6.xml#Tib_blockbooks_a_40_6%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_971">
+               <title type="uniform">དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ཀྱི་དབང་དྲག་གི་སྦྱིན་སྲེག་བྱ་ཚུལ་ལག་ལེན་དུ་དྲིལ་བ་རྣམ་བཤད་དངོས་གྲུབ་རྒྱ་མཚོ་</title>
+               <title type="variant">dpal rdo rje 'jigs byed kyi dbang drag gi sbyin sreg bya tshul lag len du dril ba rnam bshad dngos grub rgya mtsho</title>
+               <title type="variant">sbyin sreg</title>
+               <title type="variant">ཐུགས་རྗེ་ཆེན་པོ་རྒྱལ་བ་རྒྱ་མཚོ་ལྷ་དགུའི་ཞི་རྒྱས་ཀྱི་སྦྱིན་སྲེག་གི་ཆོ་ག་བཞུགས༎</title>
+               <title type="variant">thugs rje chen po rgyal ba rgya mtsho lha dgu'i zhi rgyas kyi sbyin sreg gi cho ga bzhugs//</title>
+               <title type="variant">སྦྱིན་སྲེག</title>
+               <title type="variant">དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ཀྱི་དབང་དྲག་གི་སྦྱིན་སྲེག་བྱ་ཚུལ་ལག་ལེན་དུ་དྲིལ་བ་རྣམ་བཤད་དངོས་གྲུབ་རྒྱ་མཚོ་ལས་བྱུང་བ་བཞུགས༎</title>
+               <title type="variant">dpal rdo rje 'jigs byed kyi dbang drag gi sbyin sreg bya tshul lag len du dril ba rnam bshad dngos grub rgya mtsho las byung ba bzhugs//</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_6.xml#Tib_blockbooks_a_26_6%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_27_4.xml#Tib_blockbooks_a_27_4%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_9.xml#Tib_blockbooks_a_40_9%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1012">
+               <title type="uniform">ནམ་མཁའ་སྒོ་འབྱེད་ཀྱི་དབང་བྱེད་ཚུལ་བཞུགས༎</title>
+               <title type="variant">nam mkha' sgo 'byed kyi dbang byed tshul bzhugs//</title>
+               <title type="variant">གོ་འབྱེད</title>
+               <title type="variant">go 'byed</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_39_5.xml#Tib_blockbooks_a_39_5%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_991">
+               <title type="uniform">པཎ་ཆེན་ཐམས་ཅད་མཁྱེན་པ་ཆེན་པོའི་གསུང་ཐོར་བུ་པ་ཕྱོགས་གཅིག་ཏུ་བསྡེབས་པ་རྣམས་བཞུགས་སོ༎</title>
+               <title type="variant">paN chen thams cad mkhyen pa chen po'i gsung thor bu pa phyogs gcig tu bsdebs pa rnams bzhugs so//</title>
+               <title type="variant">ཨེ་ཝཾ</title>
+               <title type="variant">e waM</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_32_1.xml#Tib_blockbooks_a_32_1%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_33.xml#Tib_blockbooks_a_33%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1009">
+               <title type="uniform">པཎ་ཆེན་ཐམས་ཅད་མཁྱེན་པ་བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན་དཔལ་བཟང་པོའི་གསུང་ལས་ལམ་རིམ་ཚིགས་བཅད་མ་བཞུགས་སོ། ༎</title>
+               <title type="variant">paṇ chen thams cad mkhyen pa blo bzang chos kyi rgyal mtshan dpal bzang po'i gsung las lam rim tshigs bcad ma bzhugs so/ //</title>
+               <title type="variant">ལམ་རིམ</title>
+               <title type="variant">lam rim</title>
+               <title type="variant">བྱང་ཆུབ་ལམ་གྱི་རིམ་པའི་དམར་ཁྲིད་ཐམས་ཅད་མཁྱེན་པར་བགྲོད་པའི་བདེ་ལམ་ཞེས་བྱ་བ་བཞུགས༎</title>
+               <title type="variant">byang chub lam gyi rim pa'i dmar khrid thams cad mkhyen par bgrod pa'i bde lam zhes bya ba bzhugs//</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_39_1.xml#Tib_blockbooks_a_39_1%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_39_2.xml#Tib_blockbooks_a_39_2%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_983">
+               <title type="uniform">པཎ་ཆེན་བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་གསལ་བར་སྟོན་པ་ནོར་བུའི་འཕྲེང་བའི་སྨད་ཆ་བཞུགས༎</title>
+               <title type="variant">paN chen blo bzang chos kyi rgyal mtshan gyi rnam thar gsal bar ston pa nor bu'i 'phreng ba'i smad cha bzhugs//</title>
+               <title type="variant">ཤྲེ་ཡ་དྷ་རྨཱ</title>
+               <title type="variant">shre ya d+ha rmA</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_31_2.xml#Tib_blockbooks_a_31_2%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_992">
+               <title type="uniform">བཀྲ་ཤིས་རྩེ་པ་ནང་སོ་བློ་བཟང་དབང་རྒྱལ་ལ་གདམས་པ་རྣམས་ཆབས་གཅིག་ཏུ་བསྒྲིགས་པ་བཞུགས༎</title>
+               <title type="variant">bkra shis rtse pa nang so blo bzang dbang rgyal la gdams pa rnams chabs gcig tu bsgrigs pa bzhugs//</title>
+               <title type="variant">ཧྲིཿ</title>
+               <title type="variant">hriH</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_32_2.xml#Tib_blockbooks_a_32_2%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_968">
+               <title type="uniform">བཅོམ་ལྡན་འདས་དཔལ་དུས་ཀྱི་འཁོར་ལོ་ཟབ་ལམ་རྡོ་རྗེའི་རྣལ་འབྱོར་</title>
+               <title type="variant">bcom ldan 'das dpal dus kyi 'khor lo zab lam rdo rje'i rnal 'byor</title>
+               <title type="variant">dis zab</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_3.xml#Tib_blockbooks_a_26_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1023">
+               <title type="uniform">བཅོམ་ལྡན་འདས་དཔལ་དུས་ཀྱི་འཁོར་ལོའི་ཟབ་ལམ་རྡོ་རྗེའི་རྣལ་འབྱོར་བཞུགས༎</title>
+               <title type="variant">bcom ldan 'das dpal dus kyi 'khor lo'i zab lam rdo rje'i rnal 'byor bzhugs//</title>
+               <title type="variant">དུས་ཟབ</title>
+               <title type="variant">dus zab</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_5.xml#Tib_blockbooks_a_40_5%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1016">
+               <title type="uniform">བཅོམ་ལྡན་འདས་དཔལ་འཁོར་ལོ་བདེ་མཆོག་ལཱུ་ཡི་པའི་ལུགས་ཀྱི་བསྐྱེད་རིམ་བཞུགསོ༎</title>
+               <title type="variant">bcom ldan 'das dpal 'khor lo bde mchog lU yi pa'i lugs kyi bskyed rim bzhugso//</title>
+               <title type="variant">བདེ་བསྐྱེད</title>
+               <title type="variant">bde bskyed</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_14.xml#Tib_blockbooks_a_40_14%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1017">
+               <title type="uniform">བཅོམ་ལྡན་འདས་དཔལ་འཁོར་ལོ་བདེ་མཆོག་ལཱུ་ཨི་པའི་ལུགས་ཀྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་བདེ་ཆེན་རོལ་མཚོ་ཞེས་བྱ་བ་མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་པོས་མཛད་པ་བཞུགས་སྷོ། །</title>
+               <title type="variant">bcom ldan 'das dpal 'khor lo bde mchog lU i pa'i lugs kyi dkyil 'khor gyi cho ga bde chen rol mtsho zhes bya ba mkhas grub dge legs dpal bzang pos mdzad pa bzhugs so+ha/ /</title>
+               <title type="variant">བདེ་དཀྱིལ</title>
+               <title type="variant">bde dkyil</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_15.xml#Tib_blockbooks_a_40_15%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_960">
+               <title type="uniform">བཅོམ་ལྡན་འདས་རྡོ་རྗེ་མི་འཁྲུགས་པའི་སྒྲུབ་དཀྱིལ་ཡོངས་སུ་རྫོགས་པའི་ཆོ་ག་མངོན་པར་དགའ་བའི་སྒོ་འབྱེད་</title>
+               <title type="variant">bcom ldan 'das rdo rje mi 'khrugs pa'i sgrub dkyil yongs su rdzogs pa'i cho ga mngon par dga' ba'i sgo 'byed</title>
+               <title type="variant">མི་འཁྲུགས</title>
+               <title type="variant">mi 'khrugs</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_12.xml#Tib_blockbooks_a_26_12%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_959">
+               <title type="uniform">བཅོམ་ལྡན་འདས་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་དཀྱིལ་འཆི་མེད་དཔལ་སྦྱིན་</title>
+               <title type="variant">bcom ldan 'das rnam par rgyal ma'i sgrub dkyil 'chi med dpal sbyin</title>
+               <title type="variant">རྣམ་རྒྱལ་སྒྲུབ་དཀྱིལ</title>
+               <title type="variant">rnam rgyal sgrub dkyil</title>
+               <title type="variant">བཅོམ་ལྡན་འདས་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་དཀྱིལ་འཆི་མེད་དཔལ་སྦྱིན་ཞེས་བྱ་བ་</title>
+               <title type="variant">bcom ldan 'das rnam par rgyal ma'i sgrub dkyil 'chi med dpal sbyin zhes bya ba bzhugs so//</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_11.xml#Tib_blockbooks_a_26_11%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_10.xml#Tib_blockbooks_a_40_10%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_961">
+               <title type="uniform">བཅོམ་ལྡན་འདས་སྨན་བླའི་མདོ་ཆོག་གི་སྙིང་པོ་བསྡུས་པ་ཡིད་བཞིན་གྱི་ནོར་བུ་</title>
+               <title type="variant">bcom ldan 'das sman bla'i mdo chog gi snying po bsdus pa yid bzhin gyi nor bu</title>
+               <title type="variant">སྨན་བླ</title>
+               <title type="variant">sman bla</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_13.xml#Tib_blockbooks_a_26_13%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_993">
+               <title type="uniform">བསངས་ཆོག་བཀྲ་ཤིས་ཆར་འབེབས་མཆོད་སྦྱིན་རྒྱ་མཚོ་ཞེས་བྱ་བ་བཞུགས༎</title>
+               <title type="variant">bsangs chog bkra shis char 'bebs mchod sbyin rgya mtsho zhes bya ba bzhugs//</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_32_5.xml#Tib_blockbooks_a_32_5%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_982">
+               <title type="uniform">བྱང་ཆུབ་ལམ་གྱི་རིམ་པའི་བླ་མ་བརྒྱུད་པའི་རྣམ་པར་ཐར་པ་པདྨ་དཀར་པོའི་འཕྲེང་བ་བཞུགས་སོ༎</title>
+               <title type="variant">byang chub lam gyi rim pa'i bla ma brgyud pa'i rnam par thar pa pad+ma dkar po'i 'phreng ba bzhugs so//</title>
+               <title type="variant">བཤྲེ་ཡ་པད་ཕྲེང</title>
+               <title type="variant">shre ya pad phreng</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_31_1.xml#Tib_blockbooks_a_31_1%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1021">
+               <title type="uniform">བླ་མའི་ཐུགས་རྗེའི་ཆར་རྒྱུན་བསྐུལ་བའི་སྤྲིན་སྒྲ་ཞེས་བྱ་བ་བཞུགས་སོ༎</title>
+               <title type="variant">bla ma'i thugs rje'i char rgyun bskul ba'i sprin sgra zhes bya ba bzhugs so//</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_2.xml#Tib_blockbooks_a_40_2%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_985">
+               <title type="uniform">བླ་མའི་རྣལ་འབྱོར་གྱི་འགྲེལ་པ་དང་བཀའ་དྲིན་གསོལ་འདེབས་བཞུགས༎</title>
+               <title type="variant">bla ma'i rnal 'byor gyi 'grel ba dang bka' drin gsol 'debs bzhugs//</title>
+               <title type="variant">ཤྲེ་ཡ་ཡོ་ག</title>
+               <title type="variant">shre ya yo ga</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_31_4.xml#Tib_blockbooks_a_31_4%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_947">
+               <title type="uniform">མདོ་ཆེན་པོ་སྟོང་པ་ཉིད་ཅེས་བྱ་བ་བཞུགས་སོ༎</title>
+               <title type="variant">mdo chen po stong pa nyid ces bya ba bzhugs so// Śūnyatānāmahāsūtra</title>
+               <title type="variant">མདོ་ཆེན་པོ</title>
+               <title type="variant">mdo chen po</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_22_1.xml#Tib_blockbooks_a_22_1%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_963">
+               <title type="uniform">མྱུང་གནས</title>
+               <title type="variant">myung gnas</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_15.xml#Tib_blockbooks_a_26_15%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_973">
+               <title type="uniform">ཚེ་དབང་བསྐུར་ཚུལ་འཆི་མེད་ཚེའི་རིག་འཛིན་གྱི་དངོས་གྲུབ་སྟེར་བའི་གདམས་པ་</title>
+               <title type="variant">tshe dbang bskur tshul 'chi med tshe'i rig 'dzin gyi dngos grub ster ba'i gdams pa</title>
+               <title type="variant">tshe dbang</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_8.xml#Tib_blockbooks_a_26_8%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_962">
+               <title type="uniform">འཇམ་དཀར་གྱི་སྒྲུབ་ཐབས་ཤེས་རབ་མཆོག་སྦྱིན་</title>
+               <title type="variant">'jam dkar gyi sgrub thabs shes rab mchog sbyin</title>
+               <title type="variant">འཇམ</title>
+               <title type="variant">'jam</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_14.xml#Tib_blockbooks_a_26_14%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_969">
+               <title type="uniform">འཇིགས་བྱེད་དཔའ་བོ་གཅིག་པ་རོ་ལངས་བརྒྱད་བསྐོར་ཞེ་དགུ་མ་གསུམ་གྱི་སྒྲུབ་ཐབས་</title>
+               <title type="variant">'jigs byed dpa' bo gcig pa ro langs brgyad bskor zhe dgu ma gsum gyi sgrub thabs</title>
+               <title type="variant">dpa' gcig</title>
+               <title type="variant">དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་དཔའ་བོ་གཅིག་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་བདུད་དཔུང་འཇོམས་པ་ཞེས་བྱ་བ་བཞུགས་སོ༎</title>
+               <title type="variant">dpal rdo rje 'jigs byed dpa' bo gcig pa'i dkyil 'khor gyi cho ga bdud dpung 'joms pa zhes bya ba bzhugs so//</title>
+               <title type="variant">དཔའ་གཅིག</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_4.xml#Tib_blockbooks_a_26_4%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_7.xml#Tib_blockbooks_a_40_7%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1025">
+               <title type="uniform">འཇིགས་བྱེད་དཔའ་བོ་གཅིག་པ་རོ་ལངས་བརྒྱད་བསྐོར་ཞེ་དགུ་མ་གསུམ་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ་བཞུགས་སོ༎</title>
+               <title type="variant">_'jigs byed dpa' bo gcig pa ro langs brgyad bskor zhe dgu ma gsum gyi sgrub thabs bzhugso//</title>
+               <title type="variant">"དཔའ་གཅིག , བརྒྱད་སྐོར"</title>
+               <title type="variant">"dpa' gcig (ff.1-6), brgyad skor (ff.7-10)"</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_8.xml#Tib_blockbooks_a_40_8%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_970">
+               <title type="uniform">འདཔལ་རྡོ་རྗེ་ཇིགས་བྱེད་ཀྱི་དབང་ཆོག་ཨནད་བུམ་བསྐྱེད་ཀྱི་ཟུར་འདེབས་</title>
+               <title type="variant">'dpal rdo rje jigs byed kyi dbang chog and bum bskyed kyi zur 'debs</title>
+               <title type="variant">b+hai ra va</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_5.xml#Tib_blockbooks_a_26_5%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1003">
+               <title type="uniform">འདུལ་བ་མདོ་རྩ་བའི་ཟིན་བྲིས་བཞུགས། །</title>
+               <title type="variant">dul ba mdo rtsa ba'i zin bris bzhugs/ /</title>
+               <title type="variant">མདོ་ཟིན</title>
+               <title type="variant">mdo zin</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_36_1.xml#Tib_blockbooks_a_36_1%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_996">
+               <title type="uniform">འདུས་པའི་བཤད་རྒྱུད་ལྷ་མོ་བཞིས་ཞུས་ཀྱི་རྒྱ་ཆེར་བཤད་པ་སྲོག་རྩོལ་གྱི་དེ་ཁོ་ན་ཉིད་གསལ་བ་བཞེས་བྱ་བ་བཞུགས། །</title>
+               <title type="variant">dus pa'i bshad rgyud lha mo bzhis zhus kyi rgya cher bshad pa srog rtsol gyi de kho na nyid gsal ba bzhes bya ba bzhugs/ /</title>
+               <title type="variant">བཞིས་ཞུས</title>
+               <title type="variant">bzhis zhus</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_34_3.xml#Tib_blockbooks_a_34_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_987">
+               <title type="uniform">འཕགས་པ་གདུགས་དཀར་ཅན་གྱི་སྒྲུབ་ཐབས་མཆོག་ཐུན་དངོས་གྲུབ་ཆར་འབེབས་བཞུགས༎</title>
+               <title type="variant">_'phags pa gdugs dkar can gyi sgrub thabs mchog thun dngos grub char 'bebs bzhugs//</title>
+               <title type="variant">ཤྲེ་ཡ་གདུགས་དཀར</title>
+               <title type="variant">shre ya gdugs dkar</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_31_6.xml#Tib_blockbooks_a_31_6%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_955">
+               <title type="uniform">འཕགས་པ་དགོངས་པ་ངེས་པར་འགྲེལ་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་བཞུགས་སོ༎</title>
+               <title type="variant">_'phags pa dgongs pa nges par 'grel pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryasandhinirmocananāmamahāyānasūtra</title>
+               <title type="variant">ངེས་འགྲེལ</title>
+               <title type="variant">nges 'grel</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_22_9.xml#Tib_blockbooks_a_22_9%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_948">
+               <title type="uniform">འཕགས་པ་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་ཀྱི་བཀོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་བཞུགས་སོ༎</title>
+               <title type="variant">_'phags pa de bzhin gshegs pa 'od dpag med kyi bkod pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryāmitābhavyūhanāmamahāyānasūtra</title>
+               <title type="variant">བདེ་ཅན</title>
+               <title type="variant">bde can</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_22_10.xml#Tib_blockbooks_a_22_10%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1015">
+               <title type="uniform">འཕགས་པ་ཞལ་བཅུ་གཅིག་པའི་སྒྲུབ་ཐབས་སྨྱུང་བར་གནས་པའི་ཆོ་ག་ནོར་བུའི་འཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས༎</title>
+               <title type="variant">_'phags pa zhal bcu gcig pa'i sgrub thabs smyung bar gnas pa'i cho ga nor bu'i 'phreng ba bzhugs//</title>
+               <title type="variant">སྨྱུང་གནས</title>
+               <title type="variant">smyung gnas</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_11.xml#Tib_blockbooks_a_40_11%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_951">
+               <title type="uniform">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལྔ་་བརྒྱ་པ་བཞུགས་སོ༎</title>
+               <title type="variant">_'phags pa shes rab kyi pha rol tu phyin pa lnga rgya pa bzhugs so// Āryapañcaśatīkaprajñāpāramitā</title>
+               <title type="variant">ལྔ་རྒྱ་པ</title>
+               <title type="variant">lnga rgya pa</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_22_4.xml#Tib_blockbooks_a_22_4%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_972">
+               <title type="uniform">ཡི་དམ་གྱི་ཚོགས་འཁོར་དང་སྦྱིན་སྲེག་སོགས་</title>
+               <title type="variant">yi dam gyi tshogs 'khor dang sbyin sreg sogs</title>
+               <title type="variant">aH</title>
+               <title type="variant">བསངས་ཀྱི་ཆོ་ག་དངོས་གྲུབ་ཀྱི་གཟི་འོད་འབར་བ་ཞེས་བྱ་བ་རྒྱས་འབྲིང་བསྡུས་གསུམ་ལས་འདི་ཉིད་འབྲིང་པོའོ༎</title>
+               <title type="variant">bsangs kyi cho ga dngos grub kyi gzi 'od 'bar ba zhes bya ba rgyas 'bring bsdus gsum las 'di nyid 'bring po'o//</title>
+               <title type="variant">ཨཿ</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_7.xml#Tib_blockbooks_a_26_7%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_32_4.xml#Tib_blockbooks_a_32_4%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_988">
+               <title type="uniform">ཡེ་ཤེས་ཀྱི་མགོན་པོ་གྲི་གུག་དང་ཚེར་གསེབ་ཆོས་སྐྱོང་བསྟན་མ་གསུམ་གྱི་གཏོར་ཆོག་བཞུགས་སོ༎</title>
+               <title type="variant">ye shes kyi mgon po gri gug dang tsher gseb chos skyong bstan ma gsum gyi gtor chog bzhugs so//</title>
+               <title type="variant">ཤྲེ་ཡ་གྲི་གུག</title>
+               <title type="variant">shre ya gri gug</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_31_7.xml#Tib_blockbooks_a_31_7%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1014">
+               <title type="uniform">རབ་ཏུ་གནས་པའི་ཆོ་ག་ལག་ལེན་དུ་དྲིལ་བ་དགེ་ལེགས་རྒྱ་མཚོའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས༎</title>
+               <title type="variant">rab tu gnas pa'i cho ga lag len du dril ba dge legs rgya mtsho'i char 'bebs zhes bya ba bzhugs//</title>
+               <title type="variant">རབ་གནས</title>
+               <title type="variant">rab gnas</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_1.xml#Tib_blockbooks_a_40_1%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_953">
+               <title type="uniform">རྒྱལ་མཚན་རྩེ་མོ་ལ་སོགས་པའི་གཟུངས་སྔགས་འགར་བཞུགས༎</title>
+               <title type="variant">rgyal mtshan rtse mo la sogs pa'i gzungs sngags 'gar bzhugs//</title>
+               <title type="variant">རིག</title>
+               <title type="variant">rig</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_22_7.xml#Tib_blockbooks_a_22_7%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_986">
+               <title type="uniform">རྒྱུད་ཀྱི་རྒྱལ་པོ་གསང་བ་འདུས་པའི་བཤད་པ་རྫོགས་པའི་འོག་ཏུ་། རྡོ་རྗེ་སློབ་དཔོན་ལ་གཏང་རག་གི་མཆོད་པ་སོགས་བྱ་ཚུལ་བཞུགས་སོ༎</title>
+               <title type="variant">rgyud kyi rgyal po gsang ba 'dus pa'i bshad pa rdzogs pa'i 'og tu/ rdo rje slob dpon la gtang rag gi mchod pa sogs bya tshul bzhugs so//</title>
+               <title type="variant">ཤྲེ་ཡ་པཱུ་ཛ</title>
+               <title type="variant">shre ya pU dza</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_31_5.xml#Tib_blockbooks_a_31_5%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_995">
+               <title type="uniform">རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་གསང་བ་འདུས་པའི་རྒྱ་ཆེར་བཤད་པ་སྒྲོན་མ་གསལ་བའི་དཀའ་བའི་གནས་ཀྱི་མཐའ་གཅོད་རིན་ཆེན་མྱུ་གུ་བཞུགས། །</title>
+               <title type="variant">rgyud kyi rgyal po dpal gsang ba 'dus pa'i rgya cher bshad pa sgron ma gsal ba'i dka' ba'i gnas kyi mtha' gcod rin chen myu gu bzhugs/ /</title>
+               <title type="variant">མཐའ་གཅོད</title>
+               <title type="variant">mtha' gcod</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_34_2.xml#Tib_blockbooks_a_34_2%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1002">
+               <title type="uniform">རྒྱུད་ཐམས་ཅད་ཀྱི་རྒྱལ་པོ་དཔལ་གསང་བ་འདུས་པའི་རྒྱ་ཆེར་བཤད་པ་སྒྲོན་མ་གསལ་བའི་ཚིག་དོན་ཇི་བཞིན་འབྱེད་པའི་མཆན་གྱི་ཡང་འགྲེལ་བཞུགས་སོ། །</title>
+               <title type="variant">rgyud thams cad kyi rgyal po dpal gsang ba 'dus pa'i rgya cher bshad pa sgron ma gsal ba'i tshig don ji bzhin 'byed pa'i mchan gyi yang 'grel bzhugs so/ /</title>
+               <title type="variant">སྒྲོན་གསལ་མཆན</title>
+               <title type="variant">sgron gsal mchan</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_35.xml#Tib_blockbooks_a_35%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_994">
+               <title type="uniform">རྒྱུད་ཐམས་ཅད་ཀྱི་རྒྱལ་པོ་དཔལ་གསང་བ་འདུས་པའི་རྩ་བའི་རྒྱུད་། སྒྲོན་མ་རབ་ཏུ་གསལ་བར་བྱེད་པའི་རྒྱ་ཆེར་བཤད་པས་འཆད་པའི་ས་བཅད་བསྡུས་དོན་བཞུགས་སོ༎</title>
+               <title type="variant">rgyud thams cad kyi rgyal po dpal gsang ba 'dus pa'i rtsa ba'i rgyud/ sgron ma rab tu gsal bar byed pa'i rgya cher bshad pas 'chad pa'i sa bcad bsdus don bzhugs so//</title>
+               <title type="variant">བསྡུས་དོན</title>
+               <title type="variant">bsdus don</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_34_1.xml#Tib_blockbooks_a_34_1%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_957">
+               <title type="uniform">རྒྱུད་ཐམས་ཅད་ཀྱི་རྒྱལ་པོ་བཅོམ་ལྡན་འདས་དཔལ་དུས་ཀྱི་འཁོར་ལོའི་རྩ་བའི་རྒྱུད་ལས་འབྱུང་ཕྱུང་བ་བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱས་འགྲེལ་དྲི་མ་མེད་པའི་འོད་ཀྱི་རྒྱ་ཆེར་བཤད་པ་དེ་ཁོ་ཉིད་སྣང་བར་བྱེད་པའི་སྙིང་པོ་བསྡུས་པ་ཡིད་བཞིན་གྱི་ནོར་བུ་ཞེས་བྱ་བ་བཞུགས་སོ།།</title>
+               <title type="variant">rgyud thams cad kyi rgyal po bcom ldan 'das dpal dus kyi 'khor lo'i rtsa ba'i rgyud las 'byung phyung ba bsdus pa'i rgyud kyi rgyas 'grel dri ma med pa'i 'od kyi rgya cher bshad pa de kho nyid snang bar byed pa'i snying po bsdus pa yid bzhin gyi nor bu zhes bya ba bzhugs so//</title>
+               <title type="variant">དུས་འཁོར</title>
+               <title type="variant">dus 'khor</title>
+               <title type="variant">དཔལ་དུས་ཀྱི་འཁོར་ལོའི་སྨོན་ལམ་ཤིས་བརྗོད་</title>
+               <title type="variant">dpal dus kyi 'khor lo'i smon lam shis brjod</title>
+               <title type="variant">རྒྱུད་ཐམས་ཀྱི་རྒྱལ་པོ་བཅོམ་ལྡན་འདས་དཔལ་དུས་ཀྱི་འཁོར་ལོའི་རྩ་བའི་རྒྱུད་ལས་ཕྱུང་བ་བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱས་འགྲེལ་པ་དྲི་མ་མེད་པའ་འོད་ཀྱི་རྒྱ་ཆེར་བཤད་པ་དེ་ཁོ་ན་ཉིད་སྣང་བར་བྱེད་པའི་སྙིང་པོ་བསྡུས་པ་ཡིད་བཞིན་ནོར་བུ་ཞེས་བྱ་བ་བཞུགས་སོ། །</title>
+               <title type="variant">rgyud thams cad kyi rgyal po bcom ldan 'das dpal dus kyi 'khor lo'i rtsa ba'i rgyud las phyung ba bsdus pa'i rgyud kyi rgyas 'grel pa dri ma med pa'i 'od kyi rgya cher bshad pa de kho na nyid snang bar byed pa'i snying po bsdus pa yid bzhin nor bu zhes bya ba bzhugs so/ /</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_1.xml#Tib_blockbooks_a_26_1%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_2.xml#Tib_blockbooks_a_26_2%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_4.xml#Tib_blockbooks_a_40_4%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_958">
+               <title type="uniform">རྒྱུད་སྡེ་གཉིས་པའི་གཙོ་བོར་གྱུར་པའི་སྙིང་རྗེ་ཆེན་པོ་སྙིང་པོ་ཅན་གྱི་སྐྱིལ་འཁོར་གྱི་ཆོ་ག་ངག་འདོན་དུ་བསྒྲིགས་པ་</title>
+               <title type="variant">rgyud sde gnyis pa'i gtso bor gyur pa'i snying rje chen po snying po can gyi skyil 'khor gyi cho ga ngag 'don du bsgrigs pa</title>
+               <title type="variant">rnam snang</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_10.xml#Tib_blockbooks_a_26_10%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1004">
+               <title type="uniform">རྗེ་ཐམས་ཅད་མཁྱེན་པ་ཙོང་ཁ་པ་ཆེན་པོའི་བཀའ་འབུམ་ཐོར་བུ་བཞུགས༎</title>
+               <title type="variant">rje thams cad mkhyen pa tsong kha pa chen po'i bka' 'bum thor bu bzhugs so//</title>
+               <title type="variant">ཐོར་བུ</title>
+               <title type="variant">thor bu</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_36_2.xml#Tib_blockbooks_a_36_2%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_984">
+               <title type="uniform">རྗེ་དྲུང་སྤྲུལ་པའི་སྐུ་དགེ་འདུན་ཆོས་རྒྱལ་དབང་ཕྱུག་གི་རྣམ་པར་ཐར་པ་གྲུབ་དབང་དགྱེས་པའི་རོལ་མཚོ་ཞེས་བྱ་བ་བཞུགས་སོ༎</title>
+               <title type="variant">rje drung sprul pa'i sku dge 'dun chos rgyal dbang phyug gi rnam par thar pa grub dbang dgyes pa'i rol mtsho zhes bya ba bzhugs so//</title>
+               <title type="variant">ཤྲེ་ཡ་རོལ་མཚོ</title>
+               <title type="variant">shre ya rol mtsho</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_31_3.xml#Tib_blockbooks_a_31_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_981">
+               <title type="uniform">རྗེ་བཙུན་མི་ལ་རས་པའི་རྣམ་ཐར་རྒྱས་པར་ཕྱེ་བ་</title>
+               <title type="variant">rje btsun mi la ras pa'i rnam thar rgyas par phye ba</title>
+               <title type="variant">མགུར་འབུམ</title>
+               <title type="variant">mgur 'bum</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_30_3.xml#Tib_blockbooks_a_30_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1005">
+               <title type="uniform">རྡོ་རྗེ་རྩེ་མོའི་ཟིན་བྲིས་རྗེ་ཉིད་ཀྱིས་གནང་བ་བཞུགས། ༎</title>
+               <title type="variant">rdo rje rtse mo'i zin bris rje nyid kyis gnang ba bzhugs/ //</title>
+               <title type="variant">རྩེ་མོ</title>
+               <title type="variant">rtse mo</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_36_3.xml#Tib_blockbooks_a_36_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_980">
+               <title type="uniform">རྣལ་འབྱོར་གྱི་དབང་ཕྱུག་མི་ལ་རས་པའི་རྣམ་ཐར་ཐར་པ་དང་ཐམས་ཅད་མཁྱེན་པའི་ལམ་སྟོན་</title>
+               <title type="variant">rnal 'byor gyi dbang phyug mi la ras pa'i rnam thar thar pa dang thams cad mkhyen pa'i lam ston</title>
+               <title type="variant">རྣམ་ཐར</title>
+               <title type="variant">rnam thar</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_30_2.xml#Tib_blockbooks_a_30_2%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1010">
+               <title type="uniform">ལམ་གྱི་གཙོ་བོ་རྣམ་གསུམ་གྱི་རྣམ་བཤད་གསུང་རབ་ཀུན་གྱི་གནས་བསྡུས་པ་ལེགས་བཤད་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ༎ ༎</title>
+               <title type="variant">lam gyi gtso bo rnam gsum gyi rnam bshad gsung rab kun gyi gnad bsdus pa legs bshad snying po zhes bya ba bzhugs so// //</title>
+               <title type="variant">ལམ་གཙོ</title>
+               <title type="variant">lam gtso</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_39_3.xml#Tib_blockbooks_a_39_3%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_954">
+               <title type="uniform">སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ་གཟུངས་སྔགས་དང་བཅས་པ་སོགས་མཚན་བརྒྱའི་རིགས་བཞུགས༎</title>
+               <title type="variant">sangs rgyas bcom ldan 'das kyi mtshan brgya rtsa brgyad pa gzungs sngags dang bcas pa sogs mtshan brgya'i rigs bzhugs//</title>
+               <title type="variant">མཚན</title>
+               <title type="variant">mtshan</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_22_8.xml#Tib_blockbooks_a_22_8%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1006">
+               <title type="uniform">སྒྲ་མི་སྙན་གྱི་ཚེ་སྒྲུབ་བཞུགས་སོ། །</title>
+               <title type="variant">sgra mi snyan gyi tshe sgrub bzhugs so/ /</title>
+               <title type="variant">སྒྲ་སྙན</title>
+               <title type="variant">sgra snyan</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_36_5.xml#Tib_blockbooks_a_36_5%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_1007">
+               <title type="uniform">སྡོམ་པ་གོང་མ་གཉིས་ཀྱི་ཕྱིར་བཅོས་བྱེད་ཚུལ་རྗེའི་ཕྱག་ལེན་བཞིན་བཀོད་པ་བཞུགས་སོ༎</title>
+               <title type="variant">sdom pa gong ma gnyis kyi phyir bcos byed tshul rje'i phyag len bzhin bkod pa bzhugs so//</title>
+               <title type="variant">ཕྱིར་བཅོས</title>
+               <title type="variant">phyir bcos</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_36_6.xml#Tib_blockbooks_a_36_6%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_964">
+               <title type="uniform">སྨྱུང་གནས་ཀྱི་ཆོ་ག་དང་འབྲེལ་བ་འཕགས་པ་ཞལ་བཅུ་གཅིག་པའི་དབང་ཆོག་</title>
+               <title type="variant">smyung gnas kyi cho ga dang 'brel ba 'phags pa zhal bcu gcig pa'i dbang chog</title>
+               <title type="variant">སྨྱུང་གནས་ཆོ་ག</title>
+               <title type="variant">smyung gnas cho ga</title>
+               <title type="variant">སྨྱུང་གནས་ཀྱི་ཆོ་ག་དང་འབྲེལ་བའི་འཕགས་པ་ཞལ་བཅུ་གཅིག་པའི་དབང་ཆོག་བཞུགས་སོ༎</title>
+               <title type="variant">smyung gnas kyi cho ga dang 'brel ba'i 'phags pa zhal bcu gcig pa'i dbang chog bzhugs so//</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_26_16.xml#Tib_blockbooks_a_26_16%2Ditem1 -->
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_40_12.xml#Tib_blockbooks_a_40_12%2Ditem1 -->
+            </bibl>
+
+            <bibl xml:id="work_978">
+               <title type="uniform">ཨུ་རྒྱན་གྷུ་རུ་པདྨ་འབྱུང་གནས་ཀྱི་སྐྱེས་རབས་རྣམ་པར་ཐར་པ་རྒྱས་པར་བཀོད་པ་པདྨ་བཀའི་ཐང་ཡིག་ཅེས་བྱ་བ་བཞུགས་སོ༔</title>
+               <title type="variant">u rgyan g+hu ru pad+ma 'byung gnas kyi skyes rabs rnam par thar pa rgyas par bkod pa pad+ma bka'i thang yig ces bya ba bzhugs so:</title>
+               <!-- ../collections/younghusband%2FTib_blockbooks_a_29.xml#Tib_blockbooks_a_29%2Ditem1 -->
+            </bibl>
+
  
             </listBibl>
         </body>

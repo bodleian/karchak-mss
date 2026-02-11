@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1058">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1118">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.26</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,7 +60,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.26</idno>
                </msIdentifier>
                <head>The Writings of Paṇ chen Blo bzang Chos kyi rGyal mtshan: Vol. Ga</head>
@@ -118,7 +118,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
+                     <term key="subject_n85102857">Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662</term>
                   </item>
                   <item>
                      <term key="subject_sh85037431">Dge-lugs-pa (Sect) Doctrines</term>
@@ -128,12 +128,12 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
+         <change when="2026-02-10">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
+         <p>            <!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1090">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1150">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.31.2</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,18 +60,19 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.31.2</idno>
                </msIdentifier>
                <head>The biography of Paṇchen Blo bzang Chos rgyan</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_31_2-item1">
-                     <title key="" xml:lang="bo">པཎ་ཆེན་བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་གསལ་བར་སྟོན་པ་ནོར་བུའི་འཕྲེང་བའི་སྨད་ཆ་བཞུགས༎</title>
-                     <title key="">paN chen blo bzang chos kyi rgyal mtshan gyi rnam thar gsal bar ston pa nor bu'i 'phreng ba'i smad cha bzhugs//</title>
+                     <title key="work_983" xml:lang="bo">པཎ་ཆེན་བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་གསལ་བར་སྟོན་པ་ནོར་བུའི་འཕྲེང་བའི་སྨད་ཆ་བཞུགས༎</title>
+                     <title key="work_983">paN chen blo bzang chos kyi rgyal mtshan gyi rnam thar gsal bar ston pa nor bu'i 'phreng ba'i smad cha bzhugs//</title>
                      <title type="margin" xml:lang="bo">ཤྲེ་ཡ་དྷ་རྨཱ</title>
                      <title type="margin">shre ya d+ha rmA</title>
-                     <author key="person_2017054725">
-                        <persName xml:lang="bo">བློ་བཟང་ཡེ་ཤེས</persName> (<persName>blo bzang ye shes</persName>)</author>
+                     <author key="person_2017054716">
+                        <persName xml:lang="bo">བློ་བཟང་ཡེ་ཤེས</persName> (                        <persName>blo bzang ye shes</persName>)
+                     </author>
                      <incipit xml:lang="bo">na maH sar+ba stu te b+hya/ mi mjed zhing gi 'gro la thugs brtse bas/ /grangs med bskal par tshogs gnyis mthar phyin pa/ /phun tshogs yon tan rgya mtsho'i rlabs 'phreng g.yo/ /stobs bcu mnga' ba'i zhabs la spyi bos 'dud/ /de yang skabs shig tu srad rgyud dpon slob dang / sde pa srad pa sogs skye bo 'ga' zhig nad kyis btab nas shin tu lod pa byung bar/ tshe dbang spyan dmigs dgos tshul zhus pa la /</incipit>
                      <explicit xml:lang="bo">ces rje btsun blo bzang chos kyi rgyal mtshan dpal bzang po'i rnam thar gyi 'phro khrigs su bsgrigs pa 'di yang / dad ldan mang pos yang yang bskul ba'i blo ngo dang bstun nas/ phyag mdzod blo bzang dge legs dang / mdzod 'dzin phun tshogs rab brtan/ gsol dpon blo bzang bstan 'dzin rnams kyis rje de nyid kyi gsung dang mdzad pa thun mong ba 'ga' zhig zin bris su btab 'dug pa dang / dgongs pa yongs su rdzogs pa'i ched du sku gsung thugs rten bzengs mchod bgyis pa/ ris med kyi tshangs spyod ldan pa'i dge 'dun mang po la rnyed bkur bsgrubs pa'i brjed byang bkod pa rnams la gzhi byas/ sgro skur gyi brjod bya spangs te/ shAkya'i btsun pa blo bzang ye shes kyis kun ldan zhes pa lcags pho byi ba'i lo ston zla tha chung gi lha babs dus chen nyin mjug grub par sbyar ba dge legs 'phel/ pa ri prIts+tsha// sar+ba mang+ga laM// //</explicit>
                   </msItem>
@@ -81,47 +82,47 @@
                      <supportDesc material="chart">
                         <support>Paper</support>
                         <extent>35ff<dimensions unit="cm" type="leaf">
-                              <width>600</width>
-                              <height>100</height>
-                           </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width>490</width>
-                              <height>65</height>
-                           </dimensions>
-                        </extent>
-                        <condition>good</condition>
-                     </supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="6">
-                           <p/>
-                        </layout>
-                     </layoutDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
-                  </handDesc>
-               </physDesc>
-               <history/>
-               <additional>
-                  <adminInfo>
-                     <availability status="restricted">
-                        <p>Bodleian: Special Collections Reading Room.</p>
-                     </availability>
-                  </adminInfo>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass/>
-      </profileDesc>
-      <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
-      </body>
-   </text>
+                           <width>600</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>490</width>
+                           <height>65</height>
+                        </dimensions>
+                     </extent>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+            </physDesc>
+            <history/>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass/>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
 </TEI>

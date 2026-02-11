@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1053">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1114">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.22.8</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,21 +60,21 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.22.8</idno>
                </msIdentifier>
                <head>The dhāraṇi of the Hundred and Eight Epithets of the Buddha</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_22_8-item1">
-                     <title key="" xml:lang="bo">སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ་གཟུངས་སྔགས་དང་བཅས་པ་སོགས་མཚན་བརྒྱའི་རིགས་བཞུགས༎</title>
-                     <title key="">sangs rgyas bcom ldan 'das kyi mtshan brgya rtsa brgyad pa gzungs sngags dang bcas pa sogs mtshan brgya'i rigs bzhugs//</title>
+                     <title key="work_954" xml:lang="bo">སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ་གཟུངས་སྔགས་དང་བཅས་པ་སོགས་མཚན་བརྒྱའི་རིགས་བཞུགས༎</title>
+                     <title key="work_954">sangs rgyas bcom ldan 'das kyi mtshan brgya rtsa brgyad pa gzungs sngags dang bcas pa sogs mtshan brgya'i rigs bzhugs//</title>
                      <title type="margin" xml:lang="bo">མཚན</title>
                      <title type="margin">mtshan</title>
                      <incipit xml:lang="bo">sangs rgyas bcom ldan 'das kyi mtshan brgya rtsa brgyad pa gzungs sngags dang bcas pa / thams cad mkhyen pa la phyag 'tshal lo / bcom ldan 'das snying rje'i tsan dan dri zhim po'i spos kyis byugs pa'i sku / zhabs pad+ma lha dang lha ma yin gyi nor bu'i cod pan gyis gtugs pa / rang byung sel mdzad / bla ma / 'jig rten thams cad la phan mdzad pa/ ston pa/ de bzhin gshegs pa/ thub pa/ nyes pa dang bral ba/ zhi ba'i bdag nyid can/ gzugs mdzes pa/ mtshan gsal ba'i gzi brjid can/ sku dpe byad kyis brgyan pa/ yon tan thams cad yang dag par rdzogs pa'i sangs rgyas la phyag 'tshal lo/</incipit>
                      <explicit xml:lang="bo">/ming brgya rtsa brgyad dam pa 'di/ /bsam pa kun dang 'byor pa yi/ /gnas mchog bla na med pa ste/ / dpal yon rgya chen sbyin pa yin / / yid ni shin tu dang ba yis / / sa yi snying po'i mtshan gsal ba/ / 'dod pa thams cad rab sg+AC13rub ba'i/ / yon tan mchog ni gang brjod dang / /dpal yon rgya chen 'dzin pa yi/ /ming brgya rtsa brgyad dam pa 'di/ /mi ni gang zhig rjod byed pa/ /sdug bsngal kun las myur du 'grol/ /'phags pa sa'i snying po'i mtshan brgya rtsa brgyad pa gzungs sngags dang bcas pa rdzogs so// gcig zhu/ bkra shis/</explicit>
                      <listBibl>
-                        <bibl type="&#34;derge">"Derge: 0873/0532</bibl>
-                        <bibl type="peking">Peking: 0498/0161"</bibl>
+                        <bibl type="derge">Derge: 0873/0532</bibl>
+                        <bibl type="peking">Peking: 0498/0161</bibl>
                      </listBibl>
                   </msItem>
                </msContents>
@@ -83,55 +83,55 @@
                      <supportDesc material="chart">
                         <support>Paper</support>
                         <extent>28ff<dimensions unit="cm" type="leaf">
-                              <width>515</width>
-                              <height>100</height>
-                           </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width>420</width>
-                              <height>70</height>
-                           </dimensions>
-                        </extent>
-                        <condition>good</condition>
-                     </supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="7">
-                           <p/>
-                        </layout>
-                     </layoutDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
-                  </handDesc>
-               </physDesc>
-               <history/>
-               <additional>
-                  <adminInfo>
-                     <availability status="restricted">
-                        <p>Bodleian: Special Collections Reading Room.</p>
-                     </availability>
-                  </adminInfo>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term key="subject_sh93005260">Buddhist dhāraṇī</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
-      </body>
-   </text>
+                           <width>515</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>420</width>
+                           <height>70</height>
+                        </dimensions>
+                     </extent>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="7">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+            </physDesc>
+            <history/>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_sh93005260">Buddhist dhāraṇī</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
 </TEI>

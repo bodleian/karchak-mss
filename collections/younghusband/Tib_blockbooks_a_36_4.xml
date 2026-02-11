@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1116">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1176">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.36.4</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,18 +60,19 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.36.4</idno>
                </msIdentifier>
                <head>"Liturgies for Sādhana of jñānaḍakini, for transference of consciousness and for exorcism"</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_36_4-item1">
-                     <title key="work_912" xml:lang="bo">ཡེ་ཤེས་མཁའ་འགྲོའི་སྒྲུབ་ཐབས་། འཕོ་བ་། བཀའ་བསྒོ་བཅས་བཞུགས་སོ༎</title>
-                     <title key="work_912">ye shes mkha' 'gro'i sgrub thabs/ 'pho ba/ bka' bsgo bcas bzhugs so//</title>
+                     <title key="work_976" xml:lang="bo">ཡེ་ཤེས་མཁའ་འགྲོའི་སྒྲུབ་ཐབས་། འཕོ་བ་། བཀའ་བསྒོ་བཅས་བཞུགས་སོ༎</title>
+                     <title key="work_976">ye shes mkha' 'gro'i sgrub thabs/ 'pho ba/ bka' bsgo bcas bzhugs so//</title>
                      <title type="margin" xml:lang="bo">སྒྲུབ་ཐབས</title>
                      <title type="margin">sgrub thabs</title>
-                     <author key="person_2017054734">
-                        <persName xml:lang="bo">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName> (<persName>tsong kha pa blo bzang grags pa</persName>)</author>
+                     <author key="person_2017054721">
+                        <persName xml:lang="bo">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName> (                        <persName>tsong kha pa blo bzang grags pa</persName>)
+                     </author>
                      <incipit xml:lang="bo">bla ma dang ye shes mkha' 'gro'i zhabs la gus pas phyag 'tshal lo/ /rang nyid skad cig gis ye shes mkha' 'gror gsal ba'i ngang nas sngon 'gro gtor ma mkha' 'gro spyi gtor gyis btang /</incipit>
                      <explicit xml:lang="bo">skyon bral tshul khrims lhur len shAkya'i sras/ /ngur smrig 'dzin pa'i sdom brtson sha stag gis/ /yongs su gang zhing rab 'byams gzhung lugs la/ /chos brgyad rnam rtog mtshan mas mi g.yo bar/ /bstan dang sems can khur chen khyer ba yis/ /mkhas pa'i bya ba rnam gsum mthar phyin shog/ // //</explicit>
                      <listBibl>
@@ -84,61 +85,61 @@
                      <supportDesc material="chart">
                         <support>Paper</support>
                         <extent>5ff<dimensions unit="cm" type="leaf">
-                              <width>560</width>
-                              <height>100</height>
-                           </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width>500</width>
-                              <height>70</height>
-                           </dimensions>
-                        </extent>
-                        <foliation>The book has the volume marker kha</foliation>
-                        <condition>good</condition>
-                     </supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="6">
-                           <p/>
-                        </layout>
-                     </layoutDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
-                  </handDesc>
-               </physDesc>
-               <history>
-                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
-               </history>
-               <additional>
-                  <adminInfo>
-                     <availability status="restricted">
-                        <p>Bodleian: Special Collections Reading Room.</p>
-                     </availability>
-                  </adminInfo>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term>Ḍākinī (Buddhist deity)</term>
-                  </item>
-                  <item>
-                     <term>"Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419"</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
-      </body>
-   </text>
+                           <width>560</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>500</width>
+                           <height>70</height>
+                        </dimensions>
+                     </extent>
+                     <foliation>The book has the volume marker kha</foliation>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+            </physDesc>
+            <history>
+               <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n2017242624">Ḍākinī (Buddhist deity)</term>
+               </item>
+               <item>
+                  <term key="subject_n80017690">Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
 </TEI>

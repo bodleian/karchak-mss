@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1066">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1126">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.26.8</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,13 +60,13 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.26.8</idno>
                </msIdentifier>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_26_8-item1">
-                     <title key="work_910" xml:lang="bo">ཚེ་དབང་བསྐུར་ཚུལ་འཆི་མེད་ཚེའི་རིག་འཛིན་གྱི་དངོས་གྲུབ་སྟེར་བའི་གདམས་པ་</title>
-                     <title key="work_910">tshe dbang bskur tshul 'chi med tshe'i rig 'dzin gyi dngos grub ster ba'i gdams pa</title>
+                     <title key="work_973" xml:lang="bo">ཚེ་དབང་བསྐུར་ཚུལ་འཆི་མེད་ཚེའི་རིག་འཛིན་གྱི་དངོས་གྲུབ་སྟེར་བའི་གདམས་པ་</title>
+                     <title key="work_973">tshe dbang bskur tshul 'chi med tshe'i rig 'dzin gyi dngos grub ster ba'i gdams pa</title>
                      <title type="margin">tshe dbang</title>
                      <note>The rest of the text is missing.</note>
                      <incipit xml:lang="bo">na maH shrI many+ju g+ho ShA ya/ blo bzang mkhyen pa'i 'od stong rtse dgas shes bya'i khyon kun cig car 'gengs/ /grags pa'i mkha' dbyings mdzes ma la khyud thub bstan pad+mo'i gnyen gcig pu/ /dpal ldan mkhas pa'i cod pan dang ni dbyer med tshe dpag med mgon der//</incipit>
@@ -97,12 +97,12 @@
          <textClass/>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
+         <change when="2026-02-10">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
+         <p>            <!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

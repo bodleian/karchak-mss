@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1144">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1204">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.40.7</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,18 +60,19 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.40.7</idno>
                </msIdentifier>
                <head>The rituals for the practice of the Solitary Bhairava Maṇḍala</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_40_7-item1">
-                     <title key="" xml:lang="bo">དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་དཔའ་བོ་གཅིག་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་བདུད་དཔུང་འཇོམས་པ་ཞེས་བྱ་བ་བཞུགས་སོ༎</title>
-                     <title key="">dpal rdo rje 'jigs byed dpa' bo gcig pa'i dkyil 'khor gyi cho ga bdud dpung 'joms pa zhes bya ba bzhugs so//</title>
+                     <title key="work_969" xml:lang="bo">དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་དཔའ་བོ་གཅིག་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་བདུད་དཔུང་འཇོམས་པ་ཞེས་བྱ་བ་བཞུགས་སོ༎</title>
+                     <title key="work_969">dpal rdo rje 'jigs byed dpa' bo gcig pa'i dkyil 'khor gyi cho ga bdud dpung 'joms pa zhes bya ba bzhugs so//</title>
                      <title type="margin" xml:lang="bo">དཔའ་གཅིག</title>
                      <title type="margin">dpa' gcig</title>
                      <author key="person_115">
-                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (<persName>blo bzang chos kyi rgyal mtshan</persName>)</author>
+                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (                        <persName>blo bzang chos kyi rgyal mtshan</persName>)
+                     </author>
                      <incipit xml:lang="bo">na mo gu ru shrA badz+ra b+hai ra wA ya/ dpal rdo rje 'jigs byed dpa' bo gcig pa'i dkyil 'khor gyi cho ga bdud dpung 'joms pa zhas bya ba/ bde chen in+tra nI la'i ri bo la/ /mtshan dpe'i rgyu skar phreng ba'i do shal gyis/ /phyogs kyi 'khor lo ngo mtshar 'bum spro ba'i/ /dpal chen rdo rje 'jigs byed zhabs sen gyi/ /ge sar rgyas pa'i pad+mo la btud nas/</incipit>
                      <explicit xml:lang="bo">smra ba'i ri khrod pa bsod nams rgyal mtshan gyis bskul ba'i dor/ bshin rje'i gshed kyi rnal 'byor pa blo bzang chos kyi rgyal mtshan zhes pas/ slob dpon pad+ma 'byung gnas kyi sgrub pa'i gnas mchog tu grags pa za bu lung gi bya 'dab mi tshor rdo rje skyes grags kyi logs su sbyar ba'o// //mang+ga laM//</explicit>
                      <listBibl>
@@ -84,61 +85,61 @@
                      <supportDesc material="chart">
                         <support>Paper</support>
                         <extent>4ff<dimensions unit="cm" type="leaf">
-                              <width>530</width>
-                              <height>100</height>
-                           </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width>470</width>
-                              <height>60</height>
-                           </dimensions>
-                        </extent>
-                        <foliation>The book has the volume marker ga</foliation>
-                        <condition>good</condition>
-                     </supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="6">
-                           <p/>
-                        </layout>
-                     </layoutDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
-                  </handDesc>
-               </physDesc>
-               <history>
-                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
-               </history>
-               <additional>
-                  <adminInfo>
-                     <availability status="restricted">
-                        <p>Bodleian: Special Collections Reading Room.</p>
-                     </availability>
-                  </adminInfo>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
-                  </item>
-                  <item>
-                     <term>Vajrabhairava (Buddhist deity)</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
-      </body>
-   </text>
+                           <width>530</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>470</width>
+                           <height>60</height>
+                        </dimensions>
+                     </extent>
+                     <foliation>The book has the volume marker ga</foliation>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+            </physDesc>
+            <history>
+               <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n85102857">Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662</term>
+               </item>
+               <item>
+                  <term key="subject_n2017245512">Vajrabhairava (Buddhist deity)</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
 </TEI>

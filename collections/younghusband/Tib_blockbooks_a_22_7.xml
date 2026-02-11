@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1052">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1113">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.22.7</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,14 +60,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.22.7</idno>
                </msIdentifier>
                <head>Some dhāraṇis and mantras such a Dhvajāgrakeyure</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_22_7-item1">
-                     <title key="" xml:lang="bo">རྒྱལ་མཚན་རྩེ་མོ་ལ་སོགས་པའི་གཟུངས་སྔགས་འགར་བཞུགས༎</title>
-                     <title key="">rgyal mtshan rtse mo la sogs pa'i gzungs sngags 'gar bzhugs//</title>
+                     <title key="work_953" xml:lang="bo">རྒྱལ་མཚན་རྩེ་མོ་ལ་སོགས་པའི་གཟུངས་སྔགས་འགར་བཞུགས༎</title>
+                     <title key="work_953">rgyal mtshan rtse mo la sogs pa'i gzungs sngags 'gar bzhugs//</title>
                      <title type="margin" xml:lang="bo">རིག</title>
                      <title type="margin">rig</title>
                      <note>zhus dag/ //dge zhing bkra shis par gyur cig/</note>
@@ -128,12 +128,12 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
+         <change when="2026-02-10">Record created.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
+         <p>            <!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

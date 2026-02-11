@@ -2444,98 +2444,39 @@
                     <!-- ../collections/MS_Tibet_b_6.xml -->
                 </person>
 
-                <person xml:id="person_2017054719">
-                    <persName type="display">_'phags pa shes rab kyi pha rol tu phyin pa byams pas zhus pa zhes bya ba theg pa chen po'i mdo bzhugs so// Āryaprajñāpāramitāmaitrīyapṛcchatanāmamahāyānasūtra</persName>
-                    <note type="links">
-                        <list type="links">
-                            <item>
-                                <ref target="https://viaf.org/viaf/2017054719/">
-                                    <title>VIAF</title>
-                                </ref>
-                            </item>
-                        </list>
-                    </note>
-                    <!-- ../collections/younghusband%2FTib_blockbooks_a_22_6.xml#Tib_blockbooks_a_22_6%2Ditem1 -->
-                </person>
-
-                <person xml:id="person_2017054714">
+                <person xml:id="person_2017054725">
                     <persName type="display">tsong kha pa</persName>
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_41.xml#Tib_blockbooks_a_41%2Ditem1 -->
                 </person>
 
-                <person xml:id="person_2017054736">
+                <person xml:id="person_2017054723">
                     <persName type="display">ངག་དབང་བློ་བཟང་རྒྱ་མཚོ</persName>
                     <persName type="variant">ngag dbang blo bzang rgya mtsho</persName>
-                    <note type="links">
-                        <list type="links">
-                            <item>
-                                <ref target="https://viaf.org/viaf/2017054736/">
-                                    <title>VIAF</title>
-                                </ref>
-                            </item>
-                        </list>
-                    </note>
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_39_6.xml#Tib_blockbooks_a_39_6%2Ditem1 -->
                 </person>
 
-                <person xml:id="person_2017054737">
+                <person xml:id="person_2017054724">
                     <persName type="display">དགེ་ལེགས་དཔལ་བཟང</persName>
                     <persName type="variant">dge legs dpal bzang</persName>
-                    <note type="links">
-                        <list type="links">
-                            <item>
-                                <ref target="https://viaf.org/viaf/2017054737/">
-                                    <title>VIAF</title>
-                                </ref>
-                            </item>
-                        </list>
-                    </note>
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_40_15.xml#Tib_blockbooks_a_40_15%2Ditem1 -->
                 </person>
 
-                <person xml:id="person_2017054731">
+                <person xml:id="person_2017054718">
                     <persName type="display">ནམ་མཁའ་བསམ་གྲུབ་རྒྱལ་མཚན</persName>
                     <persName type="variant">nam mkha' bsam grub rgyal mtshan</persName>
-                    <note type="links">
-                        <list type="links">
-                            <item>
-                                <ref target="https://viaf.org/viaf/2017054731/">
-                                    <title>VIAF</title>
-                                </ref>
-                            </item>
-                        </list>
-                    </note>
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_30_1.xml#Tib_blockbooks_a_30_1%2Ditem1 -->
                 </person>
 
-                <person xml:id="person_2017054735">
+                <person xml:id="person_2017054722">
                     <persName type="display">བསྐལ་བཟང་རྒྱ་མཚོ</persName>
                     <persName type="variant">bskal bzang rgya mtsho</persName>
-                    <note type="links">
-                        <list type="links">
-                            <item>
-                                <ref target="https://viaf.org/viaf/2017054735/">
-                                    <title>VIAF</title>
-                                </ref>
-                            </item>
-                        </list>
-                    </note>
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_37.xml#Tib_blockbooks_a_37%2Ditem1 -->
                 </person>
 
-                <person xml:id="person_2017054725">
+                <person xml:id="person_2017054716">
                     <persName type="display">བློ་བཟང་ཡེ་ཤེས</persName>
                     <persName type="variant">Blo bzang ye shes</persName>
                     <persName type="variant">blo bzang ye shes</persName>
-                    <note type="links">
-                        <list type="links">
-                            <item>
-                                <ref target="https://viaf.org/viaf/2017054725/">
-                                    <title>VIAF</title>
-                                </ref>
-                            </item>
-                        </list>
-                    </note>
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_27.xml#Tib_blockbooks_a_27%2Ditem1 -->
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_31_1.xml#Tib_blockbooks_a_31_1%2Ditem1 -->
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_31_2.xml#Tib_blockbooks_a_31_2%2Ditem1 -->
@@ -2550,33 +2491,15 @@
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_40_2.xml#Tib_blockbooks_a_40_2%2Ditem1 -->
                 </person>
 
-                <person xml:id="person_2017054733">
+                <person xml:id="person_2017054720">
                     <persName type="display">མི་ལ་རས་པ་རུས་པའི་རྒྱན་ཅན</persName>
                     <persName type="variant">mi la ras pa rus pa'i rgyan can</persName>
-                    <note type="links">
-                        <list type="links">
-                            <item>
-                                <ref target="https://viaf.org/viaf/2017054733/">
-                                    <title>VIAF</title>
-                                </ref>
-                            </item>
-                        </list>
-                    </note>
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_30_3.xml#Tib_blockbooks_a_30_3%2Ditem1 -->
                 </person>
 
-                <person xml:id="person_2017054734">
+                <person xml:id="person_2017054721">
                     <persName type="display">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName>
                     <persName type="variant">tsong kha pa blo bzang grags pa</persName>
-                    <note type="links">
-                        <list type="links">
-                            <item>
-                                <ref target="https://viaf.org/viaf/2017054734/">
-                                    <title>VIAF</title>
-                                </ref>
-                            </item>
-                        </list>
-                    </note>
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_34_1.xml#Tib_blockbooks_a_34_1%2Ditem1 -->
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_34_2.xml#Tib_blockbooks_a_34_2%2Ditem1 -->
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_34_3.xml#Tib_blockbooks_a_34_3%2Ditem1 -->
@@ -2597,52 +2520,23 @@
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_38.xml#Tib_blockbooks_a_38%2Ditem1 -->
                 </person>
 
-                <person xml:id="person_2017054732">
+                <person xml:id="person_2017054719">
                     <persName type="display">རུས་པའི་རྒྱན་ཅན</persName>
                     <persName type="variant">rus pa'i rgyan can</persName>
-                    <note type="links">
-                        <list type="links">
-                            <item>
-                                <ref target="https://viaf.org/viaf/2017054732/">
-                                    <title>VIAF</title>
-                                </ref>
-                            </item>
-                        </list>
-                    </note>
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_30_2.xml#Tib_blockbooks_a_30_2%2Ditem1 -->
                 </person>
 
-                <person xml:id="person_2017054724">
+                <person xml:id="person_2017054715">
                     <persName type="display">སྲོང་བཙན་སྒམ་པོ</persName>
                     <persName type="variant">srong btsan sgam po ; grub thob dngos grub mnga' bdag nyang ral ; rje btsun shakya bzang po</persName>
-                    <note type="links">
-                        <list type="links">
-                            <item>
-                                <ref target="https://viaf.org/viaf/2017054724/">
-                                    <title>VIAF</title>
-                                </ref>
-                            </item>
-                        </list>
-                    </note>
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_24.xml#Tib_blockbooks_a_24%2Ditem1 -->
                 </person>
 
-                <person xml:id="person_2017054730">
+                <person xml:id="person_2017054717">
                     <persName type="display">ཨུ་རྒྱན་གླིང་པ</persName>
                     <persName type="variant">u rgyan gling pa</persName>
-                    <note type="links">
-                        <list type="links">
-                            <item>
-                                <ref target="https://viaf.org/viaf/2017054730/">
-                                    <title>VIAF</title>
-                                </ref>
-                            </item>
-                        </list>
-                    </note>
                     <!-- ../collections/younghusband%2FTib_blockbooks_a_29.xml#Tib_blockbooks_a_29%2Ditem1 -->
                 </person>
-
-
 
 
 

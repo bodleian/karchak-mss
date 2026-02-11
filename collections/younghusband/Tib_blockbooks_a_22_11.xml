@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1046">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1107">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.22.11</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,22 +60,22 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.22.11</idno>
                </msIdentifier>
                <head>The Pratimokṣasūtra</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_22_11-item1">
-                     <title key="" xml:lang="bo">*སོ་སོ་ཐར་པའི་མདོ་བཞུགས་སོ༎</title>
-                     <title key="">so so thar pa'i mdo bzhugs so// Pratimokṣasūtra</title>
+                     <title key="work_949" xml:lang="bo">*སོ་སོ་ཐར་པའི་མདོ་བཞུགས་སོ༎</title>
+                     <title key="work_949">so so thar pa'i mdo bzhugs so// Pratimokṣasūtra</title>
                      <title type="margin" xml:lang="bo">སོ་ཐར</title>
                      <title type="margin">so thar</title>
                      <incipit xml:lang="bo">rgya gar skad du / pra ti mok+Sa sUtra / bod skad du / so so thar pa'i mdo / thams cad mkhyen pa la phyag 'tshal lo / / snyan pa'i ba dan 'jig rten gsum du grags / / dam pa'i chos sgra seng ge'i sgra sgrags pa / / thams cad mkhyen pa dkon mchog mdzod brnyes pa / / zhabs la tshangs dbang gtsug gi nor bus gtugs / /</incipit>
                      <explicit xml:lang="bo">gang gi phyir ni mdo 'don dang / / gang phyir gso sbyong byas gyur pa / / tshul khrims de ni bsrung bya ste / / g.yag lnga'i rtse mo ji bzhin no / / so sor thar pa bton pa yi / / bsod nams grub pa gang yod pa / / des ni 'jig rten ma lus par / / thub dbang go 'phang thob par shog / / so so thar pa'i mdo rdzogs so / /</explicit>
                      <colophon xml:lang="bo">kha che bye brag tu smra ba'i slob dpon 'dzi na mi tra dang / zhu chen gyi lo tsa ba ban de klu'i rgyal mtshan gyis bsgyur cing zhus te gtan la phab pa'o / / gcig zhus dag / /</colophon>
                      <listBibl>
-                        <bibl type="&#34;derge">"Derge: 0002</bibl>
-                        <bibl type="peking">Peking: 1031"</bibl>
+                        <bibl type="derge">Derge: 0002</bibl>
+                        <bibl type="peking">Peking: 1031</bibl>
                      </listBibl>
                   </msItem>
                </msContents>
@@ -84,58 +84,58 @@
                      <supportDesc material="chart">
                         <support>Paper</support>
                         <extent>24ff<dimensions unit="cm" type="leaf">
-                              <width>520</width>
-                              <height>100</height>
-                           </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width>420</width>
-                              <height>70</height>
-                           </dimensions>
-                        </extent>
-                        <condition>good</condition>
-                     </supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="7">
-                           <p/>
-                        </layout>
-                     </layoutDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
-                  </handDesc>
-                  <decoDesc>
-                     <decoNote>"folio 1 verso, 2 line drawings: Amitābha on the left and 'Dul 'dzin nye ba 'khor on the right."</decoNote>
-                  </decoDesc>
-               </physDesc>
-               <history/>
-               <additional>
-                  <adminInfo>
-                     <availability status="restricted">
-                        <p>Bodleian: Special Collections Reading Room.</p>
-                     </availability>
-                  </adminInfo>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term key="subject_n2018244378">Amitābha</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
-      </body>
-   </text>
+                           <width>520</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>420</width>
+                           <height>70</height>
+                        </dimensions>
+                     </extent>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="7">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+               <decoDesc>
+                  <decoNote>"folio 1 verso, 2 line drawings: Amitābha on the left and 'Dul 'dzin nye ba 'khor on the right."</decoNote>
+               </decoDesc>
+            </physDesc>
+            <history/>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n2018244378">Amitābha</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
 </TEI>

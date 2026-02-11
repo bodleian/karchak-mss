@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1142">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1202">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.40.5</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,18 +60,19 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.40.5</idno>
                </msIdentifier>
                <head>The yoga practice for Kālacakra</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_40_5-item1">
-                     <title key="" xml:lang="bo">བཅོམ་ལྡན་འདས་དཔལ་དུས་ཀྱི་འཁོར་ལོའི་ཟབ་ལམ་རྡོ་རྗེའི་རྣལ་འབྱོར་བཞུགས༎</title>
-                     <title key="">bcom ldan 'das dpal dus kyi 'khor lo'i zab lam rdo rje'i rnal 'byor bzhugs//</title>
+                     <title key="work_1023" xml:lang="bo">བཅོམ་ལྡན་འདས་དཔལ་དུས་ཀྱི་འཁོར་ལོའི་ཟབ་ལམ་རྡོ་རྗེའི་རྣལ་འབྱོར་བཞུགས༎</title>
+                     <title key="work_1023">bcom ldan 'das dpal dus kyi 'khor lo'i zab lam rdo rje'i rnal 'byor bzhugs//</title>
                      <title type="margin" xml:lang="bo">དུས་ཟབ</title>
                      <title type="margin">dus zab</title>
                      <author key="person_115">
-                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (<persName>blo bzang chos kyi rgyal mtshan</persName>)</author>
+                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (                        <persName>blo bzang chos kyi rgyal mtshan</persName>)
+                     </author>
                      <incipit xml:lang="bo">na maH shrI kA la cakrA ya/ gang gi drin gyis sangs rgyas kyi/ /ye shes mchog kyang skad cig gis/ /stsol mdzad bsam 'phel dbang gi rgyal/ /rje btsun bla ma'i zhabs la 'dud/ /bai DUr sngon pa'i dpag bsam ljon pa ni/ /gser sbyangs 'khri shing gzhon nus 'khyud pa bzhin/</incipit>
                      <explicit xml:lang="bo">ces dpal dus kyi 'khor lo'i zab mo'i lam rdo rje'i rnal 'byor zhes bya ba 'di yang / dus kyi 'khor lo la bsgrub pa snying por byed 'dod pa dag gi nyams rtogs spel ba'i phyir/ btsun pa blo bzang chos kyi rgyal mtshan gyis dben sa chos kyi pho brang du sbyar ba'o// pr-its+tsha/ //</explicit>
                      <listBibl>
@@ -84,56 +85,56 @@
                      <supportDesc material="chart">
                         <support>Paper</support>
                         <extent>13ff<dimensions unit="cm" type="leaf">
-                              <width>530</width>
-                              <height>100</height>
-                           </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width>470</width>
-                              <height>65</height>
-                           </dimensions>
-                        </extent>
-                        <foliation>The book has the volume marker ga</foliation>
-                        <condition>good</condition>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
-                  </handDesc>
-               </physDesc>
-               <history>
-                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
-               </history>
-               <additional>
-                  <adminInfo>
-                     <availability status="restricted">
-                        <p>Bodleian: Special Collections Reading Room.</p>
-                     </availability>
-                  </adminInfo>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
-                  </item>
-                  <item>
-                     <term>Kālacakra (Tantric rite)</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
-      </body>
-   </text>
+                           <width>530</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>470</width>
+                           <height>65</height>
+                        </dimensions>
+                     </extent>
+                     <foliation>The book has the volume marker ga</foliation>
+                     <condition>good</condition>
+                  </supportDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+            </physDesc>
+            <history>
+               <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n85102857">Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662</term>
+               </item>
+               <item>
+                  <term key="subject_sh90003285">Kālacakra (Tantric rite)</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
 </TEI>

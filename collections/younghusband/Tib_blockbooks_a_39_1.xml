@@ -2,17 +2,17 @@
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1123">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1183">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tib. blockbooks a.39.1</title>
             <respStmt xml:id="CEM">
-               <resp when="2025">Summary description</resp>
+               <resp when="2026">Summary description</resp>
                <persName>Charles Manson</persName>
             </respStmt>
             <respStmt xml:id="CD">
-               <resp when="2025">Markup and encoding</resp>
+               <resp when="2026">Markup and encoding</resp>
                <persName>C Day</persName>
                <note>Conversion from spreadsheet to TEI</note>
             </respStmt>
@@ -60,18 +60,19 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Weston Library</repository>
-                  <collection>Younghusband Collection</collection>
+                  <collection>Younghusband Expedition Collection</collection>
                   <idno type="shelfmark">Tib. blockbooks a.39.1</idno>
                </msIdentifier>
                <head>The Verses on Stages on the Path to Enlightenment</head>
                <msContents>
                   <msItem xml:id="Tib_blockbooks_a_39_1-item1">
-                     <title key="" xml:lang="bo">པཎ་ཆེན་ཐམས་ཅད་མཁྱེན་པ་བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན་དཔལ་བཟང་པོའི་གསུང་ལས་ལམ་རིམ་ཚིགས་བཅད་མ་བཞུགས་སོ། ༎</title>
-                     <title key="">paṇ chen thams cad mkhyen pa blo bzang chos kyi rgyal mtshan dpal bzang po'i gsung las lam rim tshigs bcad ma bzhugs so/ //</title>
+                     <title key="work_1009" xml:lang="bo">པཎ་ཆེན་ཐམས་ཅད་མཁྱེན་པ་བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན་དཔལ་བཟང་པོའི་གསུང་ལས་ལམ་རིམ་ཚིགས་བཅད་མ་བཞུགས་སོ། ༎</title>
+                     <title key="work_1009">paṇ chen thams cad mkhyen pa blo bzang chos kyi rgyal mtshan dpal bzang po'i gsung las lam rim tshigs bcad ma bzhugs so/ //</title>
                      <title type="margin" xml:lang="bo">ལམ་རིམ</title>
                      <title type="margin">lam rim</title>
                      <author key="person_115">
-                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (<persName>blo bzang chos kyi rgyal mtshan</persName>)</author>
+                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (                        <persName>blo bzang chos kyi rgyal mtshan</persName>)
+                     </author>
                      <incipit xml:lang="bo">na mo gu ru many+dzu g+ho ShA ya / byang chub lam gyi rim pa gsal ba'i sgron me zhes bya ba/ rje btsun dam pa rnams kyi zhabs la gus pas phyag 'tshal lo/ /zla med ston pa shAkya'i rgyal po dang / /de sras thu bo mi 'jam pa'i dbyangs/ /shing rta chen po klu sgrub thogs med la/ /rtag tu dus pa'i yid kyi phyag 'tshal lo/</incipit>
                      <explicit xml:lang="bo">ces byang chub lam gyi rim pa gsal bar byed pa'i sgron me zhes bya ba 'di ni/ rab 'byams smra ba'i dge ba'i bshes gnyen bsod nams rgyal mtshan gyis byang chub lam gyi rim pa'i khrid dmigs rim du dril ba zhig gyis ces nan cher bskul ba la brten nas/ lam 'di la shes nas dad pa thob pa'i dge slong blo bzang chos kyi rgyal mtshan zhes bgyi bas/ blo bzang mdun sa dben sa chos kyi pho brang du sbyar ba 'dis kyang / rgyal ba'i bstan pa yun ring du gnas par gyur cig/ mang+ga laM// //</explicit>
                      <listBibl>
@@ -84,57 +85,57 @@
                      <supportDesc material="chart">
                         <support>Paper</support>
                         <extent>8ff<dimensions unit="cm" type="leaf">
-                              <width>555</width>
-                              <height>100</height>
-                           </dimensions>
-                           <dimensions unit="cm" type="written">
-                              <width>495</width>
-                              <height>70</height>
-                           </dimensions>
-                        </extent>
-                        <condition>good</condition>
-                     </supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="6">
-                           <p/>
-                        </layout>
-                     </layoutDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <handNote medium="black" script="print">dbu can (black ink)</handNote>
-                  </handDesc>
-               </physDesc>
-               <history>
-                  <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
-               </history>
-               <additional>
-                  <adminInfo>
-                     <availability status="restricted">
-                        <p>Bodleian: Special Collections Reading Room.</p>
-                     </availability>
-                  </adminInfo>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <list>
-                  <item>
-                     <term key="subject_n85102857">"Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662"</term>
-                  </item>
-               </list>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change when="2025-08-06">Record created.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
-      </body>
-   </text>
+                           <width>555</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>495</width>
+                           <height>70</height>
+                        </dimensions>
+                     </extent>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+            </physDesc>
+            <history>
+               <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n85102857">Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
 </TEI>

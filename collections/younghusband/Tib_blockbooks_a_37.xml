@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1181">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.37</title>
+            <respStmt xml:id="CEM">
+               <resp when="2026">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2026">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_37</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_37">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Expedition Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.37</idno>
+               </msIdentifier>
+               <head>Further explication on the section on empowerment relating to the maṇḍala of Akṣobhya in the Guhyasamaja tantra</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_37-item1">
+                     <title key="work_998" xml:lang="bo">དཔལ་གསང་བ་འདུས་པ་མི་བསྐྱོད་རྡོ་རྗེའི་དཀྱིལ་འཁོར་གྱི་ཆོ་གའི་རྣམ་པར་བཤད་པ་དབང་དོན་དེ་ཉིད་ཡང་གསལ་སྣང་བ་རྡོ་རྗེ་སེམས་དཔའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ༎ ༎</title>
+                     <title key="work_998">dpal gsang ba 'dus pa mi bskyod rdo rje'i dkyil 'khor gyi cho ga'i rnam par bshad pa dbang don de nyid yang gsal snang ba rdo rje sems dpa'i zhal lung zhes bya ba bzhugs so// //</title>
+                     <title type="margin" xml:lang="bo">དབང་དོན</title>
+                     <title type="margin">dbang don</title>
+                     <author key="person_2017054722">
+                        <persName xml:lang="bo">བསྐལ་བཟང་རྒྱ་མཚོ</persName> (                        <persName>bskal bzang rgya mtsho</persName>)
+                     </author>
+                     <note>"Folios 40 and 245 missing. Title page and f.1v and f.2.r have Lentsa script and Sanskrit transliterated in Tibetan; ff.1v and 2.r have decorative drawings. On title page pencilled ""Tib.a.107"""</note>
+                     <incipit xml:lang="bo">na mo gu ru many+dzu g+ho Sha sva ra svast+yai/ dag pa rab 'byams brtan dang g.yo ba yi/ /ngo mtshar kun byed lhan cig skyes ba'i gar/ /sgyu 'phrul dra bar mngon bzhengs bcom ldan 'das/ /bla ma dang po'i mgon por phyag 'tshal lo/ /bem chos las 'das rang snang ye shes kyi/ /gzhal med rin chen brgya las bzhu blugs dbus/ /gnyis med gnyis su snang ba'i dkyil 'khor lha/ /sna tshogs sprul pa'i bkod pa de la 'dud/</incipit>
+                     <explicit xml:lang="bo">rang blo gsang chen gyi chos la rnam par 'byed pa'i rtsal stobs zhan yang rje btsun bla ma tsong kha pa chen po'i legs bshad 'gran zla med pa'i dbang don de nyid rab gsal dang sngags rim chen mo gzhir bzung / gzhan yang rje yab sras kyis mdzad pa'i dkyil chog gi rigs dang / dbang bskur gyi rnam gzhag ston pa'i 'dus pa'i rtsa bshad kyi rgyud tshig ..... g.yar khral tsam du rje bla ma'i bstan pa la shes nas dad pa thob pa shAkya'i dge slong rig pa 'dzin pa'i tha shal ba blo bzang bskal bzang rgya mtshos rang byung 'phags pa'i gzhal med khang gru 'dzin gnyis par don grub ces pa sa lug lo'i dbyug zla'i yar gyi gral tshes lnga pa lhag pa lha mtshams kyi 'grub pa'i sbyor ba sogs dus dge bar rdzogs par sbyar ba'i yi ge pa ni mchod dpon zha lu mkhan pos bgyis pa 'dis kyang rgyal ba'i bstan pa spyi dang / khyad par khams gsum chos kyi rgyal po tsong kha pa chen po'i ring lugs dri ma med pa'i gsang chen bla med kyi bshad sgrub phyogs dus thams cad du dar zhing rgyas la yun ring du gnas par gyur cig/ //</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W2577</bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>417ff<dimensions unit="cm" type="leaf">
+                           <width>560</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>500</width>
+                           <height>70</height>
+                        </dimensions>
+                     </extent>
+                     <foliation>The book has the volume marker ka</foliation>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+               <decoDesc>
+                  <decoNote>"line drawings: folio1v Vajradhāra, Śākyamuni ; f.2r Mañjuśrī, Sarasvati, f.2v Nāgārjuna, Nāgābodhi ; f.3r Tsong kha pa, Blo bzang Ye shes ; f.3v Ngag dbang mChog ldan and bsKal bzang rGya mtsho ; f.417r Yamantaka, Remati."</decoNote>
+               </decoDesc>
+            </physDesc>
+            <history>
+               <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n2020240490">Akṣobhya (Buddhist deity)</term>
+               </item>
+               <item>
+                  <term key="subject_n81075607">Tripiṭaka. Sūtrapiṭaka. Tantra. Guhyasamājatantra</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
+</TEI>

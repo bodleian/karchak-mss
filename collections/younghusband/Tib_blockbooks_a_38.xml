@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1182">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.38</title>
+            <respStmt xml:id="CEM">
+               <resp when="2026">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2026">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_38</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_38">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Expedition Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.38</idno>
+               </msIdentifier>
+               <head>The Great Treatise on Stages of Mantrayāna path</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_38-item1">
+                     <title key="work_902" xml:lang="bo">རྒྱལ་བ་ཁྱབ་བདག་རྡོ་རྗེ་འཆང་ཆེན་པོའི་ལམ་གྱི་རིམ་པ་གསང་བ་ཀུན་གྱི་གནད་རྣམ་པར་ཕྱེ་བ་ཞེས་བྱ་བ་བཞུགས་སོ༎</title>
+                     <title key="work_902">rgyal ba khyab bdag rdo rje 'chang chen po'i lam gyi rim pa gsang ba kun gyi gnad rnam par phye ba zhes bya ba bzhugs so//</title>
+                     <title type="margin" xml:lang="bo">བསྔགས་རིམ</title>
+                     <title type="margin">sngags rim</title>
+                     <author key="person_2017054721">
+                        <persName xml:lang="bo">ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ</persName> (                        <persName>tsong kha pa blo bzang grags pa</persName>)
+                     </author>
+                     <note>"Title page has pencilled ""Tib.a.108"""</note>
+                     <incipit xml:lang="bo">rgyal ba khyab bdag rdo rje 'chang chen po'i lam gyi rim pa gsang ba kun gyi gnad rnam par phye ba zhes bya ba/ bla ma dam pa rnams dang rje btsun 'jam pa'i dbyangs kyi zhabs kyi pad+mo la skye ba kun tu gus pa chen pos phyag 'tshal zhing skyabs su mchi'o/</incipit>
+                     <explicit xml:lang="bo">ces rdo rje 'chang chen po'i lam gyi rim pa gsang ba kun gyi gnad rnam par phye ba zhes bya ba 'di ni/ mdo sngags kyi gzhung rab 'byams la mkhas par sbyangs shing mang du thos pa'i don la tshul bzhin du sgrub pa/ gcig tu bstan pa rin po che'i khur 'khyer ba la mi mnyam pa'i brtul zhugs can yongs su rdzogs pa'i bshes gnyen chen po skad gnyis smra ba skyabs mchog dpal bzang po'i gsung gis mang du bskul ba'i bka' stsal dang du blangs shing / rdo rje theg pa'i lam gyis bgrod pa'i tshul rnams legs par shes pa sngon du 'gro ba can gyi sgrub pa snying por byed 'dod pa'i dam pa mang pos rgyud sde bzhi'i dbang du byas pa'i lam gyi bgrod lugs kyi gnad rnams rgyas pa cig gyis zhes nan tan gyis bskul ba dang / khyad par du gangs ri'i khrod kyi sgrub brgyud kyi bstan pa 'dzin pa rnams kyi gtsug na rgyal mtshan gyi tog ltar mtho ba/ 'jig rten mgon po dpal 'phags mo gru pa'i rgyal tshab rje spyan snga rin po che'i gdung brgyud du 'khrungs shing / bstan pa dang bstan pa 'dzin la mi phyed pa'i dad pa brtan po can/ rdo rje theg pa'i bstan pa phyogs kun tu rgyas pa'i khur chen po 'dzin pa la sogs pa'i yon tan mang po'i dpal gyis mngon par mtho ba'i gsang sngags 'chang ba bsod nams bzang po'i gsung gis rdo rje theg pa'i lam gyi rim pa shin tu rgyas pa cig gyis zhes yang yang bskul ba'i don du/ lung dang mngon par rtogs pa'i yon tan phul du byung ba mnga' ba/ don gyi slad du mtshan nas smos te/ don grub rin chen gyi zhal snga nas kyi sku drin gyis rdo rje theg pa'i sgor thog mar smin par mdzad cing / rgyal ba'i ring lugs pa chen po gsung rab rnam par 'byed pa la gzhan dring mi 'jog pa'i mkhyen pa can chos kyi spyan ldan chen po ku mA ra ma ti la sogs pa'i rje btsun dam pa thugs rje chen po dang ldan pa rnams kyi zhabs kyi rdul spyi bos len pa/ shAkya'i dge slong rdo rje 'dzin pa shar tsong kha pa blo bzang grags pa'i dpal gyis/ bshes gnyen mkhas pa rnams kyis gsung gi bdud rtsi bstsal ba rnams la brten nas rdo rje theg pa'i gzhung rgya mtsho lta bu rnams kyi don la zhib tu dpyad nas/ gangs can khrod kyi gangs ri'i dbang po 'o de gung rgyal gyi lha zhol byams pa gling ming gzhan gsang sngags nang zhes par sbyar ba'i yi ge pa ni dka' bzhi 'dzin pa g.yag sde pa bsod nams dpal bzang ngo / /'dis kyang bstan pa rin po che phyogs kun tu rgyas par byed nus par gyur cig/</explicit>
+                     <colophon xml:lang="bo">oM swasti / phan bde'i 'byung gnas rgyal bstan yongs 'du'i ljon/ /rab rgyas 'gro kun thar mchog 'bras bzang la/ /spyod phyir bkra shis lhun grub chos grwa cher/ /chos sbyin 'dzad med dal 'gro'i rgyun 'di spel// mang+ga laM/ bkra shis/ //</colophon>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W492</bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>512ff<dimensions unit="cm" type="leaf">
+                           <width>560</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>500</width>
+                           <height>70</height>
+                        </dimensions>
+                     </extent>
+                     <foliation>The book has the volume marker ga</foliation>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+               <decoDesc>
+                  <decoNote>"line drawings: folio 1v Akṣobhya, Vajradhāra, Vairocana (Bcom ldan thams cad rig pa rnam snang mdzad) ; f.2r Vairocana Abhisambodhi (Rnam par snang mdzad mngon par byang chub pa), Buddha Dam tshig gsum bkod."</decoNote>
+               </decoDesc>
+            </physDesc>
+            <history>
+               <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n83174014">Tsong-kha-pa Blo-bzang-grags-pa, 1357-1419. Sngags rim chen po</term>
+               </item>
+               <item>
+                  <term key="subject_sh85132363">Tantric Buddhism</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
+</TEI>

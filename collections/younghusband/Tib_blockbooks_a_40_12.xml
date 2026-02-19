@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1192">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.40.12</title>
+            <respStmt xml:id="CEM">
+               <resp when="2026">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2026">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_40_12</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_40_12">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Expedition Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.40.12</idno>
+               </msIdentifier>
+               <head>The manual for empowerment of Eleven Faced Avalokiteśvara</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_40_12-item1">
+                     <title key="work_964" xml:lang="bo">སྨྱུང་གནས་ཀྱི་ཆོ་ག་དང་འབྲེལ་བའི་འཕགས་པ་ཞལ་བཅུ་གཅིག་པའི་དབང་ཆོག་བཞུགས་སོ༎</title>
+                     <title key="work_964">smyung gnas kyi cho ga dang 'brel ba'i 'phags pa zhal bcu gcig pa'i dbang chog bzhugs so//</title>
+                     <title type="margin" xml:lang="bo">སྨྱུང་གནས་ཆོ་ག</title>
+                     <title type="margin">smyung gnas cho ga</title>
+                     <author key="person_115">
+                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (                        <persName>blo bzang chos kyi rgyal mtshan</persName>)
+                     </author>
+                     <incipit xml:lang="bo">phags pa spyan ras gzigs zhal bcu gcig pa'i dbang len par 'dod pas/ bdag mdun bum bskyed rnams sngon du btang / gzungs brjod cing dkyil 'khor la bskor ba gsum byas/ hUM mdzad kyi nga rgyal gyis rdo rje shugs kyi 'jug pas dkyil 'khor gyi nang du zhugs/</incipit>
+                     <explicit xml:lang="bo">zhes smyung gnas kyi cho ga dang 'brel ba 'phags pa zhal bcu gcig pa'i dbang chog 'di yang / lam 'di la mos pa mang pos gsol ba btab pa la brten nas/ shAkya'i dge slong blo bzang chos kyi rgyal mtshan gyis smras pa'i yi ge pa ni dge slong zha lu pa rin chen chos legs so// mang+ga laM// //</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W9796</bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>5ff<dimensions unit="cm" type="leaf">
+                           <width>530</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>470</width>
+                           <height>70</height>
+                        </dimensions>
+                     </extent>
+                     <foliation>The book has the volume marker ga</foliation>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+            </physDesc>
+            <history>
+               <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n85102857">Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662</term>
+               </item>
+               <item>
+                  <term key="subject_n2017054713">Avalokiteśvara (Buddhist deity)</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
+</TEI>

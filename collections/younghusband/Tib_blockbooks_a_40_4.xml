@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1201">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.40.4</title>
+            <respStmt xml:id="CEM">
+               <resp when="2026">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2026">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_40_4</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_40_4">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Expedition Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.40.4</idno>
+               </msIdentifier>
+               <head>"The summary of the great commentary on Kālacakra, Vimalaprabha"</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_40_4-item1">
+                     <title key="work_957" xml:lang="bo">རྒྱུད་ཐམས་ཀྱི་རྒྱལ་པོ་བཅོམ་ལྡན་འདས་དཔལ་དུས་ཀྱི་འཁོར་ལོའི་རྩ་བའི་རྒྱུད་ལས་ཕྱུང་བ་བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱས་འགྲེལ་པ་དྲི་མ་མེད་པའ་འོད་ཀྱི་རྒྱ་ཆེར་བཤད་པ་དེ་ཁོ་ན་ཉིད་སྣང་བར་བྱེད་པའི་སྙིང་པོ་བསྡུས་པ་ཡིད་བཞིན་ནོར་བུ་ཞེས་བྱ་བ་བཞུགས་སོ། །</title>
+                     <title key="work_957">rgyud thams cad kyi rgyal po bcom ldan 'das dpal dus kyi 'khor lo'i rtsa ba'i rgyud las phyung ba bsdus pa'i rgyud kyi rgyas 'grel pa dri ma med pa'i 'od kyi rgya cher bshad pa de kho na nyid snang bar byed pa'i snying po bsdus pa yid bzhin nor bu zhes bya ba bzhugs so/ /</title>
+                     <title type="margin" xml:lang="bo">དུས་འཁོར</title>
+                     <title type="margin">dus 'khor</title>
+                     <author key="person_115">
+                        <persName xml:lang="bo">བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན</persName> (                        <persName>blo bzang chos kyi rgyal mtshan</persName>)
+                     </author>
+                     <incipit xml:lang="bo">na mo gu ru manya+dzu g+ho ShA ya/ rmad byung thugs rjes bskyod pa'i 'od zer gyis/ /bdag blo'i pad+mo legs par kha phye nas/ /byin rlabs sbrang rtsi'i bcud kyis rgyas mdzad pa'i/ /rje btsun bla mas deng 'dir dge legs stsol/ /lhun stug bai DUr+ya yi ri bo ni/ /rnam bkra gser sbyangs zhun mas 'khyud pa bzhin/ /rab brjid 'khor lo'i mgon po yab yum gyi/ /zhabs sen srid pa'i 'jigs 'phrog de la 'dud/</incipit>
+                     <explicit xml:lang="bo">ces bcom ldan 'das dpal dus kyi 'khor lo'i mchog gi dang po'i sangs rgyas kyi rtsa ba'i rgyud las phyung ba bsdus pa'i rgyud kyi rgyas 'grel dri ma med pa'i 'od kyi rgya cher bshad pa de kho na nyid snang ba'i snying po bsdus pa yid bzhin gyi nor bu zhes bya ba 'di nyid/ sde snod gsum dang rgyud sde bzhi'i rnga bo che rgyun mar sgrog cing / /bslab pa gsum dang rim pa gnyis kyi mngon par rtogs pas rgyud phyug pa'i mdo sngags rab 'byams pa mang po la zin thun du byas pa zin bris su mdzad pa rnams ha cang dag par mi 'dug pas/ dngos kyis dag por bgyis pa zhig dgos zhes yang yang bskul ba dang / bstan pa'i rtsa lag chos kyi gdan khri 'dzin pa'i dam pa du mas kyang bskul ba la brten nas/ //chos smra ba blo bzang chos kyi rgyal mtshan gyis chos grwa chen po bkra shis lhun po'i gzims khang du sbyar ba'i yi ge pa ni rab 'byams bdar ma bzang po'o/ /'dis kyang rgyal ba'i bstan pa mi nub pa'i rgyal mtshan du gyur cig/ e ka pr-its+tsha/ //sarba mang+ga laM//</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>149ff<dimensions unit="cm" type="leaf">
+                           <width>530</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>470</width>
+                           <height>70</height>
+                        </dimensions>
+                     </extent>
+                     <foliation>The book has the volume marker ga</foliation>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+               <decoDesc>
+                  <decoNote>f.1v has 2 line drawings: 'Gos lo tsā ba and Sa skya Paṇ chen</decoNote>
+               </decoDesc>
+            </physDesc>
+            <history>
+               <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n85102857">Blo-bzang-chos-kyi-rgyal-mtshan, Panchen Lama IV, 1570-1662</term>
+               </item>
+               <item>
+                  <term key="subject_sh90003285">Kālacakra (Tantric rite)</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
+</TEI>

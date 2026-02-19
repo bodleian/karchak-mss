@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1128">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.26.10</title>
+            <respStmt xml:id="CEM">
+               <resp when="2026">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2026">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_26_10</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_26_10">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Expedition Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.26.10</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_26_10-item1">
+                     <title key="work_958" xml:lang="bo">རྒྱུད་སྡེ་གཉིས་པའི་གཙོ་བོར་གྱུར་པའི་སྙིང་རྗེ་ཆེན་པོ་སྙིང་པོ་ཅན་གྱི་སྐྱིལ་འཁོར་གྱི་ཆོ་ག་ངག་འདོན་དུ་བསྒྲིགས་པ་</title>
+                     <title key="work_958">rgyud sde gnyis pa'i gtso bor gyur pa'i snying rje chen po snying po can gyi skyil 'khor gyi cho ga ngag 'don du bsgrigs pa</title>
+                     <title type="margin">rnam snang</title>
+                     <incipit xml:lang="bo">na mo gu ru many+ju g+ho ShA ya/ bla ma mchog dang dbyer med bcom ldan 'das/ /rnam snang thub pa'i dbang po zhabs btud nas/ /spyod rgyud gtso bo rnam snang mngon byang gi/ /sgrub thabs rgyud dang mkhas pa'i gzhung bzhin brjod/ /...</incipit>
+                     <explicit xml:lang="bo">rdo rje 'chang chen po'i lam gyi rim pa dang bstun cing / sngags rnams kyang yid brtan rung zhing shin tu dag par byas te/ chos smra ba blo bzang chos kyi rgyal mtshan gyis chos grwa chen po bkra shis lhun po 'i gtsug lag khang du sbyar ba'i yi ge pa ni dka' bcu tshogs gsog pa legs pa chos 'byor ro/ /'dis kyang bstan pa rin po che phyogs kun tu rgyas par gyur cig / / tiSh+Tha</explicit>
+                     <listBibl>
+                        <bibl type="tbrc">TBRC: W9790</bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc>
+                        <extent>18 ff.</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history/>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Bodleian: Special Collections Reading Room.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass/>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2026-02-10">Record created.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>            <!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

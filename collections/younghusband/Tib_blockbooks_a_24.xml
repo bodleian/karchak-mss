@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1117">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.24</title>
+            <respStmt xml:id="CEM">
+               <resp when="2026">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2026">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_24</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_24">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Expedition Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.24</idno>
+               </msIdentifier>
+               <head>The First Volume of Srong btsan sGam po's Bka' 'bum</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_24-item1">
+                     <title key="work_956" xml:lang="bo">ཆོས་སྐྱོང་བའི་རྒྱལ་པོ་བསྲོང་བཙན་སྒམ་པོའི་བཀའ་འབུམ་ལས་སྟོད་ཀྱི་ཆ་ཐོག་མར་བླ་མ་རྒྱུད་པའི་གསོལ་འདེབས་ལོ་རྒྱུས་སོགས་བཞུགས་སྩོལ་མངྒ་ལཾ།</title>
+                     <title key="work_956">chos skyong ba'i rgyal po bsrong btsan sgam po'i bka' 'bum las stod kyi cha thog mar bla ma rgyud pa'i gsol 'debs lo rgyus sogs bzhugs stsol mang+ga laM/</title>
+                     <author key="person_2017054715">
+                        <persName xml:lang="bo">སྲོང་བཙན་སྒམ་པོ</persName> (                        <persName>srong btsan sgam po ; grub thob dngos grub mnga' bdag nyang ral ; rje btsun shakya bzang po</persName>)
+                     </author>
+                     <incipit xml:lang="bo">oM ma Ni pad me hUM/ rang bzhin gdod nas dag pa'i chos nyid la/ /spros pa'i mtshan ma kun gyis rab dben zhing / /mnyam nyid mi g.yo rgyal ba kun gyi thugs/ /chos sku 'od dpag med pa phyag 'tshal lo/ /skye med rnam par dag pa'i dbyings nyid las/ /ma 'gags ye shes chen po'i rtsal gyis ni/ /rgyal ba'i dkyil 'khor rang gsal kun la khyab/ /longs sku spyan ras gzigs la phyag 'tshal lo/</incipit>
+                     <explicit xml:lang="bo">byung ba dang / bang so smug po rin/ lha khang lnga yod pa brtsigs te/ dar zab kyis brgyan nas/ bang so la mnga' gsol chen po byas par 'thong ngo / /sprul pa'i rgyal pos bstan pa rgyas par mdzad nas/ sku yal tshul bstan pa'i le'u ste nyi shu rtsa gcig pa'o//</explicit>
+                     <colophon xml:lang="bo">bod kha ba can gyi rgyal khams 'dir/ thugs rje chen po'i sprul pa bsrong btsan rgam pos/ /dul bya ji ltar mdzad pa'i lo rgyus/ thon mi sam b+ho tra bdag gis rgyal po la lung zhus nas/ phyi rabs yid ches par bya ba'i don du yi ger bris te rin chen gter du sbas pa'o/ /dus lnga brgya snyigs ma'i dus na bstan pa'i snyigs ma tha ma la/ thugs rje chen po'i bstan pa dar ba'i dus su/ /las dang skal bar ldan pa cig dang phrad nas/ bstan pa dar zhing rgyas par shog /'gro ba rnams la phan zhing spel bar shog /ces pa'i smon lam btab ste gter du sbas so/ /gter rgya/ sbas rgya/ btad rgya/ oM ba gi S+va ri muM/ oM ma Ni pad me hUM/ oM badz+ra pA Ni hUM/ /</colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>220 ff.<dimensions unit="cm" type="leaf">
+                           <width>500</width>
+                           <height>120</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>400</width>
+                           <height>70</height>
+                        </dimensions>
+                     </extent>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+               <decoDesc>
+                  <decoNote>"folio 1 recto: decorated title box ; folio 1 verso: line drawings of the Buddha Śakyamuni, Amitābha and Maitreya on the left of 1v, and of Sras Nor bu 'dzin, 'Jig rten dBang phyug, and Yi ge Drug ma on the right of 1v ; on folio 2 recto, left, Bhṛkuti, bSrong btsan rGam po, and Wencheng, and 2 recto, right, Manḍarava, Padmasambhava, and Ye shes mTsho rgyal. Folio 220 recto, left side, line drawing of Slob dpon grub thob dngos grub, and to right Mnga' bdag Nyang ral chen po."</decoNote>
+               </decoDesc>
+            </physDesc>
+            <history>
+               <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n82145457">Srong-btsan-sgam-po, King of Tibet, 617-647</term>
+               </item>
+               <item>
+                  <term key="subject_n82237548">Ma ṇi bkaʼ ʼbum</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
+</TEI>

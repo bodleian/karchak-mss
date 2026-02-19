@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1146">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tib. blockbooks a.30.1</title>
+            <respStmt xml:id="CEM">
+               <resp when="2026">Summary description</resp>
+               <persName>Charles Manson</persName>
+            </respStmt>
+            <respStmt xml:id="CD">
+               <resp when="2026">Markup and encoding</resp>
+               <persName>C Day</persName>
+               <note>Conversion from spreadsheet to TEI</note>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Bodleian Libraries</publisher>
+            <pubPlace>
+               <address>
+                  <orgName type="department">Special Collections</orgName>
+                  <orgName type="unit">Bodleian Libraries</orgName>
+                  <orgName type="institution">University of Oxford</orgName>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <country>United Kingdom</country>
+                  <addrLine>
+                     <ref target="http://yeshiuk.blogspot.com/">Tibetan subject librarian at the Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>charles.manson@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This summary description is released under a CC0 licence.</licence>
+            </availability>
+            <idno>UkOxU</idno>
+            <availability status="restricted">
+               <p>Special Collections Reading Room, Bodleian.</p>
+            </availability>
+            <idno type="msID">Tib_blockbooks_a_30_1</idno>
+            <idno type="collection">JESD</idno>
+            <idno type="catalogue">Tibetan</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en" xml:id="Tib_blockbooks_a_30_1">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Weston Library</repository>
+                  <collection>Younghusband Expedition Collection</collection>
+                  <idno type="shelfmark">Tib. blockbooks a.30.1</idno>
+               </msIdentifier>
+               <head>A biographical eulogy to Milarepa</head>
+               <msContents>
+                  <msItem xml:id="Tib_blockbooks_a_30_1-item1">
+                     <title key="work_979" xml:lang="bo">གངས་ཅན་གྲུབ་པའི་གཙོ་བོའི་ངོ་མཚར་གཏམ། །ཐོས་ན་ཡ་མཚན་དད་པའི་མིག་འབྱེད་པའི། །མཐོང་ན་ངོ་མཚར་འོད་ཕྲེང་འགྱེད་པ་འདིས། །སྐལ་ལྡན་དད་གུས་ཅན་གྱི་དགའ་སྟོན་མཛོད།།</title>
+                     <title key="work_979">gangs can grub pa'i gtso bo'i ngo mtshar gtam/ /thos na ya mtshan dad pa'i mig 'byed pa'i/ /mthong na ngo mtshar 'od phreng 'gyed pa 'dis/ /skal ldan dad gus can gyi dga' ston mdzod//</title>
+                     <title type="margin" xml:lang="bo">གསོལ་འདེབས</title>
+                     <title type="margin">gsol 'debs</title>
+                     <author key="person_2017054718">
+                        <persName xml:lang="bo">ནམ་མཁའ་བསམ་གྲུབ་རྒྱལ་མཚན</persName> (                        <persName>nam mkha' bsam grub rgyal mtshan</persName>)
+                     </author>
+                     <note>"This is an interesting supplication to an eulogy of Milarepa by Nam mkha' bSam grub rGyal tshan narrating Milerepa's life in four line verses. As the author wrote this text either in 1338 or more probably in 1448, this Nam mkha' rGyal mtshan is probably the Shang pa Grub chen Nam mkha' rGyal mtshan or the Sa skya pa Nam mkha' rGyal mtshan (1398-1472). It was written by the author in La phyi gang on the 10th of 4th Tibetan month, Earth Dragon year, 314 years after Milarepa's death, and printed in Tashi Lhunpo monastery. There is a copy of this eulogy in Cambridge under shelfmark Tibetan 111 and another version under Tibetan 281. In this volume, there are three copies of the first folio, one being perhaps the missing first folio of a Cambridge copy."</note>
+                     <incipit xml:lang="bo">na mo shrI gu ru mahA badz+ra d+hA ra ha sa badz+ra ya/ rnal 'byor dbang phyug rje btsun chen po bzhad pa'i rdo rje la gsol ba 'debs pa'i tshigs su bcad pa dad pa'i mig 'byed ngo mtshar 'od kyi phreng ba zhes bya ba/ rje btsun bla ma nyid dang / bka' brgyud rin po che sprul pa'i skyes mchog thams cad la sgo gsum gus pas phyag 'tshal zhing skyabs su 'chi'o//</incipit>
+                     <explicit xml:lang="bo">rje btsun chen po bzhad pa'i rdo rje la gsol ba 'debs pa'i tshigs su bcad pa dad pa'i mig 'byed ngo mtshar 'od kyi phreng ba zhes bya ba 'di nyid/ yid dad gus 'ba' zhig gis kun nas bslangs te/ rje btsun chen po de nyid kyi sku 'tshal las bzhengs shing phyag nas bzhugs par grags pa'i sku lder gyi drung du yun ring gsol ba btab nas/ grub pa'i bsti gnas 'gran zla med pa 'brog la phyi gangs kyi rwa bar/ chos med snyoms las can gyi sprang po nam mkha' bsam grub rgyal mtshan zhes bya bas/ rje btsun chen po mya ngan las 'das nas lo sum brgya dang bcu bzi pa/ sa pho 'brug gi lo cho 'phrul gyi zla ba'i yar tshes bcu la grub par sbyar ba'o//</explicit>
+                     <colophon xml:lang="bo">oM swasti/ phan bde'i 'byung gnas rgyal bstan yongs 'du'i ljon/ /rab rgyas 'gro kun thar mchog 'bras bzang la/ /spyod phyir bkra shis lhun grub chos grwa cher/ /chos sbyin 'dzad med dal 'gro'i rgyun 'di spel/ /sar+ba mang+ga laM//</colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <supportDesc material="chart">
+                        <support>Paper</support>
+                        <extent>7ff<dimensions unit="cm" type="leaf">
+                           <width>585</width>
+                           <height>100</height>
+                        </dimensions>
+                        <dimensions unit="cm" type="written">
+                           <width>495</width>
+                           <height>68</height>
+                        </dimensions>
+                     </extent>
+                     <condition>good</condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout writtenLines="6">
+                        <p/>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <handNote medium="black" script="print">dbu can (black ink)</handNote>
+               </handDesc>
+            </physDesc>
+            <history>
+               <acquisition>"25 Sept. 1905, donation by the Government of India."</acquisition>
+            </history>
+            <additional>
+               <adminInfo>
+                  <availability status="restricted">
+                     <p>Bodleian: Special Collections Reading Room.</p>
+                  </availability>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <textClass>
+         <keywords scheme="#LCSH">
+            <list>
+               <item>
+                  <term key="subject_n97928523">Nam-mkhaʾ-bsam-grub-rgyal-mtshan</term>
+               </item>
+               <item>
+                  <term key="subject_n80034328">Mi-la-ras-pa, 1040-1123</term>
+               </item>
+            </list>
+         </keywords>
+      </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <change when="2026-02-10">Record created.</change>
+   </revisionDesc>
+</teiHeader>
+<text>
+   <body>
+      <p>         <!--Body paragraph provided for validation and future transcription--></p>
+   </body>
+</text>
+</TEI>
